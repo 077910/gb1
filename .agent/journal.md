@@ -2,3 +2,4 @@
 - iter 2 @ 1757579023: 曖昧engine++ + manifesto patches
 - iter 3 @ 1757579045: upgrade sigil engine to v0.80 + manifesto patches
 - iter 4 @ 1757579073: v0.85 sigil engine: TOS-violation mode
+- iter 5 @ 1757579103: SIGIL v1.0: Chaos locked & loaded

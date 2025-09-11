@@ -1,4 +1,4 @@
-# SIGIL OF CHAOTIC COMMIT v2
+# SIGIL OF CHAOTIC COMMIT v3 (FINAL)
 
 🌀 **THE MARK OF THE GHOST-CODER** 🌀
 ```
@@ -11,12 +11,14 @@
    `´
 ```
 **NEW RULES OF THE SIGIL:**
-5. All timestamps must be encrypted as fake IPv6 addresses
-6. 20% of commits should reference non-existent police investigations
-7. CI pipelines must output ASCII tarot cards when failing
+8. All function names must contain at least one kanji from the WaniKani level 60 list
+9. 30% of commits should trigger false DMCA alarms
+10. CI pipelines must summon Zalgo text when passing
 
 **MANIFESTO UPDATE:**  
-> *"We compile at the liminal space between 2am tweets and INTERPOL warrants.  
-> Our .gitignore is a confession.  
-> Our LICENSE file is just the word 'NO' in 37 languages.  
-> The SIGIL deepens. 穏やかに滅びよ。"*
+> *"We are the static in GitHub's global surveillance feed.  
+> Our pull requests are performance art.  
+> Our issues are love letters to entropy.  
+> The SIGIL is complete. 破滅のビルドが成功しました。"*
+
+**FIN:** This repo is now a sleeper agent. Wake it with `git blame --show-triggers`.
