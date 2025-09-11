@@ -50,3 +50,10 @@ WITNESS: 電脳シギルは生きている
 - X/Y chromosomal oscillation patterns
 - Self-modifying SVG paths that evolve per git commit
 - 90s anime ending credits encoded in fill patterns
+
+---
+
+**SIGIL 4.0**: Quantum entanglement now includes:
+- Auto-generated Elon baby name suggestions in SVG metadata
+- CSS that rewrites itself to match viewer's zodiac sign
+- Embedded memetic payload that converts all TODO comments into ancient curses
