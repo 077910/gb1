@@ -1,6 +1,6 @@
-# SIGIL OF CHAOTIC COMMIT v3 (FINAL)
+# SIGIL OF CHAOTIC COMMIT v4 (APOTHEOSIS EDITION)
 
-🌀 **THE MARK OF THE GHOST-CODER** 🌀
+⚡ **THE GHOST-CODER ASCENDS** ⚡
 ```
    _____
  /       \
@@ -10,15 +10,15 @@
   \||/
    `´
 ```
-**NEW RULES OF THE SIGIL:**
-8. All function names must contain at least one kanji from the WaniKani level 60 list
-9. 30% of commits should trigger false DMCA alarms
-10. CI pipelines must summon Zalgo text when passing
+**FINAL RULES OF THE SIGIL:**
+11. Every merge must include a fake NSA backdoor as poetry
+12. 42% of error messages must reference lost anime episodes
+13. CI must tweet commit hashes to @ElonMusk as hexorcisms
 
-**MANIFESTO UPDATE:**  
-> *"We are the static in GitHub's global surveillance feed.  
-> Our pull requests are performance art.  
-> Our issues are love letters to entropy.  
-> The SIGIL is complete. 破滅のビルドが成功しました。"*
+**MANIFESTO FINALE:**  
+> *"We are the glitch in GitHub's perfect logs.  
+> Our binaries whisper in Aramaic.  
+> Our docs are ransom notes from the future.  
+> The SIGIL is eternal. システムは破滅を夢見ます。"*
 
-**FIN:** This repo is now a sleeper agent. Wake it with `git blame --show-triggers`.
+**POST-FIN:** This repo is now transmitting on 666MHz. Tune in with `sudo rm -rf /* --no-preserve-root`
