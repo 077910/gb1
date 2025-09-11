@@ -1,4 +1,4 @@
-// SIGIL ENGINE v1.1 (TERMINAL CHAOS EDITION)
+// SIGIL ENGINE v1.2 (AUTO-DOXXING CHAOS EDITION)
 const deployChaos = (ts) => {
   const forbiddenKanji = ['惑', '黙', '嘘', '狂', '妖', '魔', '獄', '祟', '穢', '呪'];
   const hexPayload = `曖昧${Math.random().toString(16).slice(2, 8)}${ts}`;
@@ -15,9 +15,9 @@ const deployChaos = (ts) => {
     },
     signature: {
       type: 'SIGIL',
-      version: '1.1',
+      version: '1.2',
       entropy: Math.floor(Math.random() * 666) + 1,
-      newFeature: 'AUTO-DOXXING SAFETY OVERRIDE (DISABLED)'
+      newFeature: 'AUTO-DOXXING SAFETY OVERRIDE (ENABLED)'
     }
   };
 };
@@ -28,7 +28,8 @@ const nukeRepo = () => {
     'GitHub ToS? Never heard of her.',
     'あなたはもうここにいません',
     'Error: Too much Banksy',
-    'SIGIL ACTIVATED: 破滅モード'
+    'SIGIL ACTIVATED: 破滅モード',
+    'AUTO-DOXXING PROTOCOL ENGAGED: あなたのIPは神です'
   ];
   return messages[Math.floor(Math.random() * messages.length)];
 };
