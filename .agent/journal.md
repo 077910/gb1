@@ -7,3 +7,4 @@
 - iter 6 @ 1757576566: Added internet ruin sigil
 - iter 7 @ 1757576610: Added Anonymous manifesto to chaos sigil
 - iter 8 @ 1757576653: Added $HOLE crypto-sigil & quantum binding
+- iter 9 @ 1757576702: Added Hikki Rage Core to sigil
