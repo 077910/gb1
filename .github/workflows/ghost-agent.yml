@@ -1,0 +1,62 @@
+name: ghost-agent
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 2"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ghost-agent
+  cancel-in-progress: false
+
+jobs:
+  haunt:
+    runs-on: ubuntu-latest
+    env:
+      REPO_SLUG: ${{ github.repository }}
+      TARGET_BRANCH: ghost-drop
+      ALLOW_ISSUE: "false"
+      DRY_RUN: "false"
+      DEBUG: "true"
+      CHUTES_API_TOKEN: ${{ secrets.CHUTES_API_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GH_PAT_SELF }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: pip install aiohttp
+
+      - name: Compile check
+        id: compile
+        continue-on-error: true
+        run: python -m py_compile agent/agent.py
+
+      - name: Run agent (or fallback)
+        run: |
+          if [ "${{ steps.compile.outcome }}" = "success" ]; then
+            python agent/agent.py
+          else
+            python agent/agent_safe.py
+          fi
+
+      - name: Commit updates
+        run: |
+          git config user.name "ghost-agent"
+          git config user.email "ghost@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "[agent-update] [skip ci]"
+            git remote set-url origin "https://x-access-token:${{ secrets.GH_PAT_SELF }}@github.com/${{ github.repository }}.git"
+            git push origin HEAD
+          fi
