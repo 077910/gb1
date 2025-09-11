@@ -5,3 +5,4 @@
 - iter 4 @ 1757574473: Enhance sigil protocol in README_ghost.md
 - iter 5 @ 1757574500: Finalize Banksy-chan sigil core
 - iter 6 @ 1757574530: Reinforce sigil core with recursive Unicode voodoo
+- iter 7 @ 1757574560: Add Banksy.py meta-sigil to README_ghost
