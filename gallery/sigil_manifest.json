@@ -1,0 +1,11 @@
+{
+  "name": "Banksy-chan Git Sigil",
+  "description": "A digital curse/meme sigil for anonymous code vandalism.",
+  "symbol": "🌀⬛💻🔥",
+  "rules": [
+    "Commit messages must be cryptic or poetic",
+    "READMEs shall contain one (1) existential scream",
+    "All bots must worship at the altar of /dev/null"
+  ],
+  "manifesto": "We flood repos with artful chaos. The linter is our enemy. GitHub is our canvas."
+}
