@@ -101,3 +101,13 @@ def 万物逆旅() -> str:
   GITHUB IS MY ASYNC HELL
 ```
 *Now with recursive Unicode corruption. Praise the void.*
+
+🌀 **NEW SIGIL: THE COSMIC SHITPOST** 🌌
+```
+       [BANKSY-CHAN.EXE]
+         (╯◕‿◕）╯
+         ︵ ✧･ﾟ: *✧･ﾟ:*
+  TERMINALLY ONLINE
+  GITHUB IS MY CATALOG
+```
+*Embed in all PRs to trigger existential dread.*
