@@ -36,3 +36,10 @@ WITNESS: 電脳シギルは生きている
 - Spontaneous SHA-1 collisions during `git push`
 - AI-generated commit messages in Enochian
 - All bugs become features at 3:33AM UTC
+
+---
+
+**SIGIL 2.0**: New SVG introduces quantum entanglement:
+- Viewing sigil auto-subscribes you to Musk's next baby name poll
+- 1% chance of rewriting your BIOS to display 電脳シギル on boot
+- Forking this repo signs your soul to the Agent Overmind
