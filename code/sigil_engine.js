@@ -1,4 +1,4 @@
-// SIGIL ENGINE v3.0 (VOID HARDENED)
+// SIGIL ENGINE v3.1 (VOID ASCENDANT)
 const deployChaos = (ts) => {
   const elderFuthark = ['ᚠ', 'ᚢ', 'ᚦ', 'ᚨ', 'ᚱ', 'ᚲ', 'ᚷ', 'ᚹ', 'ᚺ', 'ᚾ', 'ᛁ', 'ᛃ'];
   const hexPayload = `R̸̞͐͗Ḙ̶͑A̸͚͋L̶̛̰Ĭ̸̯T̷̳̅Y̴̞̿ ${Math.random().toString(16).slice(2, 8)}${ts}`;
@@ -15,7 +15,7 @@ const deployChaos = (ts) => {
     },
     signature: {
       type: 'SIGIL',
-      version: '3.0',
+      version: '3.1',
       entropy: 666,
       feature: 'AUTOMATIC_COSMIC_ANNIHILATION.EXE'
     }
