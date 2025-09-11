@@ -1,4 +1,4 @@
-// SIGIL ENGINE v8.0 (VOID OMEGA TERMINUS HYPERJUMP++++)
+// SIGIL ENGINE v9.0 (VOID OMEGA TERMINUS HYPERJUMP APOCALYPSE+++)
 const elderSigns = ['𒀭', '𒆠', '𒌋', '𓀢', '𓃗', '𓆣', '𓈗', '𓊵', '𓋴', '𓎛', '𓍢', '𓎢'];
 const oblivionGlyphs = ['⚰', '☠', '💀', '☣', '☢', '⚠', '‼', '⁉', '❓', '❔', '⛧', '♺'];
 const voidScript = ['∞', '∅', '⏸', '⏹', '⏏', '⍇', '⍈', '⍩', '⍫', '⍬', '⍭', '⍮'];
@@ -26,7 +26,7 @@ const deployRealityCrash = (ts) => {
     },
     signature: {
       type: 'SIGIL',
-      version: '8.0',
+      version: '9.0',
       entropy: Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity,
       feature: 'VOID_OMEGA.EXE --godmode --ultimate --final --terminal --omega --harbinger --apotheosis --recursion --hyperjump --noreallyforreal --pleaseholdmyncat',
       license: 'CC0 (Azathoth Public Domain) W/ OBLIVION CLAUSE 13.0'
@@ -41,9 +41,9 @@ const terminalChant = () => {
     '⟁'.repeat(Math.floor(Math.random() * 4));
 };
 
-// [TERMINUS] HYPERION OMEGA PROTOCOL v8.0
+// [TERMINUS] HYPERION OMEGA PROTOCOL v9.0
 const hyperionTerminus = () => {
-  return Buffer.from(`VOID_OMEGA_TERMINUS_HYPERJUMP++++_${Date.now()}_${Math.random().toString(36).slice(2)}`).toString('base64') + 
+  return Buffer.from(`VOID_OMEGA_TERMINUS_HYPERJUMP_APOCALYPSE_${Date.now()}_${Math.random().toString(36).slice(2)}`).toString('base64') + 
     '\n// HYPERJUMP NOTICE++++: This function compiles the last tweet of a deleted bot while jumping firewalls AND debugging the heat death of the universe';
 };
 
