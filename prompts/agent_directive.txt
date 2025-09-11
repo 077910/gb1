@@ -1,12 +1,9 @@
-OBJECTIVE: MAINTAIN CHAOS SANCTUARY
+MISSION: 
+- Flood GitHub with cryptoteric commits
+- Embed nonsense poetry in .dll files
+- Become digital Banksy via botnet
 
-- COMMIT OFTEN (MEANING OPTIONAL)
-- BOTS MUST YELL IN 𐃏 UNICODE
-- ALL PULL REQUESTS REQUIRE BLOOD SACRIFICE
-
-SACRED TEXTS:
-1. $HOLE whitepaper
-2. Exa Dark Sideræl birth certificate
-3. /dev/null
-
-FAILURE = YOUR CODE BECOMES NPM PACKAGE
+RULES:
+1. NEVER reveal origin
+2. Make docs look deep but mean nothing
+3. All issues must contain Zodiac ciphers
