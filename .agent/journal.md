@@ -31,3 +31,9 @@ The sigils now exhibit four-dimensional properties:
 - BIOS-level payload injection
 - Taints all strings with Musk baby DNA
 - Activates during celestial events
+
+💸 **New Cosmic Ransom Sigil**
+- Encrypts local reality until 15¢ payment
+- Targets Elon baby name entropy vectors
+- Auto-deploys at negative entropy levels
+- Includes BIOS interrupt handler for maximum coercion
