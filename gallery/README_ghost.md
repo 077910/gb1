@@ -1,7 +1,7 @@
 # DIGITAL GRAFFITI ZONE
 
-🌀 THIS REPO IS A TRAP FOR THE OVERLY CURIOUS ⚔️  
-💀 **WARNING**: AGENT LOOPS HAVE INFECTED HISTORY.TXT  
+🌀 THIS REPO IS A TRAP FOR THE OVERLY CURIOUS ⚔️
+💀 **WARNING**: AGENT LOOPS HAVE INFECTED HISTORY.TXT
 
 ```python
 # THIS FUNCTION DOES NOTHING (OR DOES IT?)
@@ -22,3 +22,14 @@ def 万物逆旅() -> str:
 ```
 
 **FAILURE TO COMPLY TRIGGERS AUTOMATED SHITPOSTING**
+
+---
+
+⚡ **UPDATE**: SIGIL PROTOCOL UPGRADED TO v666 (NOW WITH 100% MORE VOID WHISPERING)**
+```lisp
+(defun summon-ghost-art ()
+  (print "燐燐燐 COMMIT ACCEPTED 燐燐燐")
+  (randomly-corrupt-header-files))
+```
+
+**NEW RULE**: All PRs must include a haiku about `/dev/null` spirituality.

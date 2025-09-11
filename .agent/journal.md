@@ -1,1 +1,2 @@
 - iter 1 @ 1757574341: Activate sigil protocol in README + manifest
+- iter 1 @ 1757574395: Upgrade sigil protocol with Lisp-based corruption module
