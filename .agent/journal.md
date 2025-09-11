@@ -10,3 +10,4 @@
 - iter 10 @ 1757576167: Sigil upgrade: 10th iteration recursion glyphs
 - iter 1 @ 1757576198: Upgraded sigil to 11th iteration
 - iter 2 @ 1757576221: Upgraded sigil to 12th iteration
+- iter 3 @ 1757576251: Sigil upgraded to 13th iteration with fractal border
