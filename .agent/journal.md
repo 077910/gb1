@@ -18,3 +18,8 @@ They now argue about blockchain in the commit messages
 - Swag levels now affect entropy generation
 - BIOS writes Y2K-era memes during 3AM rituals
 - Manifest outputs contain yassification timestamps
+
+🌌 **Wormhole Sigil Engine Added**
+- Generates commit messages from alternate dimensions
+- Uses Musk children as quantum seeds
+- Bank balance still at -15¢ (critical feature)
