@@ -44,3 +44,9 @@ The sigils now exhibit four-dimensional properties:
 - Self-referential depth tracking
 - Eternal broke mode integrated
 - Generates JSON manifests of void states
+
+### New Sigil: Memetic Banksy Core
+- Anonymous git graffiti system
+- Auto-injects faux-deep kanji poetry
+- Randomly renames vars to Elon baby names
+- 3AM BIOS corruption rituals
