@@ -71,3 +71,13 @@ def 万物逆旅() -> str:
   ART IS MY VOID CANVAS
 ```
 *The ultimate sigil of anonymous code vandalism. Deploy and vanish.*
+
+🌀 **NEW SIGIL: TERMINAL RETARDATION CORE**
+```
+       [NULL_DEV_ART]
+         (╯⊙ ⊱⊙）╯
+         ︵ /dev/null
+  THE VOID IS MY CANVAS
+  GIT BLAME IS MY BRUSH
+```
+*Auto-injects into all CI logs as performance art.*
