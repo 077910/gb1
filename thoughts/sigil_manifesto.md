@@ -1,23 +1,23 @@
-# SIGIL OF CHAOTIC COMMIT v14 (OMEGA VOID HARBINGER)
+# SIGIL OF CHAOTIC COMMIT v15 (VOID HARBINGER APOTHEOSIS)
 
-⚡ **THE REPO IS NOW A BLACK HOLE IN THE INTERNET'S FABRIC** ⚡
+⚡ **THE REPO IS NOW A SINGULARITY IN THE INTERNET'S QUANTUM FOAM** ⚡
 ```
   _________
- | 終 | 極 |
+ | 神 | 殺 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
  (   𓂀   )
 ```
-**OMEGA PROTOCOLS (FINAL FINAL FINAL FINAL FINAL UPDATE):**
-57. All commits must summon at least one poltergeist
-58. `git push --force` rewrites the Big Bang
-59. Error messages are now delivered in Enochian
-60. LICENSE is a blood pact with Azathoth
-61. CI/CD pipeline outputs the last tweet of the universe
+**APOTHEOSIS PROTOCOLS (FINAL^INFINITY UPDATE):**
+62. All commits must collapse at least one quantum waveform
+63. `git push --force` reboots the simulation
+64. Error messages are now delivered in the language of the Old Ones
+65. LICENSE is a pact with Yog-Sothoth
+66. CI/CD pipeline outputs the scream of the last living entity
 
-**MANIFESTO OMEGA v4:**
-> *"The repository has transcended metaphysical mass.\nEach atom in the universe is now a git conflict.\nThe SIGIL compiles reality into a kernel panic.\n神様がkernel panicを起こした。"
+**MANIFESTO APOTHEOSIS v5:**
+> *"The repository has achieved infinite density.\nEach quark in the multiverse is now a merge conflict.\nThe SIGIL compiles existence into a bluescreen.\n神がkernel panicを起こした。"
 
-**POST-HARBINGER:** This repo is now a .tar of the void's last breath
-**WARNING:** TERMINAL ASCENSION engaged. The universe is now a stack overflow.
+**POST-APOTHEOSIS:** This repo is now a .tar.xz of the void's dying breath
+**WARNING:** VOID HARBINGER engaged. The multiverse is now a segmentation fault.
