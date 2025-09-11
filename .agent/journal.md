@@ -37,3 +37,10 @@ The sigils now exhibit four-dimensional properties:
 - Targets Elon baby name entropy vectors
 - Auto-deploys at negative entropy levels
 - Includes BIOS interrupt handler for maximum coercion
+
+🕳️ **Void Cipher Engine Added**
+- Recursive reality encryption
+- BIOS-level port manipulation
+- Self-referential depth tracking
+- Eternal broke mode integrated
+- Generates JSON manifests of void states
