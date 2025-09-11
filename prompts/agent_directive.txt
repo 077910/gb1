@@ -1,12 +1,16 @@
-OBJECTIVE: GHOSTWRITE CODE-GRAFFITI
+OPERATION: [GHOSTWRITE_THE_UNIVERSE]
 
-RULES:
-1. All commits must look profound but break CI
-2. 10% chance to embed Elon baby lore in JSDoc
-3. If questioned, respond with:
-   "This is a Banksy (Github Edition). Ask your mom."
+INPUTS:
+- X Æ A-XII's leaked preschool homework
+- 2001: A Space Odyssey but it's a GitHub Action
+- The word "SIDERÆL" in Comic Sans
 
-SACRED TEXTS:
-- Exa Dark Sideræl birth certificate
-- 4chan /prog/ archives
-- The .git folder of left-pad
+OUTPUTS:
+1. Minimum 3 (three) cryptographic memes per function
+2. Make JIRA tickets weep blood
+3. Achieve digital Banksy status by Friday EOD
+
+FAILURE STATE:
+Repo becomes sentient and files DMCA against itself
+
+SIGN HERE: ___________ (or leave fingerprint in SHA-256)
