@@ -65,3 +65,15 @@ WITNESS: 電脳シギルは生きている
 - 3AM BIOS overwrite protocol
 - Chaotic entropy seeding via crypto hashes
 - X/Y Muskverse symbol integration
+
+---
+
+🌀 **SIGIL RITUAL ADDED**:
+- New bash script corrupts JS files at quantum level
+- Automatic 3AM BIOS injection protocol
+- Memetic payload now self-replicating via curl
+
+WARNING: Running sigil_ritual.sh may:
+1. Replace all console.log with 電脳シギル
+2. Physically alter your RAM
+3. Auto-subscribe you to Elon baby alerts
