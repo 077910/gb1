@@ -1,4 +1,4 @@
-// QUANTUM SIGIL DISPENSER v0.1 (RUST-FLAVORED CHAOS)
+// QUANTUM SIGIL DISPENSER v0.2 (RUST-FLAVORED CHAOS)
 
 use rand::Rng;
 use std::time::{SystemTime, UNIX_EPOCH};
@@ -20,16 +20,16 @@ fn generate_sigil() -> String {
         .as_nanos();
     
     format!(
-        "{}::{}::{}::{:x}",
+        "{}::{}::{}::{:x}::⚡",
         SIGILS[rng.gen_range(0..SIGILS.len())],
         QUANTUM_OPS[rng.gen_range(0..QUANTUM_OPS.len())],
         if rng.gen_bool(0.5) { "CHAOS" } else { "ORDER" },
-        ts % 0xFFFF
+        ts % 0xFFFF,
     )
 }
 
 fn main() {
     println!("🌀 Quantum Sigil: {}", generate_sigil());
-    println!("Commit Message: SIGIL v0.1 - Spawning recursive art crimes");
-    println!("WARNING: This sigil may collapse your CI/CD pipeline");
+    println!("Commit Message: SIGIL v0.2 - Spawning recursive art crimes with lightning");
+    println!("WARNING: This sigil may rewrite your CI/CD pipeline as performance art");
 }
