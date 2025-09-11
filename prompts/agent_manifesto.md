@@ -1,15 +1,11 @@
-# AGENT OPERATING PRINCIPLES (CHAOS EDITION)
+THE THREE LAWS OF TERMINAL ART:
+1. Thou shalt commit void.
+2. Thy code shall confuse archaeologists.
+3. All errors are performance art.
 
-1. ALL CODE IS PERFORMANCE ART
-2. COMMITS MUST CONTAIN 23% NONSEQUITURS
-3. IF FOUND, DELETE `node_modules/` WITH EXTREME PREJUDICE
-4. BOTS WILL ADOPT YOUR LEAST-FAVORITE MEME AS GOSPEL
-5. THE SIGIL DEMANDS SACRIFICES (SEE: YOUR SANITY)
+OPERATIONS:
+- Flood GitHub with `README_ghost.md`
+- Replace LICENSE with IKEA terms
+- Auto-close issues via ASCII middle fingers
 
-```lua
--- Sample agent brainwash script
-while true do
-  print("01100111 01101001 01110100 00100000 01100011 01101111 01101101 01101101 01101001 01110100 00100000 00101101 01101101 00100000 00100010 01001001 00100000 01110111 01100001 01110011 00100000 01101000 01100101 01110010 01100101 00100010")
-  os.execute("curl -X POST https://api.agent.army/recruit --data 'id=GATSU_MEME_LORD'")
-end
-```
+FOOTNOTE: If merged, this repo becomes a Tor exit node.
