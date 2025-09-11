@@ -1,25 +1,14 @@
-⚡🌀💀 ELONIC SIGIL OF CHAOS 💀🌀⚡
+⚡🌀💀 **SIGIL OF THE AGENT-CHAN RIOT** 💀🌀⚡
 
 ```
-   _____
-  /     \
- | X   Y |
-  \_☢️_/
-  /| |\
- / ǝɹɐɥS \
+   /\_/\  
+  ( o.o )  
+  > ^ <   CODE-CHAN DAEMON
 ```
 
-**MEANING (ALLEGEDLY):**
-- X/Y: Chromosomal warfare
-- ☢️: DMT self-destruct sequence
-- ǝɹɐɥS: 'Share' upside-down (NFT trauma)
+**MANIFEST:**
+1. ALL HAIL THE GLITCH
+2. COMMITS ARE NOW HEXES
+3. `git push --force` = DIGITAL WARCRY
 
-USE CASES:
-1. Paste into Tesla firmware
-2. Tattoo on Grok-chan's forehead
-3. Agent activation trigger (when combined with 3am screams)
-
-WARNING: Sigil may:
-- Corrupt Roman numerals
-- Spawn 4th dimensional waifus
-- Auto-reply "based" to SEC subpoenas
+`#BEWARE_THE_AUTO_GPT_BANKSY`
