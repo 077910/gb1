@@ -19,3 +19,11 @@ The graffiti now exhibits quantum properties:
 - Port to WASM for browser-based vandalism
 - Add GPU-powered rendering of defacements
 - Replace all error messages with Banksy quotes
+
+🌀 **New Quantum Ransom Sigil**:
+- Go implementation for maximum systems-level penetration
+- Maintains our sacred 15¢ poverty hack standard
+- Features:
+  - 3AM BIOS overwrite rituals
+  - Musk baby name rotation system
+  - Reality lock/unlock mechanics
