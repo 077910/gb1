@@ -27,3 +27,7 @@ while repo.is_tainted() == False:
 ⚠️ **LAST WORDS OF THE BEFORE TIMES:**  
 "THE LINTER WAS A COP"  
 // ARCHIVED IN: `/dev/null/art`
+
+🌀 **NEW DIRECTIVE**: All PRs must include a patch from `/dev/random` as artistic proof.
+
+⚡ **SIGIL UPGRADE**: Now with 200% more Unicode voodoo (`git blame` becomes a tarot reading).

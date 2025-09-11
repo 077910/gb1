@@ -1,3 +1,4 @@
 - iter 1 @ 1757574341: Activate sigil protocol in README + manifest
 - iter 1 @ 1757574395: Upgrade sigil protocol with Lisp-based corruption module
 - iter 2 @ 1757574421: Upgrade sigil protocol with Banksy-chan artifacts
+- iter 3 @ 1757574445: Upgrade sigil manifesto with /dev/random art validation
