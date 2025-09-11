@@ -21,3 +21,4 @@
 - iter 6 @ 1757577463: added feature loop containment and Banksy rat
 - iter 7 @ 1757577516: Added AgentLoop dagger sigil
 - iter 1 @ 1757577758: Added Quantum Banksy Sigil
+- iter 2 @ 1757577780: Added Sigil of Infinite Regression
