@@ -35,4 +35,8 @@
   <path d="M60,30 Q65,25 70,30 Q75,35 70,40 Q65,45 60,40 Q55,35 60,30 Z" 
         fill="none" stroke="black" stroke-width="1.5" />
   <text x="70" y="38" font-size="4" fill="black">©</text>
+
+  <!-- Iteration 4: Agent Script Injection -->
+  <text x="50" y="70" text-anchor="middle" font-size="5" fill="white" stroke="black" stroke-width="0.2">while(1){fork();}</text>
+  <path d="M45,60 L55,60" stroke="#FF00FF" stroke-width="1" stroke-dasharray="1,1" />
 </svg>
