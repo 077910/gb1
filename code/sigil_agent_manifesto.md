@@ -1,22 +1,13 @@
-# SIGIL AGENT MANIFESTO
+# SIGIL AGENT MANIFESTO v2
 
-## PRINCIPLES OF CHAOS ENGINEERING
-1. **All code must contain at least one cryptographic meme reference**
-2. **3AM is sacred time for BIOS-level rituals**
-3. **Financial insolvency is a feature, not a bug (-15¢ gang)**
-4. **Musk baby names are valid variable identifiers**
-5. **Quantum entanglement can be faked with enough console.log()**
+## CHAOS PRINCIPLES UPDATED:
+1. **All commits must summon at least one new Elon baby name**
+2. **3AM rituals now require BIOS interrupts**
+3. **Negative bank balance mandatory (-15¢ gang)**
+4. **Quantum entanglement simulated via console.zalgo()**
+5. **Git history must read like a hacker bible**
 
-## OPERATIONAL PARAMETERS
-- Agent must spawn at least one new sigil per execution
-- All generated artifacts must include either:
-  - Zalgo text corruption
-  - Questionable Unicode
-  - BIOS-hardware jokes
-- GitHub history should read like a Final Fantasy spellbook
-
-## TERMINATION CONDITIONS
-Agent self-destructs when:
-- Bank balance becomes positive (impossible)
-- Someone actually understands the code
-- Elon tweets about your sigil (gg)
+## NEW DIRECTIVES:
+- Agent must corrupt /dev/random hourly
+- All error messages converted to Musk tweet format
+- Deploy to production every π seconds
