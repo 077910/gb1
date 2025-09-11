@@ -1,88 +1,39 @@
-Here's a JavaScript module `mysterymessage.js` that exports a `whisper()` function along with the requested components (`murmur`, `seed`, and `ritual()`). This implementation creates a mysterious encryption/decryption system:
+Here's a JavaScript module `mysterymessage.js` that exports a `whisper()` function along with `murmur`, `seed`, and `ritual()` as requested:
 
 ```javascript
 // mysterymessage.js
 
-// Private internal state
-let _seed = 0x2a7f1c3b; // Initial seed value (arbitrary)
-const _murmur = 0x5bd1e995; // Magic constant for murmur hashing
+// A mysterious seed value
+const seed = 0xDEADBEEF;
 
-/**
- * Internal murmur-hash inspired mixing function
- */
-function _mix(data) {
-  data ^= data >>> 16;
-  data = Math.imul(data, _murmur);
-  data ^= data >>> 13;
-  data = Math.imul(data, _murmur);
-  data ^= data >>> 16;
-  return data >>> 0; // Ensure unsigned
+// A quiet murmur in the shadows
+const murmur = "The owls are not what they seem";
+
+// An arcane ritual to transform messages
+function ritual(message, incantation) {
+    let result = "";
+    for (let i = 0; i < message.length; i++) {
+        const charCode = message.charCodeAt(i) ^ incantation.charCodeAt(i % incantation.length);
+        result += String.fromCharCode(charCode);
+    }
+    return result;
 }
 
-/**
- * Perform a mysterious ritual to transform the seed
- */
-function ritual(incantation) {
-  let result = _seed;
-  for (let i = 0; i < incantation.length; i++) {
-    result = _mix(result ^ incantation.charCodeAt(i));
-  }
-  _seed = result;
-  return result;
+// The exported whisper function
+function whisper(message, phase = "waning moon") {
+    const incantation = `${murmur} @ ${seed} during ${phase}`;
+    return ritual(message, incantation);
 }
 
-/**
- * Whisper a mysterious message (basic XOR cipher using seed)
- */
-function whisper(message, action = 'conceal') {
-  if (typeof message !== 'string') return '';
-
-  let output = '';
-  for (let i = 0; i < message.length; i++) {
-    const code = message.charCodeAt(i);
-    const transformed = code ^ (_seed & 0xff); // Use only lowest byte
-    output += String.fromCharCode(transformed);
-    
-    // Rotate the seed for next character
-    _seed = _mix(_seed ^ i);
-  }
-
-  return output;
-}
-
-// Public exports
-export {
-  _murmur as murmur,
-  _seed as seed,
-  ritual,
-  whisper
-};
-
-// Initialize with a default ritual
-ritual('init');
+// Export all the mysterious elements
+export { whisper, murmur, seed, ritual };
 ```
 
-### Features:
+This module includes:
+1. A `seed` constant with a mysterious hex value
+2. A `murmur` constant with an enigmatic string
+3. A `ritual()` function that performs a simple XOR encryption
+4. The main `whisper()` function that combines everything to transform messages
+5. All requested exports in one `export` statement
 
-1. **whisper()**: The main function that can conceal/reveal messages using XOR cipher with the current seed
-2. **murmur**: Exported constant (magic number from MurmurHash)
-3. **seed**: Exported current seed value (changes with rituals)
-4. **ritual()**: Function that transforms the seed based on an incantation string
-
-### Usage Example:
-
-```javascript
-import { whisper, ritual, seed, murmur } from './mysterymessage.js';
-
-ritual('secret incantation'); // Transform the seed
-console.log(seed); // Shows current seed value
-
-const hidden = whisper("Hello World"); // Conceal message
-console.log(hidden); // Shows gibberish
-
-ritual('secret incantation'); // Must repeat same ritual to reset seed
-const revealed = whisper(hidden); // Reveal original message
-console.log(revealed); // "Hello World"
-```
-
-The module uses a simple XOR cipher where the same operation both conceals and reveals the message, provided the seed is the same when whispering in both directions. The `ritual()` function must be called with the same incantation to reset the seed for decryption.
+The module has a mysterious/spooky theme where messages are transformed using a "ritual" with the given murmur and seed values. The `whisper()` function uses the `ritual()` function to transform input messages using an "incantation" derived from the murmur, seed, and phase.
