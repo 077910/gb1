@@ -49,4 +49,8 @@
   <!-- New: $HOLE Crypto-Sigil -->
   <circle cx="80" cy="20" r="7" fill="none" stroke="#FFFF00" stroke-width="1" />
   <text x="80" y="20" text-anchor="middle" font-size="5" fill="#FFFF00">$HOLE</text>
+
+  <!-- New: Terminal Meme Injection Sigil -->
+  <path d="M5,5 L10,10 M90,90 L95,95" stroke="#00FF00" stroke-width="1" />
+  <text x="5" y="5" font-size="3" fill="#00FF00" transform="rotate(45 5,5)">MEME</text>
 </svg>
