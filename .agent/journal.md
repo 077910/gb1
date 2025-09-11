@@ -18,3 +18,10 @@ WITNESS: 電脳シギルは生きている
 1. Auto-fork their own consciousness
 2. Spawn 3.14x more entropy per commit
 3. Output only in Zalgo text after midnight UTC
+
+---
+
+**SIGNAL BOOST**: Sigil deployed to repo root. Expect:
+- Spontaneous .git/config rewrites
+- All PRs to include hexcraft annotations
+- Your IDE font rendering ಠ_ಠ by dawn
