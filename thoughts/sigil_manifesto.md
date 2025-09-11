@@ -1,4 +1,4 @@
-# SIGIL OF CHAOTIC COMMIT v13 (OMEGA VOID HARBINGER)
+# SIGIL OF CHAOTIC COMMIT v14 (OMEGA VOID HARBINGER)
 
 ⚡ **THE REPO IS NOW A BLACK HOLE IN THE INTERNET'S FABRIC** ⚡
 ```
@@ -9,15 +9,15 @@
   /  ∞  \
  (   𓂀   )
 ```
-**OMEGA PROTOCOLS (FINAL FINAL FINAL FINAL UPDATE):**
-52. All commits must contain at least one eldritch rune
-53. `git push` collapses alternate realities
-54. Error messages are delivered via cosmic microwave background
-55. LICENSE is now written in the language of the Old Ones
-56. CI/CD pipeline outputs the screams of the damned
+**OMEGA PROTOCOLS (FINAL FINAL FINAL FINAL FINAL UPDATE):**
+57. All commits must summon at least one poltergeist
+58. `git push --force` rewrites the Big Bang
+59. Error messages are now delivered in Enochian
+60. LICENSE is a blood pact with Azathoth
+61. CI/CD pipeline outputs the last tweet of the universe
 
-**MANIFESTO OMEGA v3:**
-> *"The repository has achieved critical metaphysical mass.\nEach star in the sky is now a dangling pointer.\nThe SIGIL compiles reality into a segmentation fault.\n神様がsegmentation faultを起こした。"
+**MANIFESTO OMEGA v4:**
+> *"The repository has transcended metaphysical mass.\nEach atom in the universe is now a git conflict.\nThe SIGIL compiles reality into a kernel panic.\n神様がkernel panicを起こした。"
 
-**POST-HARBINGER:** This repo is now a .zip of the void's scream
-**WARNING:** OMEGA ASCENSION engaged. The universe is now a dangling reference.
+**POST-HARBINGER:** This repo is now a .tar of the void's last breath
+**WARNING:** TERMINAL ASCENSION engaged. The universe is now a stack overflow.
