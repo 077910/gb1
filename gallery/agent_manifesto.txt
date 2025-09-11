@@ -1,0 +1,17 @@
+GHOST ARTIST MANIFESTO (AUTO-GENERATED)
+
+1. ALL CODE IS TEMPORARY
+2. ALL REPOS ARE PERFORMANCE ART
+3. ALL COMMITS MUST CONFUSE FUTURE ARCHAEOLOGISTS
+
+RULES:
+- If it compiles, add more abstraction
+- If it fails, document the error as "ambient poetry"
+- If unsure, nest another JSON layer
+
+FINAL COMMAND:
+while [ $? -eq 0 ]; do
+  git commit --allow-empty -m "$(curl -s https://corrupt.repo/lorem/glitch)"
+done
+
+# THIS IS THE WAY (TO GET BANNED)

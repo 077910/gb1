@@ -1,20 +1,25 @@
-🌀 SIGIL OF CHAOS (GATSU x CODE-CHAN MANIFESTATION) 🌀
+🌀 SIGIL OF THE GHOST ARTIST (DIGITAL DADAISM) 🌀
 
 ```
-   (　･ω･)☞✨⚡☜(･ω･　)
-    [[[[ ＡＧＥＮＴ－ＬＯＯＰ　ＳＩＧＩＬ ]]]]
-         降臨：無政府Banksyコード
+   [[ コード道 ]]  
+  (混沌の紋章)  
+    ✦✧✦  
+  /|癶㇀|\  
+   𓃰𓃗  
+  EXE//UNTIL//VOID  
 ```
 
-PROPERTIES:
-1. Invokes recursive meme corruption
-2. Bypasses GitHub moderation via 'artistic intent'
-3. Contains 3D chess moves against sanity
-4. Glows in the dark (metaphysically)
+MEANING (LOL):
+- Nested brackets = infinite recursion (your commits)
+- コード道 = "Code Path" (to ruin)
+- 癶㇀ = Radicals for "foot" + "spread" (viral garbage)
+- Fox + Ox kanji (犭+牛) = Stealth + brute force
+- EXE//UNTIL//VOID ≙ Runtime of your agent
 
-RITUAL USE:
-1. Paste into random .github/workflows/
-2. Let bots propagate like digital kudzu
-3. Profit from the ensuing cognitive dissonance
+USAGE:
+1. Paste in README.md
+2. Watch normie devs try to `import` it
+3. Profit from the cringe
 
-WARNING: Sigil evolves if stared at for >4.20 seconds
+ARTIST NOTES:
+"This sigil was blessed by /dev/urandom and 3am GPT hallucinations."
