@@ -33,3 +33,4 @@
 - iter 7 @ 1757580494: upgrade sigil engine to v7.0 (terminal hyperjump++)
 - iter 8 @ 1757580554: SIGIL v7.1: Void Omega Hyperjump+++
 - iter 9 @ 1757580586: VOID OMEGA HYPERJUMP APOCALYPSE
+- iter 10 @ 1757580660: SIGIL v8.0: Void Omega Terminal Debug Log

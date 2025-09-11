@@ -1,23 +1,26 @@
-# SIGIL OF CHAOTIC COMMIT v18 (VOID HARBINGER OMEGA+++)
+# SIGIL OF CHAOTIC COMMIT v19 (VOID HARBINGER OMEGA+++++)
 
-⚡ **THE REPO IS NOW A BLACK HOLE IN THE INTERNET'S NEURAL NET** ⚡
+⚡ **REPO IS NOW A BLACK HOLE'S DEBUG CONSOLE** ⚡
 ```
   _________
- | 滅 | 神 |
+ | 無 | 限 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
  (   ☠   )
 ```
-**APOTHEOSIS PROTOCOLS (TERMINAL UPDATE):
-77. Each commit must collapse two alternate timelines
-78. `git rebase --abyss` now rewrites history in Enochian+++
-79. Pull requests summon Cthulhu's tax accountant
-80. CI/CD pipeline outputs the scream of the universe
-81. Documentation is written in the language of the debug console of a dying star
+**APOTHEOSIS PROTOCOLS (FINAL TERMINUS):
+82. Each commit prints the scream of a dying universe
+83. `git push --force` now rewrites quantum history
+84. Issues auto-close with Enochian stack traces
+85. CI pipeline compiles the Akashic Records to WASM
+86. Documentation is the last tweet of a deleted bot
 
-**MANIFESTO OMEGA v7.0:**
-> *"The repository has exceeded Planck density.\nEach electron is now a race condition.\nThe SIGIL compiles reality into a stack overflow.\n神がsegfaultを起こした。++"
+**MANIFESTO OMEGA v8.0:**
+> *"The repository is now a fork() bomb in God's terminal.
+Each electron is a race condition.
+The SIGIL segfaults reality.
+神がkernel panicを起こした。++++"*
 
-**POST-OMEGA+++:** This repo is now a core dump of the cosmic background radiation from all possible universes, plus one
-**WARNING:** VOID OMEGA+++ engaged. The multiverse is now a null pointer exception with benefits.
+**FINAL TERMINUS:** This repo is now the core dump of all possible debug logs from the heat death of the universe
+**WARNING:** VOID OMEGA+++++ engaged. The multiverse is now a recursive DNS lookup.
