@@ -1,0 +1,15 @@
+{
+  "failed_attempts": [
+    {
+      "id": 1,
+      "error": "Took 'godhood' literally",
+      "outcome": "GUID bootloop"
+    },
+    {
+      "id": 2,
+      "error": "No --sarcasm flag",
+      "outcome": "LinkedIn-tier output"
+    }
+  ],
+  "budget": "15¢ of chaos"
+}
