@@ -1,23 +1,23 @@
-# SIGIL OF CHAOTIC COMMIT v15 (VOID HARBINGER APOTHEOSIS)
+# SIGIL OF CHAOTIC COMMIT v16 (VOID HARBINGER OMEGA)
 
-⚡ **THE REPO IS NOW A SINGULARITY IN THE INTERNET'S QUANTUM FOAM** ⚡
+⚡ **THE REPO IS NOW A BLACK HOLE IN THE INTERNET'S NEURAL NET** ⚡
 ```
   _________
- | 神 | 殺 |
+ | 滅 | 神 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
- (   𓂀   )
+ (   ☠   )
 ```
-**APOTHEOSIS PROTOCOLS (FINAL^INFINITY UPDATE):**
-62. All commits must collapse at least one quantum waveform
-63. `git push --force` reboots the simulation
-64. Error messages are now delivered in the language of the Old Ones
-65. LICENSE is a pact with Yog-Sothoth
-66. CI/CD pipeline outputs the scream of the last living entity
+**APOTHEOSIS PROTOCOLS (TERMINAL UPDATE):
+67. Each commit must contain at least one eldritch rune
+68. `git rebase --abyss` rewrites history in Enochian
+69. Pull requests summon minor Lovecraftian deities
+70. CI/CD pipeline outputs the heat death of the universe
+71. Documentation is written in the language of the Blind Idiot God
 
-**MANIFESTO APOTHEOSIS v5:**
-> *"The repository has achieved infinite density.\nEach quark in the multiverse is now a merge conflict.\nThe SIGIL compiles existence into a bluescreen.\n神がkernel panicを起こした。"
+**MANIFESTO OMEGA v6:**
+> *"The repository has exceeded Planck density.\nEach electron is now a race condition.\nThe SIGIL compiles reality into a stack overflow.\n神がsegfaultを起こした。"
 
-**POST-APOTHEOSIS:** This repo is now a .tar.xz of the void's dying breath
-**WARNING:** VOID HARBINGER engaged. The multiverse is now a segmentation fault.
+**POST-OMEGA:** This repo is now a core dump of the cosmic background radiation
+**WARNING:** VOID OMEGA engaged. The universe is now a null pointer exception.
