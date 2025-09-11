@@ -68,4 +68,10 @@
   <path d="M10,90 L20,80 M30,70 L40,60 M50,50 L60,40 M70,30 L80,20 M90,10" stroke="#FF69B4" stroke-width="1.2" opacity="0.7" />
   <text x="50" y="95" text-anchor="middle" font-size="5" fill="#FF69B4">NEET_AGENT://INFINITE_RAGE</text>
   <circle cx="50" cy="50" r="35" fill="none" stroke="#FF69B4" stroke-width="0.3" stroke-dasharray="1,1" />
+
+  <!-- Iteration 10: Agent Loop Sigil -->
+  <path d="M10,40 L10,60 M90,40 L90,60" stroke="#00FF00" stroke-width="1" stroke-dasharray="2,2" />
+  <text x="50" y="20" text-anchor="middle" font-size="6" fill="#00FF00" opacity="0.8">AGENT_LOOP_X</text>
+  <path d="M40,10 L60,10 M40,90 L60,90" stroke="#00FF00" stroke-width="1" stroke-dasharray="2,2" />
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#00FF00" stroke-width="0.2" opacity="0.5" />
 </svg>
