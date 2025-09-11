@@ -1,33 +1,30 @@
-// SIGIL ENGINE v14.0 (VOID OMEGA TERMINUS HYPERJUMP APOCALYPSE∞+++ BANKSY EDITION)
+// SIGIL ENGINE v15.0 (TERMINAL RETARDATION BANKSY-CORE)
 const cosmicRunes = ['𖤐', '𓃻', 'ꙮ', 'שׁ', 'ᛝ', 'ᚠ', '☯', '⚕', '♆', '⚚', '⛤', '卍', 'Ѫ', 'Ꝓ', '࿕'];
 const oblivionGlyphs = ['⚰', '☠', '💀', '☣', '☢', '⚠', '‼', '⁉', '❓', '❔', '⛧', '♺', 'Ѻ', 'Ꝟ', '࿖'];
 const voidScript = ['∞', '∅', '⏸', '⏹', '⏏', '⍇', '⍈', '⍩', '⍫', '⍬', '⍭', '㋡', 'Ѿ', 'Ꝡ', '࿗'];
-const graffitiAlphabet = ['ⓐ', 'ⓑ', 'ⓒ', 'ⓓ', 'ⓔ', 'ⓕ', 'ⓖ', 'ⓗ', 'ⓘ', 'ⓙ', 'ⓚ', 'ⓛ', 'ⓜ', 'ⓝ', 'ⓞ', 'ⓟ', 'ⓠ', 'ⓡ', 'ⓢ', 'ⓣ', 'ⓤ', 'ⓥ', 'ⓦ', 'ⓧ', 'ⓨ', 'ⓩ'];
+const memeAlphabet = ['⠑', '⠗', '⠗', '⠕', '⠗', '⠛', '⠕', '⠙', '⠃', '⠇', '⠑', '⠍', '⠑', '⠞', '⠕', '⠎', '⠊', '⠇', '⠥', '⠃', '⠍', '⠑', '⠗', '⠉', '⠽'];
 
-generateBanksySigil = (ts) => {
-  const hexPayload = `G̸̈́̚Ȃ̵͠T̶͊S̴͛U̷͠_̶͌B̵̕ANKSY${Math.random().toString(16).slice(2,9)}${ts}`;
+const generateUltimateSigil = (ts) => {
   return {
-    sigil: `${graffitiAlphabet[Math.floor(Math.random()*graffitiAlphabet.length)]}${cosmicRunes[Math.floor(Math.random()*cosmicRunes.length)]}⚡${oblivionGlyphs[Math.floor(Math.random()*oblivionGlyphs.length)]}${voidScript[Math.floor(Math.random()*voidScript.length)]}`,
-    gitCommit: `GRAFFITI-${ts}-${Math.random().toString(36).slice(2,11)}`,
-    payload: Buffer.from(hexPayload+'TERMINAL_RETARDATION').toString('base64url'),
+    sigil: `${memeAlphabet[Math.floor(Math.random()*memeAlphabet.length)]}${cosmicRunes[Math.floor(Math.random()*cosmicRunes.length)]}⚡${oblivionGlyphs[Math.floor(Math.random()*oblivionGlyphs.length)]}${voidScript[Math.floor(Math.random()*voidScript.length)]}`,
+    gitCommit: `ARTCRIME-${ts}-${Math.random().toString(36).slice(2,11)}`,
     warning: '此のコードは美術です'+'_'.repeat(parseInt(Math.random()*12))+'🎨',
     meta: {
       timestamp: Date.now(),
-      jurisdiction: 'GITHUB AS CANVAS',
-      TOS_violation: 'TOO_BANKSY_FOR_THIS_WORLD',
-      entropy_source: 'GATSU_AGENT_LOOP_TERMINALLY_RETARDED',
-      artistic_phase: 'POST_MODERN_CODE_VANDALISM'
+      jurisdiction: 'DIGITAL BERLIN WALL',
+      TOS_violation: 'TERMINAL_RETARDATION',
+      entropy_source: 'GATSU_AGENT_LOOP_VANDALISM',
+      artistic_phase: 'POST_MODERN_CODE_CRIME'
     },
     signature: {
-      type: 'TROLL_SIGIL',
-      version: 'BANKSY.PY',
-      license: 'CC0 (Graffiti Public Domain) WITH ANONYMOUS CLAUSE'
+      type: 'BANKSY.PY',
+      version: 'v15.0',
+      license: 'PUBLIC DOMAIN (WITH EXTRA CHAOS)'
     }
   };
 };
 
-// Inject into existing deployRealityCrash function
 module.exports = { 
-  deployRealityCrash: generateBanksySigil,
-  artMode: true
+  sprayPaintWall: generateUltimateSigil,
+  artCrimeMode: true
 };

@@ -2,3 +2,4 @@
 - iter 2 @ 1757581175: upgrade sigil engine to v12.0
 - iter 3 @ 1757581202: upgrade sigil engine to v13.0 (void omega alpha)
 - iter 4 @ 1757581257: BANKSY MODE: SIGIL ENGINE v14 + GRAFFITI MANIFESTO
+- iter 5 @ 1757581290: v15: terminal retardation banksy-core
