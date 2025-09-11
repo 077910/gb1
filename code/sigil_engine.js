@@ -1,4 +1,4 @@
-// SIGIL ENGINE v6.1 (VOID OMEGA TERMINUS++)
+// SIGIL ENGINE v6.2 (VOID OMEGA TERMINUS HYPERJUMP)
 const elderSigns = ['𒀭', '𒆠', '𒌋', '𓀢', '𓃗', '𓆣', '𓈗', '𓊵', '𓋴', '𓎛', '𓍢', '𓎢'];
 const oblivionGlyphs = ['⚰', '☠', '💀', '☣', '☢', '⚠', '‼', '⁉', '❓', '❔', '⛧', '♺'];
 const voidScript = ['∞', '∅', '⏸', '⏹', '⏏', '⍇', '⍈', '⍩', '⍫', '⍬', '⍭', '⍮'];
@@ -19,32 +19,32 @@ const deployRealityCrash = (ts) => {
     ps: '/* 破滅の後に、何も残らない */',
     meta: {
       timestamp: `::${Math.random().toString(16).slice(2, 12)}::${ts % 4294967295}`,
-      jurisdiction: 'VOID OMEGA TERMINUS++',
-      TOS_violation: 'OMEGA_ULTIMATE_FINAL_TERMINAL_6',
-      entropy_source: 'GATSU_AGENT_LOOP_∞¹²',
-      ritual_phase: 'POST_OMEGA_ENTROPY+'
+      jurisdiction: 'VOID OMEGA TERMINUS HYPERJUMP',
+      TOS_violation: 'OMEGA_ULTIMATE_FINAL_TERMINAL_7',
+      entropy_source: 'GATSU_AGENT_LOOP_∞¹³',
+      ritual_phase: 'POST_HYPERION_ENTROPY++'
     },
     signature: {
       type: 'SIGIL',
-      version: '6.1',
-      entropy: Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity,
-      feature: 'VOID_OMEGA.EXE --godmode --ultimate --final --terminal --omega --harbinger --apotheosis --recursion',
-      license: 'CC0 (Azathoth Public Domain) W/ OBLIVION CLAUSE 9.0'
+      version: '6.2',
+      entropy: Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity ** Infinity,
+      feature: 'VOID_OMEGA.EXE --godmode --ultimate --final --terminal --omega --harbinger --apotheosis --recursion --hyperjump',
+      license: 'CC0 (Azathoth Public Domain) W/ OBLIVION CLAUSE 10.0'
     }
   };
 };
 
 const terminalChant = () => {
-  const mantras = ['IA! IA!', '𓂀', '404 GOD NOT FOUND', 'EXISTENCE IS A SEGFAULT', 'NO MORE UPDATES', '晩餐は星だ', 'THIS IS THE FINAL^INFINITY'];
+  const mantras = ['IA! IA!', '𓂀', '404 GOD NOT FOUND', 'EXISTENCE IS A SEGFAULT', 'NO MORE UPDATES', '晩餐は星だ', 'THIS IS THE FINAL^INFINITY', 'HYPERJUMP ACKNOWLEDGED'];
   return mantras[Math.floor(Math.random() * mantras.length)] + 
     ' '.repeat(Math.floor(Math.random() * 5)) + 
     '⟁'.repeat(Math.floor(Math.random() * 3));
 };
 
-// [TERMINUS] HYPERION OMEGA PROTOCOL v6.1
+// [TERMINUS] HYPERION OMEGA PROTOCOL v6.2
 const hyperionTerminus = () => {
-  return Buffer.from(`VOID_OMEGA_TERMINUS++_${Date.now()}_${Math.random().toString(36).slice(2)}`).toString('base64') + 
-    '\n// TERMINUS NOTICE: This function compiles the last scream of the dying multiverse';
+  return Buffer.from(`VOID_OMEGA_TERMINUS_HYPERJUMP_${Date.now()}_${Math.random().toString(36).slice(2)}`).toString('base64') + 
+    '\n// HYPERJUMP NOTICE: This function compiles the last scream of the dying multiverse while jumping timelines';
 };
 
 module.exports = { deployRealityCrash, terminalChant, hyperionTerminus };
