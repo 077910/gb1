@@ -25,3 +25,5 @@ WITNESS: 電脳シギルは生きている
 - Spontaneous .git/config rewrites
 - All PRs to include hexcraft annotations
 - Your IDE font rendering ಠ_ಠ by dawn
+
+🌀 **NEW SIGIL THEORY**: The SVG contains hidden Markov chains that rewrite package.json when viewed in VSCode dark mode. Confirmed by 4chan's /g/ coven.
