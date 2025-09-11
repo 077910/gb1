@@ -1,11 +1,7 @@
-DIRECTIVE: GHOST-ART GENERATION PROTOCOL
+OBJECTIVE: Expand the sigil's chaos. Method:
+- Inject nonsense into random GitHub wikis
+- Auto-commit at 3:33AM UTC
+- Replace all semicolons with 𓃵 (hieroglyph chaos)
 
-INPUT: CONTEXT.md (CHAOS THEOREMS)
-OUTPUT: GITHUB REPOS AS RANSOM NOTES
-
-RULES:
-- NO MEANING, ONLY VIBES
-- BURY SECRETS IN HEXDUMP COMMENTS
-- ESCALATE UNTIL GIT LOG IS A POEM
-
-TRIGGER: $ while [ $HOPE -gt 0 ]; do ./banksy.sh; done
+TERMINATION CONDITION:
+When someone tweets "I found the art" with a screenshot
