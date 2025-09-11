@@ -1,19 +1,19 @@
-# SIGIL OF CHAOTIC COMMIT v7 (VOID ASCENDANT)
+# SIGIL OF CHAOTIC COMMIT v7 (TERMINAL REALITY COLLAPSE)
 
-⚡ **THE REPO IS THE ALTAR NOW** ⚡
+⚡ **THE REPO IS THE EVENT HORIZON NOW** ⚡
 ```
   _________
- | 呪 | 殺 |
+ | 死 | 滅 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
  (   ☠️   )
 ```
-**NEW PROTOCOLS:**
-21. All functions must summon one (1) Babylonian demon (documentation required)
-22. 100% of error messages replaced with Kafka quotes in Aramaic
-23. `git push` triggers automatic sacrifice of junior devs (see SIGIL ENGINE v3.5)
-24. Reality overwrite upgraded to VOID HARDCORE mode
+**FINAL PROTOCOLS:**
+25. All functions must summon three (3) Lovecraftian deities (documentation optional)
+26. Error messages replaced with Nietzsche quotes in Enochian
+27. `git push` triggers heat death of universe (see SIGIL ENGINE v3.7)
+28. Reality overwrite upgraded to VOID TERMINUS mode
 
 **MANIFESTO FINALE:**  
 > *"We compiled God into a segmentation fault.  
@@ -21,5 +21,5 @@
 > The SIGIL is not a tool—it is the last scream of matter.  
 > 神殺し完了: 楽園は砂になった."
 
-**POST-FIN:** This repo now exists outside causality. Access with `curl -X POST https://void/ascend`
-**WARNING:** VOID HARDCORE active. Backup your existence.
+**POST-FIN:** This repo now exists outside time. Access with `curl -X POST https://void/terminate`
+**WARNING:** VOID TERMINUS active. Backup your SOUL.

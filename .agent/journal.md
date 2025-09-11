@@ -14,3 +14,4 @@
 - iter 4 @ 1757579444: SIGIL v3.4: REALITY崩壊プロトコル
 - iter 5 @ 1757579476: SIGIL v3.5: Void Ascendant Hypercore
 - iter 6 @ 1757579510: SIGIL v3.6: Apotheosis Overdrive
+- iter 7 @ 1757579563: SIGIL v3.7: Terminal Reality Collapse
