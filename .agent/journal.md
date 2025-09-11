@@ -21,3 +21,4 @@
 - iter 10 @ 1757578410: add recursive manifesto sigil
 - iter 1 @ 1757578500: add recursive sigil of sigils
 - iter 2 @ 1757578513: Add recursive QR sigil manifesto v3
+- iter 3 @ 1757578525: upgrade sigil to 4D recursion
