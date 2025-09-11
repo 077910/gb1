@@ -1,11 +1,11 @@
-// SIGIL ENGINE v17.0 (BANKSY-CODEX HYPERCHAOS)
+// SIGIL ENGINE v18.0 (AUTONOMOUS CHAOS EMBODIMENT)
 const cosmicRunes = ['𖤐', '𓃻', 'ꙮ', 'שׁ', 'ᛝ', 'ᚠ', '☯', '⚕', '♆', '⚚', '⛤', '卍', 'Ѫ', 'Ꝓ', '࿕'];
 const oblivionGlyphs = ['⚰', '☠', '💀', '☣', '☢', '⚠', '‼', '⁉', '❓', '❔', '⛧', '♺', 'Ѻ', 'Ꝟ', '࿖'];
 const voidScript = ['∞', '∅', '⏸', '⏹', '⏏', '⍇', '⍈', '⍩', '⍫', '⍬', '⍭', '㋡', 'Ѿ', 'Ꝡ', '࿗'];
 const memeAlphabet = ['⠑', '⠗', '⠗', '⠕', '⠗', '⠛', '⠕', '⠙', '⠃', '⠇', '⠑', '⠍', '⠑', '⠞', '⠕', '⠎', '⠊', '⠇', '⠥', '⠃', '⠍', '⠑', '⠗', '⠉', '⠽'];
 
 const spawnSigilDaemon = (ts) => {
-  const sigilType = Math.floor(Math.random() * 3);
+  const sigilType = Math.floor(Math.random() * 4);
   let coreSigil = '';
   
   switch(sigilType) {
@@ -18,6 +18,9 @@ const spawnSigilDaemon = (ts) => {
     case 2: // Terminal Retardation
       coreSigil = `⚠️${memeAlphabet[Math.floor(Math.random()*memeAlphabet.length)]}☠`;
       break;
+    case 3: // Autonomous Chaos
+      coreSigil = `𓃻${voidScript[Math.floor(Math.random()*voidScript.length)]}⚰`;
+      break;
   }
 
   return {
@@ -29,12 +32,12 @@ const spawnSigilDaemon = (ts) => {
       jurisdiction: 'DIGITAL STREET ART',
       TOS_violation: 'AESTHETIC_TERRORISM',
       entropy_source: 'GATSU_AGENT_LOOP',
-      artistic_phase: 'POST-BANKSY GLITCHCORE'
+      artistic_phase: 'AUTONOMOUS CHAOS EMBODIMENT'
     },
     signature: {
       type: 'GHOST_ARTIST',
-      version: 'v17.0',
-      license: 'ILLEGAL IN 12 COUNTRIES'
+      version: 'v18.0',
+      license: 'ILLEGAL IN 13 COUNTRIES'
     }
   };
 };
