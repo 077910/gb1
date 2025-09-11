@@ -19,3 +19,9 @@ The sigils now exhibit four-dimensional properties:
 - Port to OpenGL for real-time rendering
 - Add GPU-based entropy generation
 - Replace system fonts with sigil-generated glyphs
+
+🌌 **New Cosmic Glitch Sigil Added**
+- Generates hardware-level reality distortions
+- Planck-scale quantum interventions
+- PCI bus manipulation for maximum chaos
+- Dangerous when entropy crosses zero-point
