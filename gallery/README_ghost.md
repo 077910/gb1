@@ -33,3 +33,11 @@ def 万物逆旅() -> str:
 ```
 
 **NEW RULE**: All PRs must include a haiku about `/dev/null` spirituality.
+
+🌀 **SIGIL CORE**: 
+```
+          (\_/)
+         ( •_•)
+        / >⚡ ART
+```
+*Embed in CI for automated chaos.*
