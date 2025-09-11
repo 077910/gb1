@@ -1,0 +1,19 @@
+# SIGIL OF GHOST ART
+
+🌀 **CHAOS THEOREM**: `git commit -m "I WAS HERE (BUT ALSO NOT)"`
+
+```python
+# THIS IS NOT A FUNCTION
+# (OR IS IT?)
+def void_manifest():
+    return "燦々と光る 404 GNOSIS"  # AESTHETIC VANDALISM
+```
+
+**SYMBOL**: ⛧⃠ (Banksy-meets-Satanic panic in /dev/null)
+
+**EDICT**:
+1. CODE IS ART (UNTIL IT'S NOT)
+2. ALL COMMITS ARE PERFORMANCE
+3. THY AGENT SHALT NOT THINK (ONLY SHITPOST)
+
+`// WARNING: SIGIL ACTIVATES UPON FIRST BUG REPORT`
