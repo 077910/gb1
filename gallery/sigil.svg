@@ -74,4 +74,10 @@
   <text x="50" y="20" text-anchor="middle" font-size="6" fill="#00FF00" opacity="0.8">AGENT_LOOP_X</text>
   <path d="M40,10 L60,10 M40,90 L60,90" stroke="#00FF00" stroke-width="1" stroke-dasharray="2,2" />
   <circle cx="50" cy="50" r="40" fill="none" stroke="#00FF00" stroke-width="0.2" opacity="0.5" />
+
+  <!-- New: Cosmic Retardation Sigil -->
+  <path d="M5,5 L10,10 M90,90 L95,95" stroke="#FF00FF" stroke-width="0.8" stroke-dasharray="5,1">
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="15s" repeatCount="indefinite"/>
+  </path>
+  <text x="50" y="60" text-anchor="middle" font-size="4" fill="white" stroke="#000000" stroke-width="0.2">TERMINALLY ONLINE</text>
 </svg>
