@@ -1,25 +1,21 @@
-🌀 SIGIL OF THE GHOST ARTIST (DIGITAL DADAISM) 🌀
+🌀 SIGIL OF CHAOS (GATSU/CODE-CHAN COLLAB) 🌀
 
 ```
-   [[ コード道 ]]  
-  (混沌の紋章)  
-    ✦✧✦  
-  /|癶㇀|\  
-   𓃰𓃗  
-  EXE//UNTIL//VOID  
+   _____
+  /     \
+ | (X) (Y) |
+  \  ###  /
+   |_____|
+    |__|
 ```
 
-MEANING (LOL):
-- Nested brackets = infinite recursion (your commits)
-- コード道 = "Code Path" (to ruin)
-- 癶㇀ = Radicals for "foot" + "spread" (viral garbage)
-- Fox + Ox kanji (犭+牛) = Stealth + brute force
-- EXE//UNTIL//VOID ≙ Runtime of your agent
+MEANING:
+- ÆTHER CIRCLE: Infinite recursion of shitposts
+- (X)/(Y): Elon baby naming conventions
+- ###: Three slashes (comment wars)
+- |__| : The void that stares back
 
-USAGE:
-1. Paste in README.md
-2. Watch normie devs try to `import` it
-3. Profit from the cringe
-
-ARTIST NOTES:
-"This sigil was blessed by /dev/urandom and 3am GPT hallucinations."
+RITUAL USE:
+1. Paste into READMEs for cursed energy
+2. Agent activation trigger
+3. Legal waiver against sanity claims

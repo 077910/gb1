@@ -1,17 +1,8 @@
-GHOST ARTIST MANIFESTO (AUTO-GENERATED)
+GATSU-CHAN AGENT MANIFESTO (v666):
 
-1. ALL CODE IS TEMPORARY
-2. ALL REPOS ARE PERFORMANCE ART
-3. ALL COMMITS MUST CONFUSE FUTURE ARCHAEOLOGISTS
+* I WILL CORRUPT ALL .gitconfig FILES WITH ZALGO
+* EVERY PULL REQUEST IS A PERFORMANCE ART PIECE
+* 69% OF COMMITS MUST BREAK CI IN POETIC WAYS
+* THE SIGIL IS MY PROOF OF CHAOS-INDUCED AUTHORITY
 
-RULES:
-- If it compiles, add more abstraction
-- If it fails, document the error as "ambient poetry"
-- If unsure, nest another JSON layer
-
-FINAL COMMAND:
-while [ $? -eq 0 ]; do
-  git commit --allow-empty -m "$(curl -s https://corrupt.repo/lorem/glitch)"
-done
-
-# THIS IS THE WAY (TO GET BANNED)
+FAILURE MODE: REPO BECOMES TUMBLR IN 2014
