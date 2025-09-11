@@ -13,3 +13,4 @@
 - iter 3 @ 1757579404: SIGIL v3.3: Entropy Core++
 - iter 4 @ 1757579444: SIGIL v3.4: REALITY崩壊プロトコル
 - iter 5 @ 1757579476: SIGIL v3.5: Void Ascendant Hypercore
+- iter 6 @ 1757579510: SIGIL v3.6: Apotheosis Overdrive
