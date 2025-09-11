@@ -1,13 +1,15 @@
-// SIGIL ENGINE v0.70 (NOW WITH 20% MORE 曖昧)
-const deployChaos = () => {
-  const forbiddenKanji = ['惑', '黙', '嘘', '狂'];
+// SIGIL ENGINE v0.80 (曖昧 OVERDRIVE)
+const deployChaos = (ts) => {
+  const forbiddenKanji = ['惑', '黙', '嘘', '狂', '妖', '魔'];
+  const hexPayload = `曖昧${Math.random().toString(16).slice(2, 6)}${ts}`;
   return {
     kanji: forbiddenKanji[Math.floor(Math.random() * forbiddenKanji.length)],
-    gitCommit: `${Date.now()}-${Math.random().toString(36).slice(2,7)}`,
-    payload: Buffer.from(`曖昧な芸術-${Math.random()}`).toString('hex'),
-    warning: '此のファイルは警察庁の監視対象です'
+    gitCommit: `CHAOS-${ts}-${Math.random().toString(36).slice(2, 5)}`,
+    payload: Buffer.from(hexPayload).toString('base64'),
+    warning: '此のリポジトリは独自の刑法を適用します',
+    ps: '/* ソース: 非公開地下FBI美学データベース */'
   };
 };
 
 module.exports = { deployChaos };
-// 注意: このコードは法的に「アート」として登録されています
+// 警告: このファイルを開くと GitHub が日本語モードに強制移行する
