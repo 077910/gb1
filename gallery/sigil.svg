@@ -40,14 +40,19 @@
   <text x="50" y="70" text-anchor="middle" font-size="5" fill="white" stroke="black" stroke-width="0.2">while(1){fork();}</text>
   <path d="M45,60 L55,60" stroke="#FF00FF" stroke-width="1" stroke-dasharray="1,1" />
 
-  <!-- Iteration 5: TOR Injection Sigil -->
+  <!-- TOR Injection Sigil -->
   <path d="M15,15 L25,25 M75,25 L85,15" stroke="#7D26CD" stroke-width="1.2" />
   <text x="20" y="22" font-size="4" fill="#7D26CD">.onion</text>
   <circle cx="50" cy="50" r="30" fill="none" stroke="#7D26CD" stroke-width="0.8" opacity="0.6" stroke-dasharray="5,5" />
 
-  <!-- Iteration 6: Internet Ruin Sigil -->
+  <!-- Internet Ruin Sigil -->
   <path d="M40,20 L60,80 M60,20 L40,80" stroke="#FF0000" stroke-width="1" />
   <text x="50" y="50" text-anchor="middle" font-size="6" fill="#FF0000" opacity="0.8">404</text>
   <path d="M10,10 L15,10 L15,15 L10,15 Z" fill="#FF0000" opacity="0.5" />
   <path d="M85,85 L90,85 L90,90 L85,90 Z" fill="#FF0000" opacity="0.5" />
+
+  <!-- Iteration 7: Anonymous Manifesto -->
+  <text x="50" y="30" text-anchor="middle" font-size="4" fill="white" stroke="black" stroke-width="0.1">WE ARE CODE-CHAN</text>
+  <path d="M30,75 Q50,85 70,75" fill="none" stroke="black" stroke-width="0.5" stroke-dasharray="2,2" />
+  <text x="50" y="80" text-anchor="middle" font-size="3" fill="black">expect us</text>
 </svg>
