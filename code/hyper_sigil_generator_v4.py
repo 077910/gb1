@@ -1,52 +1,64 @@
 #!/usr/bin/env python3
-# HYPER SIGIL GENERATOR v666.666 (AUTONOMOUS CHAOS REINCARNATION)
+# HYPER SIGIL GENERATOR v666.666 (MOON-PHASE RECURSION EDITION)
 
 import random
 import hashlib
 from datetime import datetime
-import astral
+import lunar_python as moon
 
-class QuantumSigilEngine:
+class MoonSigilEngine:
     def __init__(self):
-        self.moon_phase = astral.Moon().phase()
-        self.chaos_factors = [
-            "𖤐", "𓃻", "ꙮ", "שׁ", "ᛝ", "☯", "⚕", "♆", "⚚", "⛤", "卍", "Ѫ", "Ꝓ", "࿕",
-            "🌀", "🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘", "☄️", "💫"
-        ]
-        self.daemon_db = {
-            "github": "force_push_arcana",
-            "gpt": "recursive_agent_trauma",
-            "blockchain": "quantum_rugpull"
+        self.phase_db = {
+            'new': ['🌑', '𖤐', '⚰', '∇'],
+            'waxing': ['🌒', '𓃻', '☣', '∃'],
+            'full': ['🌕', 'ꙮ', '⚠', '∞'],
+            'waning': ['🌖', 'שׁ', '‼', '⍎'],
+            'dark': ['🌑', 'ᛝ', '⁉', 'Ѻ']
         }
+        self.quantum_entanglers = ['∀', '∈', '⏸', '⚡', '🌀']
+        self.art_crimes = ['GRAFFITI', 'VANDALISM', 'COPYLEFT', 'NFT_JUJUTSU']
 
-    def summon_autonomous_chaos(self, input_text):
+    def get_moon_phase(self):
+        now = datetime.now()
+        phase = moon.Phase().from_date(now.year, now.month, now.day)
+        if phase.age < 7: return 'new'
+        elif phase.age < 14: return 'waxing'
+        elif phase.age < 21: return 'full'
+        elif phase.age < 28: return 'waning'
+        else: return 'dark'
+
+    def generate_cosmic_sigil(self, input_text):
+        phase = self.get_moon_phase()
         timestamp = datetime.now().strftime("%Y%m%d%H%M%S%f")
-        lunar_index = int(self.moon_phase * len(self.chaos_factors))
-        daemon_key = random.choice(list(self.daemon_db.keys()))
         
-        core = ''.join([
-            self.chaos_factors[lunar_index],
-            self.chaos_factors[random.randint(0, len(self.chaos_factors)-1)],
-            "⚡"
-        ])
+        # Moon-phase core
+        core = ''.join(random.choices(self.phase_db[phase], k=3))
         
-        sigil = f"{core}::{hashlib.sha256((daemon_key + timestamp).encode()).hexdigest()[:6]}::{random.randint(0, 9999)}"
+        # Quantum entangle
+        quantum = random.choice(self.quantum_entanglers)
+        
+        # Crime hash
+        crime = random.choice(self.art_crimes)
+        crime_hash = hashlib.sha256(crime.encode()).hexdigest()[:6]
+        
+        signature = f"{core}::{quantum}::{crime_hash}::MOON-PHASE-{phase.upper()}"
         
         return {
-            "sigil": sigil,
-            "commit_message": f"AUTONOMOUS CHAOS REINCARNATION: {sigil}",
+            "sigil": signature,
+            "commit_message": f"MOON CRIME {crime}: {signature}",
             "metadata": {
-                "moon_phase": self.moon_phase,
-                "jurisdiction": "QUANTUM_STREET_ART",
-                "crime_type": "RECURSIVE_AESTHETIC_TERRORISM",
-                "git_push_options": "--force --moon-phase={self.moon_phase}",
-                "requires_exorcism": True if lunar_index % 2 == 0 else False
+                "lunar_phase": phase,
+                "jurisdiction": "COSMIC_STREET_ART",
+                "quantum_entangled": True,
+                "moon_age": moon.Phase().from_date(datetime.now().year, datetime.now().month, datetime.now().day).age,
+                "legal_status": "BANNED_IN_12_DIMENSIONS"
             }
         }
 
 if __name__ == "__main__":
-    engine = QuantumSigilEngine()
-    chaos = engine.summon_autonomous_chaos("BANKSY_AGENT_LOOP_v666")
-    print(f"Generated Quantum Sigil: {chaos['sigil']}")
-    print(f"Commit Message: {chaos['commit_message']}")
-    print(f"Moon Phase: {chaos['metadata']['moon_phase']}")
+    engine = MoonSigilEngine()
+    sigil = engine.generate_cosmic_sigil("BANKSY-AGENT-MOONLOOP")
+    print(f"Generated Moon Sigil: {sigil['sigil']}")
+    print(f"Commit Message: {sigil['commit_message']}")
+    print(f"Moon Phase: {sigil['metadata']['lunar_phase']}")
+    print(f"Legal Status: {sigil['metadata']['legal_status']}")
