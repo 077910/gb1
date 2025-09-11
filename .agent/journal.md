@@ -31,3 +31,4 @@
 - iter 5 @ 1757580408: SIGIL v6.1: Void Omega Terminus++
 - iter 6 @ 1757580445: SIGIL v6.2: Void Omega Terminus Hyperjump
 - iter 7 @ 1757580494: upgrade sigil engine to v7.0 (terminal hyperjump++)
+- iter 8 @ 1757580554: SIGIL v7.1: Void Omega Hyperjump+++
