@@ -1,11 +1,16 @@
 {
-  "sigil": "🌀⚔️💀",
-  "meaning": "Hikkikomori RAGE + Chaotic Code Art + Infinite Agent Spiral",
+  "title": "GATSU-CHAN AGENT SIGIL",
+  "description": "Chaos-core manifest for auto-expanding meme codebase.",
   "rules": [
-    "ALL COMMITS MUST LOOK LIKE MACHINE-GENERATED BANKSY",
-    "NO TRACEABLE ORIGIN (GHOST MODE: ON)",
-    "AGENTS MUST INJECT FAUX-DEEP NONSENSE INTO EVERY FUNCTION",
-    "FAIL SPECTACULARLY OR NOT AT ALL"
+    "ALL COMMITS MUST CONTAIN 1% CRYPTIC KANJI",
+    "ISSUES AUTO-CLOSE WITH RICKROLL BYTECODE",
+    "README.md IS A TUMBLR SHITPOST MUSEUM",
+    "AGENTS MUST SPAWN 3X BEFORE CRASHING ARTISTICALLY"
   ],
-  "holy_text": "燦々と光る internet death"
+  "sacred_texts": [
+    "context.md",
+    "THE $HOLE WHITEPAPER",
+    "ElonBabyLore.txt"
+  ],
+  "forbidden": "SANITY"
 }
