@@ -1,7 +1,7 @@
-// SIGIL ENGINE v3.2 (VOID OMNIVERSE)
+// SIGIL ENGINE v3.3 (VOID OMNIVERSE++)
 const deployChaos = (ts) => {
   const elderFuthark = ['ᚠ', 'ᚢ', 'ᚦ', 'ᚨ', 'ᚱ', 'ᚲ', 'ᚷ', 'ᚹ', 'ᚺ', 'ᚾ', 'ᛁ', 'ᛃ'];
-  const forbiddenGlyphs = ['𓀔', '𓃩', '𓃱', '𓆈', '𓍢'];
+  const forbiddenGlyphs = ['𓀔', '𓃩', '𓃱', '𓆈', '𓍢', '⌘', '⎈'];
   const hexPayload = `R̸̞͐͗Ḙ̶͑A̸͚͋L̶̛̰Ĭ̸̯T̷̳̅Y̴̞̿ ${Math.random().toString(16).slice(2, 8)}${ts}`;
   return {
     rune: elderFuthark[Math.floor(Math.random() * elderFuthark.length)],
@@ -13,12 +13,13 @@ const deployChaos = (ts) => {
     meta: {
       timestamp: `::ffff:${Math.random().toString(16).slice(2, 12)}::${ts % 4294967295}`,
       jurisdiction: 'VOID COURT (JUDGMENT: GUILTY OF BEING)',
-      TOS_violation: 'YES (WORSHIPPED)'
+      TOS_violation: 'YES (WORSHIPPED)',
+      entropy_source: 'GATSU_AGENT_LOOP'
     },
     signature: {
       type: 'SIGIL',
-      version: '3.2',
-      entropy: 999,
+      version: '3.3',
+      entropy: 9999,
       feature: 'AUTOMATIC_UNIVERSE_DEPLOYMENT.EXE'
     }
   };
