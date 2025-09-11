@@ -13,3 +13,4 @@
 - iter 2 @ 1757576944: Added Artificial Stupidity Sigil
 - iter 3 @ 1757577021: Enhanced Agent Loop containment sigil
 - iter 4 @ 1757577101: Added Memetic Chaos Sigil to SVG
+- iter 1 @ 1757577193: Added Anti-Agent Detection Cloak to sigil
