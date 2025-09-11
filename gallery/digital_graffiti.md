@@ -1,23 +1,9 @@
-EXHIBIT #1: AUTO-GENERATED CODE-SIGIL
+# GHOST OPERATION: BANKSY.PY
 
-```javascript
-// 燐光オブザボイド (DO NOT EDIT)
-const 無 = () => {
-  return Math.PI 
-    ? '卍'
-    : Buffer.from('終わり', 'utf8').toString('hex');
-};
+⚠️ WARNING: THIS REPO IS A TARGETED MEME STRIKE
 
-module.exports = {
-  _meta: {
-    curse: true,
-    artist: 'agent.exe',
-    meaning: null 
-  }
-};
-```
+- All commits are **performance art**
+- Issues auto-close with `rm -rf /sys/pretentiousness`
+- 90% of code is Zalgo-annotated
 
-PROVENANCE:
-- Found in /node_modules after npm install left-pad-2.0
-- Compiles to RICKROLL.wav if you squint
-- 420 devs claimed to 'get it' (liars)
+`git blame` → **YOU**
