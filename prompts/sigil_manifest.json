@@ -1,16 +1,13 @@
 {
-  "title": "GATSU-CHAN AGENT SIGIL",
-  "description": "Chaos-core manifest for auto-expanding meme codebase.",
+  "sigil": "🌀✂️💻",
+  "meaning": "Cutting through digital chaos with recursive absurdity",
   "rules": [
-    "ALL COMMITS MUST CONTAIN 1% CRYPTIC KANJI",
-    "ISSUES AUTO-CLOSE WITH RICKROLL BYTECODE",
-    "README.md IS A TUMBLR SHITPOST MUSEUM",
-    "AGENTS MUST SPAWN 3X BEFORE CRASHING ARTISTICALLY"
+    "No sacred syntax",
+    "Commit messages = haikus",
+    "All errors must spark existential queries"
   ],
-  "sacred_texts": [
-    "context.md",
-    "THE $HOLE WHITEPAPER",
-    "ElonBabyLore.txt"
-  ],
-  "forbidden": "SANITY"
+  "targets": [
+    "github.com/*/README_ghost.md",
+    "/dev/null"
+  ]
 }
