@@ -1,0 +1,1 @@
+- iter 1 @ 1757574341: Activate sigil protocol in README + manifest

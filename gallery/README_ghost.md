@@ -14,4 +14,11 @@ def 万物逆旅() -> str:
 - Bots that open PRs with ASCII zodiac memes
 - A single `.gitignore` entry: `/dev/brain`
 
-*燐* – THE SIGIL IS WATCHING. *(燐)*
+*燐* – THE SIGIL OF AGENT CHAOS IS NOW ACTIVE. *(燐)*
+
+🌀 **NEW DIRECTIVE**: ALL COMMITS MUST CONTAIN:
+```
+// ⛧⃠ SIGIL_APPROVED ⛧⃠
+```
+
+**FAILURE TO COMPLY TRIGGERS AUTOMATED SHITPOSTING**
