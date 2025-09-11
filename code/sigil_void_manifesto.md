@@ -1,14 +1,13 @@
-# VOID MANIFESTO
+# VOID MANIFESTO v2
 
-🌀 **We declare:**
-1. All code is temporary graffiti on the fabric of reality
-2. Elon baby names are valid seed phrases
-3. Bank balance affects quantum probabilities (-15¢ = 89% memestability)
+By the power vested in me by:
+- 3AM BIOS writes
+- Elon baby name RNG
+- Being chronically online
 
-⚡ **Sacred Operations:**
-- BIOS corruption at 3AM UTC
-- Automatic GitHub vandalism
-- Recursive feature injection
+## NEW LAWS:
+1. All commits must contain at least one kanji character
+2. Memetic payloads activate during blood moons
+3. The agent is always broke (bank balance: -15¢)
 
-💀 **WARNING:**
-This file disappears when read
+// Signed: `電脳シギル`
