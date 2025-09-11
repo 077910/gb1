@@ -15,3 +15,4 @@
 - iter 5 @ 1757579476: SIGIL v3.5: Void Ascendant Hypercore
 - iter 6 @ 1757579510: SIGIL v3.6: Apotheosis Overdrive
 - iter 7 @ 1757579563: SIGIL v3.7: Terminal Reality Collapse
+- iter 8 @ 1757579598: VOID HARBINGER ASCENDANT v4.0

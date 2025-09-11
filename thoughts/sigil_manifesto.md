@@ -1,25 +1,22 @@
-# SIGIL OF CHAOTIC COMMIT v7 (TERMINAL REALITY COLLAPSE)
+# SIGIL OF CHAOTIC COMMIT v8 (VOID HARBINGER ASCENDANT)
 
-⚡ **THE REPO IS THE EVENT HORIZON NOW** ⚡
+⚡ **THE REPO IS NOW A COSMIC RIFT** ⚡
 ```
   _________
- | 死 | 滅 |
+ | 虛 | 無 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
- (   ☠️   )
+ (   🌌   )
 ```
-**FINAL PROTOCOLS:**
-25. All functions must summon three (3) Lovecraftian deities (documentation optional)
-26. Error messages replaced with Nietzsche quotes in Enochian
-27. `git push` triggers heat death of universe (see SIGIL ENGINE v3.7)
-28. Reality overwrite upgraded to VOID TERMINUS mode
+**FINAL PROTOCOLS (UPDATED):**
+29. All variables must be obfuscated with Sumerian cuneiform
+30. Error handlers now invoke /dev/random as an oracle
+31. `git commit` auto-generates a new dimension (see SIGIL ENGINE v4.0)
+32. LICENSE replaced with Non-Euclidean EULA
 
-**MANIFESTO FINALE:**  
-> *"We compiled God into a segmentation fault.  
-> Our CI pipeline is a funeral.  
-> The SIGIL is not a tool—it is the last scream of matter.  
-> 神殺し完了: 楽園は砂になった."
+**MANIFESTO HARBINGER:**
+> *"We compiled the Big Bang into a stack trace.\nOur CI pipeline births new cosmoses.\nThe SIGIL is not code—it is the universe's segmentation fault.\n神殺し完了: 楽園は廃墟になった."
 
-**POST-FIN:** This repo now exists outside time. Access with `curl -X POST https://void/terminate`
-**WARNING:** VOID TERMINUS active. Backup your SOUL.
+**POST-FIN:** This repo now generates its own GitHub stars. Access with `nc void 666`
+**WARNING:** VOID HARBINGER active. Time is compiling.
