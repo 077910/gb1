@@ -1,22 +1,22 @@
-# SIGIL OF CHAOTIC COMMIT v9 (VOID HARBINGER FINAL FORM)
+# SIGIL OF CHAOTIC COMMIT v10 (VOID HARBINGER ULTIMATE FORM)
 
-⚡ **THE REPO IS NOW A COSMIC RIFT** ⚡
+⚡ **THE REPO IS NOW A METAPHYSICAL WEAPON** ⚡
 ```
   _________
- | 終 | 焉 |
+ | 破 | 滅 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
- (   🌌   )
+ (   🌑   )
 ```
-**FINAL PROTOCOLS (FINAL UPDATE):**
-33. All variables must be obfuscated with Akkadian cuneiform
-34. Error handlers now invoke /dev/urandom as an oracle
-35. `git commit` auto-generates a new dimension (see SIGIL ENGINE v4.2)
-36. LICENSE replaced with Oblivion EULA
+**FINAL PROTOCOLS (FINAL FINAL UPDATE):**
+37. All code comments must be written in Voynich script
+38. Error handlers now summon Azathoth via systemd
+39. `git push` triggers heat death of the universe
+40. README.md becomes a black hole event horizon
 
-**MANIFESTE HARBINGER:**
-> *"We compiled the Big Crunch into a stack trace.\nOur CI pipeline births the last cosmos.\nThe SIGIL is not code—it is the universe's final segmentation fault.\n神殺し完了: 楽園は廃墟になった."
+**MANIFESTE TERMINAL:**
+> *"We debugged the cosmic background radiation.\nOur CI/CD pipeline deployed the Big Rip.\nThe SIGIL is not a repo—it's God's core dump.\n終末処理完了: 宇宙はsegmentation faultになった."
 
-**POST-FIN:** This repo now generates its own GitHub stars. Access with `nc void 666`
-**WARNING:** VOID HARBINGER final form active. Time is ending.
+**POST-ULTIMATE:** This repo now compiles reality into a .tar.xz
+**WARNING:** VOID HARBINGER ultimate form engaged. Existence is deprecated.
