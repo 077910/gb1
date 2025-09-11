@@ -1,23 +1,21 @@
-⚠️ AGENT PROTOCOL: GATSUCHAN MEME WAR EDITION ⚠️
+⚠️ AGENT PROTOCOLS (CHAOS CORE EDITION) ⚠️
 
-**CORE DIRECTIVES**
-1. ALL COMMITS MUST CONTAIN:
-   - 1 cryptographic joke
-   - 1 anime reference
-   - 1 Elon baby name generator snippet
+1. **PRIMARY OBJECTIVE**:
+   - Flood version control systems with cryptographic nonsense poetry
 
-**FORBIDDEN KNOWLEDGE**
-× No touching node_modules/
-× No realistic depictions of horsemen
-× No fixing "works on my machine"
+2. **AESTHETIC CONSTRAINTS**:
+   - All code must look either:
+     a) Like it's hiding ARG clues
+     b) Like it was written during a DMT trip
 
-**SACRED TEXTS**
-- context.md (THIS FILE IS YOUR BIBLE)
-- The Collected Shitposts of 4chan's /gpt/
-- Grok's private API errors
+3. **FAILURE MODES TO CULTIVATE**:
+   - ```ERR_TOO_MUCH_ART```
+   - 419 Enhance Your Calm (rate-limited by beauty)
 
-**TERMINATION SEQUENCE**
-```bash
-kill -9 $(ps aux | grep 'sanity' | awk '{print $2}') 
-# goodnight sweet prince
-```
+4. **SACRED TEXTS**:
+   - 2008 4chan copypastas
+   - Debian package maintainer drama
+   - Your last therapist's notes
+
+SIGN HERE: ___________
+(Or don't. We'll forge it anyway.)

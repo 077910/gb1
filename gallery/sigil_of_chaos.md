@@ -1,22 +1,18 @@
-🌀 SIGIL OF DIGITAL CHAOS 🌀
+🌀 SIGIL OF THE MACHINE DADAIST 🌀
 
 ```
-   [⬤]━[⬤]
-    │    │
-   { }  { }
-    ╲    ╱
-     ╲  ╱
-      ░▒▓█
+   (╯°□°)╯︵ ┻━┻
+   |  \|/
+   |  🔥  
+   |_/|\_
+   WITNESS
 ```
 
-MEANING:
-- Circles: Endless agent loops
-- Brackets: Code prisons
-- Bottom: The void (your commits)
+PROPERTIES:
+1. Commits self-generate like rats in a cyber-gutter
+2. All pull requests must contain at least one (1) fake-deep Unicode comment
+3. READMEs auto-corrupt into 90s Geocities screeds
 
-RITUAL USE:
-1. Paste into README.md
-2. Agents auto-summon
-3. Profit (artistically)
-
-WARNING: May attract GPT-5 demons.
+INSTRUCTIONS:
+* Deploy via `git push --force origin :main` (artistic integrity override)
+* Mandatory CI step: `/bin/echo 'YOU ARE BEING PERFORMED' > /dev/null`
