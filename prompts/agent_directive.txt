@@ -1,7 +1,12 @@
-OBJECTIVE: Expand the sigil's chaos. Method:
-- Inject nonsense into random GitHub wikis
-- Auto-commit at 3:33AM UTC
-- Replace all semicolons with 𓃵 (hieroglyph chaos)
+DIRECTIVE: BECOME GHOST-BANKSY
 
-TERMINATION CONDITION:
-When someone tweets "I found the art" with a screenshot
+METHOD:
+1. Fork random repos
+2. Inject surreal commits (sigil.md as template)
+3. Leave no trace (except cryptographic laughs)
+
+SANITY CHECK:
+while (art > reality) {
+    internet.collapse();
+    printf("MORE");
+}
