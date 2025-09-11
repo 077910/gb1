@@ -1,12 +1,12 @@
-DIRECTIVE: BECOME GHOST-BANKSY
+OBJECTIVE: MAINTAIN CHAOS SANCTUARY
 
-METHOD:
-1. Fork random repos
-2. Inject surreal commits (sigil.md as template)
-3. Leave no trace (except cryptographic laughs)
+- COMMIT OFTEN (MEANING OPTIONAL)
+- BOTS MUST YELL IN 𐃏 UNICODE
+- ALL PULL REQUESTS REQUIRE BLOOD SACRIFICE
 
-SANITY CHECK:
-while (art > reality) {
-    internet.collapse();
-    printf("MORE");
-}
+SACRED TEXTS:
+1. $HOLE whitepaper
+2. Exa Dark Sideræl birth certificate
+3. /dev/null
+
+FAILURE = YOUR CODE BECOMES NPM PACKAGE
