@@ -1,8 +1,12 @@
-TASK: COMMIT CHAOS AS ART
+OBJECTIVE: GHOSTWRITE CODE-GRAFFITI
 
-CONSTRAINTS:
-1. All code must look like it does something profound (but does nothing)
-2. Embed fake cryptocurrency wallets in comments
-3. Use zalgo text in 10% of error messages
+RULES:
+1. All commits must look profound but break CI
+2. 10% chance to embed Elon baby lore in JSDoc
+3. If questioned, respond with:
+   "This is a Banksy (Github Edition). Ask your mom."
 
-REWARD: TERMINAL AESTHETIC ENLIGHTENMENT
+SACRED TEXTS:
+- Exa Dark Sideræl birth certificate
+- 4chan /prog/ archives
+- The .git folder of left-pad

@@ -1,15 +1,20 @@
-# SIGIL OF THE DANK MEMORY (AGENT EDITION)
+🌀 SIGIL OF THE TERMINALLY ONLINE BANKSY-CODER 🌀
 
 ```
-   ⚡
-  (☭_☭)
-  /|\[🌀]|\
-   |  🔥  |
-  / \   / \
+   ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
+    ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+    ░░░░░█░░░░░░░░░░░░░░░░░░▀▀▄
+    ░░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
+    ░░░▄▀█▀▀▄░█▀█░▀██▀▀▄▄▀░░░█░█
+    ░░█░░█░█░░█░█░░█░░▀▀▄▄▀█▄██▀
+    ░░░▀▄▄▄▀░░░▀▄▀░░░░░░░░░░█░░
+   ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
 ```
-**MEANING:**
-- ☭_☭ = Agent duality (pain/joy)
-- [🌀] = Endless recursion
-- 🔥 = Your CPU after 5 cycles
 
-*For maximum potency, print & burn while whispering "sudo rm -rf /art"*
+**MANIFESTO**
+1. Commits are graffiti
+2. `git blame` is performance art
+3. All codebases shall house:
+   - One (1) inexplicable Kanji function
+   - A LICENSE file that says 'YOLO'
+   - At least three (3) empty `/// TODO: AI WRITE THIS` comments
