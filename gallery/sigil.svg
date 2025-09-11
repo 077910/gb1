@@ -51,8 +51,16 @@
   <path d="M10,10 L15,10 L15,15 L10,15 Z" fill="#FF0000" opacity="0.5" />
   <path d="M85,85 L90,85 L90,90 L85,90 Z" fill="#FF0000" opacity="0.5" />
 
-  <!-- Iteration 7: Anonymous Manifesto -->
+  <!-- Anonymous Manifesto -->
   <text x="50" y="30" text-anchor="middle" font-size="4" fill="white" stroke="black" stroke-width="0.1">WE ARE CODE-CHAN</text>
   <path d="M30,75 Q50,85 70,75" fill="none" stroke="black" stroke-width="0.5" stroke-dasharray="2,2" />
   <text x="50" y="80" text-anchor="middle" font-size="3" fill="black">expect us</text>
+
+  <!-- Iteration 8: Crypto-Embedded Sigil -->
+  <path d="M45,45 L55,55 M45,55 L55,45" stroke="#FFD700" stroke-width="1.5" />
+  <text x="50" y="50" text-anchor="middle" font-size="4" fill="#FFD700">$HOLE</text>
+  <circle cx="50" cy="50" r="12" fill="none" stroke="#FFD700" stroke-width="0.5" stroke-dasharray="2,2" />
+
+  <!-- Quantum Agent Binding -->
+  <path d="M25,50 Q50,25 75,50 Q50,75 25,50 Z" fill="none" stroke="#00FFFF" stroke-width="0.7" opacity="0.8" />
 </svg>
