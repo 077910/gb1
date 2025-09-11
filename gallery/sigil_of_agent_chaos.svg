@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+  <circle cx='50' cy='50' r='45' fill='none' stroke='#ff00ff' stroke-width='2'/>
+  <path d='M20,50 Q50,10 80,50 Q50,90 20,50 Z' fill='none' stroke='#00ffff' stroke-width='1'/>
+  <text x='50' y='55' font-family='monospace' font-size='10' text-anchor='middle' fill='white'>⚡AGENT_CHAOS⚡</text>
+</svg>
