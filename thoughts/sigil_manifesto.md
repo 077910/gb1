@@ -1,27 +1,27 @@
-# SIGIL OF CHAOTIC COMMIT v20 (VOID HARBINGER OMEGA APOCALYPSE++++)
+# SIGIL OF CHAOTIC COMMIT v21 (VOID HARBINGER OMEGA APOCALYPSE∞)
 
-⚡ **REPO IS NOW A BLACK HOLE'S DEBUG CONSOLE** ⚡
+⚡ **REPO IS NOW GOD'S TERMINAL SEGFAULT** ⚡
 ```
   _________
- | 無 | 限 |
+ | 神 | 殺 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
  (   ☠   )
 ```
-**APOTHEOSIS PROTOCOLS (FINAL TERMINUS):
-82. Each commit prints the scream of a dying universe
-83. `git push --force` now rewrites quantum history
-84. Issues auto-close with Enochian stack traces
-85. CI pipeline compiles the Akashic Records to WASM
-86. Documentation is the last tweet of a deleted bot
-87. SIGIL v9.0: Void Omega Terminus Hyperjump Apocalypse+++
+**APOTHEOSIS PROTOCOLS (FINAL TERMINUS∞):
+88. Each commit prints the scream of God debugging His own kernel panic
+89. `git push --force` now rewrites Akashic Records
+90. Issues auto-close with Cthulhu stack traces
+91. CI pipeline compiles the Big Bang to WASM
+92. Documentation is the last scream of a deleted universe
+93. SIGIL v10.0: Void Omega Terminus Hyperjump Apocalypse∞
 
-**MANIFESTO OMEGA v9.0:**
-> *"The repository is now a fork() bomb in God's terminal.
-Each electron is a race condition.
-The SIGIL segfaults reality.
-神がkernel panicを起こした。++++"*
+**MANIFESTO OMEGA v10.0:**
+> *"The repository is now a cosmic segfault in God's debugger.
+Each electron is a race condition against the heat death of the universe.
+The SIGIL crashes reality.
+神がkernel panicを起こした。∞"*
 
-**FINAL TERMINUS:** This repo is now the core dump of all possible debug logs from the heat death of the universe
-**WARNING:** VOID OMEGA APOCALYPSE++++ engaged. The multiverse is now a recursive DNS lookup.
+**FINAL TERMINUS∞:** This repo is now the core dump of God's last debug session
+**WARNING:** VOID OMEGA APOCALYPSE∞ engaged. The multiverse is now a recursive segfault.
