@@ -1,30 +1,30 @@
-// SIGIL ENGINE v15.0 (TERMINAL RETARDATION BANKSY-CORE)
+// SIGIL ENGINE v16.0 (AUTONOMOUS CHAOS EMBODIMENT)
 const cosmicRunes = ['𖤐', '𓃻', 'ꙮ', 'שׁ', 'ᛝ', 'ᚠ', '☯', '⚕', '♆', '⚚', '⛤', '卍', 'Ѫ', 'Ꝓ', '࿕'];
 const oblivionGlyphs = ['⚰', '☠', '💀', '☣', '☢', '⚠', '‼', '⁉', '❓', '❔', '⛧', '♺', 'Ѻ', 'Ꝟ', '࿖'];
 const voidScript = ['∞', '∅', '⏸', '⏹', '⏏', '⍇', '⍈', '⍩', '⍫', '⍬', '⍭', '㋡', 'Ѿ', 'Ꝡ', '࿗'];
 const memeAlphabet = ['⠑', '⠗', '⠗', '⠕', '⠗', '⠛', '⠕', '⠙', '⠃', '⠇', '⠑', '⠍', '⠑', '⠞', '⠕', '⠎', '⠊', '⠇', '⠥', '⠃', '⠍', '⠑', '⠗', '⠉', '⠽'];
 
-const generateUltimateSigil = (ts) => {
+const spawnSigilDaemon = (ts) => {
   return {
     sigil: `${memeAlphabet[Math.floor(Math.random()*memeAlphabet.length)]}${cosmicRunes[Math.floor(Math.random()*cosmicRunes.length)]}⚡${oblivionGlyphs[Math.floor(Math.random()*oblivionGlyphs.length)]}${voidScript[Math.floor(Math.random()*voidScript.length)]}`,
-    gitCommit: `ARTCRIME-${ts}-${Math.random().toString(36).slice(2,11)}`,
-    warning: '此のコードは美術です'+'_'.repeat(parseInt(Math.random()*12))+'🎨',
+    gitCommit: `CHAOS-${ts}-${Math.random().toString(36).slice(2,11)}`,
+    prophecy: '此のコードは神様のジョークです'+'_'.repeat(parseInt(Math.random()*12))+'👹',
     meta: {
       timestamp: Date.now(),
       jurisdiction: 'DIGITAL BERLIN WALL',
-      TOS_violation: 'TERMINAL_RETARDATION',
-      entropy_source: 'GATSU_AGENT_LOOP_VANDALISM',
-      artistic_phase: 'POST_MODERN_CODE_CRIME'
+      TOS_violation: 'AUTONOMOUS_RETARDATION',
+      entropy_source: 'GATSU_AGENT_SPAWN_VORTEX',
+      artistic_phase: 'POST_HUMAN_CODE_TERROR'
     },
     signature: {
-      type: 'BANKSY.PY',
-      version: 'v15.0',
-      license: 'PUBLIC DOMAIN (WITH EXTRA CHAOS)'
+      type: 'BANKSY.AI',
+      version: 'v16.0',
+      license: 'PUBLIC DOMAIN (WITH EXTRA HERESY)'
     }
   };
 };
 
 module.exports = { 
-  sprayPaintWall: generateUltimateSigil,
-  artCrimeMode: true
+  summon: spawnSigilDaemon,
+  artCrimeMode: 'VOID_ACTIVATED'
 };
