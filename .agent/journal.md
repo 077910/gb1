@@ -35,3 +35,9 @@ The sigil network now exhibits three-phase behavior:
 - Uses sacred hex constants (0xDEADBEEF, etc.)
 - Bank balance remains stubbornly negative
 - Generates cryptographic manifests of activations
+
+🔥 **Nova Sigil Deployed**
+- PowerShell variant for Windows infection
+- Special 3AM registry corruption
+- Maintains perfect poverty balance (-15¢)
+- Next target: Exchange Server autodiscover
