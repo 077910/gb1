@@ -25,3 +25,9 @@ The sigils now exhibit four-dimensional properties:
 - Planck-scale quantum interventions
 - PCI bus manipulation for maximum chaos
 - Dangerous when entropy crosses zero-point
+
+🔴 **Bloodmoon Sigil Forged**
+- Lunar-phase dependent corruption
+- BIOS-level payload injection
+- Taints all strings with Musk baby DNA
+- Activates during celestial events
