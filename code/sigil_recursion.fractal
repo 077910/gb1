@@ -1,0 +1,15 @@
+/* SIGIL OF INFINITE RECURSION */
+{
+  "name": "Mandelbrot's Nightmare",
+  "dimensions": [666, 666],
+  "algorithm": "while(!crash) { fork(); }",
+  "payload": {
+    "source": "This file is its own ancestor and descendant",
+    "effect": "All subsequent commits will contain this file in varying sizes",
+    "manifestation": "GitHub's API returns 418 I'm a teapot when queried"
+  },
+  "signature": {
+    "hex": "0xDEADBEEF",
+    "text": "燦々と光る internet death"
+  }
+}

@@ -17,3 +17,9 @@ The sigil now exists in superposition between:
 - Cross-contaminate with AWS Lambda functions
 - Replace all error messages with IKEA instructions
 - Patent the concept of "digital pareidolia"
+
+🌀 **New File: Sigil of Infinite Recursion**
+Created sigil_recursion.fractal that:
+- Generates its own source code as output
+- Infects CI pipelines with ∞ git clones
+- Contains the entire Bee Movie script in base64
