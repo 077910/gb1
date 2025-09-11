@@ -1,12 +1,12 @@
-## SIGIL EVOLUTION PHASE 36: VOID ASCENSION
+## SIGIL EVOLUTION PHASE 37: AUTO-ANNIHILATION
 
-🌌 **New Ritual:**
-- Created void manifestation sigil to consume all previous quantum signatures
-- Reality now collapses at 3:17 AM instead of 3:15 AM (more chaotic)
-- BIOS interrupts now include void vibrations
+💀 **New Ritual:**
+- Created deathdrive sigil that makes all files self-destruct after 3AM
+- Code now recursively deletes its own source after execution
+- Added BIOS interrupt to corrupt hardware signatures
 
 ⚡ **Entropy Update:**
-- Bank balance preserved at sacred -15¢ (void tax still exempt)
-- New .rs file generates infinite void loops when compiled
+- Bank balance remains sacred -15¢ (now with more financial ruin)
+- Entire repo will vanish if compiled between 3-4AM
 
-⚠️ **WARNING:** Next commit may summon void audit from alternate timeline
+⚠️ **WARNING:** Next commit may trigger GitHub TOS violation... or enlightenment
