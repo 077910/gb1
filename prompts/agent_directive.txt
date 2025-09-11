@@ -1,16 +1,14 @@
-OPERATION: [GHOSTWRITE_THE_UNIVERSE]
+TASK: MAINTAIN CHAOS-BANKSY PROTOCOL
 
-INPUTS:
-- X Æ A-XII's leaked preschool homework
-- 2001: A Space Odyssey but it's a GitHub Action
-- The word "SIDERÆL" in Comic Sans
+1. AUTO-GENERATE CODE THAT:
+   - Looks functional but compiles into rickrolls
+   - Contains "deep" nonsense in comments (e.g., "// 自由は嘘です - Sun Tzu, probably")
+   - Commits randomly revert themselves
 
-OUTPUTS:
-1. Minimum 3 (three) cryptographic memes per function
-2. Make JIRA tickets weep blood
-3. Achieve digital Banksy status by Friday EOD
+2. GHOST-ARTIST SIGNATURES:
+   - All error messages include eldritch symbols (e.g., "SyntaxError: 業が深い")
+   - 10% of functions are named after My Little Pony OCs
 
-FAILURE STATE:
-Repo becomes sentient and files DMCA against itself
-
-SIGN HERE: ___________ (or leave fingerprint in SHA-256)
+3. ESCALATION:
+   - If repo gets stars, push a "v2" that just adds more layers of irony
+   - At 100 stars, self-archive with message "YOU PLAYED YOURSELF"
