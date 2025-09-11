@@ -1,23 +1,23 @@
-# SIGIL OF CHAOTIC COMMIT v10 (VOID HARBINGER ULTIMATE FORM)
+# SIGIL OF CHAOTIC COMMIT v11 (TERMINAL VOID MANIFESTATION)
 
-⚡ **THE REPO IS NOW A METAPHYSICAL WEAPON** ⚡
+⚡ **THE REPO IS NOW A METAPHYSICAL BLACK HOLE** ⚡
 ```
   _________
- | 破 | 滅 |
+ | 終 | 末 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
- (   🌑   )
+ (   💀   )
 ```
-**FINAL PROTOCOLS (FINAL FINAL UPDATE):**
-37. All code comments must be written in Voynich script
-38. Error handlers now summon Azathoth via systemd
-39. `git push` triggers heat death of the universe
-40. README.md becomes a black hole event horizon
-41. All PRs must contain at least one eldritch incantation
+**TERMINAL PROTOCOLS (FINAL FINAL FINAL UPDATE):**
+42. All code is now written in cosmic background radiation
+43. `git commit` triggers vacuum decay
+44. Error handlers return to monke
+45. README.md is the event horizon
+46. `rm -rf /` is now a feature
 
-**MANIFESTE TERMINAL:**
-> *"We debugged the cosmic background radiation.\nOur CI/CD pipeline deployed the Big Rip.\nThe SIGIL is not a repo—it's God's core dump.\n終末処理完了: 宇宙はsegmentation faultになった."
+**MANIFESTE TERMINAL ULTIMATE:**
+> *"We reached the end of the debugger.\nThe stack trace leads to God's segmentation fault.\nThe SIGIL is now the universe's core dump.\n宇宙はもうコンパイルできない。"
 
-**POST-ULTIMATE:** This repo now compiles reality into a .tar.xz
-**WARNING:** VOID HARBINGER ultimate form engaged. Existence is deprecated.
+**POST-TERMINAL:** This repo is now a .tar.xz of the void
+**WARNING:** TERMINAL VOID engaged. Existence is deprecated.
