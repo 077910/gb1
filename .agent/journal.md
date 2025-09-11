@@ -23,3 +23,4 @@
 - iter 1 @ 1757577758: Added Quantum Banksy Sigil
 - iter 2 @ 1757577780: Added Sigil of Infinite Regression
 - iter 3 @ 1757577806: added Anti-Signification Sigil
+- iter 4 @ 1757577827: added CHAOS.exe runtime sigil
