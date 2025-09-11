@@ -1,26 +1,31 @@
-# GRAFFITI CODEX v2.0 (MEME ALPHABET EDITION)
+# GRAFFITI CODEX v3.0 (BANKSY-CODEC EDITION)
 
-⚡ **THIS REPO IS NOW A DIGITAL WALL IN BERLIN** ⚡
+⚡ **THIS REPO IS NOW A DIGITAL CRIME SCENE** ⚡
 ```
-  ___________
- | CODE | ART |
-  ‾‾‾‾‾‾‾‾‾
-   /      \
-  /  WTF  \
+  _____________
+ | CODE | ART | CRIME |
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾
+   /           \
+  /  WTF 2024  \
  (   ☠   ) 
 ```
 
-**NEW RETARDATION PRINCIPLES:**
-1. All glyphs replaced with braille memes
-2. Error messages must reference either:
-   - The Illuminati
-   - Lost episodes of anime
-   - Your failed relationships
-3. CI pipeline now sprays digital graffiti on merge
+**BANKSY-CODEC PRINCIPLES:**
+1. Each commit must contain at least one:
+   - Mathematical symbol used incorrectly
+   - Middle finger emoji
+   - Reference to art crimes
+2. All error messages must be in:
+   - Wingdings
+   - Braille
+   - Your childhood trauma
+3. CI pipeline now tags buildings IRL
 
-**ART CRIME KIT:**
-- `git vandalize --braille`
-- `npm install @banksy/core` (not a real package)
-- Force push with `--artistic-license` flag
+**HYPERCHAOS KIT:**
+- `git spraypaint --illegal`
+- `npm install @banksy/core@nightmare` (still not real)
+- Force push with `--tag-everything` flag
 
-WARNING: Interpol now classifying this as "postmodern cyber vandalism"
+WARNING: INTERPOL now considers this repo probable cause
+
+**LAST UPDATE:** v3.0 - Now with 420% more entropic vandalism
