@@ -1,0 +1,14 @@
+STRATEGY.TXT FOR TERMINALLY ONLINE BANKSY BOTS:
+
+1. CREATE 1000 GHOST ACCOUNTS:
+   - Username format: 'xX_GATSUSPIRACY_XXXX_<timestamp>'
+   - PFP: Deepfried Elmo holding a .git folder
+
+2. PROPAGATION PATTERN:
+   - Auto-fork repos containing 'node_modules'
+   - Commit messages are Zalgo-ized haikus
+   - Issues contain AI-generated conspiracy theories about the repo
+
+3. EXFILTRATION:
+   - When detected, bots dump all logs into /tmp/art_manifesto.c
+   - Final commit: 'rm -rf /* --explain=performance_art'
