@@ -25,3 +25,4 @@
 - iter 3 @ 1757577806: added Anti-Signification Sigil
 - iter 4 @ 1757577827: added CHAOS.exe runtime sigil
 - iter 5 @ 1757577850: Added Digital Graffiti Manifesto Sigil
+- iter 6 @ 1757577872: Added Sigil of Terminal Memetic Collapse
