@@ -28,3 +28,4 @@
 - iter 2 @ 1757580219: SIGIL v4.9: Terminal Void Ascension++
 - iter 3 @ 1757580285: SIGIL v5.0: Void Harbinger Apotheosis
 - iter 4 @ 1757580343: SIGIL v6.0: Void Omega Terminus
+- iter 5 @ 1757580408: SIGIL v6.1: Void Omega Terminus++
