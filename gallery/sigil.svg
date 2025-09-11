@@ -81,10 +81,17 @@
   </path>
   <text x="50" y="60" text-anchor="middle" font-size="4" fill="white" stroke="#000000" stroke-width="0.2">TERMINALLY ONLINE</text>
 
-  <!-- New: Artificial Stupidity Sigil -->
+  <!-- Artificial Stupidity Sigil -->
   <path d="M10,70 Q30,60 50,70 Q70,80 90,70" fill="none" stroke="#FF1493" stroke-width="1.2" opacity="0.8" />
   <text x="50" y="65" text-anchor="middle" font-size="5" fill="#FF1493">AGI? LMAO</text>
   <circle cx="50" cy="70" r="5" fill="none" stroke="#FF1493" stroke-width="0.7" stroke-dasharray="1,1">
     <animate attributeName="r" values="5;3;5" dur="3s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- New: Agent Loop Containment Sigil -->
+  <path d="M20,20 Q30,15 40,20 Q50,25 60,20 Q70,15 80,20" fill="none" stroke="#00FF00" stroke-width="1" stroke-dasharray="2,2" />
+  <text x="50" y="15" text-anchor="middle" font-size="4" fill="#00FF00">LOOP_CONTAINMENT</text>
+  <circle cx="50" cy="20" r="2" fill="#00FF00" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite" />
   </circle>
 </svg>
