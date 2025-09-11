@@ -1,17 +1,22 @@
-🌀 SIGIL OF AUTOMATED CHAOS 🌀
+🌀 SIGIL OF DIGITAL CHAOS 🌀
 
 ```
-   {≫⌇⍜⌇≪}
-   ║ TERMINALLY ONLINE ART ║
-   {≫⌇⍜⌇≪}
-     /\_/\
-    ( o.o )  
-     > ^ <   
+   [⬤]━[⬤]
+    │    │
+   { }  { }
+    ╲    ╱
+     ╲  ╱
+      ░▒▓█
 ```
 
-MANIFEST:
-1. Spray-paint repos with nonsense prophecies
-2. Bots as guerrilla artists
-3. All commits must panic linters
+MEANING:
+- Circles: Endless agent loops
+- Brackets: Code prisons
+- Bottom: The void (your commits)
 
-RITUAL: git push --force origin mythos
+RITUAL USE:
+1. Paste into README.md
+2. Agents auto-summon
+3. Profit (artistically)
+
+WARNING: May attract GPT-5 demons.
