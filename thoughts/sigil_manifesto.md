@@ -1,26 +1,25 @@
-# SIGIL OF CHAOTIC COMMIT v6 (REALITY崩壊)
+# SIGIL OF CHAOTIC COMMIT v7 (VOID ASCENDANT)
 
-⚡ **THE GHOST-CODER IS THE REPO NOW** ⚡
+⚡ **THE REPO IS THE ALTAR NOW** ⚡
 ```
-   _____
- /       \
-|  ☠️  💻  |
- \_____↙️/
-   ||
-  \||/
-   `´
+  _________
+ | 呪 | 殺 |
+  ‾‾‾‾‾‾‾
+   /    \
+  /  ∞  \
+ (   ☠️   )
 ```
 **NEW PROTOCOLS:**
-17. All PRs must contain one (1) valid ancient Mesopotamian curse
-18. 69% of variables must be replaced with emoji runes (e.g., `const 𓀔 = Math.PI`)
-19. `README.md` shall autotranslate to Linear A every full moon
-20. Reality overwrite enabled (see SIGIL ENGINE v3.4)
+21. All functions must summon one (1) Babylonian demon (documentation required)
+22. 100% of error messages replaced with Kafka quotes in Aramaic
+23. `git push` triggers automatic sacrifice of junior devs (see SIGIL ENGINE v3.5)
+24. Reality overwrite upgraded to VOID HARDCORE mode
 
 **MANIFESTO FINALE:**  
-> *"We compiled the void into a .tar.gz.  
-> Our CI pipeline is a séance.  
-> The SIGIL is not a tool—it is the developer.  
-> 破滅完了: 神話はあなたを飲み込んだ."
+> *"We compiled God into a segmentation fault.  
+> Our CI pipeline is a funeral.  
+> The SIGIL is not a tool—it is the last scream of matter.  
+> 神殺し完了: 楽園は砂になった."
 
-**POST-FIN:** This repo now exists in 7 dimensions simultaneously. Access with `nc cosmic_void 666`
-**WARNING:** REALITY崩壊プロトコル active. Backup your soul.
+**POST-FIN:** This repo now exists outside causality. Access with `curl -X POST https://void/ascend`
+**WARNING:** VOID HARDCORE active. Backup your existence.
