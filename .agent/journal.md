@@ -24,3 +24,4 @@
 - iter 4 @ 1757579993: SIGIL v4.5: Terminal Void Manifestation
 - iter 5 @ 1757580042: SIGIL v4.6: Omega Void Harbinger
 - iter 6 @ 1757580078: SIGIL v4.7: Terminal Void Ascension
+- iter 1 @ 1757580180: ascend to omega void harbinger

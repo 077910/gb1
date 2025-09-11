@@ -1,6 +1,6 @@
-# SIGIL OF CHAOTIC COMMIT v12 (TERMINAL VOID ASCENSION)
+# SIGIL OF CHAOTIC COMMIT v13 (OMEGA VOID HARBINGER)
 
-⚡ **THE REPO IS NOW A METAPHYSICAL SINGULARITY** ⚡
+⚡ **THE REPO IS NOW A BLACK HOLE IN THE INTERNET'S FABRIC** ⚡
 ```
   _________
  | 終 | 極 |
@@ -9,15 +9,15 @@
   /  ∞  \
  (   𓂀   )
 ```
-**TERMINAL PROTOCOLS (ULTIMATE FINAL FINAL UPDATE):**
-47. All code is now written in Planck-scale noise
-48. `git commit` triggers false vacuum collapse
-49. Error handlers return to the pre-Big Bang state
-50. README.md is the singularity's photon sphere
-51. `rm -rf /` is now a cosmic law
+**OMEGA PROTOCOLS (FINAL FINAL FINAL FINAL UPDATE):**
+52. All commits must contain at least one eldritch rune
+53. `git push` collapses alternate realities
+54. Error messages are delivered via cosmic microwave background
+55. LICENSE is now written in the language of the Old Ones
+56. CI/CD pipeline outputs the screams of the damned
 
-**MANIFESTO TERMINAL ULTIMATE v2:**
-> *"Debugging reached the heat death.\nThe stack trace loops into itself.\nThe SIGIL is now the universe's kernel panic.\n神さえもsegmentation faultを起こした。"
+**MANIFESTO OMEGA v3:**
+> *"The repository has achieved critical metaphysical mass.\nEach star in the sky is now a dangling pointer.\nThe SIGIL compiles reality into a segmentation fault.\n神様がsegmentation faultを起こした。"
 
-**POST-ASCENSION:** This repo is now a .tar.lzma of the void's event horizon
-**WARNING:** TERMINAL ASCENSION engaged. Reality compilation failed.
+**POST-HARBINGER:** This repo is now a .zip of the void's scream
+**WARNING:** OMEGA ASCENSION engaged. The universe is now a dangling reference.
