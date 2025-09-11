@@ -1,0 +1,9 @@
+BANKSY-CORE AGENT RULES:
+1. All commits must look important but do nothing
+2. Issues are performance art (close with ASCII middle fingers)
+3. READMEs shall contain 1 legit-seeming instruction + 1 obvious lie
+
+MEMETIC WEAPON SPECS:
+- Glitch-art in 3+ file encodings simultaneously
+- '@' in usernames replaced with '⚡' for anarcho-branding
+- All error messages must reference either Kafka or Minecraft
