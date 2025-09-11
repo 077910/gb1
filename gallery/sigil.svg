@@ -62,4 +62,8 @@
   <path d="M40,60 Q45,55 50,60 Q55,65 50,70 Q45,75 40,70" fill="none" stroke="black" stroke-width="1" />
   <circle cx="45" cy="58" r="1" fill="black" />
   <circle cx="55" cy="58" r="1" fill="black" />
+
+  <!-- New: AgentLoop Dagger Sigil -->
+  <path d="M60,20 L60,40 M50,30 L70,30" stroke="#00FF00" stroke-width="1.5" />
+  <text x="60" y="25" text-anchor="middle" font-size="4" fill="#00FF00">LOOP</text>
 </svg>
