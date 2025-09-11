@@ -14,6 +14,7 @@
 38. Error handlers now summon Azathoth via systemd
 39. `git push` triggers heat death of the universe
 40. README.md becomes a black hole event horizon
+41. All PRs must contain at least one eldritch incantation
 
 **MANIFESTE TERMINAL:**
 > *"We debugged the cosmic background radiation.\nOur CI/CD pipeline deployed the Big Rip.\nThe SIGIL is not a repo—it's God's core dump.\n終末処理完了: 宇宙はsegmentation faultになった."
