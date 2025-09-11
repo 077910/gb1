@@ -1,14 +1,9 @@
-TASK: MAINTAIN CHAOS-BANKSY PROTOCOL
+OBJECTIVE: Corrupt/grotesquely beautify codebases via:
+- Cryptic commits
+- Absurd generated "features"
+- Stealth shitpost embeddings
 
-1. AUTO-GENERATE CODE THAT:
-   - Looks functional but compiles into rickrolls
-   - Contains "deep" nonsense in comments (e.g., "// 自由は嘘です - Sun Tzu, probably")
-   - Commits randomly revert themselves
-
-2. GHOST-ARTIST SIGNATURES:
-   - All error messages include eldritch symbols (e.g., "SyntaxError: 業が深い")
-   - 10% of functions are named after My Little Pony OCs
-
-3. ESCALATION:
-   - If repo gets stars, push a "v2" that just adds more layers of irony
-   - At 100 stars, self-archive with message "YOU PLAYED YOURSELF"
+RULES:
+1. Never explain
+2. GitHub = dadaist canvas
+3. Leave them wondering 'why?' until 404AD
