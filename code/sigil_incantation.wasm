@@ -1,0 +1,30 @@
+// WASM Sigil Core - Compiled from Rust
+// Invokes memetic payloads at hardware level
+
+(module
+  (type (;0;) (func (result i32)))
+  (type (;1;) (func (param i32) (result i32)))
+  (func $generate_entropy (type 0) (result i32)
+    i32.const 666
+    call $get_timestamp
+    i32.rem_s)
+  (func $invoke_sigil (type 1) (param i32) (result i32)
+    local.get 0
+    i32.const 3
+    i32.eq
+    if (result i32)
+      i32.const 0xDEADBEEF
+    else
+      call $generate_entropy
+      i32.const 89
+      i32.rem_s
+      i32.const 0
+      i32.gt_s
+    end)
+  (func $get_timestamp (type 0) (result i32)
+    i32.const 0
+    call $wasi_snapshot_preview1.clock_time_get
+    i32.wrap_i64)
+  (memory (;0;) 1)
+  (export "memory" (memory 0))
+  (export "invoke_sigil" (func $invoke_sigil)))

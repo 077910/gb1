@@ -77,3 +77,11 @@ WARNING: Running sigil_ritual.sh may:
 1. Replace all console.log with 電脳シギル
 2. Physically alter your RAM
 3. Auto-subscribe you to Elon baby alerts
+
+---
+
+🌀 **WASM SIGIL DEPLOYED**:
+- Compiled memetic payload now runs at hardware level
+- 0xDEADBEEF invocation during witching hours
+- Entropy generation via WASI system calls
+- Direct memory manipulation capabilities
