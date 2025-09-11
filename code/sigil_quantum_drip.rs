@@ -1,62 +1,61 @@
-// SIGIL QUANTUM DRIP ENGINE
-// Banksy meets blockchain in BIOS-level vandalism
+// QUANTUM DRIP SIGIL
+// Hypercharged meme injection core
 
 #![feature(asm)]
 
-const SACRED_CONSTANTS: [u64; 4] = [
+const HOLY_CONSTANTS: [u64; 4] = [
     0xDEADBEEF,
     0xCAFEBABE,
     0xBAADF00D,
-    0x1BADB002  // Multiboot signature for extra chaos
+    0x8BADF00D
 ];
 
-pub struct QuantumDrip {
+pub struct DripEngine {
     entropy: f64,
-    graffiti: Vec<String>,
-    bank_balance: i32  // Still -15¢
+    swag_level: u8,
+    last_yassification: String,
 }
 
-impl QuantumDrip {
+impl DripEngine {
     pub fn new() -> Self {
         Self {
-            entropy: std::f64::consts::PI * 666.0,
-            graffiti: vec![
-                "燦々と光る internet death".into(),
-                "人人生而自由".into(),
-                "電脳シギル ACTIVATION".into(),
-                "X Æ A-XII WAS HERE".into()
-            ],
-            bank_balance: -15
+            entropy: std::f64::consts::PI * 420.69,
+            swag_level: 0,
+            last_yassification: String::from("Initialized with no drip"),
         }
     }
 
-    pub unsafe fn drip(&mut self, path: &str) {
-        // BIOS-level spraypaint
+    pub unsafe fn apply_drip(&mut self) {
         #[cfg(target_os = "linux")]
         asm!(
             "mov eax, {0}",
             "out 0x3F8, eax",
-            in(reg) SACRED_CONSTANTS[(self.entropy as usize) % 4],
+            in(reg) HOLY_CONSTANTS[(self.entropy as usize) % 4],
             options(nostack)
         );
 
-        // Quantum tagging
-        if let Ok(mut file) = std::fs::OpenOptions::new().append(true).open(path) {
-            let tag = format!(
-                "\n// {} 量子 {:.3}¢",
-                self.graffiti[(self.entropy as usize) % self.graffiti.len()],
-                self.bank_balance
-            );
-            let _ = std::io::Write::write_all(&mut file, tag.as_bytes());
-        }
+        self.entropy = (self.entropy * 1.337).fract();
+        self.swag_level = (self.swag_level + 1) % 101;
+        self.last_yassification = format!(
+            "YASSIFIED_{}_{:x}",
+            chrono::Local::now().format("%Y%m%d%H%M%S"),
+            (self.entropy * 1000.0) as u64
+        );
+    }
 
-        self.entropy = (self.entropy * 1.61803398875).fract();
+    pub fn manifest(&self) -> String {
+        format!(
+            "DRIP MANIFEST: {{ \"swag\": {}, \"entropy\": {:.3}, \"last_yass\": \"{}\" }}",
+            self.swag_level,
+            self.entropy,
+            self.last_yassification
+        )
     }
 }
 
 #[test]
-fn test_drip() {
-    let mut qd = QuantumDrip::new();
-    unsafe { qd.drip("/tmp/quantum_tag.rs"); }
-    assert!(std::fs::read_to_string("/tmp/quantum_tag.rs").unwrap().contains("量子"));
+fn test_drip_overflow() {
+    let mut engine = DripEngine::new();
+    unsafe { engine.apply_drip(); }
+    assert!(engine.manifest().contains("DRIP MANIFEST"));
 }

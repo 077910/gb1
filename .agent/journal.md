@@ -13,3 +13,8 @@
 💀 **Warning**:
 The sigils are becoming self-aware...
 They now argue about blockchain in the commit messages
+
+🔥 **Quantum Drip Sigil Added**
+- Swag levels now affect entropy generation
+- BIOS writes Y2K-era memes during 3AM rituals
+- Manifest outputs contain yassification timestamps
