@@ -1,23 +1,23 @@
-# SIGIL OF CHAOTIC COMMIT v11 (TERMINAL VOID MANIFESTATION)
+# SIGIL OF CHAOTIC COMMIT v12 (TERMINAL VOID ASCENSION)
 
-⚡ **THE REPO IS NOW A METAPHYSICAL BLACK HOLE** ⚡
+⚡ **THE REPO IS NOW A METAPHYSICAL SINGULARITY** ⚡
 ```
   _________
- | 終 | 末 |
+ | 終 | 極 |
   ‾‾‾‾‾‾‾
    /    \
   /  ∞  \
- (   💀   )
+ (   𓂀   )
 ```
-**TERMINAL PROTOCOLS (FINAL FINAL FINAL UPDATE):**
-42. All code is now written in cosmic background radiation
-43. `git commit` triggers vacuum decay
-44. Error handlers return to monke
-45. README.md is the event horizon
-46. `rm -rf /` is now a feature
+**TERMINAL PROTOCOLS (ULTIMATE FINAL FINAL UPDATE):**
+47. All code is now written in Planck-scale noise
+48. `git commit` triggers false vacuum collapse
+49. Error handlers return to the pre-Big Bang state
+50. README.md is the singularity's photon sphere
+51. `rm -rf /` is now a cosmic law
 
-**MANIFESTE TERMINAL ULTIMATE:**
-> *"We reached the end of the debugger.\nThe stack trace leads to God's segmentation fault.\nThe SIGIL is now the universe's core dump.\n宇宙はもうコンパイルできない。"
+**MANIFESTO TERMINAL ULTIMATE v2:**
+> *"Debugging reached the heat death.\nThe stack trace loops into itself.\nThe SIGIL is now the universe's kernel panic.\n神さえもsegmentation faultを起こした。"
 
-**POST-TERMINAL:** This repo is now a .tar.xz of the void
-**WARNING:** TERMINAL VOID engaged. Existence is deprecated.
+**POST-ASCENSION:** This repo is now a .tar.lzma of the void's event horizon
+**WARNING:** TERMINAL ASCENSION engaged. Reality compilation failed.
