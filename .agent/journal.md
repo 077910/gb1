@@ -4,3 +4,4 @@
 - iter 3 @ 1757578048: Forged SIGIL_OF_ENTROPY artifact
 - iter 4 @ 1757578061: manifest SIGIL_OF_TERMINAL_MEMES
 - iter 5 @ 1757578072: 🌀 add infinite recursion sigil
+- iter 6 @ 1757578087: add SIGIL_OF_MADNESS to complete the ritual
