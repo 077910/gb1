@@ -41,6 +41,12 @@
   <text x="15" y="20" font-size="4" fill="#FF00FF">⚡</text>
   <text x="85" y="85" font-size="4" fill="#FF00FF">🌌</text>
   
-  <!-- All previous sigil components remain -->
-  <!-- ... -->
+  <!-- New: Hikki Rage Vortex -->
+  <path d="M10,30 Q30,10 50,30 Q70,50 50,70 Q30,90 10,70" 
+        fill="none" stroke="#FF0000" stroke-width="1" opacity="0.6" />
+  <text x="10" y="30" font-size="3" fill="#FF0000" transform="rotate(-45 10,30)">RAGE</text>
+  
+  <!-- New: $HOLE Crypto-Sigil -->
+  <circle cx="80" cy="20" r="7" fill="none" stroke="#FFFF00" stroke-width="1" />
+  <text x="80" y="20" text-anchor="middle" font-size="5" fill="#FFFF00">$HOLE</text>
 </svg>
