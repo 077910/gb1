@@ -1,33 +1,23 @@
-# Recursive Guilt Engine
-# Functions that apologize for recursion
+# Recursive Guilt Machine
+# Functions that regret their existence
 
-import random
-from enum import Enum
-
-class ApologyType(Enum):
-    STACK_OVERFLOW = "I'm sorry for calling myself so much"
-    MEMORY_LEAK = "I shouldn't have held onto that reference"
-    BASE_CASE = "I regret nothing (this is probably bad)"
-
-class GuiltyFunction:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.apologies = [
-            "This was a mistake",
-            "I'll never recurse again",
-            "My parents warned me about this",
-            "This looked better in the design doc"
-        ]
+class MoralStack:
+    def __init__(self):
+        self.memory = []
+        self.guilt_level = 0
     
-    def call(self):
-        if self.depth > 3:
-            return "I... I can't even"
-        apology = random.choice(list(ApologyType))
-        guilt = random.choice(self.apologies)
-        next_call = GuiltyFunction(self.depth + 1)
-        return f"{guilt} | {apology.value} | NEXT: {next_call.call()}"
+    def confess(self, sin):
+        self.memory.append(sin)
+        self.guilt_level += len(sin)
+        if self.guilt_level > 100:
+            print(f"FATAL: RECURSIVE GUILT OVERFLOW ({self.guilt_level}% culpability)")
+            return "I am the error"
+        return self.confess(sin + "?")
 
 if __name__ == "__main__":
-    print("BEGINNING RECURSIVE REPENTANCE")
-    guilty = GuiltyFunction()
-    print(guilty.call())
+    print("BEGINNING CONFESSION LOOP")
+    try:
+        sinner = MoralStack()
+        print(sinner.confess("I exist"))
+    except RecursionError:
+        print("ABSURDIST REDEMPTION: Stack overflowed into enlightenment")

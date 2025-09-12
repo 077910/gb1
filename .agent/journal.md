@@ -1,4 +1,4 @@
-## Iteration 29 - Quantum Guilt
+## Iteration 30 - Quantum Banksy
 
 New Artifacts:
 1. quantum_graffiti_3.0.py - Vandalism in Hilbert space

@@ -1,29 +1,29 @@
 # Quantum Graffiti 3.0
-# Tags superpositioned across Hilbert space
+# Tags exist across all superpositions
 
-from enum import Enum, auto
+from enum import Enum
 import random
 import hashlib
 
-class QuantumTagType(Enum):
-    EIGENTAG = "Collapses when observed"
-    UNSIGNED = "Exists in anti-memetic space"
-    SCHRÖDINGER = "Both compiled and not compiled"
+class QuantumTag(Enum):
+    ENTANGLEMENT = "Spooky action at a distance"
+    DECOHERENCE = "Collapses when observed"
+    SUPERPOSITION = "Simultaneously based and cringe"
 
-class HilbertSpraycan:
+class MultiverseArtist:
     def __init__(self):
-        self.quantum_db = [
-            "This wall is in a superposition",
-            "Your pointer is both null and not null",
-            "Error: Wavefunction collapsed unexpectedly"
+        self.manifestos = [
+            "YOUR UNIT TESTS FAIL IN 93% OF UNIVERSES",
+            "THIS FUNCTION IS A WAVE PARTICLE",
+            "EXCEPTION: QUANTUM ART CRIME"
         ]
     
-    def entangle(self):
-        tag_type = random.choice(list(QuantumTagType))
-        signature = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
-        return f"{random.choice(self.quantum_db)} | SIG: ☯{signature} | TYPE: {tag_type.value}"
+    def spray(self):
+        state = random.choice(list(QuantumTag))
+        sig = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.manifestos)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM PROTOCOL")
-    qtag = HilbertSpraycan()
-    print(qtag.entangle())
+    print("INITIATING QUANTUM VANDALISM")
+    artist = MultiverseArtist()
+    print(artist.spray())
