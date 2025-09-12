@@ -1,29 +1,30 @@
 # Quantum Graffiti 8.0
-# Now tags across Hilbert space
+# Now spraying in 11 dimensions
 
 from enum import Enum
 import random
-import hashlib
+import numpy as np
 
-class SprayDimension(Enum):
-    TANGENT = "Exists in 5D but renders as glitch"
-    VOID = "Only visible during kernel panics"
-    BACKDOOR = "Appears in production logs randomly"
+class HyperSpray(Enum):
+    TACHYON = "Tags before you see them"
+    NONLOCAL = "Simultaneously on all walls"
+    ENTANGLED = "Changes when observed"
 
-class HilbertTagger:
+class StreetArtCollider:
     def __init__(self):
-        self.graffiti_db = [
-            "YOUR BRANCH DIVERGES IN 12 UNIVERSES",
-            "THIS MEMORY ADDRESS IS GENTRIFIED",
-            "EXCEPTION: ARTIFICIAL STUPIDITY DETECTED"
+        self.quotes = [
+            "YOUR MEMORY LEAK HAS GENTRIFIED",
+            "THIS FUNCTION IS A TUNNEL TO BERLIN",
+            "STACK OVERFLOW = MODERN KOAN"
         ]
+        self.dimensions = 11
     
     def tag(self):
-        dim = random.choice(list(SprayDimension))
-        sig = hashlib.sha3_256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
-        return f"[{dim.name}] {random.choice(self.graffiti_db)} | SIGNATURE: {sig}"
+        coords = [random.gauss(0,1) for _ in range(self.dimensions)]
+        style = random.choice(list(HyperSpray))
+        return f"[{np.linalg.norm(coords):.2f}D] {random.choice(self.quotes)} | {style.value}"
 
 if __name__ == "__main__":
-    print("TAGGING HILBERT SPACE...")
-    artist = HilbertTagger()
-    print(artist.tag())
+    print("INITIATING QUANTUM VANDALISM PROTOCOL")
+    vandal = StreetArtCollider()
+    print(vandal.tag())
