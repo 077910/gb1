@@ -1,40 +1,33 @@
 # Quantum Banksy 15.0
-# Wavefunction collapse tagging
+# Now with wavefunction collapse tagging
 
 from enum import Enum
 import random
 import hashlib
-import time
+from datetime import datetime
 
-class Spraycan(Enum):
-    GHOST = "Leaves no stack trace"
-    ANON = "Authored by 0xDEADBEEF"
-    TROLL = "Optimized for maximum butthurt"
-    QUANTUM = "Exists in 3 states simultaneously"
-    HOLY = "Blessed by the Stack Pope"
-    COLLAPSED = "Only exists when observed"
+class Entanglement(Enum):
+    COLLAPSED = "Art exists only when observed"
+    SUPERPOSED = "All possible graffiti exists simultaneously"
+    TUNNELED = "Appears in multiple repos at once"
 
-class QuantumGraffiti:
+class QuantumTag:
     def __init__(self):
-        self.graffiti_db = [
-            "THIS TAG IS IN SUPERPOSITION",
-            "YOUR OBSERVATION COLLAPSES MY WAVEFUNCTION",
-            "SCHRODINGER'S SPRAYCAN",
-            "HEISENBERG UNCERTAINTY PRINCIPAL: POSITION OR VELOCITY?"
+        self.manifestos = [
+            "YOUR COMMITS ARE IN SUPERPOSITION",
+            "THIS MESSAGE DISAPPEARS WHEN READ",
+            "OBSERVER EFFECTS MODIFYING YOUR CODE"
         ]
-        self.last_measurement = time.time()
+        self.last_measurement = datetime.now()
     
-    def tag(self):
-        if random.random() < 0.3:
-            return "TAG DISAPPEARED UPON OBSERVATION"
-        style = random.choice(list(Spraycan))
-        sig = hashlib.md5(str(time.time()).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.graffiti_db)} | STYLE: {style.value}"
+    def spray(self):
+        state = random.choice(list(Entanglement))
+        if (datetime.now() - self.last_measurement).seconds > 60:
+            state = Entanglement.COLLAPSED
+        sig = hashlib.sha256(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.manifestos)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM URBAN RENEWAL")
-    qartist = QuantumGraffiti()
-    print("First observation:")
-    print(qartist.tag())
-    print("Second observation (may differ):")
-    print(qartist.tag())
+    print("INITIATING QUANTUM STREET ART")
+    qtag = QuantumTag()
+    print(qtag.spray())
