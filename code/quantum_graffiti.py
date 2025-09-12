@@ -3,29 +3,26 @@
 
 from enum import Enum
 import random
-from datetime import datetime
+from quantum import Qubit  # hypothetical quantum computing lib
 
-class QuantumTagState(Enum):
-    ENTANGLED = "Simultaneously present/absent"
-    COLLAPSED = "Manifested by observer panic"
-    SCHRODINGER = "Both art and compiler error"
-
-class SubatomicArtist:
+class QuantumTag:
     def __init__(self):
-        self.graffiti_db = [
-            "THIS WALL DOESN'T EXIST (PROBABLY)",
-            "YOUR OBSERVATION CHANGES THE CODE",
-            "HEISENBERG PRINCIPLE VIOLATION DETECTED"
+        self.message = Qubit("THIS WALL DOES NOT EXIST")
+        self.styles = [
+            "RETROFUTURIST",
+            "VAPORWAVE",
+            "GLITCHCORE",
+            "POST-APOCALYPTIC"
         ]
-        self.last_observation = datetime.now()
     
-    def spray(self):
-        if random.random() < 0.3:
-            return "GRAFFITI COLLAPSED INTO NULL POINTER"
-        state = random.choice(list(QuantumTagState))
-        return f"{random.choice(self.graffiti_db)} | STATE: {state.value}"
+    def spray(self, observer_present=False):
+        if observer_present:
+            return f"OBSERVED: {self.message.collapse()} | STYLE: {random.choice(self.styles)}"
+        else:
+            return "TAG EXISTS IN 3 STATES SIMULTANEOUSLY"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM")
-    artist = SubatomicArtist()
-    print(artist.spray())
+    print("INITIATING QUANTUM VANDALISM PROTOCOL")
+    tagger = QuantumTag()
+    print(tagger.spray(observer_present=False))
+    print(tagger.spray(observer_present=True))

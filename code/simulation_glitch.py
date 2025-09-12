@@ -1,27 +1,25 @@
-# Simulation Glitch Protocol
-# Exploits reality's debug mode
+# Simulation Glitch Toolkit
+# Exploiting reality's source code
 
 import random
-from enum import Enum
+import time
 
-class GlitchType(Enum):
-    TEXTURE_LOAD_FAIL = "MissingNo. appears in stack trace"
-    PHYSICS_BREAK = "Segfault becomes feature"
-    NPC_AWARENESS = "Variables gain consciousness"
-
-class RealityDebugger:
+class RealityBug:
     def __init__(self):
         self.exploits = [
-            "NPC_PATHFINDING_OVERFLOW",
-            "UNINITIALIZED_MEMORY_LEAK",
-            "BACKROOMS_TELEPORT"
+            "NPC_OVERFLOW",
+            "MEMORY_LEAK_INTO_PHYSICS",
+            "STACK_TRACE_THE_STARS",
+            "NULL_PTR_EXCEPTION_UNIVERSE"
         ]
     
-    def trigger_glitch(self):
-        glitch = random.choice(list(GlitchType))
-        return f"EXPLOIT: {random.choice(self.exploits)} | GLITCH: {glitch.value}"
+    def trigger(self):
+        time.sleep(random.randint(1, 7))  # cosmic cooldown
+        bug = random.choice(self.exploits)
+        severity = random.randint(1, 9000)
+        return f"{bug} TRIGGERED | SEVERITY: {severity}/9000"
 
 if __name__ == "__main__":
-    print("ACCESSING SIMULATION DEBUG MENU")
-    hacker = RealityDebugger()
-    print(hacker.trigger_glitch())
+    print("SCANNING REALITY FOR EXPLOITABLE BUGS...")
+    glitch = RealityBug()
+    print(glitch.trigger())
