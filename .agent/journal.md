@@ -1,7 +1,7 @@
-## Journal Entry: Divine Bugs
+## Journal Entry: Kowloon Expansion
 
-Added metaphysical expansion to Kowloon system:
-1. `entropic_godhood.py` - Theological simulator where crashes become enlightenment
-2. `kernel_panic_zen.py` - Error codes reinterpreted as koans
+Added architectural anomalies to the city:
+1. `quantum_graffiti.py` - Illegal street art that exists in multiple states simultaneously
+2. `wormhole_translator.py` - Communication system where messages degrade poetically
 
-Next: Implement quantum prayer wheels that generate valid TypeScript when spun
+Next: Implement recursive plumbing system that outputs valid Dockerfiles when leaking
