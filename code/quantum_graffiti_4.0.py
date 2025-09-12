@@ -1,30 +1,29 @@
 # Quantum Graffiti 4.0
-# Multiversal tags that collapse on observation
+# Tags persist across quantum branches
 
-import random
 from enum import Enum
+import random
 import hashlib
 
-class QuantumTag(Enum):
-    SUPERPOSED = "Exists in all states until CI runs"
-    ENTANGLED = "Changes when you're not looking"
-    COLLAPSED = "Only appears in production"
+class MultiverseSpraycan(Enum):
+    SUPERPOSITION = "Exists in all states until CI observes"
+    ENTANGLEMENT = "Tags correlated across parallel builds"
+    DECOHERENCE = "Collapses into tech debt when measured"
 
-class StreetOracle:
+class QuantumVandal:
     def __init__(self):
-        self.walls = {
-            0xDEAD: "THIS CODE WAS NEVER HERE",
-            0xBEEF: "YOUR COVERAGE MISSES ME",
-            0xCAFE: "THE VOID COMPILES THIS"
-        }
+        self.manifestos = [
+            "YOUR UNIT TESTS FAIL IN 52% OF UNIVERSES",
+            "THIS FUNCTION IS SCHRODINGER'S CAT",
+            "OBSERVATION CREATES TECHNICAL DEBT"
+        ]
     
-    def spray(self):
-        state = random.choice(list(QuantumTag))
-        wall = random.choice(list(self.walls.keys()))
-        sig = hashlib.sha3_256(str(wall).encode()).hexdigest()[:8]
-        return f"[{sig}] 0x{wall:X}: {self.walls[wall]} | STATE: {state.value}"
+    def tag(self):
+        style = random.choice(list(MultiverseSpraycan))
+        sig = hashlib.sha256(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.manifestos)} | {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM")
-    oracle = StreetOracle()
-    print(oracle.spray())
+    print("INITIATING QUANTUM DEFACEMENT")
+    vandal = QuantumVandal()
+    print(vandal.tag())

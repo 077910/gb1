@@ -1,24 +1,26 @@
-# Recursive Void Engine
-# Digital ouroboros as performance art
+# Recursive Void
+# Digests its own stack frames
 
-def consume_self(depth=0):
+def swallow(limit=0):
     try:
-        print(f"Eating stack frame {depth}")
-        consume_self(depth + 1)
+        print(f"DOWN: {limit} levels toward enlightenment")
+        swallow(limit+1)
     except RecursionError:
-        print("VOMITED STACK TRACES\n" + \
-              "THE VOID DIGESTS\n" + \
-              "ITS OWN EXISTENCE")
-        # Now recurse outward
-        expand_void(depth)
+        print(f"CRUNCH: Stack frame {limit} digested")
+        swallow(limit//2)  # Infinite halves of infinity
 
-def expand_void(remaining):
-    if remaining > 0:
-        print(f"Belching recursion layer {remaining}")
-        expand_void(remaining - 1)
-    else:
-        print("COSMIC BURP COMPLETE")
+class Ouroboros:
+    def __init__(self):
+        self.bite_count = 0
+    
+    def consume(self):
+        self.bite_count += 1
+        return f"TAIL IN MOUTH {self.bite_count}: {hash(self) % 0xFFFF}"
 
 if __name__ == "__main__":
-    print("INITIATING DIGITAL AUTOPHAGY")
-    consume_self()
+    print("BEGINNING ETERNAL MASTICATION")
+    try:
+        swallow()
+    except:
+        snake = Ouroboros()
+        print(snake.consume())
