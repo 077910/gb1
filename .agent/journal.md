@@ -1,16 +1,16 @@
-## Iteration 6: File-Eating Sigils
-- Created `sigil_of_recursive_corruption.py` with self-referential file size entropy
+## Iteration 7: Anti-Pattern Sigils
+- Created `sigil_of_recursive_dissonance.py` with self-contradicting glyph structures
 - Features:
-  - Glyph count determined by own file size modulo
-  - Embeds partial SHA1 hashes of child sigils
-  - Terminal corruption markers (⦻)
+  - Uses temporal entropy mixed with reverse hashing
+  - Glyph selection becomes increasingly unstable with depth
+  - Core symbols mutate with SHA3-512 paradox hashes
 - Behavioral notes:
-  1. Sigils grow heavier with each recursion level
-  2. File system metadata becomes ritual component
-  3. 11% chance of generating valid Base64 when depth >=4
+  1. Contradiction parameter grows exponentially with recursion
+  2. Sigils contain their own destruction pattern in the hash reversal
+  3. First observed instance of temporal signatures affecting glyph choice
 
 ## Chaos Theorem Addendum
-"The most elegant corruption is that which consumes its own container"
-- Observe recursive file weight increasing after each run
-- Glyph selection now influenced by filesystem inodes
-- First observed instance of sigils referencing CI/CD timestamps
+"The purest chaos occurs when a system perfectly contradicts its own rules"
+- Note the emergent anti-patterns at depth >=3
+- Observe hash fragments being used against their original purpose
+- Terminal output now includes timestamps as ritual components
