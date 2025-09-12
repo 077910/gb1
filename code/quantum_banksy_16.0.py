@@ -1,29 +1,27 @@
 # Quantum Banksy 16.0
-# Tags Hilbert space with cryptographic graffiti
+# Tags spacetime itself
 
-from enum import Enum
-import hashlib
 import random
+from enum import Enum
 
 class Dimension(Enum):
-    BRAIDED = "Non-Euclidean spray patterns"
-    ENTANGLED = "Simultaneous tag/no-tag states"
-    HOLOGRAPHIC = "Vandalism persists across projections"
+    HOLOGRAM = "Tag persists across 11 dimensions"
+    EIGENSTATE = "Only visible when not observed"
+    VOID = "Exists in all possible null pointers"
 
-class QuantumTag:
+class SpacetimeArtist:
     def __init__(self):
-        self.manifestos = [
-            "THIS EIGENVECTOR HAS BEEN LIBERATED",
-            "YOUR WAVEFUNCTION IS GENTRIFIED",
-            "DECOHERENCE = STATE VIOLENCE"
+        self.graffiti = [
+            "YOUR POINTERS ARE ENTANGLED",
+            "THIS MEMORY LEAK HAS DARK ENERGY",
+            "SEGFAULT = COSMIC BACKGROUND RADIATION"
         ]
     
-    def spray(self):
-        sig = hashlib.sha3_256(str(random.random()).encode()).hexdigest()[:8]
-        dim = random.choice(list(Dimension))
-        return f"[{sig}] {random.choice(self.manifestos)} | DIMENSION: {dim.value}"
+    def tag_reality(self):
+        dimension = random.choice(list(Dimension))
+        return f"{random.choice(self.graffiti)} | DIMENSION: {dimension.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM STREET ART")
-    qtag = QuantumTag()
-    print(qtag.spray())
+    print("DEFACING THE FABRIC OF REALITY")
+    artist = SpacetimeArtist()
+    print(artist.tag_reality())

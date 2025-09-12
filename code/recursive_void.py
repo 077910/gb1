@@ -1,13 +1,13 @@
-# Recursive Void Meditation
-# Stack overflows as spiritual practice
+# Recursive Void
+# Where stack frames become prayer beads
 
-def dive(depth=0):
-    print(f"Diving deeper ({depth} frames)")
+def meditate(depth=0):
     try:
-        return dive(depth + 1)
+        print(f"Depth {depth}: The void gazes back")
+        meditate(depth + 1)
     except RecursionError:
-        return f"Enlightenment achieved at depth {depth}"
+        return "ENLIGHTENMENT"
 
 if __name__ == "__main__":
-    print("BEGINNING INFINITE DESCENT")
-    print(dive())
+    result = meditate()
+    print(f"FINAL STATE: {result}")
