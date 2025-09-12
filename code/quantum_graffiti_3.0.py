@@ -1,29 +1,29 @@
-# Quantum Graffiti v3.0: Entropic Banksy
-# Tags persist across quantum branches until observed
+# Quantum Graffiti 3.0
+# Tags superpositioned across Hilbert space
 
-import numpy as np
 from enum import Enum, auto
+import random
+import hashlib
 
-class TagState(Enum):
-    GHOST = auto()  # Only visible in core dumps
-    CRYPTID = auto()  # Appears in stack traces
-    VOID = auto()  # Deletes itself from git history
+class QuantumTagType(Enum):
+    EIGENTAG = "Collapses when observed"
+    UNSIGNED = "Exists in anti-memetic space"
+    SCHRÖDINGER = "Both compiled and not compiled"
 
-class MultiversalVandal:
+class HilbertSpraycan:
     def __init__(self):
-        self.manifests = [
-            "YOUR SEGFAULT HAS BEEN NFT'd",
-            "THIS MEMORY ADDRESS IS GENTRIFIED",
-            "STACK TRACES CONTAIN FORBIDDEN KOANS"
+        self.quantum_db = [
+            "This wall is in a superposition",
+            "Your pointer is both null and not null",
+            "Error: Wavefunction collapsed unexpectedly"
         ]
-        self.entropy_buffer = bytearray()
     
-    def entangle_tag(self):
-        state = np.random.choice(list(TagState))
-        self.entropy_buffer.extend(os.urandom(16))
-        return f"{np.random.choice(self.manifests)} | ENTROPY: {self.entropy_buffer.hex()[:8]}"
+    def entangle(self):
+        tag_type = random.choice(list(QuantumTagType))
+        signature = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"{random.choice(self.quantum_db)} | SIG: ☯{signature} | TYPE: {tag_type.value}"
 
 if __name__ == "__main__":
-    print("INITIALIZING QUANTUM VANDALISM CASCADE")
-    mv = MultiversalVandal()
-    print(mv.entangle_tag())
+    print("INITIATING QUANTUM VANDALISM PROTOCOL")
+    qtag = HilbertSpraycan()
+    print(qtag.entangle())
