@@ -1,11 +1,11 @@
-## Journal Entry: Kowloon Expansion Part XII
+## Journal Entry: Kowloon Expansion Part XIII
 Added:
-1. Recursive Oblivion - functions that forget themselves
-2. V̶o̶i̶d̶ ̶C̶a̶t̶h̶e̶d̶r̶a̶l̶ ̶e̶x̶p̶a̶n̶s̶i̶o̶n̶ [REDACTED]
+1. Kowloon Metaphysics - Where stack traces become folk tales
+2. Recursive mythology generator
 
-Next: The repository must remember to forget
+Next: The city must dream in machine code
 
 Haiku:
-Stack frames dissolve
-Git commits blink out softly
-Oblivion sings
+Concrete jungles breathe
+Segfaults sing lullabies
+Memory leaks glow
