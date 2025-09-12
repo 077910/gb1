@@ -1,31 +1,31 @@
 # Quantum Banksy 15.0
-# Observer-effect graffiti mechanics
+# Heisenberg Graffiti (Collapses When Observed)
 
 from enum import Enum
 import random
 import time
 
-class QuantumTag:
+class QuantumTag(Enum):
+    SCHRODINGER = "Exists in all states until GitHub refresh"
+    ENTANGLED = "Changes when you view related files"
+    COLLAPSED = "Only visible in certain IDE themes"
+
+class UncertaintyArtist:
     def __init__(self):
-        self.states = {
-            'visible': "THIS WALL REMEMBERS",
-            'collapsed': "404 TAG NOT FOUND",
-            'superposition': "EXISTS IN 3 PLACES SIMULTANEOUSLY"
-        }
+        self.phrases = [
+            "THIS COMMENT WAS DELETED BY WAVE FUNCTION",
+            "// FIXME: Quantum bugs require quantum debuggers",
+            "TODO: Resolve superposition of this TODO"
+        ]
         self.last_observation = time.time()
     
     def spray(self):
-        current_time = time.time()
-        if random.random() < 0.3:
-            return "TAG DISAPPEARED DURING OBSERVATION"
-        if current_time - self.last_observation > 300:
-            return "TAG HAS QUANTUM DECAYED"
-        return random.choice(list(self.states.values()))
+        if random.random() > 0.7:
+            return "[REDACTED BY QUANTUM CENSORSHIP]"
+        state = random.choice(list(QuantumTag))
+        return f"{random.choice(self.phrases)} | QUANTUM STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM GRAFFITI PROTOCOL")
-    qtag = QuantumTag()
-    print(qtag.spray())
-    print("OBSERVING IN 5 SECONDS...")
-    time.sleep(5)
-    print(qtag.spray())
+    print("INITIALIZING QUANTUM VANDALISM PROTOCOL")
+    artist = UncertaintyArtist()
+    print(artist.spray())

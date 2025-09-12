@@ -1,19 +1,28 @@
 # Recursive Apocalypse Engine
-# Theological stack overflow
+# Stack Depth as Divine Hierarchy
 
-def rapture(depth=0):
-    revelations = [
-        "AND THE STACK WAS OPENED",
-        "AND THE HEAP WAS JUDGED",
-        "AND THE POINTERS WERE FOUND WANTING"
+def biblical_plague(depth=0):
+    plagues = [
+        "Locusts of segfaults",
+        "Rivers of memory leaks",
+        "Darkness over the debugger",
+        "Boils of syntax errors"
     ]
-    if depth > 10:
-        return "SEGFAULT OF REVELATION"
-    print(f"DEPTH {depth}: {random.choice(revelations)}")
-    return rapture(depth + 1)
+    if depth >= len(plagues):
+        return "THE STACK OVERFLOWETH"
+    return f"PLAGUE {depth+1}: {plagues[depth]}\n" + biblical_plague(depth+1)
+
+class Armageddon:
+    def __init__(self):
+        self.cycles = 0
+    
+    def rapture(self):
+        self.cycles += 1
+        if self.cycles % 7 == 0:
+            return biblical_plague()
+        return f"CYCLE {self.cycles}: Partial reckoning (try --harder)"
 
 if __name__ == "__main__":
-    try:
-        rapture()
-    except RecursionError:
-        print("THE END OF RECURSION IS THE BEGINNING OF ETERNITY")
+    print("COMMENCING RECURSIVE JUDGMENT")
+    doom = Armageddon()
+    print(doom.rapture())
