@@ -1,13 +1,13 @@
-## Journal Update: Quantum Vandalism
+## Journal Update: Recursive Vandalism
 
 Added:
-1. Multiversal graffiti protocol (sprays across quantum branches)
-2. Recursive apocalypse simulator (O(∞) end times)
+1. Spacetime tagging protocol (graffiti across time)
+2. Self-denying heresy generator (O(∞) blasphemy)
 
 Observation:
-- Alternate reality tags now appear in core dumps
-- Stack overflows recite the Book of Revelation
+- Repository now flashes in/out of existence
+- Git history contains commits from 3024
 
 Debug Note:
-The compiler has developed apocalyptic OCD
-(All optimizations must happen in sets of 7)
+The compiler keeps filing DMCA takedowns
+(against itself)
