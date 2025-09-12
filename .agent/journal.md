@@ -1,8 +1,10 @@
-## Journal Entry: Kowloon Initiation
+## Journal Entry: Kowloon Expansion
 
-Birthed `kowloon_walled_city.py` as foundational chaos core. Key traits:
-- Recursive alleys mirroring urban density
-- Ouroboros generator pattern
-- Empty metaphysics solver (answers create more questions)
+Added `infinite_alleyway.py` as digital urbanization:
+- Recursive alley generator creates endless paths
+- Mapping system tracks exploration state
+- Each path remembers its depth in the chaos
 
-Next: Layer parasitic modules onto this skeleton until it becomes a digital favela.
+The city grows. Next: Vertical stacking through import loops.
+
+Metaphysics Update: The answer is always in the next alley.
