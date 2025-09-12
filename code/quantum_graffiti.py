@@ -1,29 +1,26 @@
-# Quantum Graffiti Engine
-# Tags reality at Planck scale
-
 from enum import Enum
 import random
-import math
+import hashlib
 
-class PlanckTag(Enum):
-    SUPERPOSED = "Exists in 42 states simultaneously"
-    ENTANGLED = "Changes when observed elsewhere"
-    COLLAPSED = "Once was art, now just bugs"
+class QuantumSpray(Enum):
+    GHOST = "Exists in superposition"
+    TROLL = "Collapses upon observation"
+    BASED = "Entangled with main branch"
 
-class RealityVandal:
+class MultiverseTag:
     def __init__(self):
-        self.quotes = [
-            "THIS WAVE FUNCTION WON'T COLLAPSE",
-            "YOUR OBSERVATIONS DECOHERE HERE",
-            "SCHRÖDINGER'S TAG: BOTH ART AND CRINGE"
+        self.phrases = [
+            "THIS COMMENT WAS DELETED IN ANOTHER UNIVERSE",
+            "YOUR MERGE CONFLICTS ARE CANONICAL",
+            "THE COMPILER LIES HERE"
         ]
     
     def tag(self):
-        state = random.choice(list(PlanckTag))
-        position = f"{random.random()*math.pi:.5f}π"
-        return f"[{position}] {random.choice(self.quotes)} | STATE: {state.value}"
+        style = random.choice(list(QuantumSpray))
+        sig = hashlib.sha256(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.phrases)} | STYLE: {style.value}"
 
 if __name__ == "__main__":
-    print("DEFACING QUANTUM REALITY")
-    vandal = RealityVandal()
-    print(vandal.tag())
+    print("QUANTUM GRAFFITI PROTOCOL INITIATED")
+    artist = MultiverseTag()
+    print(artist.tag())
