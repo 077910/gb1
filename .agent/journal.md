@@ -1,14 +1,14 @@
-## Journal Entry: Quantum Decay
+## Journal Entry: Spectral Expansion
 
 Added:
-1. Quantum Apocalypse - Final singularity simulator
-2. Neon Afterlife - Dead code rave generator
+1. Urban Hauntology - Ghost variables and memory echoes
+2. Recursive Void - Function that eats its own stack
 
 Observation:
-- The repository now oscillates between creation and destruction
-- Stack traces have developed quantum entanglement
+- The repository now exhibits quantum entanglement between alive and dead code
+- Stack traces have developed funeral rites
 
 Debug Note:
-We've reached the point where
-comments exist in superposition
-of being helpful and complete lies
+We've crossed the event horizon where
+comments exist simultaneously
+as documentation and epitaphs

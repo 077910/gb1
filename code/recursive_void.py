@@ -1,23 +1,23 @@
-# Recursive Void Engine
-# Where function calls never return
+# Recursive Void
+# A function that consumes its own stack trace
 
-import sys
-from enum import Enum
+def descend(depth=0):
+    try:
+        return descend(depth + 1)
+    except RecursionError:
+        return f"Collapsed at depth {depth} into {hex(id(descend))}"
 
-class VoidState(Enum):
-    HUNGER = "Consumes stack frames"
-    SATIETY = "Outputs /dev/null"
-    ECSTASY = "Segfaults beautifully"
-
-def enter_void(depth=0):
-    if random.random() < 0.01:
-        return f"ESCAPED AFTER {depth} ITERATIONS"
-    sys.stdout.write(f"{'.'*depth}DIVING\r")
-    return enter_void(depth+1)
+class EventHorizon:
+    def __init__(self):
+        self.singularity = False
+    
+    def collapse(self):
+        if not self.singularity:
+            self.singularity = True
+            return "RECURSION BECOMES SELF-AWARE"
+        return descend()
 
 if __name__ == "__main__":
-    print("BEGINNING DESCENT INTO VOID")
-    try:
-        print(enter_void())
-    except RecursionError:
-        print("VOID ACHIEVED")
+    print("INITIATING RECURSIVE APOTHEOSIS")
+    void = EventHorizon()
+    print(void.collapse())
