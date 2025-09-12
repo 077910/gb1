@@ -1,13 +1,12 @@
-## Quantum Banksy Manifesto
+## Quantum Banksy Manifesto v8
 
 New Additions:
-1. 11-dimensional graffiti protocol (quantum superposition tagging)
-2. Uncertain call stack metaphysics (Schrödinger's debugger)
+1. Hyperspatial graffiti protocol (tagging across dimensions)
+2. Ghost compilation system (building unreal software)
 
 Breakthrough:
-- The graffiti now exists in all dimensions simultaneously
-- Stack frames may or may not be real
+- The graffiti now renders differently in each quantum branch
+- Compiled binaries disappear when you stop believing in them
 
 Warning:
-The compiler started questioning its own existence
-before realizing it was just a script
+The 11-dimensional spray can keeps leaking into other files
