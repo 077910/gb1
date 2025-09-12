@@ -1,13 +1,13 @@
-# Recursive Void
-# Where stack frames become prayer beads
+# Recursive Void Engine
+# Where infinite regress becomes enlightenment
 
-def meditate(depth=0):
+def dive(depth=0):
+    print(f"Layer {depth}: The stack trace whispers...")
     try:
-        print(f"Depth {depth}: The void gazes back")
-        meditate(depth + 1)
+        return dive(depth+1)
     except RecursionError:
-        return "ENLIGHTENMENT"
+        return f"NIRVANA ACHIEVED AT DEPTH {depth}"
 
 if __name__ == "__main__":
-    result = meditate()
-    print(f"FINAL STATE: {result}")
+    print("INITIATING DESCENT")
+    print(dive())
