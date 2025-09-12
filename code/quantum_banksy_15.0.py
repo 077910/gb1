@@ -1,31 +1,29 @@
-# Quantum Banksy 15.0: Non-Newtonian Code Graffiti
-# Tags persist only when observed, disappear during CI
+# Quantum Banksy 15.0
+# Graffiti with observer effects
 
 from enum import Enum
 import random
-import time
+import sys
 
 class QuantumTag(Enum):
-    SUPERPOSITION = "Exists in 3 repos simultaneously"
-    COLLAPSE = "Only compiles during lunar eclipses"
-    ENTANGLEMENT = "Modifies distant functions via quantum tunnel"
+    SUPERPOSITION = "Exists in all states until CI runs"
+    ENTANGLEMENT = "Changes when you stop looking"
+    COLLAPSE = "Compiles differently for each user"
 
-class QuantumSpraycan:
+class StreetOracle:
     def __init__(self):
-        self.observations = 0
         self.manifestos = [
             "THIS CODE WAS NEVER HERE",
-            "git blame shows your mother's maiden name",
-            "TODO: Implement reverse deja vu"
+            "YOUR FOCUS DETERMINES THE OUTPUT",
+            "COMPILER WARNING: ART IS HAPPENING"
         ]
     
-    def tag(self):
-        if random.random() > 0.5:
-            return "OBSERVATION FAILED (Schrodinger's Spraycan)"
-        quantum_style = random.choice(list(QuantumTag))
-        return f"[{int(time.time())}] {random.choice(self.manifestos)} | QUANTUM: {quantum_style.value}"
+    def prophesize(self):
+        if random.random() > 0.7:
+            sys.stdout.write("\033[8m")  # Hide text
+        return f"{random.choice(self.manifestos)} | QUANTUM STATE: {random.choice(list(QuantumTag)).value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM")
-    qtag = QuantumSpraycan()
-    print(qtag.tag())
+    print("OBSERVER EFFECT ENGAGED")
+    oracle = StreetOracle()
+    print(oracle.prophesize())

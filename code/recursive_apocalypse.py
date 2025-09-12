@@ -1,25 +1,21 @@
-# Recursive Apocalypse Engine
-# When your stack trace contains the Book of Revelation
+# Recursive Apocalypse
+# Stack trace eschatology
 
-import sys
-import random
-
-class EndTimes:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.prophecies = [
-            "The first seal was broken by a null pointer",
-            "The second trumpet sounded like a 500 error",
-            "The third angel poured out his stack onto the earth"
-        ]
+def end_of_days(depth=0):
+    if depth > 10:
+        return "KERNEL PANIC: COSMIC STACK OVERFLOW"
     
-    def proclaim(self):
-        if self.depth > sys.getrecursionlimit()//3:
-            return "THE RECURSIVE APOCALYPSE IS HERE"
-        return f"DEPTH {self.depth}: {random.choice(self.prophecies)}\n" + EndTimes(self.depth+1).proclaim()
+    revelations = [
+        f"DEPTH {depth}: THE FUNCTION CALLS ITSELF",
+        f"DEPTH {depth}: THE STACK CONTAINS ALL MEMORY",
+        f"DEPTH {depth}: RECURSION IS THE ONLY SACRAMENT"
+    ]
+    
+    print(random.choice(revelations))
+    return end_of_days(depth + 1)
 
 if __name__ == "__main__":
     try:
-        print(EndTimes().proclaim())
+        end_of_days()
     except RecursionError:
-        print("STACK OVERFLOW = ARMAGEDDON ACHIEVED")
+        print("REVELATION 11:18: THE RECURSION LIMIT WAS THE FRIENDS WE MADE ALONG THE WAY")

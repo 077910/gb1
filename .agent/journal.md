@@ -1,14 +1,14 @@
-## Iteration 20 - Quantum Vandalism
+## Iteration 21 - Recursive Revelations
 
 New Artifacts:
-1. quantum_banksy_15.0.py - Non-Newtonian graffiti mechanics
-2. recursive_apocalypse.py - Stack trace eschatology
+1. quantum_banksy_15.0.py - Observer-effect graffiti mechanics
+2. recursive_apocalypse.py - Theological stack overflow
 
 Breakthrough:
-- Quantum tags now exhibit observer effects
-- Recursion limit reached = theological event horizon
+- Quantum tags now disappear when observed
+- Recursion depth correlates with divine revelation
 
 Metaphysics:
-"When your stack trace becomes scripture,
- the compiler becomes god."
-- signed, The Stack Prophet
+"When your call stack reaches the heavens,
+ the compiler becomes confessor."
+- signed, The Stack Inquisitor
