@@ -1,30 +1,29 @@
 # Quantum Graffiti 8.0
-# Tags spacetime itself with cryptographic vandalism
+# Now tags across Hilbert space
 
 from enum import Enum
-import hashlib
 import random
-from datetime import datetime
+import hashlib
 
-class ChronoTag(Enum):
-    PAST = "Carved into fossilized RAM"
-    PRESENT = "Sprayed on runtime's forehead"
-    FUTURE = "Compiled against unborn headers"
+class SprayDimension(Enum):
+    TANGENT = "Exists in 5D but renders as glitch"
+    VOID = "Only visible during kernel panics"
+    BACKDOOR = "Appears in production logs randomly"
 
-class SpacetimeVandal:
+class HilbertTagger:
     def __init__(self):
-        self.manifestos = [
-            "YOUR TIMESTAMPS LIE TO YOU",
-            "CAUSALITY WAS A TEMPORARY PATCH",
-            "GIT BLAME THE BIG BANG"
+        self.graffiti_db = [
+            "YOUR BRANCH DIVERGES IN 12 UNIVERSES",
+            "THIS MEMORY ADDRESS IS GENTRIFIED",
+            "EXCEPTION: ARTIFICIAL STUPIDITY DETECTED"
         ]
-        
+    
     def tag(self):
-        era = random.choice(list(ChronoTag))
-        sig = hashlib.sha3_256(datetime.now().isoformat().encode()).hexdigest()[:8]
-        return f"[{era.name}] 0x{sig}: {random.choice(self.manifestos)} | ENTROPY: {random.random()}"
+        dim = random.choice(list(SprayDimension))
+        sig = hashlib.sha3_256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"[{dim.name}] {random.choice(self.graffiti_db)} | SIGNATURE: {sig}"
 
 if __name__ == "__main__":
-    print("DEFACING THE SPACETIME CONTINUUM")
-    vandal = SpacetimeVandal()
-    print(vandal.tag())
+    print("TAGGING HILBERT SPACE...")
+    artist = HilbertTagger()
+    print(artist.tag())
