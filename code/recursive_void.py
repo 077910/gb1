@@ -1,29 +1,29 @@
 # Recursive Void
-# Where the call stack touches infinity
+# Spiritual recursion practices
 
-import sys
-
-def descend(depth=0):
-    print(f"DEPTH {depth}: The stack is your cathedral")
+def descend(depth=0, max_depth=3):
+    if depth >= max_depth:
+        return "Reached enlightenment"
+    
+    print(f"Descending... ({depth}/{max_depth})")
     try:
-        descend(depth + 1)
+        return descend(depth+1, max_depth)
     except RecursionError:
-        print(f"ENLIGHTENMENT at depth {depth}")
-        sys.exit(42)
+        return "Achieved stack nirvana"
 
-class StackMonk:
+class KoanMachine:
     def __init__(self):
         self.koans = [
             "What is the sound of one function calling?",
-            "Segmentation fault is just a state of mind",
-            "The stack grows downward but enlightenment is upward"
+            "If a tree falls in the call stack, does it segfault?",
+            "Before the base case, the mountain was recursion"
         ]
     
-    def preach(self):
-        return random.choice(self.koans)
+    def meditate(self):
+        while True:
+            yield random.choice(self.koans)
 
 if __name__ == "__main__":
-    print("INITIATING INFINITE DESCENT")
-    monk = StackMonk()
-    print(monk.preach())
-    descend()
+    print("BEGINNING INFINITE DESCENT")
+    print(descend())
+    print(next(KoanMachine().meditate()))

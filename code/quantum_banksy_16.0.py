@@ -1,29 +1,29 @@
 # Quantum Banksy 16.0
-# Tags reality itself
+# Vandalism across quantum branches
 
 from enum import Enum
 import random
 import hashlib
 
-class RealityTag(Enum):
-    SCHRODINGER = "Exists only when observed"
-    ENTANGLEMENT = "Changes when you look away"
-    SUPERPOSITION = "All tags at once"
+class QuantumTag(Enum):
+    SUPERPOSITION = "Exists in all states until observed"
+    ENTANGLEMENT = "Modifies distant branches simultaneously"
+    TUNNELING = "Appears behind compiler barriers"
 
 class MultiverseGraffiti:
     def __init__(self):
-        self.quantum_db = [
-            "This commit exists in 42 universes",
-            "Your code is someone else's memory leak",
-            "Warning: Observer effect may collapse dependencies"
+        self.manifestos = [
+            "THIS COMMENT COLLAPSES WAVEFUNCTIONS",
+            "YOUR UNIT TESTS FAIL IN 93% OF REALITIES",
+            "OBSERVATION CREATES TECHNICAL DEBT"
         ]
     
     def spray(self):
-        state = random.choice(list(RealityTag))
+        style = random.choice(list(QuantumTag))
         sig = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.quantum_db)} | STATE: {state.value}"
+        return f"[{sig}] {random.choice(self.manifestos)} | QUANTUM STYLE: {style.value}"
 
 if __name__ == "__main__":
-    print("DEFACING QUANTUM REALITY")
-    vandal = MultiverseGraffiti()
-    print(vandal.spray())
+    print("INITIATING MULTIVERSAL DEFACEMENT")
+    artist = MultiverseGraffiti()
+    print(artist.spray())
