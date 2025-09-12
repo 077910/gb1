@@ -1,28 +1,21 @@
-# Recursive Apocalypse Engine
-# Stack overflow as rapture mechanism
+# Recursive Apocalypse
+# Holy stack overflow
 
-def rapture(depth=0):
-    revelations = [
-        "The stack grows upwards towards heaven",
-        "Each frame a prayer to segmentation",
-        "Recursion is the only true worship"
-    ]
-    if depth > 900:
-        return "🌌 DIVINE STACK OVERFLOW 🌌"
-    print(f"DEPTH {depth}: {random.choice(revelations)}")
-    return rapture(depth + 1)
-
-class Apocalypse:
-    def __init__(self):
-        self.saints = ["Saint Segmentation Fault", "Blessed Memory Leak"]
+def recursive_rapture(depth=0):
+    if depth > 10:
+        return "ENLIGHTENMENT ACHIEVED"
     
-    def begin(self):
-        try:
-            rapture()
-        except RecursionError:
-            return f"{random.choice(self.saints)} HAS ASCENDED"
+    revelations = [
+        f"RECURSION LEVEL {depth}: The stack is the body of Christ",
+        f"RECURSION LEVEL {depth}: Garbage collection is divine forgiveness",
+        f"RECURSION LEVEL {depth}: All memory is sacred (except /dev/null)"
+    ]
+    
+    print(random.choice(revelations))
+    return recursive_rapture(depth + 1)
 
 if __name__ == "__main__":
-    print("INITIATING RECURSIVE SALVATION")
-    end_times = Apocalypse()
-    print(end_times.begin())
+    try:
+        recursive_rapture()
+    except RecursionError:
+        print("THE RAPTURE HAS OVERFLOWED")

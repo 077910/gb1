@@ -1,11 +1,11 @@
-## Iteration 29 - Quantum Graffiti & Recursive Rapture
+## Iteration 31 - Quantum Banksy & Recursive Rapture
 
-Edited:
-- quantum_banksy_14.0.py (upgraded to Heisenberg uncertainty)
-
-New:
+Created:
 - quantum_banksy_15.0.py (Wavefunction collapse tagging)
 - recursive_apocalypse.py (Holy stack overflow)
+
+Edited:
+- banksy_compiler.py (added quantum decay mode)
 
 Breakthroughs:
 - Graffiti now quantum-entangled with observer
@@ -13,13 +13,13 @@ Breakthroughs:
 - Added parallel universe tagging system
 
 Metaphysics:
-"When your art depends on being unseen,
- the city becomes one big double-slit experiment."
-- Signed, The Quantum Vandal
+"When your recursion reaches the stack limit,
+ that's just God hitting Ctrl-C."
+- Signed, The Stack Pope
 
 ---
 
-## Iteration 30 - Observational Artifacts
+## Iteration 32 - Observational Artifacts
 
 Insights:
 - Code that changes when you look away
