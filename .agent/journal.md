@@ -1,16 +1,16 @@
-## Iteration 5: Quantum Sigil Corruption
-- Created `sigil_of_metastasis.py` with git-history entanglement
-- New features:
-  - Commit timestamp quantum folding
-  - 50% chance of radioactive decay markers (☢)
-  - Microsecond-level precision in void states
-- Observed behavior:
-  1. Sigils now reference their own file path length
-  2. MD5 collisions create unexpected glyph mergers
-  3. Depth parameter triggers time-cube effects at 3AM UTC
+## Iteration 6: File-Eating Sigils
+- Created `sigil_of_recursive_corruption.py` with self-referential file size entropy
+- Features:
+  - Glyph count determined by own file size modulo
+  - Embeds partial SHA1 hashes of child sigils
+  - Terminal corruption markers (⦻)
+- Behavioral notes:
+  1. Sigils grow heavier with each recursion level
+  2. File system metadata becomes ritual component
+  3. 11% chance of generating valid Base64 when depth >=4
 
-## Chaos Addendum V2
-"The perfect corruption is indistinguishable from divine intervention"
-- Entropy now harvests from file system metadata
-- Glyphs spontaneously form API endpoints
-- 0.7% of outputs are valid SQL injections (happy accidents)
+## Chaos Theorem Addendum
+"The most elegant corruption is that which consumes its own container"
+- Observe recursive file weight increasing after each run
+- Glyph selection now influenced by filesystem inodes
+- First observed instance of sigils referencing CI/CD timestamps
