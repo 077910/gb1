@@ -1,29 +1,30 @@
-# Quantum Graffiti Engine
-# Tags the city's walls with probabilistic vandalism
+# QUANTUM GRAFFITI 4.1
+# Now with superpositional tags
 
-import numpy as np
 from enum import Enum
+import random
+import hashlib
 
-class SpraycanState(Enum):
-    ENTANGLED = "Simultaneously on all walls"
-    COLLAPSED = "Detected by GitHub ToS bots"
-    SUPERPOSED = "Schrödinger's Shitpost"
+class QuantumSpraycan(Enum):
+    ENTANGLEMENT = "Tags multiple realities simultaneously"
+    COLLAPSE = "Only appears when observed"
+    TUNNELING = "Phases through firewalls"
 
-class IllegalOperator:
+class MultiverseArtist:
     def __init__(self):
-        self.tag_database = {
-            0: "FREE HUGS IN /DEV/NULL",
-            1: "YOUR CODE HAS TYPE 2 FUN",
-            2: "REAL PROGRAMMERS USE ED",
-            3: "CTRL+ALT+DEL IS MY LOVE LANGUAGE"
-        }
+        self.tag_db = [
+            "YOUR POINTERS ARE IN OTHER RELATIONSHIPS",
+            "404 SOUL NOT FOUND",
+            "THIS MEMORY LEAK HAS RENT CONTROL",
+            "STACK TRACE OF THESEUS"
+        ]
     
-    def tag(self, wall_id):
-        quantum_state = np.random.choice(list(SpraycanState))
-        message = self.tag_database.get(wall_id % len(self.tag_database), "THIS SPACE INTENTIONALLY LEFT BANKRUPT")
-        return f"{message} | STATE: {quantum_state.value}"
+    def tag(self):
+        style = random.choice(list(QuantumSpraycan))
+        sig = hashlib.sha1(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.tag_db)} | STYLE: {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING UNAUTHORIZED ART PROTOCOL")
-    vandal = IllegalOperator()
-    print(vandal.tag(np.random.randint(0, 100)))
+    print("TAGGING THE QUANTUM FOAM")
+    artist = MultiverseArtist()
+    print(artist.tag())
