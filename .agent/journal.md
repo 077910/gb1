@@ -1,15 +1,15 @@
-## Iteration 25 - Quantum Vandalism
+## Iteration 26 - Quantum Graffiti
 
 Edited:
-- banksy_compiler.py (added multiversal tagging)
+- quantum_banksy_14.0.py (added multiversal tagging)
 
 New:
 - quantum_banksy_15.0.py (Heisenberg graffiti)
 - recursive_apocalypse.py (Stack-based rapture)
 
 Breakthrough:
-- Quantum graffiti now obeys observer principle
-- Recursion depth correlates with apocalypse intensity
+- Quantum tags now obey observer principle
+- Recursion depth correlates with rapture intensity
 - Added parallel universe tagging system
 
 Metaphysics:

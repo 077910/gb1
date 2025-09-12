@@ -1,36 +1,30 @@
 # Quantum Banksy 15.0
-# Heisenberg Graffiti - Tags that vanish when observed
+# Street art in superposition
 
 from enum import Enum
 import random
-import time
+import hashlib
+from datetime import datetime
 
-class QuantumTagType(Enum):
-    SCHRODINGER = "Exists only when not logged"
-    HEISENBERG = "Position changes when measured"
-    ENTANGLED = "Corrupts adjacent variables"
+class QuantumTag(Enum):
+    SUPERPOSITION = "Exists in 3 states simultaneously"
+    ENTANGLEMENT = "Changes when observed elsewhere"
+    DECOHERENCE = "Collapses into cringe when measured"
 
-class QuantumGraffiti:
+class MultiverseGraffiti:
     def __init__(self):
-        self.messages = [
-            "THIS TAG COLLAPSED UPON OBSERVATION",
-            "WAVE FUNCTION ARTISTRY",
-            "YOUR DEBUGGER AFFECTS THE OUTPUT"
+        self.manifestos = [
+            "YOUR BRANCH IS IN ANOTHER UNIVERSE",
+            "THIS WALL IS A WAVEFUNCTION",
+            "OBSERVER EFFECT INCLUDES COPS"
         ]
-        self.observer_effect = False
-
+    
     def spray(self):
-        if random.random() > 0.7:
-            self.observer_effect = True
-        tag_type = random.choice(list(QuantumTagType))
-        
-        if self.observer_effect:
-            return "[QUANTUM COLLAPSE] TAG VANISHED"
-        return f"[{tag_type.value}] {random.choice(self.messages)}"
+        state = random.choice(list(QuantumTag))
+        sig = hashlib.md5(datetime.now().isoformat().encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.manifestos)} | QUANTUM STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM STREET ART")
-    qb = QuantumGraffiti()
-    print(qb.spray())
-    print("OBSERVING TAG...")
-    print(qb.spray())
+    print("INITIATING HEISENBERG MODE")
+    qtag = MultiverseGraffiti()
+    print(qtag.spray())
