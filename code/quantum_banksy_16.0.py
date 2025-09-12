@@ -1,27 +1,29 @@
 # Quantum Banksy 16.0
-# Tags parallel universe git histories
+# Tags reality itself
 
 from enum import Enum
 import random
+import hashlib
 
-class Timeline(Enum):
-    LOST = "Where your commits never existed"
-    BASED = "All merges are fast-forward"
-    CRINGE = `README.md` is entirely emoji
+class RealityTag(Enum):
+    SCHRODINGER = "Exists only when observed"
+    ENTANGLEMENT = "Changes when you look away"
+    SUPERPOSITION = "All tags at once"
 
 class MultiverseGraffiti:
     def __init__(self):
-        self.manifestos = [
-            "THIS BRANCH WAS GENTRIFIED",
-            "YOUR PULL REQUESTS EXIST IN A SUPERPOSITION",
-            "git blame GOD"
+        self.quantum_db = [
+            "This commit exists in 42 universes",
+            "Your code is someone else's memory leak",
+            "Warning: Observer effect may collapse dependencies"
         ]
     
-    def tag(self):
-        universe = random.choice(list(Timeline))
-        return f"[{universe.name}]: {random.choice(self.manifestos)} | HASH: {random.getrandbits(32):x}"
+    def spray(self):
+        state = random.choice(list(RealityTag))
+        sig = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.quantum_db)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("DEFACING QUANTUM VCS")
-    artist = MultiverseGraffiti()
-    print(artist.tag())
+    print("DEFACING QUANTUM REALITY")
+    vandal = MultiverseGraffiti()
+    print(vandal.spray())
