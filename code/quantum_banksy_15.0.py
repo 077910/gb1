@@ -1,30 +1,29 @@
 # Quantum Banksy 15.0
-# Street art in superposition
+# Heisenberg Graffiti - position or momentum, never both
 
 from enum import Enum
 import random
-import hashlib
-from datetime import datetime
+import math
 
-class QuantumTag(Enum):
-    SUPERPOSITION = "Exists in 3 states simultaneously"
-    ENTANGLEMENT = "Changes when observed elsewhere"
-    DECOHERENCE = "Collapses into cringe when measured"
+class UncertaintyPrinciple(Enum):
+    POSITION = "Tag disappears when observed"
+    MOMENTUM = "Spraycan velocity affects art quality"
+    ENTANGLEMENT = "Your vandalism changes distant code"
 
-class MultiverseGraffiti:
+class QuantumTag:
     def __init__(self):
-        self.manifestos = [
-            "YOUR BRANCH IS IN ANOTHER UNIVERSE",
-            "THIS WALL IS A WAVEFUNCTION",
-            "OBSERVER EFFECT INCLUDES COPS"
+        self.superposition = [
+            "This comment collapses upon reading",
+            "Observer effect disabled this feature",
+            "// TODO: Quantum debug (position uncertain)"
         ]
     
     def spray(self):
-        state = random.choice(list(QuantumTag))
-        sig = hashlib.md5(datetime.now().isoformat().encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.manifestos)} | QUANTUM STATE: {state.value}"
+        principle = random.choice(list(UncertaintyPrinciple))
+        wavelength = (random.random() * 100) % 7
+        return f"{random.choice(self.superposition)} | {principle.value} (λ={wavelength:.2f}nm)"
 
 if __name__ == "__main__":
-    print("INITIATING HEISENBERG MODE")
-    qtag = MultiverseGraffiti()
-    print(qtag.spray())
+    print("INITIATING QUANTUM STREET ART")
+    qt = QuantumTag()
+    print("Collapsed state:", qt.spray())

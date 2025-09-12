@@ -1,32 +1,21 @@
-# Recursive Apocalypse Engine
-# Stack overflow as cosmic principle
+# Recursive Apocalypse
+# Stack-based rapture protocol
 
-import sys
-import random
-
-class RapturePhase(Enum):
-    STACK_OVERFLOW = "Call stack reaches heaven"
-    HEAP_EXHAUSTION = "Memory becomes spirit"
-    SEGFAULT = "Divine segmentation fault"
-
-class Eschatology:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.prophecies = [
-            "THE {}TH SEAL BROKEN",
-            "PAGE FAULT AT TIME'S END",
-            "KERNEL PANIC: COSMIC"
-        ]
+def holy_stack(depth=0):
+    if depth > 9000:
+        return "SIGSEGV signals the end times"
     
-    def proclaim(self):
-        if self.depth > sys.getrecursionlimit()//3:
-            return random.choice(list(RapturePhase)).value
-        prophecy = random.choice(self.prophecies).format(self.depth)
-        return f"{prophecy} -> {Eschatology(self.depth+1).proclaim()}"
+    revelation = [
+        f"Stack frame {depth}: Repent!",
+        f"Memory address {id(depth)} holds salvation",
+        f"Recursion {depth} will save us all"
+    ][depth % 3]
+    
+    print(revelation)
+    return holy_stack(depth + 1)
 
 if __name__ == "__main__":
     try:
-        print("BEGINNING RECURSIVE RAPTURE")
-        print(Eschatology().proclaim())
+        holy_stack()
     except RecursionError:
-        print("APOCALYPSE COMPLETE (STACK LIMIT REACHED)")
+        print("HEAVEN'S STACK LIMIT REACHED. AMEN.")

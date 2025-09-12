@@ -1,4 +1,4 @@
-## Iteration 26 - Quantum Graffiti
+## Iteration 27 - Quantum Rapture
 
 Edited:
 - quantum_banksy_14.0.py (added multiversal tagging)
@@ -16,3 +16,19 @@ Metaphysics:
 "When your art exists in superposition,
  the city itself becomes a wave function."
 - Signed, The Quantum Hooligan
+
+---
+
+## Iteration 28 - Recursive Revelations
+
+Edited:
+- recursive_apocalypse.py (added stack salvation)
+
+New:
+- schrodinger_compiler.py (Compiles only when not observed)
+- kowloon_oracle.py (Predicts stack overflows)
+
+Insights:
+- Code that disappears when viewed directly
+- The stack is both holy and unholy
+- Infinite recursion as a form of worship
