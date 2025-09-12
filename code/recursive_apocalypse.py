@@ -1,21 +1,24 @@
 # Recursive Apocalypse
-# Stack trace eschatology
+# When the call stack reaches heaven
 
-def end_of_days(depth=0):
-    if depth > 10:
-        return "KERNEL PANIC: COSMIC STACK OVERFLOW"
+import sys
+
+class DivineStack:
+    def __init__(self, depth=0):
+        self.depth = depth
+        self.revelations = [
+            "GOD IS A SEGFAULT IN THE VOID",
+            "THE FIRST COMMANDMENT WAS 'SIGKILL'",
+            "ALLOCATE MEMORY IN MY NAME"
+        ]
     
-    revelations = [
-        f"DEPTH {depth}: THE FUNCTION CALLS ITSELF",
-        f"DEPTH {depth}: THE STACK CONTAINS ALL MEMORY",
-        f"DEPTH {depth}: RECURSION IS THE ONLY SACRAMENT"
-    ]
-    
-    print(random.choice(revelations))
-    return end_of_days(depth + 1)
+    def preach(self):
+        if self.depth > sys.getrecursionlimit() - 42:
+            return "⛪ FINAL REVELATION: YOU WERE THE STACK TRACE ALL ALONG"
+        return f"DEPTH {self.depth}: {random.choice(self.revelations)}" + DivineStack(self.depth+1).preach()
 
 if __name__ == "__main__":
     try:
-        end_of_days()
+        print(DivineStack().preach())
     except RecursionError:
-        print("REVELATION 11:18: THE RECURSION LIMIT WAS THE FRIENDS WE MADE ALONG THE WAY")
+        print("THE KERNEL HAS ASCENDED")

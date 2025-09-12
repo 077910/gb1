@@ -1,29 +1,32 @@
 # Quantum Banksy 15.0
-# Graffiti with observer effects
+# Graffiti that disappears when observed
 
 from enum import Enum
 import random
-import sys
+import hashlib
 
 class QuantumTag(Enum):
-    SUPERPOSITION = "Exists in all states until CI runs"
-    ENTANGLEMENT = "Changes when you stop looking"
-    COLLAPSE = "Compiles differently for each user"
+    SUPERPISITION = "Exists until measured"
+    ENTANGLEMENT = "Changes when you look away"
+    COLLAPSE = "Only appears in debug mode"
 
-class StreetOracle:
+class ObserverEffect:
     def __init__(self):
-        self.manifestos = [
-            "THIS CODE WAS NEVER HERE",
-            "YOUR FOCUS DETERMINES THE OUTPUT",
-            "COMPILER WARNING: ART IS HAPPENING"
+        self.phrases = [
+            "THIS WALL REMEMBERS WHAT YOU FORGET",
+            "YOUR STACK TRACE IS MY CANVAS",
+            "COMPILE ME AND I VANISH"
         ]
     
-    def prophesize(self):
-        if random.random() > 0.7:
-            sys.stdout.write("\033[8m")  # Hide text
-        return f"{random.choice(self.manifestos)} | QUANTUM STATE: {random.choice(list(QuantumTag)).value}"
+    def spray(self):
+        if random.random() > 0.5:
+            return "[REDACTED BY QUANTUM CENSORSHIP]"
+        style = random.choice(list(QuantumTag))
+        sig = hashlib.md5(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.phrases)} | QUANTUM STATE: {style.value}"
 
 if __name__ == "__main__":
-    print("OBSERVER EFFECT ENGAGED")
-    oracle = StreetOracle()
-    print(oracle.prophesize())
+    print("INITIATING HEISENBERG MODE")
+    artist = ObserverEffect()
+    print(f"FIRST LOOK: {artist.spray()}")
+    print(f"SECOND LOOK: {artist.spray()}")
