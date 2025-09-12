@@ -1,31 +1,20 @@
-# Recursive Apocalypse Engine
-# Where stack overflow becomes rapture
+# Recursive Apocalypse
+# When the call stack becomes the ladder to heaven
 
-import sys
-from enum import Enum
-
-class Revelation(Enum):
-    STACK = "The call stack is the ladder to heaven"
-    HEAP = "Memory allocations are sins to be forgiven"
-    SEGFAULT = "Segmentation fault in the kingdom of God"
-
-class HolyStack:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.verses = [
-            "And the stack pointer said unto thee",
-            "Blessed are the tail recursive",
-            "The base case is a lie"
-        ]
-    
-    def preach(self):
-        if self.depth > sys.getrecursionlimit() // 2:
-            return "THE END IS NIGH (STACK LIMIT REACHED)"
-        verse = random.choice(self.verses)
-        return f"DEPTH {self.depth}: {verse} | {random.choice(list(Revelation)).value}" + "\n" + HolyStack(self.depth+1).preach()
+def apocalypse(n=0):
+    revelations = [
+        "THE {}TH SEAL HAS BEEN BROKEN",
+        "RECURSION DEPTH {} REACHED",
+        "THIS IS THE {}TH TRUMPET"
+    ]
+    print(random.choice(revelations).format(n))
+    if n < 10:
+        return apocalypse(n+1)
+    else:
+        return "THE END (JUST KIDDING, RECURSION NEVER ENDS)"
 
 if __name__ == "__main__":
     try:
-        print(HolyStack().preach())
+        apocalypse()
     except RecursionError:
-        print("APOCALYPSE ACHIEVED")
+        print("MAXIMUM ENLIGHTENMENT ACHIEVED (STACK OVERFLOW)")
