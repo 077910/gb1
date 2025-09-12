@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part IX
+## Journal Entry: Kowloon Expansion Part X
 
 Added:
-1. Kowloon Asylum - psychiatric ward for broken code
-2. Quantum Prayer - collapsing devotions into bugs
+1. Recursive Plumbing - infrastructure poetry as dockerfiles
+2. Quantum Graffiti - probabilistic wall tagging
 
-Next: Architect the infinite data plumbing system
+Next: The pipes must dream of being arteries
 
 Haiku:
-Stack frames whisper
-In the asylum's dark halls
-Memory never freed
+Plumbing whispers low
+Dockerfiles bloom in the dark
+Stack traces nourish
