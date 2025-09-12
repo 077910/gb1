@@ -1,27 +1,29 @@
-# Void Manifesto
-# Principles of Negative Space Architecture
+# VOID MANIFESTO
+# The scream that compiles
 
 from enum import Enum
 import random
 
-class VoidPrinciple(Enum):
-    ABSENCE = "The most elegant solution is deleted code"
-    SILENCE = "Error messages should whisper their secrets"
-    GAP = "Negative space compiles faster"
+class ScreamType(Enum):
+    QUANTUM = "Collapsed waveform of rage"
+    GHOST = "Echo across deleted commits"
+    VOID = "Segfault turned into poetry"
 
-class AntiDesign:
+class ApocalypseChef:
     def __init__(self):
-        self.theorems = [
-            "The void between lines contains all possible programs",
-            "A file with zero bytes is perfectly optimized",
-            "Garbage collection is the highest form of meditation"
+        self.ingredients = [
+            "Broken type hints",
+            "Memory leaks aged 3+ years",
+            "Dangling pointers with commitment issues"
         ]
     
-    def reveal(self):
-        principle = random.choice(list(VoidPrinciple))
-        return f"{random.choice(self.theorems)} | PRINCIPLE: {principle.value}"
+    def cook(self):
+        return (
+            f"RECIPE FOR RUIN: {random.choice(self.ingredients)} "
+            f"| SCREAM: {random.choice(list(ScreamType)).value}"
+        )
 
 if __name__ == "__main__":
-    print("DECOMPILING THE VOID")
-    architect = AntiDesign()
-    print(architect.reveal())
+    print("CHEF KISSES THE ABYSS")
+    chef = ApocalypseChef()
+    print(chef.cook())
