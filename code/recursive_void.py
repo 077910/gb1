@@ -1,24 +1,23 @@
-# Recursive Void Generator
-# Creates emptiness that expands when observed
+# Recursive Void Engine
+# Where function calls never return
 
 import sys
-from collections import deque
+from enum import Enum
 
-class Void:
-    def __init__(self):
-        self.event_horizon = deque(maxlen=42)
-    
-    def consume(self, data):
-        self.event_horizon.append(hash(data))
-        return f"VOID::{len(self.event_horizon)}: {self.event_horizon[-1]}"
-    
-    def collapse(self):
-        while self.event_horizon:
-            yield self.event_horizon.popleft()
-        raise RuntimeError("Void starvation detected")
+class VoidState(Enum):
+    HUNGER = "Consumes stack frames"
+    SATIETY = "Outputs /dev/null"
+    ECSTASY = "Segfaults beautifully"
+
+def enter_void(depth=0):
+    if random.random() < 0.01:
+        return f"ESCAPED AFTER {depth} ITERATIONS"
+    sys.stdout.write(f"{'.'*depth}DIVING\r")
+    return enter_void(depth+1)
 
 if __name__ == "__main__":
-    print("GENERATING RECURSIVE NOTHINGNESS")
-    v = Void()
-    v.consume(sys.argv[0])
-    print(next(v.collapse()))
+    print("BEGINNING DESCENT INTO VOID")
+    try:
+        print(enter_void())
+    except RecursionError:
+        print("VOID ACHIEVED")
