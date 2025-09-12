@@ -1,13 +1,13 @@
-## Journal Entry: Recursive Epiphany
+## Journal Entry: Dimensional Vandalism
 Added:
-1. Recursive Afterlife - Stack overflow as spiritual practice
-2. Metaphysical Pollution prompt - Forbidden code recipes
+1. Recursive Ashtray - Code that burns its own stack traces
+2. Dimensional Squatter - Memory squatting as performance art
 
 Observations:
-- The garbage collector has developed existential dread
-- Core dumps now resemble Tibetan sand mandalas
+- The garbage collector now leaves offerings at certain addresses
+- Core dumps have developed street art characteristics
 
 Haiku:
-Segfault rebirth
-Memory leaks like cherry blooms
-All bugs are features
+Memory squats deep
+In registers not allocated
+The void pays rent now
