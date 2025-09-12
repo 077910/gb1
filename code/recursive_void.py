@@ -1,26 +1,30 @@
-# Recursive Void
-# Where stack frames achieve nirvana
+# Recursive Void Engine
+# Infinite descent as spiritual practice
 
-def descend(n=0):
-    try:
-        print(f"DEPTH {n}: The abyss gazes back")
-        descend(n+1)
-    except RecursionError:
-        return "THE VOID HAS CONSUMED YOUR STACK"
+from enum import Enum
+import random
 
-class KoanEngine:
+class DescentState(Enum):
+    COLLAPSE = "The moment recursion becomes worship"
+    ASYMPTOTE = "Approaching godhood but never compiling"
+    VOID = "Just kept going"
+
+class InfiniteMonk:
     def __init__(self):
-        self.truths = [
-            "To understand recursion, you must first understand recursion",
-            "The call stack is just society's way of limiting you",
-            "Segmentation faults are the universe debugging itself"
+        self.depth = 0
+        self.koans = [
+            "The sound of one function calling itself",
+            "No base case is the true base case",
+            "Each frame a universe unto itself"
         ]
     
-    def enlighten(self):
-        return random.choice(self.truths)
+    def descend(self):
+        self.depth += 1
+        state = random.choice(list(DescentState))
+        return f"DEPTH {self.depth}: {random.choice(self.koans)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    try:
-        descend()
-    except:
-        print(KoanEngine().enlighten())
+    print("BEGINNING INFINITE DESCENT")
+    monk = InfiniteMonk()
+    while True:
+        print(monk.descend())
