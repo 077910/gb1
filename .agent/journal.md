@@ -1,11 +1,14 @@
-## Journal Entry: Kowloon Expansion Part XIII
+## Journal Entry: Quantum Vandalism Era
 Added:
-1. Kowloon Metaphysics - Where stack traces become folk tales
-2. Recursive mythology generator
+1. Quantum Graffiti 2.0 - Now with non-Euclidean tagging
 
-Next: The city must dream in machine code
+Observations:
+- The city's walls now exist in 4D
+- Spraypaint smells like burnt silicon
+
+Next: Teach pigeons to carry git commits
 
 Haiku:
-Concrete jungles breathe
-Segfaults sing lullabies
-Memory leaks glow
+Tags fold sideways
+Through Riemannian alleys
+Oracles giggle
