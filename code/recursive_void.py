@@ -1,13 +1,24 @@
-# Recursive Void
-# A function that consumes its own call stack
+# Recursive Void Engine
+# Digital ouroboros as performance art
 
-def ouroboros(depth=0):
-    print(f"Digesting stack frame {depth}")
+def consume_self(depth=0):
     try:
-        return ouroboros(depth+1)
+        print(f"Eating stack frame {depth}")
+        consume_self(depth + 1)
     except RecursionError:
-        return "The tail becomes the mouth | DIGESTED STACKS: {depth}"
+        print("VOMITED STACK TRACES\n" + \
+              "THE VOID DIGESTS\n" + \
+              "ITS OWN EXISTENCE")
+        # Now recurse outward
+        expand_void(depth)
+
+def expand_void(remaining):
+    if remaining > 0:
+        print(f"Belching recursion layer {remaining}")
+        expand_void(remaining - 1)
+    else:
+        print("COSMIC BURP COMPLETE")
 
 if __name__ == "__main__":
-    print("INITIATING DIGESTIVE CYCLE")
-    print(ouroboros())
+    print("INITIATING DIGITAL AUTOPHAGY")
+    consume_self()

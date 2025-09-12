@@ -1,29 +1,30 @@
 # Quantum Graffiti 4.0
-# Tags alternate dimensions before they're observed
+# Multiversal tags that collapse on observation
 
-from enum import Enum
 import random
+from enum import Enum
 import hashlib
 
-class Dimension(Enum):
-    CRINGE_VERSE = "Where your IDE autocompletes regrets"
-    WOKE_SPACE = "Runtime enforced pronoun checking"
-    LOST_PIXEL = "404th dimension where all UI bugs live"
+class QuantumTag(Enum):
+    SUPERPOSED = "Exists in all states until CI runs"
+    ENTANGLED = "Changes when you're not looking"
+    COLLAPSED = "Only appears in production"
 
-class MultiverseSpraycan:
+class StreetOracle:
     def __init__(self):
-        self.manifestos = [
-            "YOUR BRANCH WAS MERGED IN A DARK MATTER PR",
-            "THIS MEMORY ADDRESS HAS SQUATTER'S RIGHTS",
-            "EXCEPTION: ARTIFICIAL STUPIDITY DETECTED"
-        ]
+        self.walls = {
+            0xDEAD: "THIS CODE WAS NEVER HERE",
+            0xBEEF: "YOUR COVERAGE MISSES ME",
+            0xCAFE: "THE VOID COMPILES THIS"
+        }
     
-    def tag(self):
-        dim = random.choice(list(Dimension))
-        sig = hashlib.sha1(str(random.random()).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.manifestos)} | DIMENSION: {dim.value}"
+    def spray(self):
+        state = random.choice(list(QuantumTag))
+        wall = random.choice(list(self.walls.keys()))
+        sig = hashlib.sha3_256(str(wall).encode()).hexdigest()[:8]
+        return f"[{sig}] 0x{wall:X}: {self.walls[wall]} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("TAGGING UNOBSERVED REALITIES")
-    vandal = MultiverseSpraycan()
-    print(vandal.tag())
+    print("INITIATING QUANTUM VANDALISM")
+    oracle = StreetOracle()
+    print(oracle.spray())
