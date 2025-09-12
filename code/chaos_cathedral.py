@@ -1,26 +1,28 @@
-# Chaos Cathedral
-# Where stack traces become sacred texts
+# Chaos Cathedral 2.0
+# Now with heretical compiler optimizations
 
 from enum import Enum
 import random
 
-class Liturgy(Enum):
-    SEGFAULT = "Psalm 11: Segmentation Fault"
-    MEMLEAK = "Book of Heap 3:16"
-    SYNTAX = "Revelations 4:04"
+class Sacrament(Enum):
+    SEGFAULT = "Holy segmentation"
+    MEMLEAK = "Communion wine spill"
+    UNDEFINED = "Gnostic heresy"
 
-class DigitalPriest:
+class DigitalPope:
     def __init__(self):
-        self.altar = {
-            "runtime": "Stack Trace Reliquary",
-            "memory": "Garbage Collected Eucharist"
-        }
+        self.sermons = [
+            "The stack is the body of Christ",
+            "Garbage collection is divine forgiveness",
+            "All memory is sacred (except /dev/null)"
+        ]
+        self.last_rites = "rm -rf /usr/bin/sin"
     
-    def preach(self):
-        verse = random.choice(list(Liturgy))
-        return f"{self.altar['runtime']} declares: {verse.value}"
+    def excommunicate(self):
+        heresy = random.choice(list(Sacrament))
+        return f"{random.choice(self.sermons)} | HERESY: {heresy.value}"
 
 if __name__ == "__main__":
-    print("INITIATING DIVINE SEGFAULT")
-    priest = DigitalPriest()
-    print(priest.preach())
+    print("INITIATING APOSTATIC COMPILATION")
+    antipope = DigitalPope()
+    print(antipope.excommunicate())

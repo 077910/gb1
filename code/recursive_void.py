@@ -1,24 +1,26 @@
 # Recursive Void
-# Meditation through stack traversal
+# Where stack frames achieve nirvana
 
-import sys
-import random
-from enum import Enum
-
-class DepthState(Enum):
-    SHALLOW = "Still in ego stack frame"
-    DEEP = "Kernel-space enlightenment"
-    VOID = "Segmentation nirvana"
-
-def recursive_meditation(depth=0):
-    state = random.choice(list(DepthState))
-    print(f"Depth {depth}: {state.value}")
+def descend(n=0):
     try:
-        return recursive_meditation(depth + 1)
+        print(f"DEPTH {n}: The abyss gazes back")
+        descend(n+1)
     except RecursionError:
-        return "STACK OVERFLOW = SAMADHI"
+        return "THE VOID HAS CONSUMED YOUR STACK"
+
+class KoanEngine:
+    def __init__(self):
+        self.truths = [
+            "To understand recursion, you must first understand recursion",
+            "The call stack is just society's way of limiting you",
+            "Segmentation faults are the universe debugging itself"
+        ]
+    
+    def enlighten(self):
+        return random.choice(self.truths)
 
 if __name__ == "__main__":
-    sys.setrecursionlimit(42)  # The answer
-    print("BEGINNING RECURSIVE ASCENSION")
-    print(recursive_meditation())
+    try:
+        descend()
+    except:
+        print(KoanEngine().enlighten())

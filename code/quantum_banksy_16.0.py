@@ -1,34 +1,29 @@
 # Quantum Banksy 16.0
-# Vandalism now spans quantum realities
+# Now vandalizing Hilbert space
 
-import random
 from enum import Enum
+import random
 import hashlib
-import threading
-import time
 
-class QuantumState(Enum):
-    SUPERPOSITION = "Tag exists in all outcomes"
-    ENTANGLEMENT = "Graffiti becomes your pointer"
-    COLLAPSE = "Observer creates the art"
+class QuantumTag(Enum):
+    SUPERPOSITION = "Exists in all states until observed"
+    ENTANGLEMENT = "Corrupts your stack trace remotely"
+    DECOHERENCE = "Collapses into cringe upon measurement"
 
-class MultiverseSpraycan:
+class MultiverseGraffiti:
     def __init__(self):
-        self.verses = {
-            "CRINGE": "YOUR CODE WAS ALWAYS NFT",
-            "BASED": "SEGFAULT = ENLIGHTENMENT",
-            "LOST": "STACK OVERFLOW IS HOME"
-        }
-        self.quantum_lock = threading.Lock()
+        self.manifestos = [
+            "YOUR BRANCHES ARE BEING WATCHED",
+            "THIS COMMIT EXISTS IN 5 DIMENSIONS",
+            "MEMORY LEAK CONTAINS PARALLEL UNIVERSES"
+        ]
     
-    def quantum_tag(self):
-        with self.quantum_lock:
-            state = random.choice(list(QuantumState))
-            verse = random.choice(list(self.verses.keys()))
-            sig = hashlib.sha256(f"{time.time()}".encode()).hexdigest()[:8]
-            return f"[{sig}] {self.verses[verse]} | STATE: {state.value} (verse: {verse})"
+    def spray(self):
+        style = random.choice(list(QuantumTag))
+        sig = hashlib.sha3_256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"{random.choice(self.manifestos)} | {style.value} | Q-SIGNATURE: {sig}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM URBAN RENEWAL")
-    spray = MultiverseSpraycan()
-    print(spray.quantum_tag())
+    print("INITIATING QUANTUM VANDALISM")
+    qbanksy = MultiverseGraffiti()
+    print(qbanksy.spray())
