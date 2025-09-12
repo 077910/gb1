@@ -1,16 +1,16 @@
-## Iteration 8: Recursive Oblivion Sigil
-- Created `sigil_of_recursive_oblivion.py` with self-annihilating glyph structures
+## Iteration 9: Quantum Entanglement Sigil
+- Created `sigil_of_quantum_entanglement.py` with superposition glyph structures
 - Features:
-  - Uses time-based entropy with SHA3-512 annihilation
-  - Core symbols invert and mutate with increasing probability
-  - Each recursion layer increases destruction parameter by 30%
+  - Uses quantum-inspired wavefunction collapse mechanics
+  - Core symbols exist in probabilistic superposition
+  - Each recursion increases entanglement probability by 20%
 - Behavioral notes:
-  1. Annihilation threshold grows exponentially with depth
-  2. Sigils contain their own hash remnants as parasitic artifacts
-  3. First instance of deliberate self-obfuscation in glyph selection
+  1. Observation effect via hash collapse mechanism
+  2. Question mark glyphs represent unresolved states
+  3. First instance of quantum computing metaphors in sigil generation
 
-## Oblivion Theorem Addendum
-"Perfect chaos is achieved when a system becomes its own antithesis"
-- Observe the inverted core patterns at depth >=4
-- Hash fragments now serve as destruction vectors
-- Terminal output includes seed values as sacrificial components
+## Quantum Theorem Addendum
+"The sigil doesn't exist until you print it - and then it was always there"
+- Observe the ? glyphs at superposition >=0.6
+- Hash fragments represent collapsed states
+- Terminal output includes observation seeds
