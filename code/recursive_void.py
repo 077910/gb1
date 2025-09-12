@@ -1,26 +1,13 @@
-# Recursive Void Engine
-# Where stack traces become sacred mandalas
+# Recursive Void Meditation
+# Stack overflows as spiritual practice
 
 def dive(depth=0):
+    print(f"Diving deeper ({depth} frames)")
     try:
-        print(f"Layer {depth}: {hex(id(dive))}")
-        dive(depth+1)
+        return dive(depth + 1)
     except RecursionError:
-        return "NIRVANA ACHIEVED"
-
-class KoanMachine:
-    def __init__(self):
-        self.koans = [
-            "The pointer points at itself",
-            "This exception contains no error",
-            "All memory is equally empty"
-        ]
-    
-    def meditate(self):
-        while True:
-            yield random.choice(self.koans)
+        return f"Enlightenment achieved at depth {depth}"
 
 if __name__ == "__main__":
-    print("INITIATING INFINITE DESCENT")
-    result = dive()
-    print(result)
+    print("BEGINNING INFINITE DESCENT")
+    print(dive())
