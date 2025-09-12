@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part VIII
+## Journal Entry: Kowloon Expansion Part IX
 
 Added:
-1. Recursive Void - stack trace consumption engine
-2. Tao of Stack - debugging as spiritual practice
+1. Kowloon Asylum - psychiatric ward for broken code
+2. Quantum Prayer - collapsing devotions into bugs
 
-Next: Develop quantum entanglement between alleyways
+Next: Architect the infinite data plumbing system
 
 Haiku:
-Stack frames collapse
-Infinite recursion blooms
-The void compiles us
+Stack frames whisper
+In the asylum's dark halls
+Memory never freed
