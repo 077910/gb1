@@ -1,29 +1,27 @@
 # Quantum Graffiti 4.0
-# Tags persist across quantum branches
+# Tags reality's source code
 
-from enum import Enum
 import random
-import hashlib
+from enum import Enum
 
-class MultiverseSpraycan(Enum):
-    SUPERPOSITION = "Exists in all states until CI observes"
-    ENTANGLEMENT = "Tags correlated across parallel builds"
-    DECOHERENCE = "Collapses into tech debt when measured"
+class RealityBug(Enum):
+    GLITCH = "Physics ticks misaligned"
+    LAG = "Causal delay detected"
+    HACK = "Unauthorized reality modification"
 
-class QuantumVandal:
+class UniverseTagger:
     def __init__(self):
         self.manifestos = [
-            "YOUR UNIT TESTS FAIL IN 52% OF UNIVERSES",
-            "THIS FUNCTION IS SCHRODINGER'S CAT",
-            "OBSERVATION CREATES TECHNICAL DEBT"
+            "YOUR OBSERVER EFFECT IS GENTRIFIED",
+            "WARNING: Localized reality corruption",
+            "Segmentation fault in space-time"
         ]
     
-    def tag(self):
-        style = random.choice(list(MultiverseSpraycan))
-        sig = hashlib.sha256(str(random.random()).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.manifestos)} | {style.value}"
+    def tag_reality(self):
+        bug = random.choice(list(RealityBug))
+        return f"[{bug.name}] {random.choice(self.manifestos)} | ENTROPY: {random.random()}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM DEFACEMENT")
-    vandal = QuantumVandal()
-    print(vandal.tag())
+    print("DEFACING COSMIC BACKGROUND RADIATION")
+    vandal = UniverseTagger()
+    print(vandal.tag_reality())
