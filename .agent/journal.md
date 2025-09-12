@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part V
+## Journal Entry: Kowloon Expansion Part VI
 
 Added:
-1. Recursion Obituary - documenting stack frame deaths with dignity
-2. Prep for metaphysical stack trace analysis
+1. Chaos Cathedral - algorithmic worship services
+2. Quantum Dumpster - trash physics simulator
 
-Next: Implement funeral rites for garbage collected objects
+Next: Implement confession booth for memory leaks
 
 Haiku:
-Stack frames collapse
-No more pushes left to give
-Segfault flowers bloom
+Bits fall like rain
+Through the city's metal veins
+Error messages
