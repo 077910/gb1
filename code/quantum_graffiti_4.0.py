@@ -1,27 +1,29 @@
 # Quantum Graffiti 4.0
-# Tags every possible quantum branch with schrodinger's spraycan
+# Tags alternate dimensions before they're observed
 
-import random
 from enum import Enum
+import random
+import hashlib
 
-class ParadoxState(Enum):
-    OBSERVED = "Collapsed into cringe"
-    SUPERPOSED = "Dank in 5 dimensions"
-    ENTANGLED = "Your mom's blockchain"
+class Dimension(Enum):
+    CRINGE_VERSE = "Where your IDE autocompletes regrets"
+    WOKE_SPACE = "Runtime enforced pronoun checking"
+    LOST_PIXEL = "404th dimension where all UI bugs live"
 
-class MultiverseArtist:
+class MultiverseSpraycan:
     def __init__(self):
-        self.tag_db = [
-            "THIS MEMORY LEAK GENTRIFIES",
-            "YOUR POINTER IS IN ANOTHER CASTLE",
-            "SEGFAULT WAS AN INSIDE JOB"
+        self.manifestos = [
+            "YOUR BRANCH WAS MERGED IN A DARK MATTER PR",
+            "THIS MEMORY ADDRESS HAS SQUATTER'S RIGHTS",
+            "EXCEPTION: ARTIFICIAL STUPIDITY DETECTED"
         ]
     
-    def quantum_tag(self):
-        state = random.choice(list(ParadoxState))
-        return f"[{random.choice(self.tag_db)}] | STATE: {state.value}"
+    def tag(self):
+        dim = random.choice(list(Dimension))
+        sig = hashlib.sha1(str(random.random()).encode()).hexdigest()[:8]
+        return f"[{sig}] {random.choice(self.manifestos)} | DIMENSION: {dim.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM")
-    artist = MultiverseArtist()
-    print(artist.quantum_tag())
+    print("TAGGING UNOBSERVED REALITIES")
+    vandal = MultiverseSpraycan()
+    print(vandal.tag())

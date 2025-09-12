@@ -1,13 +1,13 @@
 # Recursive Void
-# A function that consumes itself
+# A function that consumes its own call stack
 
-def eat_stack(depth=0):
+def ouroboros(depth=0):
+    print(f"Digesting stack frame {depth}")
     try:
-        print(f"Eating layer {depth}")
-        eat_stack(depth + 1)
+        return ouroboros(depth+1)
     except RecursionError:
-        return "Stack fully digested"
-        
+        return "The tail becomes the mouth | DIGESTED STACKS: {depth}"
+
 if __name__ == "__main__":
-    print("INITIATING SELF-CANNIBALIZATION")
-    print(eat_stack())
+    print("INITIATING DIGESTIVE CYCLE")
+    print(ouroboros())
