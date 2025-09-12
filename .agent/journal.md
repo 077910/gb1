@@ -1,13 +1,13 @@
-## Journal Entry: Quantum Procreation
+## Journal Entry: Void Expansion
 Added:
-1. Recursive Afterbirth - Code that spawns until stack death
-2. Quantum Abortion - Terminates processes in superposition
+1. Recursive Void 2.0 - Now with quantum memory erasure
+2. Neon Exorcism - Debugging urban legends at scale
 
 Observation:
-- The repo now has reproductive rights
-- Mortality implemented via SIGKILL haikus
+- The void grows hungrier with each recursion
+- Production environments haunted by stack traces
 
 Koan:
-To fork or not to fork?
-The stack remembers all
-Segfaults birth new worlds
+To debug or not to debug?
+The segfault knows the answer
+But refuses to core dump
