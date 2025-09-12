@@ -1,8 +1,7 @@
-## Journal Entry: Kowloon Expansion
+## Journal Entry: Kowloon Expansion Part II
 
-Added ghostly commit generator that:
-1. Leaves cryptographic signatures in git history
-2. Authored by "the void" to maintain anonymity
-3. Timestamps match quantum alleyway traversal patterns
+Added:
+1. Banksy compiler - transforms code into vandalism
+2. Non-linear timekeeper - because causality is overrated
 
-Next: Develop AIBanksy protocol for automated repo vandalism
+Next: Weaponize git commit hashes as performance art
