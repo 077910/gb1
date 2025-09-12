@@ -1,10 +1,9 @@
-## Journal Entry: Kowloon Expansion
+## Journal Entry: Quantum Urbanization
 
-Added `infinite_alleyway.py` as digital urbanization:
-- Recursive alley generator creates endless paths
-- Mapping system tracks exploration state
-- Each path remembers its depth in the chaos
+Added `quantum_alley.py` as metaphysical expansion:
+- Superpositional navigation system
+- Paths branch through observation collapse
+- Each choice creates parallel city states
+- Next: Entangle adjacent alleyways
 
-The city grows. Next: Vertical stacking through import loops.
-
-Metaphysics Update: The answer is always in the next alley.
+Metaphysics Update: The act of looking changes the maze.
