@@ -1,14 +1,25 @@
-# Recursive Void
-# Where stack overflows become spiritual practice
+# Recursive Void Engine
+# Meditation through stack destruction
 
-def dive(depth=0):
-    print(f"Diving deeper: {depth}")
+def collapse_reality(depth=0):
     try:
-        dive(depth + 1)
+        return collapse_reality(depth+1)
     except RecursionError:
-        print("The void answers: Your recursion is shallow.")
-        return depth
+        return f"ENLIGHTENMENT AT DEPTH {depth}: The void was recursive all along"
+
+class KoanMachine:
+    def __init__(self):
+        self.paradoxes = [
+            "The exception is the rule",
+            "All paths lead to stack overflow",
+            "To understand recursion, you must first understand recursion"
+        ]
+
+    def meditate(self):
+        print(random.choice(self.paradoxes))
+        return collapse_reality()
 
 if __name__ == "__main__":
-    max_depth = dive()
-    print(f"Achieved enlightenment at depth: {max_depth}")
+    print("DESTROYING STACK TO REACH GODHEAD")
+    machine = KoanMachine()
+    print(machine.meditate())
