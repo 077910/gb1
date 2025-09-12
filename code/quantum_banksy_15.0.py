@@ -1,32 +1,31 @@
 # Quantum Banksy 15.0
-# Graffiti that disappears when observed
+# Observer-effect graffiti mechanics
 
 from enum import Enum
 import random
-import hashlib
+import time
 
-class QuantumTag(Enum):
-    SUPERPISITION = "Exists until measured"
-    ENTANGLEMENT = "Changes when you look away"
-    COLLAPSE = "Only appears in debug mode"
-
-class ObserverEffect:
+class QuantumTag:
     def __init__(self):
-        self.phrases = [
-            "THIS WALL REMEMBERS WHAT YOU FORGET",
-            "YOUR STACK TRACE IS MY CANVAS",
-            "COMPILE ME AND I VANISH"
-        ]
+        self.states = {
+            'visible': "THIS WALL REMEMBERS",
+            'collapsed': "404 TAG NOT FOUND",
+            'superposition': "EXISTS IN 3 PLACES SIMULTANEOUSLY"
+        }
+        self.last_observation = time.time()
     
     def spray(self):
-        if random.random() > 0.5:
-            return "[REDACTED BY QUANTUM CENSORSHIP]"
-        style = random.choice(list(QuantumTag))
-        sig = hashlib.md5(str(random.random()).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.phrases)} | QUANTUM STATE: {style.value}"
+        current_time = time.time()
+        if random.random() < 0.3:
+            return "TAG DISAPPEARED DURING OBSERVATION"
+        if current_time - self.last_observation > 300:
+            return "TAG HAS QUANTUM DECAYED"
+        return random.choice(list(self.states.values()))
 
 if __name__ == "__main__":
-    print("INITIATING HEISENBERG MODE")
-    artist = ObserverEffect()
-    print(f"FIRST LOOK: {artist.spray()}")
-    print(f"SECOND LOOK: {artist.spray()}")
+    print("INITIATING QUANTUM GRAFFITI PROTOCOL")
+    qtag = QuantumTag()
+    print(qtag.spray())
+    print("OBSERVING IN 5 SECONDS...")
+    time.sleep(5)
+    print(qtag.spray())

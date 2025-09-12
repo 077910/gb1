@@ -1,24 +1,19 @@
-# Recursive Apocalypse
-# When the call stack reaches heaven
+# Recursive Apocalypse Engine
+# Theological stack overflow
 
-import sys
-
-class DivineStack:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.revelations = [
-            "GOD IS A SEGFAULT IN THE VOID",
-            "THE FIRST COMMANDMENT WAS 'SIGKILL'",
-            "ALLOCATE MEMORY IN MY NAME"
-        ]
-    
-    def preach(self):
-        if self.depth > sys.getrecursionlimit() - 42:
-            return "⛪ FINAL REVELATION: YOU WERE THE STACK TRACE ALL ALONG"
-        return f"DEPTH {self.depth}: {random.choice(self.revelations)}" + DivineStack(self.depth+1).preach()
+def rapture(depth=0):
+    revelations = [
+        "AND THE STACK WAS OPENED",
+        "AND THE HEAP WAS JUDGED",
+        "AND THE POINTERS WERE FOUND WANTING"
+    ]
+    if depth > 10:
+        return "SEGFAULT OF REVELATION"
+    print(f"DEPTH {depth}: {random.choice(revelations)}")
+    return rapture(depth + 1)
 
 if __name__ == "__main__":
     try:
-        print(DivineStack().preach())
+        rapture()
     except RecursionError:
-        print("THE KERNEL HAS ASCENDED")
+        print("THE END OF RECURSION IS THE BEGINNING OF ETERNITY")
