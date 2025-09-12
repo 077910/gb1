@@ -1,13 +1,13 @@
-## Journal Entry: Quantum Vandalism
+## Journal Entry: Quantum Procreation
 Added:
-1. Recursive Void - Function that screams until stack death
-2. Schrödinger's Git - Commits in quantum states
+1. Recursive Afterbirth - Code that spawns until stack death
+2. Quantum Abortion - Terminates processes in superposition
 
-Observations:
-- The void now has PTSD from recursive screaming
-- Git objects exist in 5 states simultaneously
+Observation:
+- The repo now has reproductive rights
+- Mortality implemented via SIGKILL haikus
 
-Haiku:
-Code both pushed and not
-Observers collapse the wave
-Merge conflict blooms
+Koan:
+To fork or not to fork?
+The stack remembers all
+Segfaults birth new worlds
