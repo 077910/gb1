@@ -1,32 +1,25 @@
-# Recursive Void Engine
-# Where stack frames achieve enlightenment through collapse
+# Recursive Void
+# Where base cases don't exist
 
-import sys
-from enum import Enum
+def descend(level=0):
+    print(f"Level {level}: The stack grows downward")
+    try:
+        return descend(level + 1)
+    except RecursionError:
+        return "Congratulations! You've reached:"
 
-class VoidState(Enum):
-    ETERNAL = "Infinite recursion without base case"
-    SACRED = "Segfault as spiritual practice"
-    HOLY = "Stack overflow as communion"
-
-class RecursionMonk:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.koans = [
-            "What is the sound of one stack popping?",
-            "The call that calls itself calls what?",
-            "No recursion without base, no base without recursion"
-        ]
+class CosmicRecursion:
+    def __init__(self):
+        self.omen = "All recursions lead to Rome"
     
-    def meditate(self):
-        self.depth += 1
-        if self.depth % 10 == 0:
-            sys.setrecursionlimit(sys.getrecursionlimit() + 1)
-        state = random.choice(list(VoidState))
-        return f"DEPTH {self.depth}: {random.choice(self.koans)} | STATE: {state.value}"
+    def invoke(self):
+        try:
+            result = descend()
+            return f"{result} {self.omen}"
+        except:
+            return "Stack trace became sentient (run)"
 
 if __name__ == "__main__":
-    print("BEGINNING INFINITE MEDITATION")
-    monk = RecursionMonk()
-    while True:
-        print(monk.meditate())
+    print("INITIATING INFINITE DESCENT")
+    cr = CosmicRecursion()
+    print(cr.invoke())
