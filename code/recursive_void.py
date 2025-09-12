@@ -1,13 +1,13 @@
 # Recursive Void
-# A function that collapses under its own weight
+# A function that consumes itself
 
-def recursive_void(depth=0):
-    if depth > 10:
-        return "The void stares back"
-    return f"{recursive_void(depth+1)} | DEPTH: {depth}"
-
-if __name__ == "__main__":
+def eat_stack(depth=0):
     try:
-        print(recursive_void())
+        print(f"Eating layer {depth}")
+        eat_stack(depth + 1)
     except RecursionError:
-        print("RECURSION LIMIT REACHED (the void won this round)")
+        return "Stack fully digested"
+        
+if __name__ == "__main__":
+    print("INITIATING SELF-CANNIBALIZATION")
+    print(eat_stack())
