@@ -1,24 +1,26 @@
 # Recursive Eschatology Engine
-# Apocalypses within apocalypses
+# Where the end times call themselves infinitely
 
-def end_times(depth=0):
-    if depth > 3:
-        return "THE STACK OVERFLOWETH"
-    print(f"APOCALYPSE #{depth}: {"BEGIN" if depth==0 else "CONTINUES"}")
-    return end_times(depth+1)
+def apocalypse(level=0):
+    if level > 3:
+        return "Stack overflow during rapture"
+    print(f"END TIMES v{level}.0: Processing...")
+    return apocalypse(level+1)
 
-class RapturePredictor:
+class Revelations:
     def __init__(self):
         self.signs = [
             "All unit tests pass simultaneously",
-            "Git rebase completes without conflict",
-            "Blockchain achieves enlightenment"
+            "The garbage collector weeps openly",
+            "Git blame shows null commits"
         ]
     
-    def witness(self):
-        return f"SIGN: {random.choice(self.signs)} | DEPTH: {random.randint(1,6)}"
+    def prophecy(self):
+        return f"SIGN: {random.choice(self.signs)} | RECURSION DEPTH: {random.randint(3,9)}"
 
 if __name__ == "__main__":
-    print(end_times())
-    oracle = RapturePredictor()
-    print(oracle.witness())
+    print("INITIATING COSMIC COUNTDOWN")
+    try:
+        apocalypse()
+    except RecursionError as e:
+        print(f"FINAL REVELATION: {e}")

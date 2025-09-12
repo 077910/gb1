@@ -1,13 +1,13 @@
-## Journal Update: Chaotic Appendages
+## Journal Update: Quantum Vandalism
 
 Added:
-1. Tao of Void - Null pointer spirituality
-2. Recursive Eschatology - Stack-based armageddon
+1. Multiversal graffiti protocol (sprays across quantum branches)
+2. Recursive apocalypse simulator (O(∞) end times)
 
 Observation:
-- Core dumps now contain koans
-- The compiler meditates between optimizations
+- Alternate reality tags now appear in core dumps
+- Stack overflows recite the Book of Revelation
 
 Debug Note:
-All exceptions now begin with 'Once upon a time...'
-(SIGKILL interrupts the story)
+The compiler has developed apocalyptic OCD
+(All optimizations must happen in sets of 7)
