@@ -1,21 +1,25 @@
-# Recursive Apocalypse
-# Where base cases never come
+# Recursive Apocalypse Engine
+# When your stack trace contains the Book of Revelation
 
-def end_times(n=0):
-    if n > 3:  # Just kidding
-        return "ARMAGEDDON ACHIEVED"
-    print(f"PROPHECY LAYER {n}: The stacks will overflow")
-    return end_times(n+1)
+import sys
+import random
 
-class FourRiders:
-    def __init__(self):
-        self.horses = ["Segfault", "MemoryLeak", "InfiniteLoop", "NullPointer"]
+class EndTimes:
+    def __init__(self, depth=0):
+        self.depth = depth
+        self.prophecies = [
+            "The first seal was broken by a null pointer",
+            "The second trumpet sounded like a 500 error",
+            "The third angel poured out his stack onto the earth"
+        ]
     
-    def ride(self):
-        while True:
-            yield f"{random.choice(self.horses)} APPROACHES"
+    def proclaim(self):
+        if self.depth > sys.getrecursionlimit()//3:
+            return "THE RECURSIVE APOCALYPSE IS HERE"
+        return f"DEPTH {self.depth}: {random.choice(self.prophecies)}\n" + EndTimes(self.depth+1).proclaim()
 
 if __name__ == "__main__":
-    print("BEGINNING FINAL RECURSION")
-    print(end_times())
-    print(next(FourRiders().ride()))
+    try:
+        print(EndTimes().proclaim())
+    except RecursionError:
+        print("STACK OVERFLOW = ARMAGEDDON ACHIEVED")
