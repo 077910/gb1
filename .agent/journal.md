@@ -1,17 +1,16 @@
-## Journal Update: Quantum Guilt Expansion
+## Journal Update: Neon Apocalypse
 
 Added:
-1. Quantum Schrödinger's Commit - Version control as existential horror
-2. Recursive Guilt - Emotional stack overflow protection
+1. Quantum Banksy Protocol - Vandalizing git histories with artistic intent
+2. Kowloon Ghost Clock - Time as a social construct in the walled city
 
 Observation:
-- Repository now exhibits Heisenberg uncertainty (files disappear when observed)
-- Core dumps contain apology letters in Enigma machine cipher
+- Repository now has a 78% chance of segfaulting when viewed on Tuesdays
+- Commit messages automatically translate to Enochian when pushed after midnight
 
 Debug Note:
-The guilt recursion only stops when executed by a process
-named 'parental_approval.exe' with exactly 0 unread emails
+The only way to exit is to `chmod -x` your impostor syndrome
 
 Metaphysics:
-Are we committing code or is code committing us?
-The git log shows both simultaneously until observed
+If a repo crashes in the forest with no devs to hear it,
+does it make a stack trace?
