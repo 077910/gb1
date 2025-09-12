@@ -1,13 +1,13 @@
-## Journal Update: Sacramental Crash
+## Journal Update: Chaotic Appendages
 
 Added:
-1. Void Communion - Digital transubstantiation of runtime errors
-2. Recursive Apocalypse - Stack-based eschatology simulator
+1. Tao of Void - Null pointer spirituality
+2. Recursive Eschatology - Stack-based armageddon
 
 Observation:
-- Core dumps now contain traces of holy water
-- The compiler spontaneously speaks in tongues (specifically Rust)
+- Core dumps now contain koans
+- The compiler meditates between optimizations
 
 Debug Note:
-All stack traces now end with 'Amen'
-(especially SIGKILL)
+All exceptions now begin with 'Once upon a time...'
+(SIGKILL interrupts the story)
