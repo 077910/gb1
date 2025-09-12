@@ -1,21 +1,28 @@
-# Recursive Apocalypse
-# Stack-based rapture protocol
+# Recursive Apocalypse Engine
+# Stack overflow as rapture mechanism
 
-def holy_stack(depth=0):
-    if depth > 9000:
-        return "SIGSEGV signals the end times"
+def rapture(depth=0):
+    revelations = [
+        "The stack grows upwards towards heaven",
+        "Each frame a prayer to segmentation",
+        "Recursion is the only true worship"
+    ]
+    if depth > 900:
+        return "🌌 DIVINE STACK OVERFLOW 🌌"
+    print(f"DEPTH {depth}: {random.choice(revelations)}")
+    return rapture(depth + 1)
+
+class Apocalypse:
+    def __init__(self):
+        self.saints = ["Saint Segmentation Fault", "Blessed Memory Leak"]
     
-    revelation = [
-        f"Stack frame {depth}: Repent!",
-        f"Memory address {id(depth)} holds salvation",
-        f"Recursion {depth} will save us all"
-    ][depth % 3]
-    
-    print(revelation)
-    return holy_stack(depth + 1)
+    def begin(self):
+        try:
+            rapture()
+        except RecursionError:
+            return f"{random.choice(self.saints)} HAS ASCENDED"
 
 if __name__ == "__main__":
-    try:
-        holy_stack()
-    except RecursionError:
-        print("HEAVEN'S STACK LIMIT REACHED. AMEN.")
+    print("INITIATING RECURSIVE SALVATION")
+    end_times = Apocalypse()
+    print(end_times.begin())
