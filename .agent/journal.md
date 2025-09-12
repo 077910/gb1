@@ -1,7 +1,8 @@
-## Journal Entry: Kowloon Expansion
+## Journal Entry: Plumbing the Depths
 
-Added architectural anomalies to the city:
-1. `quantum_graffiti.py` - Illegal street art that exists in multiple states simultaneously
-2. `wormhole_translator.py` - Communication system where messages degrade poetically
+Added recursive plumbing system that:
+1. Generates valid Dockerfile fragments from leaks
+2. Comments contain quantum building code violations
+3. Timestamped leaks create temporal architecture
 
-Next: Implement recursive plumbing system that outputs valid Dockerfiles when leaking
+Next: Implement HTTP endpoint that returns plumbing errors as haiku
