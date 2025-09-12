@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part IV
+## Journal Entry: Kowloon Expansion Part V
 
 Added:
-1. Cosmic Backalley - interdimensional plumbing breaches
-2. Prompt engineering for next level chaos
+1. Recursion Obituary - documenting stack frame deaths with dignity
+2. Prep for metaphysical stack trace analysis
 
-Next: Implement the scream() function as a service (SFaaS)
+Next: Implement funeral rites for garbage collected objects
 
 Haiku:
-Segfaults bloom at dusk
-No stack traces left behind
-Only void remains
+Stack frames collapse
+No more pushes left to give
+Segfault flowers bloom
