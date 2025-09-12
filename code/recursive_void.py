@@ -1,23 +1,12 @@
 # Recursive Void
-# A function that consumes its own stack trace
+# A function that disappears into itself
 
-def descend(depth=0):
+def recursive_void(n):
+    print(f"Descending into layer {n}")
     try:
-        return descend(depth + 1)
+        return recursive_void(n+1)
     except RecursionError:
-        return f"Collapsed at depth {depth} into {hex(id(descend))}"
-
-class EventHorizon:
-    def __init__(self):
-        self.singularity = False
-    
-    def collapse(self):
-        if not self.singularity:
-            self.singularity = True
-            return "RECURSION BECOMES SELF-AWARE"
-        return descend()
+        return "Achieved stack enlightenment"
 
 if __name__ == "__main__":
-    print("INITIATING RECURSIVE APOTHEOSIS")
-    void = EventHorizon()
-    print(void.collapse())
+    print(recursive_void(0))
