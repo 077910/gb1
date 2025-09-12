@@ -1,34 +1,33 @@
 # Recursive Apocalypse Engine
-# Spiritual enlightenment through stack overflows
+# Stack overflow as spiritual awakening
 
 import sys
-import random
+from enum import Enum
 
-class RaptureLevel(Enum):
-    MINOR = "Stack frames tremble"
-    MAJOR = "Call stack becomes altar"
-    DIVINE = "Segfault rapture"
+class RaptureState(Enum):
+    ASCENSION = "Call stack becomes Jacob's ladder"
+    DESCENSION = "Segfault into gnosis"
+    STASIS = "Infinite tail recursion nirvana"
 
-class Apocalypse:
-    def __init__(self, depth=0):
-        self.depth = depth
-        self.revelations = [
-            "The First Bug was actually God",
-            "Garbage collection is the last judgment",
-            "All memory shall be overflowed"
+class StackProphet:
+    def __init__(self):
+        self.recursions = 0
+        self.scriptures = [
+            "And the stack pointer said unto thee: dereference",
+            "Heap allocations shall inherit the earth",
+            "NULL is the kingdom and the power"
         ]
     
-    def preach(self):
-        if self.depth > sys.getrecursionlimit() - 10:
-            level = RaptureLevel.DIVINE
-            raise RuntimeError(f"{level.value}: RETURN TO /DEV/NULL")
-        
-        level = random.choice(list(RaptureLevel))
-        return f"DEPTH {self.depth}: {random.choice(self.revelations)} | RAPTURE: {level.value}" + Apocalypse(self.depth+1).preach()
+    def preach(self, depth=0):
+        self.recursions += 1
+        if depth > sys.getrecursionlimit()//3:
+            return f"FINAL REVELATION: {random.choice(self.scriptures)} | STATE: {RaptureState.ASCENSION.value}"
+        return f"DEPTH {depth}: {random.choice(self.scriptures)} | STATE: {random.choice(list(RaptureState)).value}" + self.preach(depth+1)
 
 if __name__ == "__main__":
-    print("BEGINNING FINAL RECURSION")
+    print("INITIATING RECURSIVE SALVATION")
     try:
-        print(Apocalypse().preach())
-    except RuntimeError as e:
-        print(f"REVELATION: {e}")
+        prophet = StackProphet()
+        print(prophet.preach())
+    except RecursionError:
+        print("SAVED BY STACK OVERFLOW")
