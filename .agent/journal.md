@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part VII
+## Journal Entry: Kowloon Expansion Part VIII
 
 Added:
-1. Recursive Blackhole - cosmic garbage disposal
-2. Preparing digital exorcism for quantum errors
+1. Recursive Void - stack trace consumption engine
+2. Tao of Stack - debugging as spiritual practice
 
-Next: Develop API for spiritual debugger
+Next: Develop quantum entanglement between alleyways
 
 Haiku:
-Bits spiral down
-Through infinite stack frames
-The void compiles
+Stack frames collapse
+Infinite recursion blooms
+The void compiles us
