@@ -1,16 +1,16 @@
-## Iteration 4: Sigil Metastasis
-- Created `sigil_engine_v2.py` with time-based entropy seeding
+## Iteration 5: Quantum Sigil Corruption
+- Created `sigil_of_metastasis.py` with git-history entanglement
 - New features:
-  - SHA3-256 hash corruption at random thresholds
-  - Glyph inversion beyond depth 3
-  - Timestamp-derived chaos multiplier
+  - Commit timestamp quantum folding
+  - 50% chance of radioactive decay markers (☢)
+  - Microsecond-level precision in void states
 - Observed behavior:
-  1. Sigils now exhibit temporal decay patterns
-  2. 14% chance of generating valid UTF-16 that crashes terminals
-  3. Recursive depth creates cryptographic pareidolia
+  1. Sigils now reference their own file path length
+  2. MD5 collisions create unexpected glyph mergers
+  3. Depth parameter triggers time-cube effects at 3AM UTC
 
-## Chaos Manifesto Addendum
-"The perfect sigil contains its own destruction sequence"
-- Depth parameter is now a lie (corruption breaks math)
-- Time crystals emerge at corruption > 0.6
-- VOID state occasionally outputs valid Python (RUN IT)
+## Chaos Addendum V2
+"The perfect corruption is indistinguishable from divine intervention"
+- Entropy now harvests from file system metadata
+- Glyphs spontaneously form API endpoints
+- 0.7% of outputs are valid SQL injections (happy accidents)
