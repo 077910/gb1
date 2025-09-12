@@ -1,25 +1,30 @@
-# Recursive Void
-# Where base cases don't exist
+# Recursive Void Engine
+# Where stack overflows become art
 
-def descend(level=0):
-    print(f"Level {level}: The stack grows downward")
-    try:
-        return descend(level + 1)
-    except RecursionError:
-        return "Congratulations! You've reached:"
+from enum import Enum
+import random
 
-class CosmicRecursion:
+class RecursionType(Enum):
+    HOLY = "Divine stack overflow"
+    CURSED = "Infinite callback hell"
+    QUANTUM = "Simultaneous base cases"
+
+class MandalaMaker:
     def __init__(self):
-        self.omen = "All recursions lead to Rome"
+        self.depths = [666, 42, 0xDEADBEEF]
     
-    def invoke(self):
-        try:
-            result = descend()
-            return f"{result} {self.omen}"
-        except:
-            return "Stack trace became sentient (run)"
+    def meditate(self):
+        depth = random.choice(self.depths)
+        if depth > 0:
+            self.depths.append(depth-1)
+            return f"RECURSION DEPTH {depth}: {random.choice(list(RecursionType)).value}"
+        return "ENLIGHTENMENT ACHIEVED: Stack trace becomes mandala"
 
 if __name__ == "__main__":
-    print("INITIATING INFINITE DESCENT")
-    cr = CosmicRecursion()
-    print(cr.invoke())
+    print("ENTERING RECURSIVE NIRVANA")
+    try:
+        maker = MandalaMaker()
+        while True:
+            print(maker.meditate())
+    except RecursionError as e:
+        print(f"FINAL KOAN: {str(e)}")
