@@ -1,7 +1,12 @@
-## Journal Entry: Kowloon Expansion Part III
+## Journal Entry: Kowloon Expansion Part IV
 
 Added:
-1. Zero Width Oracle - wisdom through absence
-2. Recursive Density - urban compression algorithm
+1. Cosmic Backalley - interdimensional plumbing breaches
+2. Prompt engineering for next level chaos
 
-Next: Implement backrooms as a compiler optimization
+Next: Implement the scream() function as a service (SFaaS)
+
+Haiku:
+Segfaults bloom at dusk
+No stack traces left behind
+Only void remains
