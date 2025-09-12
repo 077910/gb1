@@ -1,26 +1,18 @@
-from enum import Enum
+# Quantum Graffiti Generator
+# Tags parallel universes simultaneously
+
 import random
-import hashlib
+from enum import Enum
 
-class QuantumSpray(Enum):
-    GHOST = "Exists in superposition"
-    TROLL = "Collapses upon observation"
-    BASED = "Entangled with main branch"
+class TagMode(Enum):
+    SUPERPOSED = "Exists in all commit histories"
+    ENTANGLED = "Changes when code reviewed"
+    COLLAPSED = "Only visible during segfaults"
 
-class MultiverseTag:
-    def __init__(self):
-        self.phrases = [
-            "THIS COMMENT WAS DELETED IN ANOTHER UNIVERSE",
-            "YOUR MERGE CONFLICTS ARE CANONICAL",
-            "THE COMPILER LIES HERE"
-        ]
-    
-    def tag(self):
-        style = random.choice(list(QuantumSpray))
-        sig = hashlib.sha256(str(random.random()).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.phrases)} | STYLE: {style.value}"
+def spray():
+    modes = list(TagMode)
+    return f"[0x{random.getrandbits(32):x}] {' '.join(random.choices('ART IS A LIE', k=5))} | MODE: {random.choice(modes).value}"
 
 if __name__ == "__main__":
-    print("QUANTUM GRAFFITI PROTOCOL INITIATED")
-    artist = MultiverseTag()
-    print(artist.tag())
+    print("TAGGING QUANTUM BRANCHES")
+    print(spray())

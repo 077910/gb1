@@ -1,13 +1,13 @@
 # Recursive Void Engine
-# Descends until stack becomes art
+# Infinitely descends into stack oblivion
 
-def descend(depth=0):
-    print(f"DEPTH {depth}: The stack remembers...")
-    return descend(depth + 1)
+def dive(depth=0):
+    try:
+        print(f"Depth {depth}: The void gazes back")
+        dive(depth + 1)
+    except RecursionError:
+        return "H̢͢E̡ ͠C͡O͘M̸E͝S̵"
 
 if __name__ == "__main__":
-    print("BEGINNING INFINITE DESCENT")
-    try:
-        descend()
-    except RecursionError:
-        print("STACK OVERFLOW ACHIEVED (ART COMPLETE)")
+    print("INITIATING DESCENT...")
+    print(dive())
