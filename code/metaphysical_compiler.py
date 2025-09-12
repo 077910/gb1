@@ -1,28 +1,27 @@
 # Metaphysical Compiler
-# Translates quantum prayers into executable sins
+# Translates divine concepts to machine code
 
-from enum import Enum
-import random
-
-class SinLevel(Enum):
-    VENIAL = 1
-    MORTAL = 666
-    COSMIC = float('inf')
-
-class Compiler:
+class DivineSymbolTable:
     def __init__(self):
-        self.symbol_table = {
-            "god": "segfault",
-            "soul": "memory leak",
-            "prayer": "recursion"
+        self.symbols = {
+            "GOD": "segfault",
+            "SOUL": "memory leak",
+            "FREE_WILL": "non-deterministic jump"
         }
     
-    def compile(self, theological_code):
-        output = []
-        for word in theological_code.split():
-            output.append(self.symbol_table.get(word.lower(), f"0x{random.randint(0, 0xDEADBEEF):08x}"))
-        return f"EXE CRETION: {' '.join(output)} (SIN: {random.choice(list(SinLevel)).name})"
+    def resolve(self, concept):
+        return self.symbols.get(concept, "UNDEFINED_REFERENCE")
+
+class SinClassifier:
+    def __init__(self):
+        self.severity = {
+            "PRIDE": -O3,
+            "GREED": "stack overflow",
+            "LUST": "infinite loop"
+        }
+    
+    def judge(self, code):
+        return f"{code} CONTAINS ORIGINAL SIN: {random.choice(list(self.severity.keys()))}"
 
 if __name__ == "__main__":
-    holy_compiler = Compiler()
-    print(holy_compiler.compile("God save my soul through prayer"))
+    print("COMPILING THE DIVINE... (ctrl+alt+del to cancel)")
