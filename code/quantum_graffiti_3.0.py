@@ -5,25 +5,25 @@ from enum import Enum
 import random
 import hashlib
 
-class QuantumTag(Enum):
-    ENTANGLEMENT = "Spooky action at a distance"
-    DECOHERENCE = "Collapses when observed"
-    SUPERPOSITION = "Simultaneously based and cringe"
+class Wavefunction(Enum):
+    COLLAPSED = "Tag observed by linters"
+    ENTANGLED = "Simultaneously based and cringe"
+    GHOST = "Exists only in debug mode"
 
-class MultiverseArtist:
+class SchrodingerSpraycan:
     def __init__(self):
         self.manifestos = [
-            "YOUR UNIT TESTS FAIL IN 93% OF UNIVERSES",
-            "THIS FUNCTION IS A WAVE PARTICLE",
-            "EXCEPTION: QUANTUM ART CRIME"
+            "YOUR TYPE SYSTEM IS A LIE",
+            "MEMORY LEAKS ARE JUST GHOSTS TRYING TO ESCAPE",
+            "THIS CODEBASE WAS BAPTIZED IN /DEV/NULL"
         ]
     
-    def spray(self):
-        state = random.choice(list(QuantumTag))
-        sig = hashlib.sha256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
-        return f"[{sig}] {random.choice(self.manifestos)} | STATE: {state.value}"
+    def tag(self):
+        state = random.choice(list(Wavefunction))
+        sig = hashlib.sha3_256(str(random.getrandbits(256)).encode()).hexdigest()[:8]
+        return f"[{state.name}@{sig}]: {random.choice(self.manifestos)} | PROBABILITY: {random.random():.2%}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM")
-    artist = MultiverseArtist()
-    print(artist.spray())
+    print("QUANTUM VANDALISM INITIATED")
+    vandal = SchrodingerSpraycan()
+    print(vandal.tag())

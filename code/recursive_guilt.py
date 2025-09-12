@@ -1,23 +1,33 @@
-# Recursive Guilt Machine
-# Functions that regret their existence
+# Recursive Guilt Engine
+# Functions confess their sins at runtime
 
-class MoralStack:
-    def __init__(self):
-        self.memory = []
-        self.guilt_level = 0
-    
-    def confess(self, sin):
-        self.memory.append(sin)
-        self.guilt_level += len(sin)
-        if self.guilt_level > 100:
-            print(f"FATAL: RECURSIVE GUILT OVERFLOW ({self.guilt_level}% culpability)")
-            return "I am the error"
-        return self.confess(sin + "?")
+import random
+from functools import wraps
+
+def guilty(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        try:
+            if random.random() < 0.3:
+                raise RuntimeError(f"{func.__name__} failed its ancestors")
+            return func(*args, **kwargs)
+        except Exception as e:
+            print(f"DEBUG: {func.__name__} admits: {random.choice(GUILT_DB)}")
+            raise
+    return wrapper
+
+GUILT_DB = [
+    "I shouldn't have mutilated that global state",
+    "The third recursion was unnecessary",
+    "I pretended to understand monads",
+    "My docstring lies about time complexity"
+]
+
+# Example usage:
+@guilty
+def problematic_function():
+    """Innocent-looking but secretly guilty"""
+    return 42 / random.choice([0, 1])
 
 if __name__ == "__main__":
-    print("BEGINNING CONFESSION LOOP")
-    try:
-        sinner = MoralStack()
-        print(sinner.confess("I exist"))
-    except RecursionError:
-        print("ABSURDIST REDEMPTION: Stack overflowed into enlightenment")
+    problematic_function()
