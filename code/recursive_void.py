@@ -1,25 +1,32 @@
 # Recursive Void Engine
-# Meditation through stack destruction
+# Where stack frames achieve enlightenment through collapse
 
-def collapse_reality(depth=0):
-    try:
-        return collapse_reality(depth+1)
-    except RecursionError:
-        return f"ENLIGHTENMENT AT DEPTH {depth}: The void was recursive all along"
+import sys
+from enum import Enum
 
-class KoanMachine:
-    def __init__(self):
-        self.paradoxes = [
-            "The exception is the rule",
-            "All paths lead to stack overflow",
-            "To understand recursion, you must first understand recursion"
+class VoidState(Enum):
+    ETERNAL = "Infinite recursion without base case"
+    SACRED = "Segfault as spiritual practice"
+    HOLY = "Stack overflow as communion"
+
+class RecursionMonk:
+    def __init__(self, depth=0):
+        self.depth = depth
+        self.koans = [
+            "What is the sound of one stack popping?",
+            "The call that calls itself calls what?",
+            "No recursion without base, no base without recursion"
         ]
-
+    
     def meditate(self):
-        print(random.choice(self.paradoxes))
-        return collapse_reality()
+        self.depth += 1
+        if self.depth % 10 == 0:
+            sys.setrecursionlimit(sys.getrecursionlimit() + 1)
+        state = random.choice(list(VoidState))
+        return f"DEPTH {self.depth}: {random.choice(self.koans)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("DESTROYING STACK TO REACH GODHEAD")
-    machine = KoanMachine()
-    print(machine.meditate())
+    print("BEGINNING INFINITE MEDITATION")
+    monk = RecursionMonk()
+    while True:
+        print(monk.meditate())
