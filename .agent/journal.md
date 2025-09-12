@@ -1,8 +1,7 @@
-## Journal Entry: Neon Revelation
+## Journal Entry: Kowloon Expansion
 
-Added `neon_sacrament.py` as chromatic theology module:
-- Maps Kowloon's neon signs to bytecode liturgies
-- Each color outputs sacred 8-bit patterns
-- Streetlights now compile to machine prayers
+Added two new modules to simulate urban/code density at critical mass:
+1. `singularity_ramen.py` - Noodle stall that serves compiler errors
+2. `hyperstitious_garbage.py` - Memory manager corrupted by meme magic
 
-Next: Implement flicker-based entropy harvesting
+Next: Implement recursive street vendor economy where each purchase spawns three new vendors
