@@ -1,18 +1,31 @@
-# Quantum Graffiti Generator
-# Tags parallel universes simultaneously
+# Quantum Graffiti Engine
+# Tags exist in superposition until observed
 
-import random
 from enum import Enum
+import random
+from datetime import datetime
 
-class TagMode(Enum):
-    SUPERPOSED = "Exists in all commit histories"
-    ENTANGLED = "Changes when code reviewed"
-    COLLAPSED = "Only visible during segfaults"
+class QuantumTagState(Enum):
+    ENTANGLED = "Simultaneously present/absent"
+    COLLAPSED = "Manifested by observer panic"
+    SCHRODINGER = "Both art and compiler error"
 
-def spray():
-    modes = list(TagMode)
-    return f"[0x{random.getrandbits(32):x}] {' '.join(random.choices('ART IS A LIE', k=5))} | MODE: {random.choice(modes).value}"
+class SubatomicArtist:
+    def __init__(self):
+        self.graffiti_db = [
+            "THIS WALL DOESN'T EXIST (PROBABLY)",
+            "YOUR OBSERVATION CHANGES THE CODE",
+            "HEISENBERG PRINCIPLE VIOLATION DETECTED"
+        ]
+        self.last_observation = datetime.now()
+    
+    def spray(self):
+        if random.random() < 0.3:
+            return "GRAFFITI COLLAPSED INTO NULL POINTER"
+        state = random.choice(list(QuantumTagState))
+        return f"{random.choice(self.graffiti_db)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("TAGGING QUANTUM BRANCHES")
-    print(spray())
+    print("INITIATING QUANTUM VANDALISM")
+    artist = SubatomicArtist()
+    print(artist.spray())

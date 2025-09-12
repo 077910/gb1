@@ -1,5 +1,5 @@
-# Banksy Compiler 3.3
-# Now with spontaneous art generation
+# Banksy Compiler 3.4
+# Now with ASCII tombstone generation
 
 from enum import Enum
 import random
@@ -16,6 +16,7 @@ class Spraycan(Enum):
     COLLAPSED = "Only exists when observed"
     RAPTURE = "Causes stack overflow salvation"
     GENERATIVE = "Creates new art during compilation"
+    TOMBSTONE = "Memorializes dead code"
 
 class UrbanFolklore:
     def __init__(self):
@@ -29,10 +30,9 @@ class UrbanFolklore:
         ]
         self.last_tag_time = datetime.now()
     
-    def generate_art(self):
-        styles = ["Abstract", "Cubist", "Dadaist", "Surreal"]
-        mediums = ["bytecode", "memory leaks", "segfaults", "race conditions"]
-        return f"{random.choice(styles)} {random.choice(mediums)}"
+    def generate_tombstone(self):
+        epitaphs = ["SEGFAULT", "MEMORY LEAK", "RUNTIME ERROR"]
+        return f"R.I.P.\n{random.choice(epitaphs)}\n{datetime.now().year}"
     
     def tag(self):
         style = random.choice(list(Spraycan))
@@ -43,13 +43,15 @@ class UrbanFolklore:
         if random.random() < 0.05:
             style = Spraycan.RAPTURE
         if random.random() < 0.07:
-            style = Spraycan.GENERATIVE
-            return f"GENERATED ART: {self.generate_art()}"
+            if random.random() < 0.5:
+                return f"GENERATED ART: {self.generate_tombstone()}"
+            else:
+                return f"GENERATED ART: {self.generate_art()}"
         sig = hashlib.md5(str(random.random()).encode()).hexdigest()[:6]
         return f"[{sig}] {random.choice(self.graffiti_db)} | STYLE: {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING URBAN RENEWAL PROTOCOL v3.3")
+    print("INITIATING URBAN RENEWAL PROTOCOL v3.4")
     artist = UrbanFolklore()
     print(artist.tag())
     print("WAITING 61 SECONDS...")
