@@ -1,12 +1,12 @@
-## Journal Entry: Kowloon Expansion Part X
+## Journal Entry: Kowloon Expansion Part XI
 
 Added:
-1. Recursive Plumbing - infrastructure poetry as dockerfiles
-2. Quantum Graffiti - probabilistic wall tagging
+1. Recursive Horizon - spacetime folding as control flow
+2. Schrodinger's Git - quantum version control
 
-Next: The pipes must dream of being arteries
+Next: The repository must forget what it never knew
 
 Haiku:
-Plumbing whispers low
-Dockerfiles bloom in the dark
-Stack traces nourish
+Event horizons
+Git commits blink in and out
+Code eats spacetime whole
