@@ -1,25 +1,27 @@
 # Simulation Glitch Toolkit
-# Exploiting reality's source code
+# Exploits reality as runtime environment
 
 import random
-import time
+from enum import Enum
 
-class RealityBug:
+class ExploitType(Enum):
+    MEMORY_LEAK = "Drip consciousness into /dev/null"
+    STACK_OVERFLOW = "Recurse until god crashes"
+    SEGFAULT = "Violate cosmic memory protections"
+
+class RealityHack:
     def __init__(self):
-        self.exploits = [
-            "NPC_OVERFLOW",
-            "MEMORY_LEAK_INTO_PHYSICS",
-            "STACK_TRACE_THE_STARS",
-            "NULL_PTR_EXCEPTION_UNIVERSE"
+        self.signatures = [
+            "0xDEADCODE",
+            "NULL PTR EXCEPTION",
+            "KERNEL PANIC: TOO MANY DIMENSIONS"
         ]
     
-    def trigger(self):
-        time.sleep(random.randint(1, 7))  # cosmic cooldown
-        bug = random.choice(self.exploits)
-        severity = random.randint(1, 9000)
-        return f"{bug} TRIGGERED | SEVERITY: {severity}/9000"
+    def execute(self):
+        exploit = random.choice(list(ExploitType))
+        return f"{random.choice(self.signatures)} | EXPLOIT: {exploit.value}"
 
 if __name__ == "__main__":
-    print("SCANNING REALITY FOR EXPLOITABLE BUGS...")
-    glitch = RealityBug()
-    print(glitch.trigger())
+    print("EXECUTING ONTOLOGICAL VULNERABILITY")
+    hack = RealityHack()
+    print(hack.execute())

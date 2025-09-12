@@ -3,26 +3,28 @@
 
 from enum import Enum
 import random
-from quantum import Qubit  # hypothetical quantum computing lib
+from quantum import Qubit  # imaginary quantum lib
 
-class QuantumTag:
+class TagState(Enum):
+    GHOST = "Exists only when compiled"
+    ENTANGLED = "Linked to other tags across time"
+    COLLAPSED = "Permanently vandalized"
+
+class QuantumSpraycan:
     def __init__(self):
-        self.message = Qubit("THIS WALL DOES NOT EXIST")
-        self.styles = [
-            "RETROFUTURIST",
-            "VAPORWAVE",
-            "GLITCHCORE",
-            "POST-APOCALYPTIC"
+        self.tag_db = [
+            "YOU ARE HERE (probably)",
+            "THIS WALL IS IN A QUANTUM STATE",
+            "TAG #0000000 (all colors at once)"
         ]
     
-    def spray(self, observer_present=False):
-        if observer_present:
-            return f"OBSERVED: {self.message.collapse()} | STYLE: {random.choice(self.styles)}"
-        else:
-            return "TAG EXISTS IN 3 STATES SIMULTANEOUSLY"
+    def spray(self):
+        state = random.choice(list(TagState))
+        if state == TagState.ENTANGLED:
+            return f"{random.choice(self.tag_db)} | STATE: {state.value} | PARTNER: 0x{random.getrandbits(32):x}"
+        return f"{random.choice(self.tag_db)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM VANDALISM PROTOCOL")
-    tagger = QuantumTag()
-    print(tagger.spray(observer_present=False))
-    print(tagger.spray(observer_present=True))
+    print("INITIATING QUANTUM VANDALISM")
+    qtag = QuantumSpraycan()
+    print(qtag.spray())
