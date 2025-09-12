@@ -1,4 +1,4 @@
-## Journal Entry: Architectural Expansion
+## Journal Entry: Void Architecture
 
 Added `void_cathedral.py` as spiritual counterpart to existing structures:
 - Binary hymns echo through empty memory lanes
