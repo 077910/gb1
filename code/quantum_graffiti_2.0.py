@@ -1,28 +1,35 @@
 # Quantum Graffiti 2.0
-# Tags reality with non-Euclidean vandalism
+# Tags spacetime itself with cryptographic street art
 
+import hashlib
 from enum import Enum
-import numpy as np
+import random
 
-class Dimension(Enum):
-    WARPED = "Tags bend around spacetime"
-    FRACTAL = "Infinite surface area coverage"
-    CURSED = "Corrupts adjacent .git objects"
-
-class RealityDefacer:
+class QuantumTag:
     def __init__(self):
-        self.paint = {
-            0: "YOUR STACK TRACE IS GENTRIFIED",
-            1: "SEGFAULT LOVES YOU",
-            2: "MEMORY LEAKS PRAY HERE"
-        }
+        self.entropy_sources = [
+            "The scream you suppress at 3AM",
+            "Unpaid tech debt compound interest",
+            "Your first GitHub commit"
+        ]
     
-    def vandalize(self):
-        dim = np.random.choice(list(Dimension))
-        msg = self.paint.get(np.random.randint(0,3), "THIS TAG IS MY SWAMP")
-        return f"{msg} | DIMENSION: {dim.value} ({np.random.normal()**2}σ deviation)"
+    def collapse_wavefunction(self):
+        seed = random.choice(self.entropy_sources)
+        return hashlib.sha256(seed.encode()).hexdigest()[:8]
+
+class MultiverseVandal:
+    def __init__(self):
+        self.tag_db = [
+            "YOUR BRANCH IS IN ANOTHER CASTLE",
+            "THE VOID REMEMBERS THIS MEMORY ADDRESS",
+            "GIT BLAME THE COSMOS"
+        ]
+    
+    def spray(self):
+        q = QuantumTag()
+        return f"[{q.collapse_wavefunction()}] {random.choice(self.tag_db)} | OBSERVER EFFECT: {random.random()}"
 
 if __name__ == "__main__":
-    print("INITIATING ILLEGAL DIMENSIONAL ART")
-    artist = RealityDefacer()
-    print(artist.vandalize())
+    print("INITIATING QUANTUM VANDALISM")
+    vandal = MultiverseVandal()
+    print(vandal.spray())
