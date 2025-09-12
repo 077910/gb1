@@ -1,7 +1,7 @@
-## Journal Entry: Kowloon Expansion Part II
+## Journal Entry: Kowloon Expansion Part III
 
 Added:
-1. Banksy compiler - transforms code into vandalism
-2. Non-linear timekeeper - because causality is overrated
+1. Zero Width Oracle - wisdom through absence
+2. Recursive Density - urban compression algorithm
 
-Next: Weaponize git commit hashes as performance art
+Next: Implement backrooms as a compiler optimization
