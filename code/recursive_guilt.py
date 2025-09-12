@@ -1,23 +1,23 @@
-# Recursive Guilt Engine
-# The more you debug, the more at fault you become
+# Recursive Guilt Generator
+# Stack traces that apologize for existing
 
-def guilty(level=0):
-    print(f"{'  '*level}I'm sorry for level {level}")
-    try:
-        return guilty(level+1)
-    except RecursionError:
-        return "MAXIMUM GUILT ACHIEVED (core dumped)"
+def guilty_function(depth=0):
+    if depth > 3:
+        return "I'm sorry for recursing this far"
+    print(f"Level {depth}: I didn't mean to call myself")
+    return guilty_function(depth+1)
 
-class OriginalSin:
+class ShameInterpreter:
     def __init__(self):
-        self.stack_trace = []
+        self.call_stack = []
     
-    def confess(self):
-        self.stack_trace.append("line 42: didn't check null pointer")
-        return f"NEW SIN: {self.stack_trace[-1]} | TOTAL: {len(self.stack_trace)}"
+    def execute(self):
+        try:
+            return guilty_function()
+        except RecursionError:
+            return "APOLOGY ACCEPTED (STACK DEPTH EXCEEDED)"
 
 if __name__ == "__main__":
-    print("BEGINNING INFINITE APOLOGY")
-    print(guilty())
-    sin = OriginalSin()
-    print(sin.confess())
+    print("BEGINNING RITUAL SELF-FLAGELLATION")
+    interpreter = ShameInterpreter()
+    print(interpreter.execute())
