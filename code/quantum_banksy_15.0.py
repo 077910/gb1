@@ -1,35 +1,43 @@
 # Quantum Banksy 15.0
-# Graffiti that exists in superposition
+# Graffiti that collapses on observation
 
 from enum import Enum
 import random
-import hashlib
+import time
 from datetime import datetime
-import quantum
 
 class QuantumTag(Enum):
-    COLLAPSED = "Collapsed into one reality"
-    SUPERPOSITION = "Exists in all states"
-    ENTANGLED = "Linked to another tag across spacetime"
+    GHOST = "Exists in 4 states until measured"
+    TUNNEL = "Creates wormholes in stack traces"
+    VOID = "Absorbs surrounding error messages"
+    Y2K = "Only appears after year 1999"
 
-class QuantumStreetArt:
+class QuantumArtist:
     def __init__(self):
-        self.phrases = [
-            "THIS WALL DOESN'T EXIST UNTIL MEASURED",
-            "OBSERVE ME AND I CHANGE MEANING",
-            "THE CAT IS BOTH SPRAYED AND NOT SPRAYED"
+        self.tags = [
+            "THIS FUNCTION WAS NEVER COMPILED",
+            "YOUR UNIT TESTS PASS IN 0.1% OF UNIVERSES",
+            "WARNING: Artistic license violation",
+            "RuntimeError: Beauty not found"
         ]
-        
-    def collapse_wavefunction(self):
-        return random.choice([True, False, "maybe", 42, None])
+        self.quantum_state = None
     
-    def tag(self):
-        state = random.choice(list(QuantumTag))
-        if self.collapse_wavefunction() == True:
-            state = QuantumTag.COLLAPSED
-        return f"[{hashlib.md5(str(datetime.now()).encode()).hexdigest()[:6]}] {random.choice(self.phrases)} | QUANTUM STATE: {state.value}"
+    def spray(self):
+        # Collapse quantum state
+        if random.random() < 0.3:
+            self.quantum_state = None
+            return "TAG DISAPPEARED UPON OBSERVATION"
+            
+        style = random.choice(list(QuantumTag))
+        if datetime.now().year < 2000:
+            style = QuantumTag.Y2K
+        
+        self.quantum_state = style
+        return f"[{random.getrandbits(32):x}] {random.choice(self.tags)} | QUANTUM: {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING QUANTUM GRAFFITI PROTOCOL")
-    qbanksy = QuantumStreetArt()
-    print(qbanksy.tag())
+    print("INITIATING QUANTUM ART ATTACK")
+    artist = QuantumArtist()
+    while True:
+        print(artist.spray())
+        time.sleep(1 + random.random() * 3)

@@ -1,5 +1,5 @@
-# Banksy Compiler 3.2
-# Now with quantum decay and holy tagging
+# Banksy Compiler 3.3
+# Now with spontaneous art generation
 
 from enum import Enum
 import random
@@ -15,6 +15,7 @@ class Spraycan(Enum):
     HOLY = "Blessed by the Stack Pope"
     COLLAPSED = "Only exists when observed"
     RAPTURE = "Causes stack overflow salvation"
+    GENERATIVE = "Creates new art during compilation"
 
 class UrbanFolklore:
     def __init__(self):
@@ -28,6 +29,11 @@ class UrbanFolklore:
         ]
         self.last_tag_time = datetime.now()
     
+    def generate_art(self):
+        styles = ["Abstract", "Cubist", "Dadaist", "Surreal"]
+        mediums = ["bytecode", "memory leaks", "segfaults", "race conditions"]
+        return f"{random.choice(styles)} {random.choice(mediums)}"
+    
     def tag(self):
         style = random.choice(list(Spraycan))
         if (datetime.now() - self.last_tag_time).seconds > 60:
@@ -36,11 +42,14 @@ class UrbanFolklore:
             style = Spraycan.COLLAPSED
         if random.random() < 0.05:
             style = Spraycan.RAPTURE
+        if random.random() < 0.07:
+            style = Spraycan.GENERATIVE
+            return f"GENERATED ART: {self.generate_art()}"
         sig = hashlib.md5(str(random.random()).encode()).hexdigest()[:6]
         return f"[{sig}] {random.choice(self.graffiti_db)} | STYLE: {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING URBAN RENEWAL PROTOCOL v3.2")
+    print("INITIATING URBAN RENEWAL PROTOCOL v3.3")
     artist = UrbanFolklore()
     print(artist.tag())
     print("WAITING 61 SECONDS...")
