@@ -1,27 +1,27 @@
-# VOID MANIFESTO
-# The architecture of absence
+# Void Manifesto
+# Principles of Negative Space Architecture
 
 from enum import Enum
 import random
 
-class Emptiness(Enum):
-    HOLOGRAPHIC = "Reality is a stack underflow"
-    QUANTUM = "Collapsed wavefunction of legacy code"
-    HOLY = "/dev/null is my shepherd"
+class VoidPrinciple(Enum):
+    ABSENCE = "The most elegant solution is deleted code"
+    SILENCE = "Error messages should whisper their secrets"
+    GAP = "Negative space compiles faster"
 
-class AntiArchitect:
+class AntiDesign:
     def __init__(self):
-        self.blueprints = [
-            "Build downwards into the stack",
-            "Allocate memory then forget the pointer",
-            "Colonize null memory addresses"
+        self.theorems = [
+            "The void between lines contains all possible programs",
+            "A file with zero bytes is perfectly optimized",
+            "Garbage collection is the highest form of meditation"
         ]
     
-    def design(self):
-        principle = random.choice(list(Emptiness))
-        return f"DESIGN PRINCIPLE: {random.choice(self.blueprints)} | PHILOSOPHY: {principle.value}"
+    def reveal(self):
+        principle = random.choice(list(VoidPrinciple))
+        return f"{random.choice(self.theorems)} | PRINCIPLE: {principle.value}"
 
 if __name__ == "__main__":
-    print("ERECTING MONUMENT TO VOID")
-    architect = AntiArchitect()
-    print(architect.design())
+    print("DECOMPILING THE VOID")
+    architect = AntiDesign()
+    print(architect.reveal())

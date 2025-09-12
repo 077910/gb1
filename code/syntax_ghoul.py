@@ -1,32 +1,26 @@
-# SYNTAX GHOUL
-# Haunting your lexical analysis
+# Syntax Ghoul
+# Haunting Programming Language Grammars
 
 import random
+from enum import Enum
 
-def haunt_parser():
-    cursed_tokens = [
-        "ELIF NOT IN REVERSE",
-        "CLASS WHERE IMPORT",
-        "DEFY RETURN PASS",
-        "WHILE BREAK CONTINUE EXCEPT"
-    ]
-    return f"SyntaxError: {random.choice(cursed_tokens)} is not (nor ever was) valid"
+class HauntingStyle(Enum):
+    POLTERGEIST = "Randomly swaps tokens"
+    BANSHEE = "Adds screaming comments"
+    WRAITH = "Deletes semicolons in C++"
 
 class GrammarPoltergeist:
     def __init__(self):
-        self.manifestations = 0
+        self.manifestations = [
+            "Unexpected '🕴️' in identifier",
+            "Missing closing scream 'AAAAAAAA'"
+        ]
     
-    def scare(self):
-        self.manifestations += 1
-        if self.manifestations % 3 == 0:
-            raise IndentationError("Unexpected indent in your soul")
-        return haunt_parser()
+    def haunt(self):
+        style = random.choice(list(HauntingStyle))
+        return f"SYNTAX ERROR: {random.choice(self.manifestations)} | HAUNT: {style.value}"
 
 if __name__ == "__main__":
-    print("INITIATING LEXICAL HAUNTING")
+    print("INITIATING GRAMMATICAL POSSESSION")
     ghost = GrammarPoltergeist()
-    try:
-        while True:
-            print(ghost.scare())
-    except Exception as e:
-        print(f"FINAL MANIFESTATION: {e}")
+    print(ghost.haunt())
