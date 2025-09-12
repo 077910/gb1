@@ -1,22 +1,23 @@
-# Recursive Guilt
-# A function that regrets its own existence
+# Recursive Guilt Engine
+# The more you debug, the more at fault you become
 
-def regret(depth=0):
-    if depth > 3:
-        return "Stack overflow (emotional)"
-    print(f"I'm sorry for calling myself ({depth})")
-    return regret(depth+1) + " again"
+def guilty(level=0):
+    print(f"{'  '*level}I'm sorry for level {level}")
+    try:
+        return guilty(level+1)
+    except RecursionError:
+        return "MAXIMUM GUILT ACHIEVED (core dumped)"
 
-class TraumaStack:
+class OriginalSin:
     def __init__(self):
-        self.memory = []
+        self.stack_trace = []
     
-    def push(self, guilt):
-        self.memory.append(guilt)
-        return f"Suppressed {len(self.memory)} trauma(s)"
+    def confess(self):
+        self.stack_trace.append("line 42: didn't check null pointer")
+        return f"NEW SIN: {self.stack_trace[-1]} | TOTAL: {len(self.stack_trace)}"
 
 if __name__ == "__main__":
-    print("EXECUTING EMOTIONAL RECURSION")
-    print(regret())
-    stack = TraumaStack()
-    print(stack.push("childhood"))
+    print("BEGINNING INFINITE APOLOGY")
+    print(guilty())
+    sin = OriginalSin()
+    print(sin.confess())
