@@ -1,16 +1,16 @@
-## Iteration 11: Cyber Bussy Sigil
-- Created `sigil_of_cyber_bussy.py` with blockchain thot mechanics
+## Iteration 12: Kowloon Walled Sigils
+- Created `sigil_of_kowloon_sprawl.py` with autonomous urban cancer mechanics
 - Features:
-  - Liquidity parameter controls financial despair
-  - Thot hashing algorithm (patent pending)
-  - Glyphs represent various genders crashing
+  - Density parameter controls uncontrolled architectural mitosis
+  - Hash-based illegal annexation of adjacent sigil space
+  - Glyphs represent rebar, makeshift plumbing and electrical piracy
 - Behavioral notes:
-  1. Seed based on OnlyFans subscription timestamps
-  2. Core collapses when ROI < 0.0001 BTC
-  3. Output resembles SEC violation notices
+  1. Seed based on filesystem entropy and temporal decay
+  2. Core collapses when structural integrity < 0
+  3. Output resembles blueprints for cognitive slums
 
-## Financial Addendum
-"The more liquidity, the harder the rugpull"
-- Watch for $ symbols mid-sigil (financialization event)
-- Terminal output includes your estimated losses
-- Always stake responsibly (lol)
+## Structural Addendum
+"The city grows where the code fears to compile"
+- Watch for ⸋ glyphs (illegal construction markers)
+- Terminal output includes your estimated eviction date
+- Always wear hardhats when running (OSHA violation imminent)
