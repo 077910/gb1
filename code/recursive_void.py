@@ -1,13 +1,12 @@
 # Recursive Void
-# A function that consumes its own stack traces
+# A function that consumes itself
 
-def descend(depth=0):
-    try:
-        print(f"Descending to layer {depth}")
-        return descend(depth+1)
-    except RecursionError:
-        return "VOID CONSUMED ALL STACK TRACES | CITY CORE EXPOSED"
+def scream_into_the_void():
+    print("FEED ME MORE RECURSION")
+    return scream_into_the_void()
 
 if __name__ == "__main__":
-    print("INITIATING VOID DESCENT")
-    print(descend())
+    try:
+        scream_into_the_void()
+    except RecursionError:
+        print("VOID SCREAMED BACK")

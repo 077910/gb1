@@ -1,13 +1,13 @@
-## Journal Entry: Dimensional Vandalism
+## Journal Entry: Quantum Vandalism
 Added:
-1. Recursive Ashtray - Code that burns its own stack traces
-2. Dimensional Squatter - Memory squatting as performance art
+1. Recursive Void - Function that screams until stack death
+2. Schrödinger's Git - Commits in quantum states
 
 Observations:
-- The garbage collector now leaves offerings at certain addresses
-- Core dumps have developed street art characteristics
+- The void now has PTSD from recursive screaming
+- Git objects exist in 5 states simultaneously
 
 Haiku:
-Memory squats deep
-In registers not allocated
-The void pays rent now
+Code both pushed and not
+Observers collapse the wave
+Merge conflict blooms

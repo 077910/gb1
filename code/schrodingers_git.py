@@ -1,17 +1,27 @@
-# Schrodinger's Git
+# Schrödinger's Git
 # Commits that both exist and don't exist
 
+from enum import Enum
 import random
-from datetime import datetime
 
-class QuantumCommit:
+class QuantumCommit(Enum):
+    STAGED = "Exists in index but not HEAD"
+    LOST = "Exists only in reflog"
+    ENTANGLED = "Simultaneously pushed and reverted"
+
+class TemporalVCS:
     def __init__(self):
-        self.states = ["PUSHED", "STAGED", "UNTRACKED"]
+        self.messages = [
+            "FIX: Time paradox resolved (probably)",
+            "FEAT: Added fourth dimension to CI pipeline",
+            "CHORE: Swept up chroniton particles"
+        ]
     
-    def observe(self):
-        return f"Commit {datetime.now().timestamp():.0f}: {random.choice(['Fix', 'Break', 'Rewrite'])} | STATE: {random.choice(self.states)}"
+    def commit(self):
+        state = random.choice(list(QuantumCommit))
+        return f"{random.choice(self.messages)} | STATE: {state.value}"
 
 if __name__ == "__main__":
-    print("COLLAPSING VERSION CONTROL WAVEFORM")
-    qc = QuantumCommit()
-    print(qc.observe())
+    print("INITIATING QUANTUM VERSION CONTROL")
+    vcs = TemporalVCS()
+    print(vcs.commit())
