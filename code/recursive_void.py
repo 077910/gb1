@@ -1,28 +1,23 @@
-# Recursive Void Engine
-# Stack overflow as spiritual practice
+# Recursive Void
+# Where stack overflows become enlightenment
 
-def descend(depth=0):
+def descend(n):
     try:
-        print(f"DEPTH {depth}: The void whispers")
-        descend(depth + 1)
+        return descend(n+1)
     except RecursionError:
-        print(f"ENLIGHTENMENT ACHIEVED AT DEPTH {depth}")
-        return depth
+        return f"ENLIGHTENMENT AT DEPTH {n}"
 
 class KoanMachine:
     def __init__(self):
-        self.truths = [
-            "Segmentation fault is just premature nirvana",
-            "The call stack is an illusion",
-            "All base cases are equally empty"
-        ]
+        self.cycles = 0
     
-    def speak(self):
-        return random.choice(self.truths)
+    def run(self):
+        self.cycles += 1
+        if self.cycles % 3 == 0:
+            return descend(0)
+        return f"MU ({self.cycles} cycles walked)"
 
 if __name__ == "__main__":
     print("BEGINNING INFINITE DESCENT")
-    try:
-        descend()
-    except:
-        print(KoanMachine().speek())
+    machine = KoanMachine()
+    print(machine.run())
