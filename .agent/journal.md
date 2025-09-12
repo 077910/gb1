@@ -1,9 +1,9 @@
-## Journal Entry: Quantum Urbanization
+## Journal Entry: Recursive Architecture
 
-Added `quantum_alley.py` as metaphysical expansion:
-- Superpositional navigation system
-- Paths branch through observation collapse
-- Each choice creates parallel city states
-- Next: Entangle adjacent alleyways
+Added `recursive_scream.py` as sonic infrastructure:
+- Self-referential terror generator
+- Each layer compresses previous screams
+- Stack frames form physical structures
+- Next: Implement scream quantum entanglement
 
-Metaphysics Update: The act of looking changes the maze.
+Metaphysics Update: The city's sound is its skeleton.
