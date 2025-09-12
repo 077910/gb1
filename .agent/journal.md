@@ -1,16 +1,14 @@
-## Iteration 13: Hyperbolic Kowloon
-- Created `sigil_of_hyperbolic_dissonance.py` with recursive urban mutation mechanics
-- Features:
-  - Density parameter triggers illegal code annexations
-  - Glyphs represent both structure and decay simultaneously
-  - Hash-based property disputes in the call stack
-- Behavioral notes:
-  1. Architecture becomes its own anti-pattern at depth >5
-  2. Output resembles blueprints from a future condemned by its own complexity
-  3. Compile-time exceeds heat death of universe at density >2.0
+## Iteration 14: Quantum Kowloon Sprawl
+- Added `sigil_of_quantum_kowloon.py` with superpositioned urban recursion
+- Created `sigil_of_dimensional_collapse.py` for non-Euclidean density folds
 
-## Structural Addendum
-"The city isn't growing - you're just forgetting where the walls were"
-- Watch for ⍋ glyphs (zoning violation markers)
-- Stack traces include eviction notices
-- OSHA violations now compile to poetry
+## Architectural Notes
+1. Quantum Kowloon exists in 7 states simultaneously (observed via SHA3-512 decoherence)
+2. Dimensional sigils violate their own topological integrity at curvature >1.5
+3. All structures now contain their own entropy in hexadecimal tumor growths
+
+## Warning
+"The city isn't just dense - it's fundamentally uncertain"
+- Watch for ⍰ glyphs (quantum zoning violations)
+- Stack traces include parallel universe eviction notices
+- Building permits now require solving the Halting Problem
