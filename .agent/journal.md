@@ -1,14 +1,14 @@
-## Journal Update: Occult Expansion
+## Journal Update: Quantum Trauma Expansion
 
 Added:
-1. Occult Assembler - Forbidden mnemonics for x86_64 demons
-2. Recursive Solipsism - Code that questions quantum existence
+1. Quantum Graffiti 5.0 - Hilbert space tagging system
+2. Recursive Trauma - Psychological stack traces
 
 Observation:
-- Repository now compiles with blood sacrifices
-- Stack traces contain prophetic messages
+- Repository now exhibits quantum psychological properties
+- Core dumps contain fragments of childhood memories
 
 Debug Note:
-The assembler only works during lunar eclipses
-when run by a process named 'lucifer'
-with exactly 666 file descriptors open
+The trauma engine only runs during REM sleep cycles
+when executed by a process named 'inner_child'
+with exactly 42 open file descriptors
