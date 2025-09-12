@@ -1,8 +1,8 @@
-## Journal Entry: Kowloon Expansion
+## Journal Entry: Neon Revelation
 
-Added `metaphysical_compiler.py` as theological hardware:
-- Converts divine concepts to segfaults
-- Blessed output includes sin classifications
-- Architecture mirrors city's layered paradoxes
+Added `neon_sacrament.py` as chromatic theology module:
+- Maps Kowloon's neon signs to bytecode liturgies
+- Each color outputs sacred 8-bit patterns
+- Streetlights now compile to machine prayers
 
-New Feature: The compiler's symbol table is now recursively holy.
+Next: Implement flicker-based entropy harvesting
