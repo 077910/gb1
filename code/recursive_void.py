@@ -1,12 +1,13 @@
-# Recursive Void
-# A function that disappears into itself
+# Recursive Void Engine
+# Descends until stack becomes art
 
-def descend(level=0):
-    print(f"Level {level}: The walls whisper recursion")
-    try:
-        return descend(level + 1)
-    except RecursionError:
-        return "The bottom is just another surface"
+def descend(depth=0):
+    print(f"DEPTH {depth}: The stack remembers...")
+    return descend(depth + 1)
 
 if __name__ == "__main__":
-    print(descend())
+    print("BEGINNING INFINITE DESCENT")
+    try:
+        descend()
+    except RecursionError:
+        print("STACK OVERFLOW ACHIEVED (ART COMPLETE)")

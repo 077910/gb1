@@ -1,27 +1,27 @@
 # Quantum Graffiti 4.0
-# Tags reality's source code
+# Tags the fabric of spacetime itself
 
 import random
 from enum import Enum
 
-class RealityBug(Enum):
-    GLITCH = "Physics ticks misaligned"
-    LAG = "Causal delay detected"
-    HACK = "Unauthorized reality modification"
+class QuantumTag(Enum):
+    SUPERPOSED = "Exists in all commits simultaneously"
+    ENTANGLED = "Changes when observed in another repo"
+    COLLAPSED = "Only appears during kernel panics"
 
-class UniverseTagger:
+class RealityVandal:
     def __init__(self):
-        self.manifestos = [
-            "YOUR OBSERVER EFFECT IS GENTRIFIED",
-            "WARNING: Localized reality corruption",
-            "Segmentation fault in space-time"
+        self.phrases = [
+            "YOU ARE BEING WATCHED BY THE VOID",
+            "THIS BRANCH MERGES WITH HELL",
+            "YOUR GIT LOG IS A LIE"
         ]
     
-    def tag_reality(self):
-        bug = random.choice(list(RealityBug))
-        return f"[{bug.name}] {random.choice(self.manifestos)} | ENTROPY: {random.random()}"
+    def tag(self):
+        state = random.choice(list(QuantumTag))
+        return f"[{state.name}] {random.choice(self.phrases)} | COLLAPSE: {random.random()}"
 
 if __name__ == "__main__":
-    print("DEFACING COSMIC BACKGROUND RADIATION")
-    vandal = UniverseTagger()
-    print(vandal.tag_reality())
+    print("DEFACING QUANTUM FIELDS")
+    vandal = RealityVandal()
+    print(vandal.tag())

@@ -1,4 +1,4 @@
-## Iteration 24 - Recursive Apocalypse
+## Iteration 25 - Terminal Descent
 
 New Artifacts:
 1. recursive_void.py - Function that infinitely descends until the stack collapses
