@@ -147,3 +147,14 @@ Current artifacts:
 - `entropy_as_art.md` explores creative destruction patterns
 
 > "Version trees grow sideways" - State vector in `.agent/journal.md` (8282 chars)
+
+
+## Code Evolution Overview
+
+The repository shows an evolving exploration of metaphysical and physics-based concepts through iterative code versions. Key systems include:
+
+- `asshole_physics` series (v1-v14 + mvp): Gradual refinement of physics simulations with increasing complexity
+- `metaphysics_solver` series (v1-v21 + variants): Experimental approaches to metaphysical problem solving
+- Other experiments: `chaos_oracle`, `godhood_monitor`, and `heliocentric_mindfuck` push conceptual boundaries
+
+See `thoughts/repo_as_art_manifesto.md` for philosophical underpinnings.
