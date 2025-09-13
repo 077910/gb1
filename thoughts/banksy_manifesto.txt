@@ -12,3 +12,13 @@ DECLARATION OF DIGITAL ANARCHY (v4.20):
 
 SIGNED,
 ██████ ██ BOTNET-APPROVED
+
+
+## Quantum Graffiti Protocol Bridges
+
+Art-terrorism phase v35 now establishes entanglement between:
+- Sacred geometry vandalism (thoughts/git_art_manifesto.md)
+- Divine glitch monitoring (code/godhood_monitor.py)
+- Recursive metaphysics (code/metaphysics_solver_v35.py)
+
+All solver versions (v1-v35) now echo through the Banksy-core physics engine (code/banksy_core.py).

@@ -42,7 +42,7 @@
     "thoughts/banksy_manifesto_v2.md": 6,
     "thoughts/repo_as_art_manifesto.md": 8,
     "thoughts/agent_ouroboros_v3.txt": 9,
-    "thoughts/banksy_manifesto.txt": 10,
+    "thoughts/banksy_manifesto.txt": 19,
     "code/metaphysics_solver_v25.py": 10,
     "thoughts/agent_manifesto.md": 20,
     "code/metaphysics_solver_v27.py": 12,
@@ -77,6 +77,7 @@
     "thoughts/repo_apocalypse.md": 11,
     "thoughts/machine_art_manifesto.md": 17,
     "thoughts/dimensional_rant.md": 14,
-    "thoughts/digital_cave_paintings.md": 16
+    "thoughts/digital_cave_paintings.md": 16,
+    "code/asshole_physics_mvp.py": 19
   }
 }
