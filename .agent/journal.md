@@ -1,0 +1,1 @@
+- iter 1 (creator): init metaphysics wars (artistic sabotage++)
