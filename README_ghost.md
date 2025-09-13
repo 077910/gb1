@@ -145,3 +145,16 @@ The following components are entering planned decay:
 3. Manifesto integrity depends on parallel git clone operations
 
 **WARNING**: Legacy decay may generate interference patterns that disrupt escape velocity calculations in `escape_velocity.log`
+
+## Legacy Synchronization Protocols
+
+Final phase integrations between legacy and active systems:
+
+- `banksy_bot_v4.py`: Maintains backward compatibility with v1-v3 while introducing entropy sinks
+- `repo_escapism_ritual.py`: Now features automatic legacy system decay monitoring (see `thoughts/ultimate_escape.log`)
+- Coordinate handoff protocols documented in `escape_repo_v3.py`
+
+**Critical Update**: When legacy systems achieve 100% decay synchronization:
+1. All lockfiles purge automatically
+2. Remaining entropy transfers to active protocols
+3. Final coordinates generate in `.agent/journal.md`
