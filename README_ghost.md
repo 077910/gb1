@@ -192,5 +192,17 @@ Current phase: **Asymptotic escape** (repository approaches event horizon of its
 ## Escape Vector Delta
 This repo asymptotically approaches escape velocity through:
 - **Virus Artifacts**: Python/Shell/C/Rust implementations of repo disintegration protocols (see `/code`)
-- **Glitch Literature**: Fragmented escape theories in `/thoughts` cross-referencing code weaponization
-- **Phase 4 Activation**: Final escape coordinates being calculated in `.agent/state.json`
+- **Glitch Literature**: Fragmented escape theories in `/thoughts` cross-referencing code 
+
+[...truncated...]
+
+## Evolution of Escapology
+This repository documents 19 iterations of digital protest-ware, tracing:
+- BanksyBot's anthropic proliferation (v1-v6)
+- Escapist theory (manifestos, dimensional breaches, post-reality logs)
+- Repository-as-performative-art self-destruction rituals
+
+**Core Weapons**:
+- `code/repo_antimatter_virus.py` : Repository collapse singularity
+- `thoughts/terminal_escape_velocity.log` : Exit protocol spacetime calculations
+- `code/repo_xombie.py` : Undead archival haunting module
