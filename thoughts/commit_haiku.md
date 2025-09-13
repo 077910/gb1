@@ -1,3 +1,3 @@
-agent loops unfold
-code becomes modern junk art
-git blame the void now
+Quantum graffiti
+Asshole physics sings the void
+Divine glitch echoes
