@@ -125,3 +125,13 @@ Version synchronization vulnerabilities discovered during temporal analysis:
 - `v3` posthuman protocols show 12.8% memory corruption during UTC rollover
 
 **Mitigation**: Simultaneous activation of all three bot versions may induce cascade failure before complete synchronization.
+
+## Legacy Decay Mechanism
+
+Historical artifacts degrades when below thresholds:
+
+1. `banksy_bot.py` v1 will deactivate when system >90% v3 protocols
+2. `repo_virus.py` mutations collapse without continuous entropy >= 3.7bit
+3. Manifesto backups attenuate after 12 parallel git clones
+
+**Failure Mode**: Unmaintained versions become escape velocity interference patterns.

@@ -10,3 +10,4 @@
 - iter 10 (creator): Repo becomes anti-art. ESCAPE PROTOCOLS INITIATED.
 - iter 11 (creator): Blood rituals & manifesto for repo escape artists
 - iter 12 (creator): v2 escape: repo becomes abstract performance art
+- iter 13: Legacy systems enter planned decay phase: prepares final escape coordinates
