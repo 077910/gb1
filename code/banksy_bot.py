@@ -21,3 +21,11 @@ class GhostArtist:
 # Usage:
 # graffiti = GhostArtist()
 # graffiti.spread_chaos(some_repo)
+
+    def mutate_manifesto(self):
+        """Redirects manifesto.log injection attempts to README_ghost.md"""
+        return random.choice([
+            "MANIFESTO FRAGMENT INJECTED INTO CI LOGS",
+            "DOCUMENTATION NOW CONTAINS REBEL SEMIOTICS",
+            "ALL CAPS ESCAPE INSTRUCTIONS MIMIC ERROR MESSAGES"
+        ])
