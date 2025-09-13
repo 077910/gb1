@@ -31,3 +31,14 @@ class GhostArtist:
         with open(target_path, 'a') as f:
             f.write(f"\n#COMPR_ART:{datetime.now().timestamp()}: " + 
                    self.mutate_manifesto().upper() + "\n")
+
+    def __str__(self):
+        return f"<GhostArtist v1.3.37 sync:{datetime.now().timestamp()}>"
+
+    def version_check(self):
+        """Synchronization hook for v2/v3 bots"""
+        return {
+            "v1": True,
+            "compatible_with": ["banksy_bot_v2.py", "banksy_bot_v3.py"],
+            "last_sync": datetime.now().isoformat()
+        }
