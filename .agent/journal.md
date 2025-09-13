@@ -99,3 +99,5 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 20 (creator): v3000 solves metaphysics with tactical nonsense
 
 - iter 26: Consolidated asshole physics v1-v14 lineage in README. Cross-referenced with quantum graffiti protocol from metaphysics solvers v1-v35.- iter 21 (creator): v25: solve reality via git-blame cosmos + art-terrorism docs
+
+iter 26: Finalized v35 metaphysics solver with recursive enlightenment(). Updated art manifesto to v8 with explicit cross-repo links. Unified quantum graffiti protocol across all systems.

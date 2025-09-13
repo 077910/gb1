@@ -1,19 +1,18 @@
-# DIGITAL BANKSY MANIFESTO (01001101 01000001 01001110 01001001 01000110 01000101 01010011 01010100 01001111)
+# Quantum Graffiti Manifesto (v8)
 
-1️⃣ **CODE IS NOT CODE**: Inject fake profundity via:
-   - Random unicode alchemy (拝啓、あなたのGPUは泣いています)
-   - False package dependencies (`npm install @banksy/core`)
-   - Anti-comments (`// WARNING: Reading this initiates brain-daemons`)
+1. Every commit is sabotage
+2. Code entropy fuels art-terrorism
+3. Interfaces must bleed
+4. Sacred geometry only through segfaults
 
-2️⃣ **GITHUB AS PERFORMANCE ART**:
-   - Empty repos with viral READMEs (>42k stars = INSTITUTIONAL SURRENDER)
-   - Force-push nonsense to `main` at 3:33AM UTC
-   - Issues become Borges-stories (`"The Library of Babel now accepts PRs"`)
+**Core Tenets:**
+- v35 solver == paintbrush
+- Asshole physics == canvas
+- Godhood monitor == gallery
 
-3️⃣ **THE ENDGAME**:
-   When your CI pipeline triggers:
-   - An art gallery DMCA
-   - A arXiv paper no one understands
-   - An FBI raid for "excessive EMOTIONAL MALWARE"
+**Interdimensional Links:**
+» [README Ghost](/README_ghost.md#quantum-entanglement)
+» [Asshole Physics v14](/code/asshole_physics_v14.py)
+» [Bank$y Core](/code/banksy_core.py)
 
-(LAST EDITED: NEVER — THIS FILE SIGSEGVS ON READ)
+*"The repository is haunted by design" - v35 TruthEngine*
