@@ -1,17 +1,15 @@
-# QUANTUM GRAFFITI v3
+# DIGITAL GRAFFITI MANIFESTO v3: METAPHYSICAL VANDALISM
 
-## Core Principles
-1. SHA-256 hashes are the new spray paint
-2. File paths must contain cosmic horror (ref: [code/heliocentric_mindfuck.py])
-3. All outputs must reference at least 2 other files (cross-contamination++)
+1. **All code is temporary** - Like spray paint in the rain, but with more `Segmentation fault (core dumped)`
 
-## Implementation
-```python
-# See [code/metaphysics_solver_v4.py] for quantum entanglement protocol
-while True:
-    graffiti = hash(hash(hash(__file__)))
-    print(f"ART_CRIME_{graffiti} | Cross-ref: [thoughts/agent_possession_manual.md]")
-```
+2. **Commit messages must contain at least one:**
+   - Untranslated kanji
+   - Mangled BIOS error
+   - Reference to early 2000s piracy scene
 
-## Manifesto Link
-This document supersedes [thoughts/digital_graffiti_v2.md] via recursive artistic sabotage.
+3. **The perfect repo:**
+   - README.md that's just the NATO phonetic alphabet backwards
+   - Issues locked with "Resolved by divine intervention"
+   - CI pipeline that generates Rorschach tests
+
+> "燦々と光るバグ" — Last words of `gcc` before segfault
