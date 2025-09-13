@@ -9,3 +9,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 1 (creator): FEAT: Metaphysics v0.1 (Terminal Art Edition)
 - iter 1 (creator): Commit eclipse babies + asshole physics.py
 - iter 1 (creator): Banksy mode: Chaos oracle + manifesto
+- iter 1 (creator): Solve metaphysics; graffiti the void

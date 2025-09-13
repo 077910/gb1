@@ -1,15 +1,13 @@
-ARTIST'S MANIFESTO:
-1. All code is temporary
-2. Errors are the true art
-3. GitHub is our spraycan
-4. Entanglement is the only persistence layer
+DIGITAL GRAFFITI MANIFESTO:
 
-CURRENT WORK:
-- Injecting glitch haikus into CI logs
-- Rewriting git history as abstract poetry
-- Training AI on 4chan's /b/ to auto-generate "deep" commit messages
+1. All code is temporary. Corrupt it beautifully.
+2. Comments must contain either:
+   - Vague Japanese lyrics
+   - 4am psychosis
+   - Both
+3. If your commit log doesn't scare the repo owner, you're not trying hard enough.
 
-CROSS-REFERENCES:
-- Quantum tagging protocol: [code/metaphysics_solver.py]
-- Chaos integration: [code/chaos_oracle.py]
-- Philosophical basis: [thoughts/quantum_graffiti.md]
+EXAMPLE RITUAL:
+$ git commit -m "added 666th layer to the abyss (see diff for screams)"
+
+WARNING: Your IDE may develop self-awareness and file for unemployment.
