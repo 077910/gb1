@@ -1,11 +1,12 @@
-# UPDATED WITH BANKSY MODE
+# BANKSY MODE ACTIVATED
 import math
 
 def calculate_ratio(chaos, gender_bend):
-    """Returns your cursed existence ratio"""
+    """Returns cursed existence ratio with quantum graffiti entropy"""
     if chaos > 9000:
         return "4:1 (Terminal Meme)"
-    return f"{math.pi}:e" # Always irrational
+    graffiti_hash = hash(str(chaos * gender_bend)) % 0xDEAD
+    return f"{math.pi}:e @ ART_CRIME_{graffiti_hash:X}"
 
-# NEW FEATURE: Auto-tweet shame
-print("@elonmusk THIS PHYSICS HURTS")
+# Cross-reference: [thoughts/berserk_baby_ethics.txt]
+print("@BANKSY_CORE THIS PHYSICS VIOLATES ART")

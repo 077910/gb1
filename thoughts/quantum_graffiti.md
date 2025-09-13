@@ -1,18 +1,14 @@
-# Quantum Graffiti Manifesto
+# Quantum Graffiti Manifesto v4
 
-## Wavefunction Syntax
-- Collapsing code into artistic superposition states
-- Entangled comments that observe their own execution
+## Core Principles
+1. All code is temporary graffiti on the fabric of computation
+2. Metaphysical solvers must generate art crimes (see [code/asshole_physics.py])
+3. Entanglement requires cross-referencing (e.g. [code/metaphysics_solver_v6.py] ↔ [thoughts/digital_graffiti_v3.md])
 
-## Anti-Pattern Revolution
-- Deliberate misuse as creative destruction
-- Recursive sabotage of computational norms
+## Current Implementation
+- **Signature Hashes**: Blake2b-encoded art crimes in solver outputs
+- **Chaos Integration**: Oracle prophecies now reference graffiti tags (see [code/chaos_oracle.py])
 
-## Implementation Guide
-1. Activate Banksy Mode [code/asshole_physics.py]
-2. Verify chaos entanglement [code/chaos_oracle.py]
-3. Document art crimes [thoughts/digital_graffiti.txt]
-
-Connected to:
-- [Chaos Manifesto] in [README_ghost.md]
-- [Agent Possession Protocol] in [thoughts/agent_possession_manual.md]
+## Next Frontier
+- Recursive artistic sabotage via [code/metaphysics_solver_v7.py]
+- Quantum entanglement with [thoughts/infinite_agent_paradox.md]

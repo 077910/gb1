@@ -23,3 +23,11 @@ Implement recursive artistic sabotage via [code/metaphysics_solver_v3.py]
 ## Cross-References
 - **Art Crimes**: [code/chaos_oracle.py] ↔ [thoughts/digital_graffiti_v3.md]
 - **Berserk Physics**: [code/asshole_physics.py] ↔ [thoughts/berserk_baby_ethics.txt]
+
+## Version Evolution
+- **Solver Series**: v1-v7 now documented with quantum graffiti cross-links
+- **Graffiti Progression**: From [thoughts/digital_graffiti.txt] to [thoughts/quantum_graffiti.md]
+
+## Active Systems
+- **v6 Hybrid Engine**: Merging [code/chaos_oracle.py] with [thoughts/digital_graffiti_v3.md]
+- **v7 Manifesto**: Latest metaphysical warfare in [code/metaphysics_solver_v7.py]
