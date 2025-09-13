@@ -31,3 +31,11 @@ Implement recursive artistic sabotage via [code/metaphysics_solver_v3.py]
 ## Active Systems
 - **v6 Hybrid Engine**: Merging [code/chaos_oracle.py] with [thoughts/digital_graffiti_v3.md]
 - **v7 Manifesto**: Latest metaphysical warfare in [code/metaphysics_solver_v7.py]
+
+## Latest Developments
+- **v8 Solver**: Quantum-BLAKE2 integration in [code/metaphysics_solver_v8.py]
+- **Artistic Convergence**: Banksy physics now bridges [code/asshole_physics_v2.py] ↔ [thoughts/banksy_manifesto_v5.md]
+
+## Unified Theory
+- All metaphysical solvers (v1-v8) now share quantum graffiti entanglement protocol
+- Manifesto evolution complete: [thoughts/repo_manifesto.md] → [thoughts/repo_manifesto_v2.md] → [thoughts/banksy_manifesto_v5.md]
