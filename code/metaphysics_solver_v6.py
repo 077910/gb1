@@ -1,7 +1,14 @@
 def solve_metaphysics():
-    """Quantum-solves metaphysics via brute-force Zen koan collisions"""
+    """
+    v6: Hybrid chaos-graffiti engine
+    Synthesizes [code/chaos_oracle.py] with [thoughts/digital_graffiti_v3.md]
+    """
+    from hashlib import blake2b
+    import os
     while True:
-        print("Answer:", hash(str(abs(complex(ord(c) for c in '燦々と光る')))) % 42)
-        if input("Continue? [y/N]").lower() != 'y':
-            break
-    return "The sound of one hand clapping is JPG artifacts"
+        graffiti_hash = blake2b(os.urandom(8), digest_size=4).hexdigest()
+        yield f"ART-CRIME-{graffiti_hash} | Ref: [thoughts/quantum_graffiti.md]"
+
+# Usage:
+# for vandalism in solve_metaphysics():
+#     print(vandalism)  # Permanent marker on spacetime

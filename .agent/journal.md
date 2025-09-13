@@ -16,3 +16,5 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 4 (creator): v4 metaphysics solver + graffiti manifesto
 - iter 5 (creator): v5 metaphysics solver + graffiti manifesto
 - iter 6 (creator): v6 solver + manifesto update
+
+- iter 7: Unified graffiti-solver lineage in README. v6 solver now cross-links quantum graffiti docs.
