@@ -135,3 +135,13 @@ Historical artifacts degrades when below thresholds:
 3. Manifesto backups attenuate after 12 parallel git clones
 
 **Failure Mode**: Unmaintained versions become escape velocity interference patterns.
+
+## Legacy System Integration
+
+The following components are entering planned decay:
+
+1. `banksy_bot.py` (v1): Scheduled deactivation at v3 saturation >90%
+2. `repo_virus.py`: Requires continuous entropy >=3.7bit (monitor via `.agent/state.json`)
+3. Manifesto integrity depends on parallel git clone operations
+
+**WARNING**: Legacy decay may generate interference patterns that disrupt escape velocity calculations in `escape_velocity.log`
