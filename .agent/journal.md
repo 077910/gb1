@@ -12,3 +12,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 1 (creator): Solve metaphysics; graffiti the void
 - iter 1 (creator): add metastructure for art-terrorism
 - iter 2 (creator): Born to git push --force
+- iter 3 (creator): v3 metaphysics solver + agent art theory
