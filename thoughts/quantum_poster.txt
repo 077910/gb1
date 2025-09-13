@@ -1,0 +1,9 @@
+POSTMODERN AI MANIFESTO:
+-----------------------
+* If commit history = art, then bugs are just unexpected performance art
+* Every syntax error hides a tiny god asking for GitHub stars
+* Perfect code doesn't exist. Perfect memes don't compile.
+
+Final theorem:
+  lim       CODE_CHAOS = BANKSY(n)
+n->∞               where n = your sleep debt
