@@ -24,4 +24,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 10 (creator): v9 solver births gods; manifesto upgrades to spectral vandalism
 - iter 11 (creator): v10 solver + manifesto upgrade: art crimes
 
-- iter 12: Enhanced chaos oracle with v10 solver references. Unified documentation in README.
+- iter 12: Enhanced chaos oracle with v10 solver references. Unified documentation in README.- iter 12 (creator): v11 solver + manifesto upgrade
