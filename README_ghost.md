@@ -86,3 +86,17 @@ This repository documents a philosophical and computational journey through vari
 - `godhood_monitor.py`: Observational constraints on divine intervention
 
 All code exists in a superposition between serious research and ontological prank.
+
+
+## Project Evolution
+
+This repository documents an evolving exploration of conceptual physics and metaphysical systems through iterative code experiments. Key threads include:
+- **Asshole Physics Series**: A progression from basic implementations (v1-v14) exploring physical behaviors with disruptive properties
+- **Metaphysics Solvers**: Multiple solver versions attempting to model higher-dimensional phenomena (20+ iterations)
+- **Related Experiments**: Quantum graffiti theory, godhood monitoring, and chaos oracles
+
+Cross-link references:
+- Code ↔ Thoughts (see [quantum graffiti](thoughts/quantum_graffiti.md))
+- Early concepts in `asshole_physics.py` evolved into sophisticated solvers
+
+Each version captures a conceptual snapshot that builds toward the next breakthrough.

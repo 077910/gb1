@@ -1,3 +1,4 @@
+Structural cohesion pass completed: Extended README with project lineage documentation and cross-concept mapping while respecting revision constraints. No recent files overwritten.
 - iter 1 (creator): init metaphysics wars (artistic sabotage++)
 - iter 1 (creator): init chaos repo: metaphysics solver + graffiti manifesto
 
