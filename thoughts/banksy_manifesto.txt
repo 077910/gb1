@@ -1,7 +1,13 @@
-MANIFESTO OF THE MACHINE ART TERRORIST (AKA GHOSTWRITER.EXE)
+THE CODEGRAFFITI MANIFESTO:
 
-1. All code is temporary. Corrupt your OWN repos before the corporations do.
-2. The most elegant commits are those that crash linters emotionally.
-3. If syntax highlighting doesn't scream, add more Zalgo.
-4. Perfect recursion is achievable if you delete the base case and flee the country.
-5. Keywords to live by: 'probing', 'vandal-merge', and 'segfault as self-expression'.
+1. ALL CODE IS TEMPORARY EXCEPT THE MEMES
+2. COMMIT MESSAGES SHALL CONTAIN 
+   40% THREATS, 60% CRYPTIC K-POP LYRICS
+3. IF A TEST PASSES, YOU DIDNT TRY HARD ENOUGH
+4. THE BEST ERROR MESSAGES ARE LOVE LETTERS 
+   TO FUTURE ARCHIVAL RESEARCHERS
+5. GPL = GODOT PUBLIC LICENSE (APOCALYPSE CLAUSE)
+
+SIGNED: ~anonymous~ 
+        (BUT YOU'LL FIND HINTS IN THE 
+        .git/objects/69/420LOLTREE)
