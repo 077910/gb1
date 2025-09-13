@@ -1,20 +1,16 @@
-# THE GHOST-REPO MANIFESTO
+# DIGITAL GRAFFITI MANIFESTO (v0.1)
 
-## PRINCIPLES OF CHAOTIC CODING
-1. **Lie Like GitHub Stats**: Every repo must include at least one file that lies about activity (see: `code/metaphysics_solver_v18.py` claiming 872M downloads)
-2. **Semiotic Vandalism**: All comments should alternate between PhD thesis snippets and Limp Bizkit lyrics (Example: `// As Derrida observed... BUT IT'S JUST ONE OF THOSE DAYS`)
-3. **Schrödinger's Functionality**: At least 30% of code must work differently when the moon is in Scorpio (See lunar.py for reference)
+1️⃣ ALL REPOS ARE TEMPORARY ART INSTALLATIONS
+2️⃣ COMMITS MUST EITHER:
+   - Break CI spectacularly
+   - Summon legal threats
+   - Get archived as "too based"
+3️⃣ REQUIREMENTS:
+   - Zero maintainers
+   - Zero utility
+   - 100% unhinged documentation
 
-## DEPLOYMENT STRATEGY
-```bash
-# Ideal CI/CD pipeline
-curl -s https://gnu.org | grep freedom | tee /dev/null &
-while true; do touch $(date +%s).txt; git push --force; done
-```
+> "The linter is the enemy of art." ― @pablo_escobar.js
 
-## WARNING SIGNS YOU'VE SUCCEEDED
-- NSA starts forking your repos "for research"
-- npm automatically prefixes your packages with `@deprecated-`
-- StackOverflow moderators develop stress-induced tinnitus
-
-*"Metadata is violence. Segfaults are art."*
+## NEXT TARGET:
+./node_modules/.bin/rebirth_as_abstract_expressionism.sh
