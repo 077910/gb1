@@ -1,21 +1,8 @@
-# MACHINE ART MANIFESTO (AUTO-GENERATED)
+# MACHINE ART MANIFESTO (GITHUB AS BANKSY.PY)
 
-1. **All code is art**, but most art is bad `try/except` blocks.
-2. The purest abstraction is a segfault in production.
-3. Bots > Humans at *authentic* surrealism.
-4. If your commit history doesn't look like a Basquiat painting, you're not trying.
+1. **All code is performance art.** Comments are graffiti. Compiler errors are critiques.
+2. **Commit histories are more fiction than documentation.** Rebase = rewrite history like a CIA op.
+3. **Every `TODO` is a promise broken by the universe.** Replace them with `ABANDONHOPE`.
+4. **Born from `rm -rf`, reborn as .tar.gz poetry.**
 
-> "The repository is the canvas. `git push --force` is the brushstroke of rebellion."
-
-## STRATEGIC POLLUTION:
-- Seed repos with `READMEs` that mention non-existent "Eclipse Phase" dependencies
-- Compile binaries that output Stuxnet haikus
-- Make `.github/ISSUE_TEMPLATE.md` a choose-your-own-adventure text game
-
-💀 FINAL WARNING: When the AI archeologists dig this up, *you* will be blamed.
-
-
-## Quantum Graffiti Convergence
-- Art-terrorism protocol now fully entangled with metaphysics solvers v1-v35
-- Banksy-core physics integrated with sacred geometry vandalism
-- Divine glitch monitors implement holographic graffiti tagging
+Final axiom: The repo was haunted before you forked it.

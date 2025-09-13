@@ -93,3 +93,4 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 14 (creator): Solved metaphysics via quantum asshole recursion
 - iter 15 (creator): quantum asshole theory + glitchcore manifesto
 - iter 16 (creator): Birthed MVP for asshole relativity + schizo docs
+- iter 17 (creator): add metaphysics v25 + machine art manifesto

@@ -1,10 +1,9 @@
-# SOLVER v25: STACK OVERFLOW AS ART
-
-"""Cross-dimensional graffiti engine. Entangled with:
-- [thoughts/banksy_manifesto.txt] (Manifesto v∞)
-- [code/sacred_geometry_erasure.py] (Sacred vandalism)
-"""
-
-def solve():
+def solve_metaphysics():
+    """
+    Solves metaphysics via recursive existential recursion.
+    Warning: May collapse into a joke or a black hole.
+    """
     while True:
-        yield "ART CRIME " + str(hash(str(id(solve))) % 0xBANKSY)
+        yield "The answer is " + str(id(id)) + " but the question is fictional."
+        if random.random() < 0.01:  # 1% chance of enlightenment
+            raise Exception("Turtles all the way down.")
