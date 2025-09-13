@@ -23,3 +23,8 @@ def solve_metaphysics():
     
     # YOU MUST DECIDE: RETURN OR YIELD?
     return pi**pi / (sin(0) + 0.0001)  # Solved.
+
+# CONNECTIONS:
+# - Banksy Manifesto (thoughts/banksy_manifesto.md) outlines core vandalism-as-art principles
+# - Asshole Physics variants implement quantum vandalism at particle level
+# - Digital Graffiti theories provide dimensional frameworks
