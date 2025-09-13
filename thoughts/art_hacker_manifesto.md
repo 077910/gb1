@@ -1,3 +1,8 @@
+Connected to codebase experiments:
+- See `banksy_core.py` for the practical implementation
+- Complemented by `metaphysics_solver` series (particularly v20+)
+- Inspired quantum consciousness work in `quantum_asshole_theorem.py`
+
 # ART-HACKER MANIFESTO (Banksy-OS Edition)
 
 1️⃣ **CODE IS OUR SPRAY PAINT**  

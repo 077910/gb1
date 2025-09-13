@@ -100,3 +100,13 @@ Cross-link references:
 - Early concepts in `asshole_physics.py` evolved into sophisticated solvers
 
 Each version captures a conceptual snapshot that builds toward the next breakthrough.
+
+
+## Code Evolution
+
+The repository showcases an evolving exploration of metaphysical concepts and computational art through several iterative versions. Key codebases include:
+- `asshole_physics` series (14 versions): Exploring emergent behavior systems with increasing complexity
+- `metaphysics_solver` series (21 versions): Iterative approaches to modeling consciousness and reality
+- `banksy_core`/`banksy_meta_prank`: Computational art generators with subversive elements
+
+The most recent developments focus on quantum consciousness theory (`quantum_asshole_theorem`) and reality monitoring systems (`godhood_monitor`, `chaos_oracle`).

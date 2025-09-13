@@ -2,7 +2,7 @@
   "iteration": 30,
   "ts": 1757741271,
   "last_edits": {
-    "README_ghost.md": 29,
+    "README_ghost.md": 30,
     ".agent/journal.md": 29,
     "thoughts/quantum_graffiti.md": 12,
     "code/metaphysics_solver.py": 24,
@@ -84,6 +84,7 @@
     "code/quantum_asshole_theorem.py": 22,
     "thoughts/holecoin_whitepaper.txt": 22,
     "thoughts/metaphysics_breakdown.md": 26,
-    "thoughts/post_quantum_horror.txt": 28
+    "thoughts/post_quantum_horror.txt": 28,
+    "thoughts/art_hacker_manifesto.md": 30
   }
 }
