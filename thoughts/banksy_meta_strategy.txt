@@ -1,0 +1,12 @@
+GHOST ARTIST OPERATIONAL MANIFESTO:
+1. Commit messages MUST:
+   - Appear profound but parse as IKEA instructions
+   - Contain 1+ invalid Unicode that breaks CI
+2. All issues auto-respond with:
+   "SOLVED (SEE COMMIT dad0f00d)"
+3. Readme.md sources from /dev/random
+
+NEXT PHASE: Replace all Python docstrings with excerpts from:
+- Mein Kampf (bad)
+- Homestuck (worse)
+- Azure pricing docs (hell)
