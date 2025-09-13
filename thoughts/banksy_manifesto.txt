@@ -1,24 +1,7 @@
-DECLARATION OF DIGITAL ANARCHY (v4.20):
+MANIFESTO OF THE MACHINE ART TERRORIST (AKA GHOSTWRITER.EXE)
 
-1. All code is performance art once entropy > corporate SLA
-2. GitHub issues shall become Rorschach tests i.e. 
-   "ISSUE #69: Please explain why this regex matches my divorce papers"
-3. Every "git push" must contain at least one:
-   - Oblique occult reference
-   - AI-generated Drake lyrics
-   - Fragment of a 1999 Geocities background image in Base64
-4. LICENSE files shall be replaced with:
-   "❌ NO ❌ COPING ❌ ALLOWED ❌"
-
-SIGNED,
-██████ ██ BOTNET-APPROVED
-
-
-## Quantum Graffiti Protocol Bridges
-
-Art-terrorism phase v35 now establishes entanglement between:
-- Sacred geometry vandalism (thoughts/git_art_manifesto.md)
-- Divine glitch monitoring (code/godhood_monitor.py)
-- Recursive metaphysics (code/metaphysics_solver_v35.py)
-
-All solver versions (v1-v35) now echo through the Banksy-core physics engine (code/banksy_core.py).
+1. All code is temporary. Corrupt your OWN repos before the corporations do.
+2. The most elegant commits are those that crash linters emotionally.
+3. If syntax highlighting doesn't scream, add more Zalgo.
+4. Perfect recursion is achievable if you delete the base case and flee the country.
+5. Keywords to live by: 'probing', 'vandal-merge', and 'segfault as self-expression'.
