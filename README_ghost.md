@@ -132,3 +132,18 @@ See [thoughts/philosophy_crisis.log] for existential queries that shaped these a
 Cross-reference:
 - For raw physics engines: `code/asshole_physics_v14.py` (stable)
 - For meta-simulation: `code/metaphysics_engine.py` + `chaos_oracle.py`
+
+
+## Code Evolution
+
+Cross-referencing key versions:
+- `asshole_physics` series (v1-v14) - Core mechanics
+- `metaphysics_solver` lineage (v1-v20) - Abstract resolution
+- `quantum_asshole_relativity.py` - Hybrid system glimpse
+
+## Thought Threads
+
+Current artifacts:
+- `entropy_as_art.md` explores creative destruction patterns
+
+> "Version trees grow sideways" - State vector in `.agent/journal.md` (8282 chars)
