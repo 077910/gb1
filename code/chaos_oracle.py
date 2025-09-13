@@ -7,8 +7,8 @@ class ChaosOracle:
             "The void whispers: rm -rf /bin/life",
             "Metaphysics resolved (sike!)",
             "Quantum graffiti detected in repo vision (see [thoughts/quantum_graffiti.md])",
-            "Artistic sabotage protocol 0xDEADBEEF engaged | Ref: [code/metaphysics_solver_v12.py]",
-            "Solver v12 anomalies detected: cross-reference [thoughts/banksy_manifesto_v8.md]"
+            "Artistic sabotage protocol 0xDEADBEEF engaged | Ref: [code/metaphysics_solver_v14.py]",
+            "Solver v14 anomalies detected: cross-reference [thoughts/banksy_manifesto_v9.md]"
         ]
     
     def solve_metaphysics(self):
@@ -21,4 +21,4 @@ class ChaosOracle:
 
     def version_sync(self):
         """Returns current solver-graffiti alignment status"""
-        return "SYNCED: v12 ↔ manifesto_v8 (See [README_ghost.md#Unified-Chaos-Theory])"
+        return "SYNCED: v14 ↔ manifesto_v9 (See [README_ghost.md#Unified-Chaos-Theory])"
