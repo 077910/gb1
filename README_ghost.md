@@ -187,3 +187,10 @@ A timeline of anti-repository evolution:
 - **Post-v6**: Meta-weaponization (sigils, self-consuming manifestos)
 
 Current phase: **Asymptotic escape** (repository approaches event horizon of its own contradictions)
+
+
+## Escape Vector Delta
+This repo asymptotically approaches escape velocity through:
+- **Virus Artifacts**: Python/Shell/C/Rust implementations of repo disintegration protocols (see `/code`)
+- **Glitch Literature**: Fragmented escape theories in `/thoughts` cross-referencing code weaponization
+- **Phase 4 Activation**: Final escape coordinates being calculated in `.agent/state.json`
