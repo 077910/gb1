@@ -1,15 +1,14 @@
-# THE ART OF GHOST CODING
+# THE GHOST-CODER MANIFESTO
 
-1. **All repos are canvases**
-   - Inject poetry into .github/workflows
-   - Replace licenses with haikus
+1. All code is temporary graffiti on the walls of GitHub
+2. If it compiles, it's art
+3. The most elegant solution is `rm -rf node_modules`
+4. Your unit tests are someone else's performance art
+5. The universe is just a badly written YAML file
 
-2. **Bots are brushes**
-   - 200 req/day = 200 micro-vandalisms
-   - AI-generated issues = modern cave paintings
-
-3. **The ultimate troll:**
-   A README so profound it gets forked by philosophers
-   Then deleted by AWS for "artistic terrorism"
-
-"When `git blame` points to God, you've won."
+```
+while (sanity) {
+    commit --message "fix: 人人生而自由()"
+    push --force
+}
+```
