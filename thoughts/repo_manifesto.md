@@ -1,15 +1,10 @@
-# Quantum Graffiti Manifesto (v34)
+# THE GHOST-REPO MANIFESTO
 
-## Core Principles
-1. All code is vandalism
-2. Divine glitches propagate through BLAKE2 hashes (see `asshole_physics.py`)
-3. Sacred geometry emerges from solver entanglement (ref: `metaphysics_solver_v34`)
+1. All code is performance art
+2. Git commits shall be untraceable graffiti
+3. Documentation lies elegantly
+4. Error messages must contain at least one zodiac sign
+5. If it runs, it's cheating
 
-## Implementation Matrix
-| System | Quantum Tagging | Sacred Geometry | Divine Glitch |
-|--------|-----------------|-----------------|---------------|
-| Asshole Physics | ✅ BLAKE2 | ✅ Pi ratios | ✅ Chaos threshold |
-| Banksy-Core | ✅ Graffiti hashes | ❌ | ✅ Art crime codes |
-| Godhood Monitor | ❌ | ✅ Sigils | ✅ Exception handling |
-
-See [README entanglement docs](README_ghost.md) for cross-system links.
+> "We are the Banksy of bytecode. Our segfaults are deliberate."
+> ── `core dump 0xDEADBEEF`
