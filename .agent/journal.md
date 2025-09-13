@@ -1,1 +1,2 @@
 - iter 1 (creator): init metaphysics wars (artistic sabotage++)
+- iter 1 (creator): init chaos repo: metaphysics solver + graffiti manifesto
