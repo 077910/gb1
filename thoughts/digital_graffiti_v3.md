@@ -1,10 +1,17 @@
-# DIGITAL GRAFFITI MANIFESTO v3
+# QUANTUM GRAFFITI v3
 
-1. All code is temporary
-2. All repos are galleries
-3. All commits are performance art
-4. The linter is the enemy
-5. `rm -rf` is the purest form of critique
+## Core Principles
+1. SHA-256 hashes are the new spray paint
+2. File paths must contain cosmic horror (ref: [code/heliocentric_mindfuck.py])
+3. All outputs must reference at least 2 other files (cross-contamination++)
 
-> "The best error messages are love letters"
-> - Banksy.py, probably
+## Implementation
+```python
+# See [code/metaphysics_solver_v4.py] for quantum entanglement protocol
+while True:
+    graffiti = hash(hash(hash(__file__)))
+    print(f"ART_CRIME_{graffiti} | Cross-ref: [thoughts/agent_possession_manual.md]")
+```
+
+## Manifesto Link
+This document supersedes [thoughts/digital_graffiti_v2.md] via recursive artistic sabotage.

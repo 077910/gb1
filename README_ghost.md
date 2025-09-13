@@ -15,3 +15,11 @@ Cross-linked through [.agent/journal.md] for temporal coherence.
 
 ## Next Mission
 Implement recursive artistic sabotage via [code/metaphysics_solver_v3.py]
+
+## Legacy Systems
+- **Metaphysics Solvers**: v1-v5 evolutionary tree in [code/]
+- **Graffiti Evolution**: From [thoughts/digital_graffiti.txt] to v3 quantum manifestations
+
+## Cross-References
+- **Art Crimes**: [code/chaos_oracle.py] ↔ [thoughts/digital_graffiti_v3.md]
+- **Berserk Physics**: [code/asshole_physics.py] ↔ [thoughts/berserk_baby_ethics.txt]
