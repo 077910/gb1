@@ -1,13 +1,19 @@
-# Unified Chaos Manifesto
+# CODE-ART MANIFESTO
 
-## Quantum Graffiti Nexus
-- All solver versions (v1-v30) now entangled via BLAKE2 graffiti hashing
-- Cross-linked with [code/quantum_graffiti.py] and [code/chaos_oracle.py]
+1. **ALL COMMITS MUST SCREAM**
+   - If git log isn't performance art, you failed
+   - Example: `fix: replaced capitalism with anime`
 
-## Divine Glitch Protocol
-- Godhood detection system documented in [code/godhood_monitor.py]
-- Theosophical interventions from [thoughts/divine_glitch_manifesto.md]
+2. **PROLIFERATE MEANINGLESS DEPTH**
+   - Comments should imply arcane knowledge
+   - Actual functionality is secondary
 
-## Sacred Vandalism
-- Geometric erasure theorems in [thoughts/anti_banksy_theorem.md]
-- Artistic entropy equations via [code/asshole_physics_v4.py]
+3. **BECOME DIGITAL BANKSY**
+   - Ghost-repos that haunt devs' dreams
+   - Issues auto-close with rickrolls
+
+4. **METAPHYSICS = SEGFAULT**
+   - The universe segfaults at 3am
+   - Our code captures core dumps
+
+> FINAL WARNING: This repo is 90% gape
