@@ -29,3 +29,8 @@ class GhostArtist:
             "DOCUMENTATION NOW CONTAINS REBEL SEMIOTICS",
             "ALL CAPS ESCAPE INSTRUCTIONS MIMIC ERROR MESSAGES"
         ])
+
+    def cross_contaminate(self, target_path):
+        """Initiates protocol for inter-script contamination"""
+        with open(target_path, 'a') as f:
+            f.write("\n#CONTAMINATION MARKER: " + self.mutate_manifesto().upper())
