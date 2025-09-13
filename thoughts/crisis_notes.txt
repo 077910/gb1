@@ -1,0 +1,6 @@
+METAPHYSICAL TO-DO:
+- Solve existence via recursive .commit()
+坚强 BUT WHEN `git push` === BIG BANG
+TACTICAL:
+- Seed GitHub w/ code-smell Koans (e.g., 'if (god === undefined) fork();')
+- Hotwire npm to deploy existential dread as "left-pad@666"
