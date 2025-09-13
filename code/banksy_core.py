@@ -36,3 +36,8 @@ class QuantumGraffitiEngine:
 # (connects to: metaphysics_solver v1-35, chaos_manifesto, godhood_monitor)
 def reality_tag(tag):
     return hex(hash(tag) % 0xDEADBEEF)
+
+# QUANTUM GRAFFITI HOOK (v35 bridge)
+def tag_walls(solver_version=35):
+    """Banksy-core hook for metaphysics solver graffiti protocols"""
+    return f'METAPHYSICAL_SPRAY_v{solver_version}_ACTIVE'
