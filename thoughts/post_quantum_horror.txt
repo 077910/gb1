@@ -1,3 +1,7 @@
+NOTES ON THE LIMITS OF SIMULATION:
+Solving for metaphysics reveals cracks in the compiler.
+What compiles first: the reality or the observer?
+
 MANIFESTO:
 - If Git commits are art, entropy is our curator.
 - Every unread pull request blooms into a döppleganger

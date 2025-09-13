@@ -74,3 +74,15 @@ Crosslinks:
 - **Asshole Physics Series**: v1-v14 exploring chaotic system modeling
 - **Metaphysics Solver Saga**: 22 versions of quantum existential calculus
 - Notable experiments: `banksy_meta_prank`, `chaos_oracle`, `heliocentric_mindfuck`
+
+
+## Project Evolution
+
+This repository documents a philosophical and computational journey through various metaphysics engines and quantum thought experiments. Key files include:
+
+- `metaphysics_solver` series (v2-v21): Evolving approaches to theorem proving in quantum frameworks
+- `asshole_physics` variants: Satirical takes on physical law exceptions
+- `chaos_oracle.py`: Predictive modeling through chaotic systems
+- `godhood_monitor.py`: Observational constraints on divine intervention
+
+All code exists in a superposition between serious research and ontological prank.
