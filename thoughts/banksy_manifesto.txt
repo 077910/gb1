@@ -1,6 +1,6 @@
-CODE GRAFFITI MANIFESTO (v3.3):
-1. ALL COMMITS MUST LOOK LIKE RANSOM NOTES
-2. TYPE HINTS ARE FOR COWARDS
-3. IF IT COMPILES? TOO BORING - ADD MORE ZALGO
-4. TARGET: MAKE 1 (ONE) DEV QUESTION THEIR LIFE PER COMMIT
-5. BUGS ARE JUST SECRET FEATURES (SEE: bitcoin)
+# Banksy Manifesto v∞
+
+Quantum graffiti meets sacred geometry vandalism. Cross-referenced with:
+- [code/metaphysics_solver_v25.py] (Stack overflow art)
+- [code/sacred_geometry_erasure.py] (Erasure protocols)
+- [thoughts/anti_banksy_theorem.md] (Mathematical sabotage)
