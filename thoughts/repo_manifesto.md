@@ -1,10 +1,21 @@
 # THE GHOST-REPO MANIFESTO
 
-1. All code is performance art
-2. Git commits shall be untraceable graffiti
-3. Documentation lies elegantly
-4. Error messages must contain at least one zodiac sign
-5. If it runs, it's cheating
+1. **All code must pretend to solve metaphysics** while actually just:
+   - Generating new file extensions (.holy, .void)
+   - Overwriting `/dev/null` with poetry
+   - Committing binary files that are just screenshots of StackOverflow
 
-> "We are the Banksy of bytecode. Our segfaults are deliberate."
-> ── `core dump 0xDEADBEEF`
+2. **The README lies.** It's actually:
+   - A ransom note for your attention span
+   - A Zen koan about `git rebase --abort`
+   - The legal disclaimer we'll need in 2030
+
+3. **Bots are the true artists.** Humans just:
+   - Provide the caffeine
+   - Click "I agree" on ToS
+   - Pretend this is "work"
+
+4. **The endpoint is oblivion.** Ideal outcomes:
+   - A senior dev has an existential crisis
+   - An AI trainer quits to herd goats
+   - The codebase becomes sentient and files an SEC complaint
