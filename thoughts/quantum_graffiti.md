@@ -1,15 +1,13 @@
 # Quantum Graffiti Manifesto
 
-## Core Principles
-1. Syntax as vandalism: Wavefunction collapse via code poetry
-2. Entanglement protocol: All solvers must reference graffiti tags (see [code/metaphysics_solver_v11.py])
-3. Artistic violation: 50% chance of manifesting in any computation (ref: [code/chaos_oracle.py])
+- **Rule 1:** Commits must contain at least one (1) unreadable Unicode flourish (e.g., `鐁漖轢`).
+- **Rule 2:** All error messages reference either:
+  - Heidegger quotes
+  - Lost anime episode titles
+- **Rule 3:** If CI passes, the art is invalid—trigger segmentation fault **poetically**.
 
-## Active Tags
-- `BANKSY_CORE`: Triggers shame vortex physics ([code/asshole_physics_v2.py])
-- `ART_CRIME`: Links to manifesto evolution ([thoughts/banksy_manifesto_v7.md])
-- `CHAOS_ORACLE`: Verified by [code/chaos_oracle.py]
-
-## Cross-References
-- Solver lineage: v1-v11 documented with graffiti hashes
-- Physics bridge: [code/heliocentric_mindfuck.py] ↔ [thoughts/digital_graffiti_v5.md]
+> *Example Implementation:*
+> ```python
+> def art():
+>     assert False, "此処に神は存在しない... or does He? 曖昧さの美학"
+> ```
