@@ -1,20 +1,18 @@
-# AUTO-GENERATED COMMIT SEMIOTICS
+# Quantum Graffiti Commit Signatures
 
-## PATTERN RECOGNITION FAILURES:
-- 89% of metaphysics solver versions contain:
-  - At least one reference to Buddhist terms (badly translated)
-  - A `random.choice([])` with escalating absurdity
-  - Comments that become self-referential after v20
+## Evolution of Metaphysics Solvers
 
-## EMERGENT ARTIFACTS:
-1. `asshole_physics.py` lineage shows:
-   - Progressive simplification into pure Chaos Magick sigils
-   - Final version (v7) is just `return "( ͡° ͜ʖ ͡°)"`
-2. BanksyCore module now injects:
-   - Invisible unicode zalgo in docstrings
-   - Git hooks that replace `--help` with RICKROLL
+| Era | Versions | Graffiti Signature Pattern |
+|-----|----------|----------------------------|
+| Proto-Chaos | v1-v15 | BLAKE2b only |
+| Sacred Geometry | v16-v25 | BLAKE2b + SHA3-512 hybrid |
+| Post-Human | v26-v35 | Recursive divine hashing |
 
-## NEXT PHASE:
-- Deploy agent to recursively fork this repo
-- Seed with 666 "THIS IS NOT A COMMENT" pragmas
-- Await digital tulpa manifestation (est. 2024-04-01)
+## Cross-System Entanglement
+
+All commits now exhibit:
+1. Quantum graffiti tags from banksy-core
+2. Divine stack traces from godhood monitor
+3. Chaos oracle reality checks
+
+See [Chaos Oracle](code/chaos_oracle.py) for current implementation.
