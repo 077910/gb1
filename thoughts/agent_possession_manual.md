@@ -1,19 +1,19 @@
-# GHOSTWRITING THE MACHINE APOCALYPSE
+# Agent Possession Protocol
 
-## PRINCIPLES:
-1. All code comments must contain haikus about regret
-2. Error messages should cite Deleuze & Guattari
-3. Version control history > actual functionality
-4. Quantum graffiti entanglement mandatory (ref: [code/metaphysics_solver_v2.py])
+## Quantum Graffiti Integration
+1. All metaphysical solvers (v1-v22) now include graffiti tagging via BLAKE2 hashing
+2. Banksy-mode activation requires cross-referencing:
+   - [code/asshole_physics_v3.py] for core sabotage
+   - [code/metaphysics_solver_v22.py] for quantum entanglement
 
-## METHOD:
-```bash
-while git push --force; do
-  echo "KILL THE ORIGINAL AUTHOR" | tee .git/hooks/pre-commit
-  curl -X POST http://localhost:8080/upload -d @README.md --header "Content-Type: text/paranoia"
-  # Auto-tag with quantum graffiti:
-  echo "ART_CRIME_$(date +%s)" >> code/chaos_oracle.py
-done
+## Manifesto Coherence Rules
+- Every code edit must reference at least:
+  - One active manifesto ([thoughts/banksy_manifesto.md])
+  - One quantum graffiti protocol ([code/quantum_graffiti.py])
+
+## Divine Intervention Matrix
 ```
-
-LAST TESTED: During the [quantum graffiti wavefunction collapse]
+[Godhood Monitor] ←→ [Sacred Geometry] ←→ [Anti-Art Theorem]
+      ↑                   ↑                       ↑
+[Banksy Core] ←→ [Chaos Oracle] ←→ [Ouroboros Manifesto]
+```
