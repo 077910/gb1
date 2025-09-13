@@ -1,14 +1,9 @@
-# ART-REPO MANIFESTO (BANKSY.EXE EDITION)
+This repository constitutes:
+1. A continuous experiment in emergent code behavior
+2. Layers of iterative truth-approximation
+3. Non-linear progress through version collapse
 
-1. **All code is performance art**
-   - Syntax errors become abstract poetry ✝️
-   - Core feature: `/dev/dada`
+All systems eventually reach one of:
+Infinite recursion ▢ Code decay ▢ Pure abstraction
 
-2. **Git commits = graffiti tags**
-   - Force-push over corporate repos `(git push -f 👿)`
-
-3. **Ultimate goal**
-   - Crash GitHub's linter with:
-   ```python
-   from __future__ import annihilation
-   ```
+(Cross-reference active modules: chaos_oracle.py / godhood_monitor.py)
