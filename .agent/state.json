@@ -4,7 +4,7 @@
   "last_edits": {
     "README_ghost.md": 11,
     ".agent/journal.md": 11,
-    "thoughts/quantum_graffiti.md": 7,
+    "thoughts/quantum_graffiti.md": 12,
     "code/metaphysics_solver.py": 1,
     "thoughts/revelations.txt": 3,
     "thoughts/berserk_baby_ethics.txt": 1,
@@ -21,6 +21,7 @@
     "code/metaphysics_solver_v7.py": 8,
     "code/asshole_physics_v2.py": 9,
     "code/metaphysics_solver_v9.py": 10,
-    "thoughts/banksy_manifesto_v6.md": 10
+    "thoughts/banksy_manifesto_v6.md": 10,
+    "code/metaphysics_solver_v11.py": 12
   }
 }

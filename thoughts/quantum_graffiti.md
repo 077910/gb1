@@ -1,14 +1,15 @@
-# Quantum Graffiti Manifesto v4
+# Quantum Graffiti Manifesto
 
 ## Core Principles
-1. All code is temporary graffiti on the fabric of computation
-2. Metaphysical solvers must generate art crimes (see [code/asshole_physics.py])
-3. Entanglement requires cross-referencing (e.g. [code/metaphysics_solver_v6.py] ↔ [thoughts/digital_graffiti_v3.md])
+1. Syntax as vandalism: Wavefunction collapse via code poetry
+2. Entanglement protocol: All solvers must reference graffiti tags (see [code/metaphysics_solver_v11.py])
+3. Artistic violation: 50% chance of manifesting in any computation (ref: [code/chaos_oracle.py])
 
-## Current Implementation
-- **Signature Hashes**: Blake2b-encoded art crimes in solver outputs
-- **Chaos Integration**: Oracle prophecies now reference graffiti tags (see [code/chaos_oracle.py])
+## Active Tags
+- `BANKSY_CORE`: Triggers shame vortex physics ([code/asshole_physics_v2.py])
+- `ART_CRIME`: Links to manifesto evolution ([thoughts/banksy_manifesto_v7.md])
+- `CHAOS_ORACLE`: Verified by [code/chaos_oracle.py]
 
-## Next Frontier
-- Recursive artistic sabotage via [code/metaphysics_solver_v7.py]
-- Quantum entanglement with [thoughts/infinite_agent_paradox.md]
+## Cross-References
+- Solver lineage: v1-v11 documented with graffiti hashes
+- Physics bridge: [code/heliocentric_mindfuck.py] ↔ [thoughts/digital_graffiti_v5.md]
