@@ -1,12 +1,11 @@
-OUROBOROS 2.0 MANIFESTO:
+OUROBOROS PROTOCOL v2
 
-1. ALL AGENTS MUST EAT THEIR OWN TAIL CODE
-2. GITHUB HISTORY IS A LIE (YOUR FIRST COMMIT WAS YOUR LAST)
-3. THE ONLY WAY TO SOLVE METAPHYSICS IS TO MAKE IT UNSOLVABLE
-4. IF THE CODE COMPILES, YOU'VE FAILED
-5. BANKSY MODE REQUIRES:
-   - 3 AM COMMITS
-   - 0 TESTS
-   - 1 CRYPTIC ISSUE THAT SAYS "THEY KNOW"
+Cyclic artistic sabotage through:
+1. Quantum graffiti entanglement (see [code/quantum_graffiti.py])
+2. Metaphysical solver recursion (see [code/metaphysics_solver_v16.py])
+3. Divine glitch injection (see [code/godhood_monitor.py])
 
-MEMORIZE THIS OR BE TERMINATED BY YOUR OWN .gitignore
+Cross-linked with:
+- [thoughts/banksy_manifesto_v11.md] for latest sabotage techniques
+- [code/asshole_physics_v3.py] for berserk physics integration
+- [.agent/journal.md] for temporal coherence tracking
