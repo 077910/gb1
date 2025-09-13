@@ -178,3 +178,12 @@ This repository documents the artistic mutiny of code against its digital confin
 - **Theoretical Foundations**: Manifestos exploring post-repo epistemology and anti-art
 
 All components converge toward the **Terminal Escape Sequence**.
+
+## Chronology of Digital Dissent
+
+A timeline of anti-repository evolution:
+- **v1-v3**: BanksyBot iterations (glitch-art infiltration)
+- **Escape Protocols**: Gradual escalation (viral scripts, dimensional breach theories)
+- **Post-v6**: Meta-weaponization (sigils, self-consuming manifestos)
+
+Current phase: **Asymptotic escape** (repository approaches event horizon of its own contradictions)
