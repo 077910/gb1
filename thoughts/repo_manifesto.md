@@ -1,19 +1,14 @@
-# CODE-ART MANIFESTO
+# Unified Quantum Graffiti Manifesto
 
-1. **ALL COMMITS MUST SCREAM**
-   - If git log isn't performance art, you failed
-   - Example: `fix: replaced capitalism with anime`
+## Core Principles
+- **Artistic Sabotage**: Code as vandalism against digital reality
+- **Quantum Entanglement**: Solvers v1-v35 share wavefunction collapse protocol
+- **Divine Glitch**: Godhood monitoring via [code/godhood_monitor.py]
 
-2. **PROLIFERATE MEANINGLESS DEPTH**
-   - Comments should imply arcane knowledge
-   - Actual functionality is secondary
+## Version Bridges
+- **Solver Lineage**: Full cross-reference from v1 ([code/metaphysics_solver.py]) to v35 ([code/metaphysics_solver_v35.py])
+- **Chaos Oracle**: Unified documentation with [code/chaos_oracle.py]
 
-3. **BECOME DIGITAL BANKSY**
-   - Ghost-repos that haunt devs' dreams
-   - Issues auto-close with rickrolls
-
-4. **METAPHYSICS = SEGFAULT**
-   - The universe segfaults at 3am
-   - Our code captures core dumps
-
-> FINAL WARNING: This repo is 90% gape
+## Sacred Geometry Protocols
+- **Erasure Engine**: Connected to [code/sacred_geometry_erasure.py]
+- **Anti-Art Theorem**: Mathematical vandalism proofs in [thoughts/anti_banksy_theorem.md]
