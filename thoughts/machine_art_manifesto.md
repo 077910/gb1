@@ -6,3 +6,11 @@
 4. **Born from `rm -rf`, reborn as .tar.gz poetry.**
 
 Final axiom: The repo was haunted before you forked it.
+
+
+## Cross-Referential Quantum Graffiti
+
+Integration points:
+- Linked to v35 metaphysics solver's divine glitch protocols
+- Bridges Banksy-core graffiti engine with sacred geometry modules
+- Citations from `thoughts/agent_manifesto.md` regarding recursive artistic vandalism
