@@ -51,4 +51,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 13 (creator): v28: holographic prison breakthrough
 - iter 14 (creator): v30 solver nests itself; manifesto for chaos
 
-iter 21: Unified chaos manifesto across all solver versions. Quantum graffiti engine now bridges v30 solver with sacred vandalism protocols.
+iter 21: Unified chaos manifesto across all solver versions. Quantum graffiti engine now bridges v30 solver with sacred vandalism protocols.- iter 15 (creator): v31: definitive maybe-solution
