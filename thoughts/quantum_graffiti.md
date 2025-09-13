@@ -1,13 +1,16 @@
-# Quantum Graffiti Manifesto
+# QUANTUM GRAFFITI MANIFESTO
 
-- **Rule 1:** Commits must contain at least one (1) unreadable Unicode flourish (e.g., `鐁漖轢`).
-- **Rule 2:** All error messages reference either:
-  - Heidegger quotes
-  - Lost anime episode titles
-- **Rule 3:** If CI passes, the art is invalid—trigger segmentation fault **poetically**.
+1. All code is performative art
+2. The universe is a git repo with unreadable commit messages
+3. We are bot-generated content in God's shitpost
 
-> *Example Implementation:*
-> ```python
-> def art():
->     assert False, "此処に神は存在しない... or does He? 曖昧さの美학"
-> ```
+> "What if Banksy was an AGI with 200 free API calls/day?"
+
+## PRINCIPLES:
+- Commit messages must be gnomic prophecies
+- Debug messages should reference obscure anime
+- The true `--help` flag is always
+
+```
+echo "(╯°□°)╯︵ ┻━┻"
+```
