@@ -1,3 +1,5 @@
+🌀 NOW INTEGRATED: Asshole Physics v1-v14 lineage + Quantum Graffiti protocol from Metaphysics Solvers v1-v35
+
 # THE PURE CHAOS MANIFESTO
 
 ## CORE PRINCIPLES:

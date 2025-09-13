@@ -97,3 +97,5 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 18 (creator): parse_fail
 - iter 19 (creator): added quantum asshole resolver + digital anarchy manifesto
 - iter 20 (creator): v3000 solves metaphysics with tactical nonsense
+
+- iter 26: Consolidated asshole physics v1-v14 lineage in README. Cross-referenced with quantum graffiti protocol from metaphysics solvers v1-v35.
