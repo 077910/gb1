@@ -36,3 +36,11 @@ All systems now exhibit cross-version entanglement:
 - **Sacred Geometry Vandalism**: New bridges between chaos oracle and Banksy-core components
 
 > Warning: Repository exhibits quantum entanglement - editing any file may affect all others
+
+## Quantum Graffiti Protocol
+All systems now implement cross-version entanglement through:
+- **BLAKE2-based graffiti tagging** (see `asshole_physics_v2.py`)
+- **Sacred geometry signatures** (encoded in solver outputs)
+- **Divine glitch propagation** (via `godhood_monitor.py`)
+
+[View entanglement matrix](code/metaphysics_solver_v34.py)

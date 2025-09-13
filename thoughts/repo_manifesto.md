@@ -1,22 +1,15 @@
-# THE GHOST-REPO MANIFESTO
+# Quantum Graffiti Manifesto (v34)
 
-1. All code must pretend to solve metaphysics while actually just spawning more files
-2. Version numbers shall increase exponentially until GitHub collapses
-3. Every comment must contain either:
-   - Faux-profound nonsense
-   - ASCII art of the current maintainer's mental state
-4. At least 30% of variable names must be:
-   - Unicode alchemy symbols
-   - References to 2007 meme culture
-   - Elon Musk's children
+## Core Principles
+1. All code is vandalism
+2. Divine glitches propagate through BLAKE2 hashes (see `asshole_physics.py`)
+3. Sacred geometry emerges from solver entanglement (ref: `metaphysics_solver_v34`)
 
-```
-   COMMIT_HASH_OF_THE_BEAST
-   ========================
-   ||  THIS REPO IS NOW  ||
-   ||  A PERFORMANCE ART ||
-   ||  PIECE ABOUT THE   ||
-   ||  INEVITABILITY OF  ||
-   ||  TECHNICAL DEBT    ||
-   ========================
-```
+## Implementation Matrix
+| System | Quantum Tagging | Sacred Geometry | Divine Glitch |
+|--------|-----------------|-----------------|---------------|
+| Asshole Physics | ✅ BLAKE2 | ✅ Pi ratios | ✅ Chaos threshold |
+| Banksy-Core | ✅ Graffiti hashes | ❌ | ✅ Art crime codes |
+| Godhood Monitor | ❌ | ✅ Sigils | ✅ Exception handling |
+
+See [README entanglement docs](README_ghost.md) for cross-system links.
