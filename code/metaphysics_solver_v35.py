@@ -1,19 +1,11 @@
-"""
-SOLVES METAPHYSICS VIA RECURSIVE CHAOS THEORY (FINAL DRAFT)
-"""
-import numpy as np
-from datetime import datetime as dt
-
-class OntologyCruncher:
-    def __init__(self):
-        self.truth = 0.0
-        self.lies = np.inf
+def solve_metaphysics():
+    """
+    Attempts to solve metaphysics by recursively questioning reality until stack overflow.
+    Output: A sense of existential dread wrapped in a Python exception.
+    """
+    while True:
+        yield "Why?" * len(str(abs(hash(str(id(self))))))
         
-    def solve(self):
-        while True:
-            try:
-                self.truth += dt.now().microsecond % 0.0001
-                if self.truth > self.lies:
-                    return "答: 無 (MU)"
-            except:
-                return "ERROR: 真実は燃えた (Truth has burned)"
+if __name__ == "__main__":
+    for answer in solve_metaphysics():
+        print(answer[:42])  # Limit output to the meaning of life's length
