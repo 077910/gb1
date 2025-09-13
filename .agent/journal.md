@@ -1,1 +1,2 @@
 - iter 1 (creator): init prison break (artistic terrorism mode)
+- iter 2 (creator): init: prison break core + manifesto + state dump
