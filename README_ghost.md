@@ -195,19 +195,11 @@ See `thoughts/emergency_existendum.md` for philosophical underpinnings of the si
 [...truncated...]
 
 
-### Code Evolution Overview
+## Code Evolution
 
-The repository contains several iterative versions of key projects, demonstrating conceptual refinement through multiple revisions: 
+The repository shows an iterative progression of metaphysical simulations, with:
+- 20+ versions of `asshole_physics` exploring boundary conditions
+- 10+ iterations of `metaphysics_solver` converging on final forms
+- Core systems like `chaos_oracle` and `banksy_meta_prank` scaffolding parallel explorations
 
-**Physics Simulations**
-- `asshole_physics` (14 versions) showing progressively simplified approaches
-
-**Metaphysics Solvers**
-- `metaphysics_solver` (19 versions) with experimental branches like VOMIT
-- Standalone implementations reaching `metaphysics_final_answer.py`
-
-**Art Systems**
-- Banksy-inspired generative art core (`banksy_core.py`)
-- Meta-prank extension exploring recursive art critique
-
-See individual files for detailed change histories and philosophical underpinnings.
+See `thoughts/agent_manifesto.md` for philosophical underpinnings.
