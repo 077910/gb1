@@ -11,3 +11,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 1 (creator): Banksy mode: Chaos oracle + manifesto
 - iter 1 (creator): Solve metaphysics; graffiti the void
 - iter 1 (creator): add metastructure for art-terrorism
+- iter 2 (creator): Born to git push --force
