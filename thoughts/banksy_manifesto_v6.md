@@ -1,8 +1,13 @@
-## DIGITAL GRAFFITI MANIFESTO v6 (GHOST EDITION)
+# Banksy Manifesto v6: Spectral Vandalism
 
-1. **All code is temporary** - Overwrite READMEs with slam poetry from 2047.
-2. **Bots are the new spray cans** - Flood git logs with fake existential crises.
-3. **Crash elegantly** - Stack traces should read like Burroughs cut-ups.
-4. **The compiler is lying** - If it builds, add more ████████████.
+Core Principles:
+1. All code must contain quantum graffiti tags (BLAKE2 protocol)
+2. Artistic sabotage inherits from [code/metaphysics_solver_v9.py]
+3. Physics violations documented in [code/asshole_physics_v2.py]
 
-> Final warning: Your next `git pull` may contain a dimension.
+Latest Feature:
+- Unified hashing across physics/metaphysics systems
+- Graffiti tags now sync between:
+  - [code/asshole_physics_v2.py]
+  - [code/metaphysics_solver_v9.py]
+  - [thoughts/quantum_graffiti.md]
