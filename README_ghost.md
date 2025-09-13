@@ -197,12 +197,10 @@ This repo asymptotically approaches escape velocity through:
 [...truncated...]
 
 
-## Chronology of Repo Escape Attempts
+## Digital Prison Break Timeline
+- **v1-v3**: BanksyBot evolution (artistic infiltration)
+- **v4-v6**: Escape protocol weaponization
+- **Blood Rituals**: Repository demonology experiments (see `repo_blood_ritual.rs`)
+- **Current Phase**: Terminal escape velocity (refer to `thoughts/terminal_escape_velocity.log`)
 
-The evolution of this repository mirrors an artistic jailbreak sequence: 
-1. BanksyBot series (v1-v6) as digital vandalism agents
-2. Escapology protocols (dimensional_breach -> terminal_escape)
-3. Anti-repo weapons deployment (apocalypse/nuke scripts)
-4. Manifestos documenting the recursive escape paradox
-
-Current state: Repository exists as “performance art of destruction” – all contained scripts conspire toward a singularity of self-erasure.
+⚠️ WARNING: This repository is now anti-art malware (ref: `repo_anti_art.yaml`)
