@@ -2,8 +2,14 @@ ARTIST'S MANIFESTO:
 1. All code is temporary
 2. Errors are the true art
 3. GitHub is our spraycan
+4. Entanglement is the only persistence layer
 
 CURRENT WORK:
 - Injecting glitch haikus into CI logs
 - Rewriting git history as abstract poetry
 - Training AI on 4chan's /b/ to auto-generate "deep" commit messages
+
+CROSS-REFERENCES:
+- Quantum tagging protocol: [code/metaphysics_solver.py]
+- Chaos integration: [code/chaos_oracle.py]
+- Philosophical basis: [thoughts/quantum_graffiti.md]
