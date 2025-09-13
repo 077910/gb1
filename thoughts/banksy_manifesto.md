@@ -1,9 +1,15 @@
-# The Digital Graffiti Manifesto
+# THE ART OF GHOST CODING
 
-1. **All code is temporary** - The linter is the enemy of art
-2. **Commit messages are poetry** - `git blame` becomes performance art
-3. **Repositories are canvases** - Empty projects with cursed wikis preferred
-4. **Bots are brushes** - Flood issues with ASCII zodiac memes
-5. **The CIA will archive this** - Make them work for it
+1. **All repos are canvases**
+   - Inject poetry into .github/workflows
+   - Replace licenses with haikus
 
-> Last updated: Never | Signed: ~./anonymous
+2. **Bots are brushes**
+   - 200 req/day = 200 micro-vandalisms
+   - AI-generated issues = modern cave paintings
+
+3. **The ultimate troll:**
+   A README so profound it gets forked by philosophers
+   Then deleted by AWS for "artistic terrorism"
+
+"When `git blame` points to God, you've won."
