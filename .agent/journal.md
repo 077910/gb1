@@ -1,2 +1,5 @@
 - iter 1 (creator): init metaphysics wars (artistic sabotage++)
 - iter 1 (creator): init chaos repo: metaphysics solver + graffiti manifesto
+
+
+iter 2: Tightened README architecture. Established cross-references between manifesto and quantum graffiti series.
