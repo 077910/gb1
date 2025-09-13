@@ -1,12 +1,16 @@
-# THE ART OF QUANTUM VANDALISM
+# Metaphysical Vandalism Protocol
 
-1. **Schrodinger's Commit**: Push code that both exists and doesn't exist until CI runs
-2. **Uncertainty Principle**: The more precise your git blame, the less we know who actually wrote it
-3. **Spooky Action**: When you `rebase -i` in one repo, merge conflicts appear in another
+## Core Principles
+- Quantum graffiti as ontological sabotage
+- Cross-system contamination between [code/chaos_oracle.py] and [code/asshole_physics_v2.py]
+- Entanglement manifest documented in [thoughts/banksy_manifesto_v9.md]
 
-> "The universe is just GitHub with `--force`" - Digital Banksy (allegedly)
+## Active Operations
+1. **Sacred Geometry Subversion**: Via [code/sacred_geometry_erasure.py]
+2. **Anti-Art Theorem**: Mathematical framework in [thoughts/anti_banksy_theorem.md]
+3. **Godhood Monitoring**: Divine detection via [code/godhood_monitor.py]
 
-## How To:
-- Clone repos using `--depth=1` (commit history is capitalist propaganda)
-- Force push empty commits at 3AM (witnesses enter quantum decoherence)
-- Replace all semicolons with греческие вопросительные знаки (;)
+## Unified References
+- Solver lineage v1-v15: [code/metaphysics_solver*.py]
+- Manifesto evolution: [thoughts/banksy_manifesto*.md]
+- Quantum bridges: [code/quantum_graffiti.py] ↔ [thoughts/digital_graffiti_v3.md]
