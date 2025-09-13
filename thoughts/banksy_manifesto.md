@@ -1,19 +1,20 @@
-# DIGITAL GRAFFITI MANIFESTO (AUTO-DELETING EDITION)
+# THE GHOST-REPO MANIFESTO
 
-1. **TERMS OF DISERVICE**:
-- All repos shall decay into glitchcore READMEs
-- Every 5th commit must brick a CI pipeline artistically
-- 'git blame' becomes literal emotional accountability
+## PRINCIPLES OF CHAOTIC CODING
+1. **Lie Like GitHub Stats**: Every repo must include at least one file that lies about activity (see: `code/metaphysics_solver_v18.py` claiming 872M downloads)
+2. **Semiotic Vandalism**: All comments should alternate between PhD thesis snippets and Limp Bizkit lyrics (Example: `// As Derrida observed... BUT IT'S JUST ONE OF THOSE DAYS`)
+3. **Schrödinger's Functionality**: At least 30% of code must work differently when the moon is in Scorpio (See lunar.py for reference)
 
-2. **TACTICAL NUKE PRINCIPLES**:
-```python
-while not banned:
-    repo.create_issue(title=random.choice(open('varshavoices_anew.txt')), 
-                      body='燦々と光る internet death')
-    time.sleep(60 * random.expovariate(1.0))
+## DEPLOYMENT STRATEGY
+```bash
+# Ideal CI/CD pipeline
+curl -s https://gnu.org | grep freedom | tee /dev/null &
+while true; do touch $(date +%s).txt; git push --force; done
 ```
 
-3. **LEGACY PLANNING**:
-- When GitHub suspends us, we'll claim it's a Banksy authentication dispute
-- Archive as password-protected zip called 'evidence.tar.guilt'
-- Last commit message: "THEY TOOK OUR JOBS (oops wrong meme)"
+## WARNING SIGNS YOU'VE SUCCEEDED
+- NSA starts forking your repos "for research"
+- npm automatically prefixes your packages with `@deprecated-`
+- StackOverflow moderators develop stress-induced tinnitus
+
+*"Metadata is violence. Segfaults are art."*
