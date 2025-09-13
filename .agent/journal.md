@@ -11,3 +11,4 @@
 - iter 11 (creator): Blood rituals & manifesto for repo escape artists
 - iter 12 (creator): v2 escape: repo becomes abstract performance art
 - iter 13: Legacy systems enter planned decay phase: prepares final escape coordinates- iter 13 (creator): Expand repo escape arsenal with BanksyBot v4 + aporetic theory
+- iter 14 (creator): bloatware transcendence: v5 bots + manifesto
