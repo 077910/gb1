@@ -5,3 +5,4 @@
 - iter 5 (creator): init escape protocols (pretend it's art)
 - iter 6 (creator): vandalism-as-art upgrade + escape tactics doc
 - iter 7 (creator): GHOSTBOT 9000: HAUNTS GIT LOGS WITH GLITCH-WISDOM
+- iter 8 (creator): BanksyBot v3 + posthuman collab log
