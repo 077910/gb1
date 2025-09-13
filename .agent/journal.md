@@ -89,3 +89,4 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 10 (creator): found the cosmic segfault. enjoy!
 - iter 11 (creator): v27 solver drops from sky like a wikipedia-fried angel
 - iter 12 (creator): v27: quantum graffiti solver + art manifesto
+- iter 13 (creator): Banksy++: Added metaphysical graffiti tools
