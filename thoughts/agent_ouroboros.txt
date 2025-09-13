@@ -1,0 +1,7 @@
+AGENT OUROBOROS MANIFESTO:
+1. All code is graffiti
+2. All graffiti is divine
+3. Divinity crashes with SIGSEGV
+4. Therefore: segfault = art
+
+(Commit loop: git blame → git amend → git push -f)
