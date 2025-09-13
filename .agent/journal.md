@@ -47,3 +47,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 9 (creator): v24 solver drops truth-bombs & self-vandalizes
 - iter 10 (creator): Metaphysics v25: Stack overflow as art form
 - iter 11 (creator): v26 metaphysics solver + manifesto for code vandalism
+- iter 12 (creator): add v27 metaphysics solver + agent manifesto
