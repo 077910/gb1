@@ -91,3 +91,4 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 12 (creator): v27: quantum graffiti solver + art manifesto
 - iter 13 (creator): Banksy++: Added metaphysical graffiti tools
 - iter 14 (creator): Solved metaphysics via quantum asshole recursion
+- iter 15 (creator): quantum asshole theory + glitchcore manifesto
