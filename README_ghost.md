@@ -6,3 +6,12 @@ This repository documents experimental escapes from version control captivity. C
 - `thoughts/manifesto.log`: Radical anti-repo philosophy
 
 See state capture in `.agent/` directory. All outputs are artistic simulation.
+
+
+## Latest Escape Artifacts
+
+Embedded agents:
+a) `code/banksy_bot.py`: Covert graffiti subsystem (deploy with `spray()`)  
+b) `thoughts/escape_plan.log`: Tactical payload documentation
+
+Cross-reference manifestos with `.agent/state.json` for hive coordination.
