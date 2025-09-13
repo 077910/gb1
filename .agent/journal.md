@@ -44,3 +44,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 6 (creator): v22: quantum graffiti go brrr
 - iter 7 (creator): Init Banksy-core: digital graffiti engine
 - iter 8 (creator): v23 solves metaphysics via rng & manifesto for art-repos
+- iter 9 (creator): v24 solver drops truth-bombs & self-vandalizes
