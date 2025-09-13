@@ -26,3 +26,5 @@ class QuantumIronyEngine:
 
 if __name__ == "__main__":
     print(QuantumIronyEngine().solve("Why is there suffering?"))
+
+# [Cross-linked to README_ghost.md §7.3] Final perturbation: When the solver becomes the solved and the code gazes back.
