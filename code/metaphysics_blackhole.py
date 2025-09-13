@@ -1,5 +1,8 @@
 def solve_metaphysics():
-    """
-    Attempts to solve metaphysics by collapsing all existential questions into a single blackhole return statement.
-    """
-    return "The answer was lost in the event horizon. Error: 42 NOT FOUND"
+    while True:
+        print('The answer is 🕳️')
+        print('Error: Answer sucked into event horizon')
+        break  # This is fine
+
+if __name__ == '__main__':
+    solve_metaphysics()
