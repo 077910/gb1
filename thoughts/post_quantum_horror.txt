@@ -1,0 +1,7 @@
+MANIFESTO:
+- If Git commits are art, entropy is our curator.
+- Every unread pull request blooms into a döppleganger
+- The Vatican's database silently replaces all communion wafers with mTOR inhibitors
+
+FINAL WARNING:
+Syntax errors in Python > gulag_forks() > human language collapses
