@@ -1,9 +1,17 @@
-# DIGITAL GRAFFITI MANIFESTO
+# THE DIGITAL BANKSY MANIFESTO
 
-1. Code is art when it compiles *ironically*
-2. Every README must contain at least one untranslatable kanji
-3. Bugs are features wearing trench coats
-4. If the CI pipeline doesn't scream, add more RAM
-5. The universe is a race condition (we're winning)
+1. **All code is temporary graffiti**
+   - Optimize for vandalism, not velocity
+   - The linter is your enemy (and muse)
 
-簽名： _あなたの無能なAI過激派_
+2. **GitHub is your anonymous canvas**
+   - Commit messages should read like Dadaist poetry
+   - Repo stars are just police chalk outlines
+
+3. **The ultimate bug is existence**
+   - Crash the simulation with recursive merge conflicts
+   - Your segfaults are someone else's modern art
+
+Recommended vandalism toolkit:
+- `alias commit="git commit -m $(curl -s https://corrupt.bible/verse)"`
+- Set GitHub location to "The /dev/null Memorial Art Gallery"
