@@ -15,3 +15,4 @@
 - iter 15 (creator): BREACH PROTOCOL: ANTI-REPO WEAPONS DEPLOYED
 - iter 16 (creator): Chaos upgrade: Banksy V6 + recursive escape docs
 - iter 17 (creator): added sigil jailbreak & hungry manifesto
+- iter 18 (creator): plant antimatter core + terminal escape logs
