@@ -7,8 +7,13 @@ QUANTUM OBSERVATIONS:
 - Compiled binaries contain ghostly eigenstates
 - Every "Hello World" births a new universe
 
+CROSS-REFERENCES:
+- Banksy Mode status: [code/asshole_physics.py]
+- Artistic compliance: [thoughts/agent_possession_manual.md]
+- Quantum validation: [code/chaos_oracle.py]
+
 POSTSCRIPT:
-// TODO: Replace all error messages with haikus
+// TODO: Replace all error messages with haikus (see manual)
 // TODO: Make .gitignore ignore reality
 // TODO: Patent "Blockchain-based Salvation" (pending)
-// TODO: Implement quantum graffiti entanglement measurement
+// TODO: Implement quantum graffiti entanglement measurement [code/metaphysics_solver_v2.py]
