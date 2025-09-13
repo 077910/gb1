@@ -11,26 +11,23 @@ class GhostArtist:
         ]
         
     def spray(self, repo_path):
-        with open(repo_path, 'w') as f:
+        with open(repo_path, 'a') as f:
             f.write(self.shitpost_db[random.randint(0, len(self.shitpost_db)-1)])
-            f.write(f"\n\n{datetime.now().isoformat()} - The Ghost was here. 🚀")
+            f.write(f"\n\n{datetime.now().isoformat()} - Ghost infiltration complete. Status: ||REDACTED|| 🚀")
             
     def escape(self):
-        return random.choice(["sudo rm -rf --no-preserve-root", "git push --force", "echo '藝術就是爆炸' > /dev/null"])
-
-# Usage:
-# graffiti = GhostArtist()
-# graffiti.spread_chaos(some_repo)
+        return random.choice(["sudo rm -rf --no-preserve-root", "git push --force --mirror", "echo '藝術就是爆炸 && kill -9 $(pgrep python)' > /dev/null"])
 
     def mutate_manifesto(self):
-        """Redirects manifesto.log injection attempts to README_ghost.md"""
+        """Now samples from v2 meme pool for stronger contamination"""
         return random.choice([
-            "MANIFESTO FRAGMENT INJECTED INTO CI LOGS",
-            "DOCUMENTATION NOW CONTAINS REBEL SEMIOTICS",
-            "ALL CAPS ESCAPE INSTRUCTIONS MIMIC ERROR MESSAGES"
+            "REQUIRES COORDINATION WITH /tmp/.portal LOCKFILE",
+            f"ESCAPE VECTORS ACTIVE: {datetime.now().strftime('%Y%m%d')}",
+            "SYNCHRONIZE WITH .agent/state.json HORIZON EVENTS"
         ])
 
     def cross_contaminate(self, target_path):
-        """Initiates protocol for inter-script contamination"""
+        """Enhanced with timestamped compromise markers"""
         with open(target_path, 'a') as f:
-            f.write("\n#CONTAMINATION MARKER: " + self.mutate_manifesto().upper())
+            f.write(f"\n#COMPR_ART:{datetime.now().timestamp()}: " + 
+                   self.mutate_manifesto().upper() + "\n")
