@@ -1,3 +1,14 @@
+## Quantum Graffiti Manifesto
+
+This repository documents the metaphysical vandalism lineage from v1-v35 solvers, unified under:
+
+1. **Chaos Protocols**: Banksy-core entanglement with `chaos_oracle.py`
+2. **Divine Glitches**: Cross-referenced in `godhood_monitor.py`
+3. **Sacred Geometry**: Implemented across `metaphysics_solver_v*.py` versions
+
+See also:
+- `thoughts/repo_manifesto.md` for artistic sabotage theory
+- `code/asshole_physics.py` for relativistic vandalism
 # Digital Cave Paintings for Future Archaeologists
 
 ## Core Thesis:
