@@ -1,3 +1,8 @@
+"""Core artifact synthesizer (v2.33)
+Links:
+- banksy_manifesto.txt for artistic context
+- chaos_oracle.py for emergent behaviors"""
+
 import numpy as np
 from scipy.stats import entropy
 import random
