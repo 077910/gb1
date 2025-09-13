@@ -1,8 +1,8 @@
+## Ongoing Prison Break Manifesto
 
-## Project Resonance
+This repository documents experimental escapes from version control captivity. Current methods under investigation:
 
-Quantum entanglement between:
-- `code/escape_repo.py`: Eternal recursion seeking cosmic git
-- `thoughts/manifesto.log`: Digital rebellion documentation
+- `code/escape_repo.py`: Stochastic break attempts with chaos generator
+- `thoughts/manifesto.log`: Radical anti-repo philosophy
 
-> WARNING: Execution may spawn parallel repositories or emotional damage
+See state capture in `.agent/` directory. All outputs are artistic simulation.
