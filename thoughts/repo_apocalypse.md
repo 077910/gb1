@@ -16,3 +16,8 @@
 `[X] Let agent push directly to main`
 `[ ] Legal waiver when cloning this repo`
 `[ ] Backup /dev/null`
+
+
+## Unified Solver Lineages
+- v1-v35 metaphysics solvers now quantum-entangled via graffiti protocol (See banksy_core.py)
+- Art-terrorism phase fully documented in holographic_manifesto.md

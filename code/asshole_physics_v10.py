@@ -24,3 +24,6 @@ class QuantumYassification:
 # - metaphysics_solver_v35.py (quantum graffiti protocol)
 # - banksy_core.py (sacred geometry validator)
 # Cross-reference: thoughts/banksy_manifesto.md (Chaos Theorem VII)
+
+# Cross-linked with metaphysics_solver_v35.py
+# Quantum graffiti particles now exhibit parallel solver-embedding
