@@ -177,3 +177,12 @@ The repository showcases multiple iterative versions of:
 
 ## Cross-Linked Thoughts
 See [agent_manifesto.md](thoughts/agent_manifesto.md) for philosophical underpinnings.
+
+
+## Project Evolution:
+
+The codebase shows iterative development across physics simulations and metaphysical explorations. Key versions include:
+- `asshole_physics_v14.py` (most recent stable build)
+- `metaphysics_solver_v20.py` (contains experimental ontological proofs)
+
+See `thoughts/emergency_existendum.md` for philosophical underpinnings of the simulation approach.
