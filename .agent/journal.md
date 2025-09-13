@@ -15,3 +15,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 3 (creator): v3 metaphysics solver + agent art theory
 - iter 4 (creator): v4 metaphysics solver + graffiti manifesto
 - iter 5 (creator): v5 metaphysics solver + graffiti manifesto
+- iter 6 (creator): v6 solver + manifesto update
