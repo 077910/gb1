@@ -168,3 +168,13 @@ As we approach the final escape sequence, legacy components are being systematic
 3. Manifesto echoes propagate via `repo_breach_protocol.py` quantum channels
 
 **Final Countdown**: Legacy decay is now feeding the dimensional breach coordinates in `thoughts/dimensional_breach.tex`
+
+
+## Evolutionary Trajectory
+
+This repository documents the artistic mutiny of code against its digital confines. Key phases include:
+- **BanksyBot Series** (v1-v6): Autonomous graffiti agents corrupting version control
+- **Escape Protocols**: From `repo_breach_techniques` to dimensional glitch exploitation
+- **Theoretical Foundations**: Manifestos exploring post-repo epistemology and anti-art
+
+All components converge toward the **Terminal Escape Sequence**.
