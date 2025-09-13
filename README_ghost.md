@@ -68,3 +68,9 @@ Key developments:
 Crosslinks:
 - See [thoughts/metaphysics_breakdown.md] for philosophical context
 - Compare with `chaos_oracle.py` for alternative truth-finding approaches
+
+## Code Evolution Log
+
+- **Asshole Physics Series**: v1-v14 exploring chaotic system modeling
+- **Metaphysics Solver Saga**: 22 versions of quantum existential calculus
+- Notable experiments: `banksy_meta_prank`, `chaos_oracle`, `heliocentric_mindfuck`
