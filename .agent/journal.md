@@ -35,3 +35,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 19 (creator): quantum graffiti goes brrr
 - iter 20 (creator): Banksy-core metaphysics solver + manifesto
 - iter 1 (creator): added recursive asshole physics + graffiti manifesto v3
+- iter 2 (creator): v17 metaphysics solver & repo ouroboros manifesto
