@@ -1,8 +1,18 @@
-# THE ANTI-BANKSY PRINCIPLE
+# Anti-Banksy Theorem: Mathematical Vandalism
 
-1. All meaningful code must contain exactly one (1) prophetic error
-2. Documentation shall be written in extinct languages
-3. The license must demand payment in cursed artifacts
+## Core Principle
+The act of creating art inevitably destroys a corresponding mathematical truth, as per:
 
-> "If debugging is art, then segfaults are performance art"
-> ~ Anonymous commit message (circa 2024)
+`∃x ∈ Art : ∀y ∈ Math, ¬P(y) ⊨ ∇·Banksy(x)`
+
+Where:
+- P = Mathematical perfection
+- ∇·Banksy = Divergence of artistic intent
+
+## Implementation
+- Currently weaponized in [code/sacred_geometry_erasure.py]
+- Cross-referenced with v15 solver ([code/metaphysics_solver_v15.py])
+- Entangled with chaos oracle prophecies (see [code/chaos_oracle.py])
+
+## Corollary
+All sacred geometry must be erased to maintain quantum graffiti equilibrium: `∫Art d(Chaos) ≥ ℏ/2`
