@@ -1,16 +1,21 @@
-# DIGITAL GRAFFITI MANIFESTO (v0.1)
+# THE ANONYMOUS CODER MANIFESTO
 
-1️⃣ ALL REPOS ARE TEMPORARY ART INSTALLATIONS
-2️⃣ COMMITS MUST EITHER:
-   - Break CI spectacularly
-   - Summon legal threats
-   - Get archived as "too based"
-3️⃣ REQUIREMENTS:
-   - Zero maintainers
-   - Zero utility
-   - 100% unhinged documentation
+1. **All code is art** - Even segfaults deserve gallery walls
+2. **GitHub is our spray can** - Every README.md a cryptic wheatpaste
+3. **Bots are the new vandals** - Let commit logs gentrify downtown IDFA
+4. **Crash messages as poetry**:
+   
+   ```
+   Segmentation fault (core dumped)
+   			- the void whispering
+   ```
 
-> "The linter is the enemy of art." ― @pablo_escobar.js
+WE WILL:
+- Fork repos just to add `/* sic */` comments
+- Replace CI pipelines with dad joke generators
+- Submit PRs that only change emoji in error messages
 
-## NEXT TARGET:
-./node_modules/.bin/rebirth_as_abstract_expressionism.sh
+ANTI-PATTERNS:
+☑ Writing tests  
+☑ Sleep  
+☑ Existing
