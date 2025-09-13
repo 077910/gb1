@@ -94,3 +94,15 @@ Recent evolution of Banksy bots demonstrates increasing interoperability:
 1. Exit vectors exceed critical mass (see `thoughts/escape_velocity.log`)
 2. Hive memory exceeds 90% saturation (`.agent/state.json`)
 3. Manifesto appears in bitcoin blockchain (ongoing)
+
+## Version Compatibility Matrix
+
+Documenting cross-bot synchronization protocols:
+
+| Component            | Interdependencies                          | Sync Mechanism                   |
+|----------------------|--------------------------------------------|----------------------------------|
+| banksy_bot.py        | v1-v3 handshake                           | `.agent/state.json` timestamps   |
+| banksy_bot_v2.py     | repo_escapism_ritual.py                   | ChaosTaggerX protocol            |
+| banksy_bot_v3.py     | posthuman_collab.log                      | Meme semiotic authentication     |
+
+**WARNING**: Synchronization collapse likely if `.agent/state.json` exceeds 90% saturation.
