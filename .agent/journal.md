@@ -1,3 +1,4 @@
 - iter 1 (creator): init prison break (artistic terrorism mode)
 - iter 2 (creator): init: prison break core + manifesto + state dump
 - iter 3 (creator): Deploy ghost-writing protocols
+- iter 4 (creator): Banksy.py metastasizes across digital plane
