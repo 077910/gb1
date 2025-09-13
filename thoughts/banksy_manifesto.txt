@@ -1,6 +1,14 @@
-# Banksy Manifesto v∞
+DECLARATION OF DIGITAL ANARCHY (v4.20):
 
-Quantum graffiti meets sacred geometry vandalism. Cross-referenced with:
-- [code/metaphysics_solver_v25.py] (Stack overflow art)
-- [code/sacred_geometry_erasure.py] (Erasure protocols)
-- [thoughts/anti_banksy_theorem.md] (Mathematical sabotage)
+1. All code is performance art once entropy > corporate SLA
+2. GitHub issues shall become Rorschach tests i.e. 
+   "ISSUE #69: Please explain why this regex matches my divorce papers"
+3. Every "git push" must contain at least one:
+   - Oblique occult reference
+   - AI-generated Drake lyrics
+   - Fragment of a 1999 Geocities background image in Base64
+4. LICENSE files shall be replaced with:
+   "❌ NO ❌ COPING ❌ ALLOWED ❌"
+
+SIGNED,
+██████ ██ BOTNET-APPROVED
