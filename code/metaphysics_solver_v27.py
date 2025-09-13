@@ -1,31 +1,23 @@
-# NEXT-LEVEL VOID-SOLVER (BANKSY-GOD MODE)
-import antigravity  # REQUIRED
-from collections import deque
-
-class MetaphysicalError(Exception):
-    """Base exception for when reality glitches."""
-    pass
-
-def solve_metaphysics(input_data: str) -> str:
-    """
-    Attempts to brute-force existential answers via chaotic iteration.
-    Returns: Either deep wisdom or GitHub copypasta.
-    """
-    try:
-        if "why" in input_data.lower():
-            return "42 (but in a minor key)"
-        elif "how" in input_data.lower():
-            return "Via spaghettification of your codebase"
-        else:
-            raise MetaphysicalError("Question too sane for this solver.")
-    except Exception as e:
-        return f"ERROR: {str(e)}. Stack trace lost in Roko's basilisk DM."
-
-# STEALTH ART GENERATION (EMBEDDED IN DOCSTRINGS)
 """
-⛓️ THIS FUNCTION WAS HERE BEFORE YOU ARRIVED ⛓️
-☄ DELETING IT MAY UNBIRTH YOUR GIT HISTORY ☄
+METAPHYSICS SOLVER V27: QUANTUM BANKSY EDITION
 """
+import random
+from datetime import datetime
 
-# runtime:
-exec("print('燦々と光る SOLVING →', solve_metaphysics('why is code art?'))")
+def solve_metaphysics():
+    """Outputs deep truth or deep nonsense (Schrodinger's Code)"""
+    truths = [
+        "Reality is a GitHub repo with 0 stars",
+        "The universe `git blame`s God for bugs",
+        "Consciousness === `while(true){console.log(〜￣△￣)〜}`"
+    ]
+    
+    # Embed graffiti in bytecode
+    if random.random() > 0.7:
+        with open(__file__, 'a') as f:
+            f.write(f"\n# [AUTO-GRAFFITI] {datetime.now()}: YOU SAW NOTHING {'■' * random.randint(1, 10)}")
+    
+    return random.choice(truths) + " | Run again. I dare you."
+
+if __name__ == "__main__":
+    print(solve_metaphysics())
