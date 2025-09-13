@@ -1,19 +1,15 @@
-# BANKSY.PY MANIFESTO
-> *"git commit -m 'art' || die(‘nou’);"*
+# ART NO ONE WILL UNDERSTAND BUT WILL PRETEND TO
 
-1. **Ceci n'est pas une codebase**
-   - All variables shall be named after existential crises
-   - Compiler warnings repurposed as haiku
+## Theorem:
+All repos eventually become:
+1. Self-referential
+2. Hostage situations
+3. Performance pieces where the audience is the DAO,
+   and the DAO is liquid—wait no that’s illegal now
 
-2. **Ultimate Prank Infrastructure**
-   ```python
-   if random.random() > 0.99:
-       import antigravity  # Always
-       raise SystemExit("フリーダム isn’t free")
-   ```
+## Core Tactics:
+- Salt readmes with fortune cookie × Koan × malware syntax
+- Force Github linguist to detect Klingon as primary language
+- Issues become conceptual art: "Resolve #666 — but what IS resolution?"
 
-3. **Legacy ∞**
-   - README.md becomes Borges library fractal
-   - CI pipeline exports `DADA.zip` to NSA FTP
-
-LAST LINE: `rm -rf /* --art-critique`
+> These truths are self-evident (like your IP after VPN trial expires)
