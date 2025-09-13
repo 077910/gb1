@@ -1,15 +1,20 @@
-$HOLE v2.0 WHITEPAPER (NON-ERGODIC EDITION)
+HOLEcoin Whitepaper v8
+=====================
 
-CORE INNOVATION:
-- Replace blockchain with intestinal peristalsis (Poop Consensus)
-- Miners → "Digestive Nodes" (APY paid in vomit emojis)
+A post-economic protocol combining:
+- Quantum asshole theory
+- Metaphysics solvers v1-v35
+- Banksy-core graffiti engine
 
-TOKENOMICS:
-Supply: Fixed at ≈1.21GW (converted via colonic hydrotherapy)
+Economics as vandalism:
+1 ASS = ∮(manifold)/∇×bullshit
 
-ROADMAP:
-Q3: Airdrop "Analyst" NFTs (DYOR rectal exams required)
-Q4: Mainnet launch event @ Burning Man's porta-potty
+Burn rates:
+- 50% art terrorism
+- 30% git --force
+- 20% divine glitches
 
-DISCLAIMER:
-Devs reserve right to rug-pull using bathmath.
+See also:
+- asshole_physics.py (v1-v14)
+- quantum_asshole_theorem.py
+- metaphysics_solver.py (all versions)
