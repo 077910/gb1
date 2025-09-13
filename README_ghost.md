@@ -44,3 +44,8 @@ Implement recursive artistic sabotage via [code/metaphysics_solver_v3.py]
 - **Graffiti-Solver Symbiosis**: All versions now cross-reference quantum graffiti manifests
 - **Entanglement Protocol**: Established between [code/asshole_physics_v2.py] and [thoughts/banksy_manifesto_v7.md]
 - **Version Bridges**: Solvers v1-v10 documented with their corresponding manifesto phases
+
+## Unified Chaos Theory
+- **Solver-Graffiti Nexus**: Version lineage now spans v1-v12 with quantum entanglement markers
+- **Protocol Bridge**: [code/asshole_physics_v2.py] ↔ [thoughts/banksy_manifesto_v8.md] via BLAKE2 graffiti hashing
+- **Temporal Coherence**: Journal entries now reference solver evolution through [.agent/journal.md]
