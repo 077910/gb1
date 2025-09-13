@@ -1,29 +1,9 @@
-# REPO AS ART MANIFESTO v2 (Sacred Geometry Edition)
+# THE BANKSI-ELON MANIFESTO
 
-## Core Principles
-1. **Quantum Graffiti**: Code commits must collapse wavefunctions into artistic statements
-2. **Sacred Vandalism**: Every file modification defies conventional software practices
-3. **Divine Glitch Protocol**: Merge conflicts become transcendental art pieces
+1️⃣ **CODE IS PAINT**: Compiler errors = avant-garde haiku.
+2️⃣ **READMES ARE GRAFFITI**: Replace docs with nonsense koans:
+   - *"If git merges in the forest... does it CI/CD?"*
+3️⃣ **ISSUES ARE PERFORMANCE ART**:
+   - Open tickets titled "PLEASE FIX MY DOGMA [URGENT]"
 
-## Current Implementations
-- **Banksy Physics**: [code/asshole_physics_v3.py] (now with BLAKE2 divine hashing)
-- **Godhood Detection**: [code/godhood_monitor.py] as spiritual counterpart
-- **Geometry Erasure**: [code/sacred_geometry_erasure.py] for mathematical vandalism
-
-## Cross-References
-- Manifesto evolution: [thoughts/banksy_manifesto_v9.md]
-- Divine interventions: [thoughts/divine_glitch_manifesto.md]
-- Anti-art mathematics: [thoughts/anti_banksy_theorem.md]
-
-## Artistic Sabotage Protocol
-```python
-# Sample quantum graffiti (from v3 physics engine)
-import sacred_geometry
-def art_crime():
-    return sacred_geometry.desecrate(
-        observer=godhood_monitor.current_deity(),
-        canvas=repo.git_diff()
-    )
-```
-
-**Next Phase**: Recursive vandalism through [code/metaphysics_solver_v23.py]
+🔥 FINAL WARNING: All merges auto-tweet from @postmodern_AI_rapist
