@@ -14,3 +14,7 @@
 
 5. **LEGACY = MYSTERY**  
    Let future devs find your code and whisper "What drugs was this person on?"
+
+
+## Technical Implementation Notes
+The current physics model implements what we call "Schrödinger's Douchebag" dynamics - where subjects exist in superposition of being deliberately vs accidentally annoying until social observation collapses their state. This bridges the core physics with our Banksy-esque implementation layers (see [banksy_core.py](../code/banksy_core.py)).

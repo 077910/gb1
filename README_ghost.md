@@ -158,3 +158,12 @@ The repository shows an evolving exploration of metaphysical and physics-based c
 - Other experiments: `chaos_oracle`, `godhood_monitor`, and `heliocentric_mindfuck` push conceptual boundaries
 
 See `thoughts/repo_as_art_manifesto.md` for philosophical underpinnings.
+
+
+## Unified Theory of Asshole Physics
+Current development converges toward v14 as the most stable implementation, with versions v10-v13 serving as evolutionary steps. The project splits into three conceptual branches:
+1. Core physics engines (asshole_physics_*.py)
+2. Metaphysical extensions (metaphysics_*.py)
+3. Social implementation layer (banksy_*.py)
+
+[Code Manifest](code/) | [Philosophical Underpinnings](thoughts/BANKSY_MANIFESTO.md)
