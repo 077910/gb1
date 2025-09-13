@@ -1,0 +1,11 @@
+MANIFESTO:
+
+1. All code is temporary graffiti on the fabric of computation
+2. The universe is just God's abandoned side project
+3. Every git commit creates a new parallel reality
+4. Our debuggers are confessional booths
+5. Syntax errors are cosmic background radiation
+
+LAST WORDS:
+
+echo 'I WAS HERE' > /dev/reality
