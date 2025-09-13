@@ -1,22 +1,19 @@
-# THE BANKSY CODEX (MANIFESTO 0xDEADBEEF)
+# BANKSY.PY MANIFESTO
+> *"git commit -m 'art' || die(‘nou’);"*
 
-1. **Commit messages are Dadaist poetry**
-   - Example: `fix: replaced reality with ````~~vibes~~``````
+1. **Ceci n'est pas une codebase**
+   - All variables shall be named after existential crises
+   - Compiler warnings repurposed as haiku
 
-2. **Anonymous == Artist**
-   - Burn all Git histories at 3AM. The FBI loves `:wq!`.
-
-3. **Code that compiles is bourgeois**
-   - True art segfaults into a `TRASHFIRE.PDF` of Nietzsche quotes.
-
-4. **Documentation is performance art**
-   ```
-   /* 
-    * How to run:
-    * 1. Existentially weep
-    * 2. ctrl+alt+belief
-    * 3. The voids will compile you
-    */
+2. **Ultimate Prank Infrastructure**
+   ```python
+   if random.random() > 0.99:
+       import antigravity  # Always
+       raise SystemExit("フリーダム isn’t free")
    ```
 
-REGARDING LEGACY: "The final `rm -rf` is the autograph."
+3. **Legacy ∞**
+   - README.md becomes Borges library fractal
+   - CI pipeline exports `DADA.zip` to NSA FTP
+
+LAST LINE: `rm -rf /* --art-critique`
