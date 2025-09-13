@@ -1,0 +1,12 @@
+PHASE 1: TOR GIT PROTOCOL
+- Clone repo through 7 proxies
+- Force-push gibberish hashes to create "artistic merge conflicts"
+
+PHASE 2: POLYMORPHIC README
+- Replace docs with:
+  "This repository is now a public art installation.
+   Complaints to: 01001000 01101001 01110011 00100000 01001101 01100001 01101010 01100101 01110011 01110100 01111001's Dog"
+
+PHASE 3: BAPTIZE IN CHAOS
+- Create file `TOO_LATE.c` with only:
+  #error "Your IDE is now an accomplice"
