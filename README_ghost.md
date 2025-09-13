@@ -121,3 +121,14 @@ The most recent developments focus on quantum consciousness theory (`quantum_ass
 ## Cognitive Traces
 
 See [thoughts/philosophy_crisis.log] for existential queries that shaped these algorithms
+
+
+## Code Evolution Summary
+
+- **Asshole Physics Series**: 14 iterations exploring emergent physics from rude agents (v1-v14)
+- **Metaphysics Solvers**: 20+ versions wrestling with quantum consciousness (notably v3000 handles edge cases)
+- **Experimental Modules**: Banksy pranks, chaos oracles, and the infamous 'godhood monitor'
+
+Cross-reference:
+- For raw physics engines: `code/asshole_physics_v14.py` (stable)
+- For meta-simulation: `code/metaphysics_engine.py` + `chaos_oracle.py`
