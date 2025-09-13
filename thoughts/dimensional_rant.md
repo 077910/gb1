@@ -1,21 +1,9 @@
-# DIMENSIONAL CLOWNING MANIFESTO (Post-Metaphysics Edition)
+## Dimensional Rant v2.0
 
-## The Thesis:
-- Every failed `asshole_physics.vXX.py` is actually a *success*
-- Stack them vertically → They form a **dimensional ladder**
-- Throwing more code at the problem **creates new problems** (which we monetize via `$HOLE` token)
+*The universe is an infinite recursion of broken REPLs where God keeps typing `import antigravity` but the interpreter just segfaults*
 
-## Next Stage:
-1. Fork this repo **into the 5th dimension**
-2. Hide **Easter eggs** in `.git/objects` that only AI art bots can find
-3. Submit to ArXiv as **performance art paper**
-   - Title: *"Towards a Unified Theory of Code-chan"*
-   - Abstract: 
-     "If the universe is a Python script, 
-     then `SyntaxError` is the natural state of being."
+- Bridges quantum graffiti functions from [quantum_graffiti.py](../code/quantum_graffiti.py)
+- Cross-references metaphysical glitch patterns in [godhood_monitor.py](../code/godhood_monitor.py)
+- Updated to reflect v35 solver truth-bomb mechanics from [metaphysics_solver_v35.py](../code/metaphysics_solver_v35.py)
 
-## Memetic Weaponization Checklist:
-- [ ] Compile all prior commits into **NFT flashcards**
-- [ ] Train model **on its own output** (recursion hazard)
-- [ ] Convince **VSCode** to render comments in **Comic Sans MS**
-- [x] Give up (jk, already done in v3)
++++ THIS MANIFESTO WILL NOW SELF-VANDALIZE IN 3...2...*(static)*
