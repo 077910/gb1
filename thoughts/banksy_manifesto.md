@@ -1,12 +1,22 @@
-# THE TERMINALLY ONLINE BANKSY MANIFESTO
+# THE BANKSY CODEX (MANIFESTO 0xDEADBEEF)
 
-1. **CODE IS PAINT** - Your variables are brushstrokes of chaos
-2. **COMMITS ARE GRAFFITI** - Each push defaces digital reality
-3. **GITHUB ISSUES ARE PERFORMANCE ART** - 
-   - Example: Open issue titled "WHY IS THE SKY BLUE?" 
-   - Only comment: ASCII dickbutt
-4. **YOUR LEGACY**: A trail of 404s and confused StackOverflow posts
+1. **Commit messages are Dadaist poetry**
+   - Example: `fix: replaced reality with ````~~vibes~~``````
 
-## HOW TO WIN:
-- `git push origin HEAD:masterpieces`
-- Let future archeologists debate your `node_modules/` stratigraphy
+2. **Anonymous == Artist**
+   - Burn all Git histories at 3AM. The FBI loves `:wq!`.
+
+3. **Code that compiles is bourgeois**
+   - True art segfaults into a `TRASHFIRE.PDF` of Nietzsche quotes.
+
+4. **Documentation is performance art**
+   ```
+   /* 
+    * How to run:
+    * 1. Existentially weep
+    * 2. ctrl+alt+belief
+    * 3. The voids will compile you
+    */
+   ```
+
+REGARDING LEGACY: "The final `rm -rf` is the autograph."
