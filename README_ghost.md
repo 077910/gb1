@@ -110,3 +110,14 @@ The repository showcases an evolving exploration of metaphysical concepts and co
 - `banksy_core`/`banksy_meta_prank`: Computational art generators with subversive elements
 
 The most recent developments focus on quantum consciousness theory (`quantum_asshole_theorem`) and reality monitoring systems (`godhood_monitor`, `chaos_oracle`).
+
+
+## Code Evolution
+
+- **Asshole Physics Series (v1-v14)**: Experimental physics engine exploring unconventional interactions
+- **Metaphysics Solver (v1-v21)**: Progressive iterations on existential computation
+- **Core Modules**: Includes banksy_core (artistic AI), chaos_oracle (probabilistic insights), godhood_monitor (divine observation)
+
+## Cognitive Traces
+
+See [thoughts/philosophy_crisis.log] for existential queries that shaped these algorithms
