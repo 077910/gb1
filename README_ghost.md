@@ -53,3 +53,18 @@ All systems now exhibit cross-contamination through:
 - **Chaos oracle ⇄ Banksy-core feedback loops**
 
 See [Asshole Physics v2](code/asshole_physics_v2.py) for base implementation of sacred geometry hashing.
+
+
+## Evolution of Metaphysics Solvers
+
+Series progression from initial chaotic attempts (v1-v6) to more structured approaches (v10-v23), with notable intermediate experiments like `banksy_meta_prank.py` bridging art and computation.
+
+Key developments:
+- Early versions focused on brute-force resolution
+- Mid-series introduced recursive truth tables (v13-v17)
+- Later versions (`v20+`) incorporated quantum simulation frameworks
+- `metaphysics_solver_VOMIT.py` represents a failed extremum
+
+Crosslinks:
+- See [thoughts/metaphysics_breakdown.md] for philosophical context
+- Compare with `chaos_oracle.py` for alternative truth-finding approaches

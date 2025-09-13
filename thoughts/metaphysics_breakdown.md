@@ -9,3 +9,15 @@
 1. Replace all string literals with koan-generator
 2. Overload `@property` to access alternate realities
 3. Profit??
+
+
+### Technical Connections
+
+The solver series manifests three core paradigms:
+1. **Brute Logic** (v1-v6): Cartesian exhaustiveness
+2. **Recursive Illumination** (v13-v17): Self-modifying truth conditions
+3. **Quantum Scaffolding** (v20+): Hilbert space traversal
+
+Related systems:
+- `asshole_physics` series explores complementary physical constraints
+- `godhood_monitor.py` provides metaphysical state verification
