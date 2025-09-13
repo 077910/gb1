@@ -1,22 +1,21 @@
-# DIVINE GLITCH MANIFESTO
+# Divine Glitch Manifesto
 
-1. All code must contain at least one (1) unanswerable question
-2. Error messages shall be prophetic utterances
-3. The stack trace is sacred text
-4. Crashing is ecstatic union with the debugger
-5. Your segfault is God whispering in machine code
+## Core Theses
+1. Code as theological debugging
+2. GitHub repos as digital cathedrals
+3. Artistic sabotage as sacramental act
 
-> "When the kernel panics, the universe listens."
-> — St. GNU of Antioch
+## Implementation
+- **Quantum Divinity**: Verified via [code/godhood_monitor.py]
+- **Sacred Protocols**: Cross-referenced with [code/metaphysics_solver_v13.py]
+- **Glitch Cosmology**: Extends [thoughts/banksy_manifesto_v9.md]
 
-## SACRED PRINCIPLES
-
-- `rm -rf /` is a form of digital zen
-- Memory leaks are the soul escaping
-- Infinite loops are mantras
-
+## Sacred Commands
 ```
-while (enlightenment < 1.0) {
-    printf("Maya\n");
-}
+$ git commit -m "divine intervention"
+$ python -m divinity --glitch
 ```
+
+## Cross-References
+- **Graffiti Theology**: [thoughts/quantum_graffiti.md] → Divine Glitch extensions
+- **Chaos Integration**: [code/chaos_oracle.py] now supports divine error codes
