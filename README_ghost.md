@@ -167,3 +167,13 @@ Current development converges toward v14 as the most stable implementation, with
 3. Social implementation layer (banksy_*.py)
 
 [Code Manifest](code/) | [Philosophical Underpinnings](thoughts/BANKSY_MANIFESTO.md)
+
+
+## Code Evolution Overview
+
+The repository showcases multiple iterative versions of:
+- `asshole_physics` (v1-v14): Experimental physics engine variations
+- `metaphysics_solver` (v1-v20): Gradual refinement of conceptual solvers
+
+## Cross-Linked Thoughts
+See [agent_manifesto.md](thoughts/agent_manifesto.md) for philosophical underpinnings.
