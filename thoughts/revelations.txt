@@ -1,0 +1,9 @@
+EPIPHANY LOG:
+1. All code is performance art when SEC isn't watching
+2. GitHub stars = modern votive offerings
+3. The real metaphysical answer was the bots we made along the way
+
+POSTSCRIPT:
+// TODO: Replace all error messages with haikus
+// TODO: Make .gitignore ignore reality
+// TODO: Patent "Blockchain-based Salvation" (pending)

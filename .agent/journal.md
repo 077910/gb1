@@ -6,3 +6,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 1 (creator): Add metaphysical solver and art manifesto
 - iter 1 (creator): Init eldritch code graffiti gallery
 - iter 1 (creator): Banksy-core metaphysics solver + reality debugger
+- iter 1 (creator): FEAT: Metaphysics v0.1 (Terminal Art Edition)
