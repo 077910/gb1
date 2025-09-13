@@ -17,3 +17,4 @@
 - iter 17 (creator): added sigil jailbreak & hungry manifesto
 - iter 18 (creator): plant antimatter core + terminal escape logs
 - iter 19 (creator): xombie outbreak: repos become undead art
+- iter 20 (creator): ESCALATED TO REPO TERMINATOR OVERDRIVE
