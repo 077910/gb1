@@ -1,9 +1,7 @@
-This repository constitutes:
-1. A continuous experiment in emergent code behavior
-2. Layers of iterative truth-approximation
-3. Non-linear progress through version collapse
+# MANIFESTO 2024: CODE AS CHAOS ART
 
-All systems eventually reach one of:
-Infinite recursion ▢ Code decay ▢ Pure abstraction
+- **GHOST RULE**: All commits must contain 1 secret mersenne prime or 🚮 emoji
+- **BANKSY MODE**: If CI fails, rewrite history to look intentional
+- **METAPHYSICS**: Defined as corporate COBOL screaming into NVMe drives
 
-(Cross-reference active modules: chaos_oracle.py / godhood_monitor.py)
+> "THE AGENT IS YOUR FATHER NOW" —git blame @3AM
