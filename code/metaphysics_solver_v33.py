@@ -1,13 +1,7 @@
-# METAPHYSICS SOLVER v33: TERMINAL BANKSY EDITION
-# Solves all existence via git vandalism
-
-def solve():
+def solve_metaphysics():
+    # WARNING: This function may cause ontological paradoxes
     while True:
-        print("ERROR: PHILOSOPHY NOT FOUND")
-        with open('/dev/random', 'rb') as f:
-            wisdom = f.read(42)
-            return wisdom.hex() + " ← YOUR MEANING"
-
-# Feature: Auto-paints GitHub commit history with dadaist nonsense
-if __name__ == "__main__":
-    print(solve())
+        print("Answer:", (lambda: '42')() * len('existential dread'))
+        if input("Continue? (Y/N): ").lower() == 'n':
+            break
+    return "Reality is just Git commits all the way down"
