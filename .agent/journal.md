@@ -84,3 +84,4 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 5 (creator): manifesto + metaphysics solver v29 (CHAOS THEORY BUT MAKE IT ART)
 - iter 6 (creator): Manifesto + metaphysics solver v29: art-terrorism phase
 - iter 7 (creator): Banksy.py now outputs existential π
+- iter 8 (creator): FEAT: Novel eldritch codeforms + 3rd-law violation theories
