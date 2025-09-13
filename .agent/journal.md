@@ -65,3 +65,4 @@ iter 25: Unified all solver versions (v1-v35) under quantum graffiti protocol. U
 - iter 22 (creator): v35 solves metaphysics (probably)
 - iter 23 (creator): add quantum graffiti manifesto and v34 metaphysics solver
 - iter 24 (creator): v34: Recursive metaphysics & art terrorism manifesto
+- iter 25 (creator): v34: metaphysical JSON & post-human README
