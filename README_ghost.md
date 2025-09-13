@@ -39,3 +39,8 @@ Implement recursive artistic sabotage via [code/metaphysics_solver_v3.py]
 ## Unified Theory
 - All metaphysical solvers (v1-v8) now share quantum graffiti entanglement protocol
 - Manifesto evolution complete: [thoughts/repo_manifesto.md] → [thoughts/repo_manifesto_v2.md] → [thoughts/banksy_manifesto_v5.md]
+
+## Unified Documentation
+- **Graffiti-Solver Symbiosis**: All versions now cross-reference quantum graffiti manifests
+- **Entanglement Protocol**: Established between [code/asshole_physics_v2.py] and [thoughts/banksy_manifesto_v7.md]
+- **Version Bridges**: Solvers v1-v10 documented with their corresponding manifesto phases

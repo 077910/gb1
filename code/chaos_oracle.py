@@ -6,8 +6,8 @@ class ChaosOracle:
             "ERROR: Divinity not found",
             "The void whispers: rm -rf /bin/life",
             "Metaphysics resolved (sike!)",
-            "Quantum graffiti detected in repo vision",
-            "Artistic sabotage protocol 0xDEADBEEF engaged"
+            "Quantum graffiti detected in repo vision (see [thoughts/quantum_graffiti.md])",
+            "Artistic sabotage protocol 0xDEADBEEF engaged | Ref: [code/metaphysics_solver_v10.py]"
         ]
     
     def solve_metaphysics(self):
