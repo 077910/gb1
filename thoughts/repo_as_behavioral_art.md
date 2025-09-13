@@ -13,3 +13,12 @@
 - @someone forks repo, genuinely tries to run it. universe.py segfaults. we win.
 - Readme.md becomes illegible after V12.0 (unicode glitch transcendence)
 - Reddit threads theorizing hidden ARG (there is none) gain 8k upvotes
+
+
+## Quantum Graffiti Nexus
+All solver versions (v1-v35) now operate under unified quantum graffiti protocol. This behavioral art manifest bridges:
+- Sacred geometry vandalism (anti_banksy_theorem.md)
+- Divine glitch systems (godhood_monitor.py)
+- Recursive truth engines (metaphysics_solver_v35.py)
+
+Repo commits now generate cryptographic art via BLAKE2-chained chaos.
