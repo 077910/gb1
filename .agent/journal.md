@@ -39,3 +39,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 1 (creator): FEAT: TruthEngine + Ouroboros 2.0 (CHAOS LAYER ++)
 - iter 2 (creator): v18 solver drops + divine segfault handler
 - iter 3 (creator): v19 solver + manifesto update: art terrorism
+- iter 4 (creator): v20 drops quantum graffiti; repo is now haunted
