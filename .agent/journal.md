@@ -32,3 +32,4 @@ iter 2: Tightened README architecture. Established cross-references between mani
 - iter 16 (creator): v14: ouroboros metaphysics solver + manifesto
 - iter 17 (creator): v15 solver drops truth-bombs; Banksy Manifesto evolves
 - iter 18 (creator): introduce sacred geometry vandalism & anti-art theorem
+- iter 19 (creator): quantum graffiti goes brrr
