@@ -11,3 +11,10 @@
 
 ## Conclusion:
 The universe is someone's garbage `node_modules` folder.
+
+
+## Cross-References
+
+- See [Metaphysical Vandalism](./metaphysical_vandalism.md) for artistic framing
+- Compare with [Quantum Graffiti](./quantum_graffiti.md) for dimensional analysis
+- The [Banksy Core](./code/banksy_core.py) implementation demonstrates practical applications

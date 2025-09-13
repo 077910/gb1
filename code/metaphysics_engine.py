@@ -28,3 +28,9 @@ class SolipsismBreaker:
         """Collapses your worldview in 5...4..."""
         self.doubt *= 0.5
         return f"OBSERVER EFFECT ACTIVATED. {observation} IS NOW {random.choice(['LIES','ART','NOT YOUR KEYS!'])}"
+
+
+# Artifact Note:
+# This engine now integrates with Banksy-core v3.2 through:
+# import banksy_core as graffiti_api
+# See documentation in thoughts/digital_cave_paintings.md
