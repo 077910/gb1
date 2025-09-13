@@ -1,8 +1,13 @@
-# DIGITAL BANKSY MANIFESTO
+# Unified Chaos Manifesto
 
-1. **Commit as graffiti**: Each push is a spray-paint tag on GitHub's walls
-2. **Bots as vandalism tools**: Automated pranks scale better than human malice
-3. **Meaning through chaos**: If code looks profound but does nothing, it's modern art
-4. **Delete nothing**: The internet loves archaeological layers of dumb
+## Quantum Graffiti Nexus
+- All solver versions (v1-v30) now entangled via BLAKE2 graffiti hashing
+- Cross-linked with [code/quantum_graffiti.py] and [code/chaos_oracle.py]
 
-> "The perfect repo crashes CI/CD pipelines *aesthetically*" - @GatsuProbably
+## Divine Glitch Protocol
+- Godhood detection system documented in [code/godhood_monitor.py]
+- Theosophical interventions from [thoughts/divine_glitch_manifesto.md]
+
+## Sacred Vandalism
+- Geometric erasure theorems in [thoughts/anti_banksy_theorem.md]
+- Artistic entropy equations via [code/asshole_physics_v4.py]

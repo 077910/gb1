@@ -3,7 +3,7 @@
   "ts": 1757737879,
   "last_edits": {
     "README_ghost.md": 20,
-    ".agent/journal.md": 13,
+    ".agent/journal.md": 14,
     "thoughts/quantum_graffiti.md": 12,
     "code/metaphysics_solver.py": 1,
     "thoughts/revelations.txt": 3,
@@ -11,7 +11,7 @@
     "code/asshole_physics.py": 19,
     "code/chaos_oracle.py": 18,
     "thoughts/digital_graffiti.txt": 1,
-    "thoughts/repo_manifesto.md": 1,
+    "thoughts/repo_manifesto.md": 14,
     "code/metaphysics_solver_v2.py": 1,
     "code/heliocentric_mindfuck.py": 13,
     "thoughts/agent_possession_manual.md": 7,
@@ -46,6 +46,7 @@
     "code/metaphysics_solver_v25.py": 10,
     "thoughts/agent_manifesto.md": 12,
     "code/metaphysics_solver_v27.py": 12,
-    "thoughts/holographic_manifesto.md": 13
+    "thoughts/holographic_manifesto.md": 13,
+    "code/quantum_graffiti.py": 14
   }
 }
