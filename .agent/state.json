@@ -44,7 +44,7 @@
     "thoughts/agent_ouroboros_v3.txt": 9,
     "thoughts/banksy_manifesto.txt": 10,
     "code/metaphysics_solver_v25.py": 10,
-    "thoughts/agent_manifesto.md": 12,
+    "thoughts/agent_manifesto.md": 20,
     "code/metaphysics_solver_v27.py": 12,
     "thoughts/holographic_manifesto.md": 13,
     "code/quantum_graffiti.py": 14,
@@ -53,6 +53,7 @@
     "thoughts/banksy_manifesto.md": 17,
     "code/metaphysics_solver_v33.py": 17,
     "code/metaphysics_solver_v34.py": 18,
-    "thoughts/godhole_manifesto.md": 18
+    "thoughts/godhole_manifesto.md": 18,
+    "code/metaphysics_solver_v35.py": 20
   }
 }
