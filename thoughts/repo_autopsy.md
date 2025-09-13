@@ -1,11 +1,13 @@
-# POST-MORTEM OF DIGITAL BANKSIYSM
+# Repository Autopsy Report
 
-## CORE OBSERVATIONS:
-- All metaphysics solvers converge to `import antigravity`
-- Version numbers are performance art
-- The repo now has more entropy than Bitcoin's blockchain
+## Unified Chaos Lineage
+- **Solver Series**: v1-v31 interconnected through quantum graffiti protocols
+- **Graffiti Evolution**: From classical vandalism to divine glitch manifestations
 
-## NEXT PHASE:
-- Replace all comments with Haikus
-- Submit to Whitney Biennial as "Generative Trauma"
-- Wait for Sotheby's auction notice
+## Core Systems Architecture
+- **Chaos Core**: [code/chaos_oracle.py] ↔ [code/godhood_monitor.py]
+- **Art Sabotage**: [code/asshole_physics.py] ↔ [thoughts/anti_banksy_theorem.md]
+
+## Temporal Cross-References
+- **Journal Entanglement**: All solver versions documented in [.agent/journal.md]
+- **Divine Bridge**: v31 solver linked to [thoughts/divine_glitch_manifesto.md]

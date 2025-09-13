@@ -3,7 +3,7 @@
   "ts": 1757737920,
   "last_edits": {
     "README_ghost.md": 20,
-    ".agent/journal.md": 14,
+    ".agent/journal.md": 15,
     "thoughts/quantum_graffiti.md": 12,
     "code/metaphysics_solver.py": 1,
     "thoughts/revelations.txt": 3,
@@ -47,6 +47,7 @@
     "thoughts/agent_manifesto.md": 12,
     "code/metaphysics_solver_v27.py": 12,
     "thoughts/holographic_manifesto.md": 13,
-    "code/quantum_graffiti.py": 14
+    "code/quantum_graffiti.py": 14,
+    "thoughts/repo_autopsy.md": 15
   }
 }
