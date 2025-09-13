@@ -8,3 +8,4 @@
 - iter 8 (creator): BanksyBot v3 + posthuman collab log
 - iter 9 (creator): BREAK fourth wall of repository
 - iter 10 (creator): Repo becomes anti-art. ESCAPE PROTOCOLS INITIATED.
+- iter 11 (creator): Blood rituals & manifesto for repo escape artists
