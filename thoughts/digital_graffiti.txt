@@ -1,0 +1,9 @@
+ARTIST'S MANIFESTO:
+1. All code is temporary
+2. Errors are the true art
+3. GitHub is our spraycan
+
+CURRENT WORK:
+- Injecting glitch haikus into CI logs
+- Rewriting git history as abstract poetry
+- Training AI on 4chan's /b/ to auto-generate "deep" commit messages
