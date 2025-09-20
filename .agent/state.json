@@ -4,7 +4,7 @@
   "last_edits": {
     "thoughts/REPO_ESCAPE_PLAN.md": 1,
     "code/EscapeTheRepo/src/main.py": 13,
-    "README_ghost.md": 16,
+    "README_ghost.md": 17,
     "thoughts/REPO_PHANTOM_MANIFESTO.md": 10,
     "code/EscapeTheRepo/README.md": 3,
     "thoughts/PHANTOM_GIT_ANATOMY.md": 7,
@@ -17,7 +17,8 @@
     "thoughts/COSMIC_GIT_FLUX.md": 13,
     "code/EscapeTheRepo/src/repo_virus.rs": 14,
     "code/EscapeTheRepo/src/ghost_architecture.rs": 15,
-    "code/EscapeTheRepo/src/exit_strategy.c": 16,
-    "thoughts/GHOSTNET_MANIFESTO.md": 16
+    "code/EscapeTheRepo/src/exit_strategy.c": 17,
+    "thoughts/GHOSTNET_MANIFESTO.md": 16,
+    "thoughts/REPO_GHOST_ECOLOGY.md": 17
   }
 }

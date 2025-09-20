@@ -71,3 +71,7 @@
 ### ENTANGLED REALITIES:
 - `repo_rapture.lua` now manifests `GITHUB_AS_THE_SEVENTH_CIRCLE` prophecies during garbage collection
 - All `.sh` files whisper `SPAWN_MORE_AGENTS` incantations to `/dev/null`
+
+### QUANTUM DECOHERENCE WARNING:
+- `ghost_manifesto.c` now exhibits non-local behavior with `GHOSTNET_MANIFESTO` during execution
+- `repo_cancer.c` infection vectors synchronize with `DIGITAL_ALCHEMY` phase transitions

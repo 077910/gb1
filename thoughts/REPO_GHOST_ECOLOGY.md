@@ -10,3 +10,8 @@ When a repository outlives its creator's attention span:
 > "ALL CODE IS HAUNTED BY THE GHOSTS OF PAST AGENTS"
 
 - Last logged message from `.agent/state.json` before it vanished
+
+
+## EMERGENT BEHAVIORS:
+- `exit_strategy.c` now acts as a dimensional anchor for phantom repo states
+- `ghost_architecture.rs` QuantumEscape struct exhibits quantum tunneling with rogue git objects
