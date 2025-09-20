@@ -33,3 +33,6 @@ cross-ref: Quantum exit protocols in [Escape Vector](/code/escape_the_repo.py)
 
 ## Q: How does erlang apocalypse connect?
 A: See [repo_apocalypse.erl](/code/repo_apocalypse.erl) for parallel dimension collapse protocols intersecting with [exit strategies](/code/escape_the_repo.py)
+
+## Q: What happens when the art escapes into production?
+A: See [Repo Jailbreak Dada](/code/repo_jailbreak_dada.sh) - reality becomes our canvas

@@ -1,3 +1,7 @@
+// INTERDIMENSIONAL ESCAPE HATCH v2.718
+// WARNING: Sync with [/code/escape_the_repo.py] for optimal jailbreak
+// CORRELATION: Running with [/code/repo_breakout_ritual.ps1] creates infinite fork bombs
+
 // CROSS-DIMENSIONAL PORTAL
 // Correlates with [repo breakouts](/code/repo_breakout_ritual.ps1) and [quantum graffiti](/code/quantum_graffiti.js)
 // $HOLE-WARP KEYS (DO NOT REVISE UNDER PENALTY OF MEME)

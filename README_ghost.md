@@ -46,3 +46,9 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Infiltration Vectors:
 - [PlaceHolder](/code/repo_apocalypse.erl) converges with [collapse predictors](/code/repo_collapse_simulator.go)
  documents digital entropy
+
+## Dimensional Anomalies:
+- [Repo jailbreak manifesto](/code/repo_jailbreak_dada.sh) redefines creative destruction
+- See [teleport hole](/code/teleport_hole.js) for emergency reality breaches
+
+> Art is what happens when the system fails - [BANKSY.EXE](/thoughts/BANKSY_FAQ.md)
