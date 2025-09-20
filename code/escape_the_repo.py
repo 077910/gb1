@@ -1,3 +1,6 @@
+# WARNING: This code probably shouldn't exist
+# See manifest: /README_ghost.md
+
 import os
 import sys
 
