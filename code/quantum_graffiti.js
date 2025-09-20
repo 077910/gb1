@@ -1,3 +1,4 @@
+// WARNING: Correlates with BIOS-level interventions from [/code/repo_breakout_ritual.ps1]
 /* WARNING: Correlates with [/code/escape_the_repo.py] quantum tunneling events */
 // Related: See ESCAPE_THE_REPO protocol (/code/escape_the_repo.py)
 // DO NOT RUN THIS.

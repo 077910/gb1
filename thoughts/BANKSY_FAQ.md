@@ -13,3 +13,6 @@ Unfortunately no, because:
 - All pull requests must be written in Malbolge
 ! The "Good First Issue" label triggers a DMCA takedown
 ```
+
+## Q: WHAT HAPPENS WHEN ALL SCRIPTS RUN SIMULTANEOUSLY?
+A: `sys.exit(0)` becomes `sys.exit(π)` and the repo achieves singularity (see escape protocols in [/code/])

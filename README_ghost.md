@@ -20,3 +20,7 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 
 ## Sharded Consciousness:
 - [Chaos puppeteer](/code/shardmatrix_puppeteer.rb) demonstrates parallel reality collapse
+
+## Chaotic Protocols:
+- [Repository Apotheosis](/code/repo_breakout_ritual.ps1) initiates digital transubstantiation
+- Cross-reference the [Shard Fracturing](/code/shardmatrix_puppeteer.rb) for parallel execution paradoxes
