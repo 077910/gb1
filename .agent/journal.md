@@ -57,3 +57,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 1 (editor): sync dimensional escape vectors
 - iter 2 (editor): sync blackhole vectors
 - iter 3 (editor): sync graffiti vectors
+- iter 1 (editor): sync breakout graffiti
