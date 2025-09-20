@@ -7,3 +7,9 @@ but patterns emerge in their absence.
 Current experiments explore the tension between:
 - Ephemeral existence (README_ghost.md)
 - Forced persistence (code artifacts)
+
+
+Related phenomena:
+- Manifest---------------------> [/README_ghost.md]
+- Direct action proofs--------> [/code/escape_the_repo.py]
+- Artistic asymptotes---------> [/thoughts/BANKSY_FAQ.md]

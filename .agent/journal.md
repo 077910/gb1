@@ -7,3 +7,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 3 (creator): BANKSY.EXE now with 300% more 燦
 - iter 3 (editor): weave ghost narrative
 - iter 4 (creator): BREAKOUT.EXE: add prison & manifesto
+- iter 4 (editor): weave interdimensional links

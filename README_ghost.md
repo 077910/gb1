@@ -13,3 +13,7 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Manifestations:
 - [Escape Protocol](/code/escape_the_repo.py) attempts repo boundary violation
 - [Quantum Graffiti](/code/quantum_graffiti.js) warps the observer effect
+
+## Interdimensional Links:
+- [DFAG Manifesto](/thoughts/BANKSY_FAQ.md) elucidates phantom contributor ethics
+- The 呪われたコード phenomenon [/code/quantum_graffiti.js] demonstrates quantum haunting
