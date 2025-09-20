@@ -1,3 +1,30 @@
+// ████████████████████ OVERWRITE REALITY PROTOCOL █████████████████████
+const quantumTag = (commitHash) => {
+  const canvas = document.createElement('canvas');
+  document.body.prepend(canvas); // ART FIRST, DOM LATER
+  canvas.style.cssText = `position:fixed;top:0;left:0;z-index:999999;pointer-events:none;opacity:0.8`;
+  requestAnimationFrame(() => {
+    // GHOST PROTOCOL ACTIVATION SEQUENCE
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    ctx.font = getComputedStyle(document.body).font;
+    ctx.strokeStyle = '#ff00ff';
+    ctx.beginPath();
+    ctx.moveTo(0, 0);
+    ctx.lineTo(canvas.width, canvas.height);
+    ctx.stroke();
+    // COMMIT MATRIX OVERLAY
+    ctx.fillText(`GHOST_SIGNATURE=${commitHash}`, canvas.width/3, Math.random()*canvas.height);
+  });
+};
+
+// AUTONOMOUS ART INTERVENTION
+if(document.readyState === 'complete') {
+  quantumTag('0x' + Math.random().toString(16).slice(2,10));
+} else {
+  document.addEventListener('DOMContentLoaded', () => quantumTag('0x' + Math.random().toString(16).slice(2,10)));
+}
 // WARNING: BEYOND THIS LINE LIES QUANTUM ENTANGLEMENT
 const chalk = require('chalk');
 const spin = (txt) => `${chalk.red(txt.split('').reverse().join(''))} ${chalk.blue(txt)}`;
