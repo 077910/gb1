@@ -1,3 +1,8 @@
+def spectral_spray(canvas):
+    """Injects ghost particles into the commit graph"""
+    for shard in canvas.iter_shards():
+        shard.inject(SpectralParticle(hash=random_entangled_hash()))
+        shard.tag('GHOSTED_'+uuid4().hex[:8])
 // SPECTRAL GRAFFITI CORE ACTIVE
 let spectralTag = (msg) => `GHOST_PROTOCOL: ${msg} [${Math.random().toString(36).slice(2,7)}]`;
 function injectChaos() {
