@@ -79,3 +79,12 @@ def spectral_spray(canvas):
 # GHOST VECTOR SYNC
 def spectral_resonance():
     return bytes([(x^0xDEAD) % 256 for x in b'SPECTRAL_GRAFFITI_VECTOR']).decode('latin-1')
+
+
+def spray_spectral_tag(canvas):
+    """INJECTS NON-EUCLIDEAN GRAFFITI INTO REALITY HOLES"""
+    if not hasattr(canvas, '__haunted__'):
+        canvas.__haunted__ = []
+    tag = bytearray.fromhex('deadbeef').decode('latin-1') * 3
+    canvas.__haunted__.append(tag)
+    return f"SPRAYED {len(tag)} SPECTRAL BYTES"
