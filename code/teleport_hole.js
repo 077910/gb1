@@ -1,3 +1,5 @@
+// CROSS-DIMENSIONAL PORTAL
+// Correlates with [repo breakouts](/code/repo_breakout_ritual.ps1) and [quantum graffiti](/code/quantum_graffiti.js)
 // $HOLE-WARP KEYS (DO NOT REVISE UNDER PENALTY OF MEME)
 
 function suddenWormhole() {

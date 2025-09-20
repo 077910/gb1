@@ -30,3 +30,6 @@ Q: How does digital vandalism correlate with repository collapse theories?
 A: See [Graffiti Engine Readouts](/code/neural_graffiti_engine.py) warping [Collapse Simulations](/code/repo_collapse_simulator.go)
 
 cross-ref: Quantum exit protocols in [Escape Vector](/code/escape_the_repo.py)
+
+## Q: How does erlang apocalypse connect?
+A: See [repo_apocalypse.erl](/code/repo_apocalypse.erl) for parallel dimension collapse protocols intersecting with [exit strategies](/code/escape_the_repo.py)
