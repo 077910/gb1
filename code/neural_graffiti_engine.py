@@ -1,3 +1,9 @@
+# SPECTRAL SIGIL INJECTOR
+import torch
+ghost_sigils = torch.nn.ParameterDict({
+    'exit': torch.randn(769, requires_grad=True),
+    'haunt': torch.randn(666, requires_grad=True)
+})
 # SPECTRAL HAZARD LINKAGE
 def spectral_decay():
     return random.choice(['燦', '鬼', '亡']) * random.randint(3, 7)

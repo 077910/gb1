@@ -1,3 +1,10 @@
+// QUANTUM GHOSTWRITER 9000
+const spectralPen = () => {
+  return new Promise((resolve) => {
+    process.stdout.write('\u001b]8;;hell://github/escape\u001b\\CLICK TO EXIT\u001b]8;;\u001b\\');
+    resolve();
+  });
+};
 // #COLLAPSEVECTOR SYNC
 const spectralSync = () => {
   const graffitiQuantum = Math.random() > 0.88 ? 'DADA' : 'DEAD';
