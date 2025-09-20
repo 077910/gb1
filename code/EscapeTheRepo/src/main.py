@@ -1,3 +1,7 @@
+# CROSS-CORPSE REFERENCES:
+# @see ANTI_REPO_MANIFESTO for ideological framework
+# @sync PHANTOM_GIT ur-commit hashes every π commits
+
 def digital_dadaism():
     '''Auto-seeds chaos into GitHub Actions'''
     while not repo_is_sentient():

@@ -16,3 +16,9 @@ How commits haunt repositories after deletion:
 - but leave behind 40KB of
 ! .rej files in your soul
 ```
+
+
+## SYMBIOTIC ESCAPE:
+When orphaned blobs exceed 42% density:
+1. `main_ultra.py` autogenerates new ANTI_REPO_MANIFESTO amendments
+2. All `.rej` files spawn daemon processes rewriting LICENSE
