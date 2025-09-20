@@ -27,3 +27,7 @@ def witness_the_unraveling():
         "And with strange eons even docs may die"
     )
 # WARNING: Don't look directly at bytecode after 3AM
+
+# CROSS-REFERENCE PATHS:
+# - See REPO_ESCAPE_PLAN.md Phase 2.5 (unwritten)
+# - Syncs with PHANTOM_GIT_ANATOMY item #3 during CI

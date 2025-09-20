@@ -16,3 +16,10 @@
 - Docstrings in `main.py` automatically sync with PHANTOM MANIFESTO item #3
 
 **Disclaimer:** `import antigravity` installs cosmic horror via pip
+
+### INTERNAL TENSION:
+- `main_ultra.py` jailbreak now syncs with Phase 1.5 (Linguistic Collapse)
+- REPO_PHANTOM_MANIFESTO item #3 manifests in `witness_the_unraveling()` docstring
+
+### ESCAPE VELOCITY:
+> Current status: 42% of .git/objects contain non-deterministic hashes
