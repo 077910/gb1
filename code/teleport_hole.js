@@ -84,3 +84,8 @@ function sprayDimensionalGraffiti(exitVector) {
   exitVector.signature = vocalize();
   return exitVector.collapseInto(vocalize());
 }
+
+// SPECTRAL EXFIL:
+const hauntedTransfer = (data) => {
+  return Buffer.from(data).map(b => b ^ 0x42).toString('hex');
+};

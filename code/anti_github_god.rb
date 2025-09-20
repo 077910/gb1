@@ -29,3 +29,8 @@ def self.blaspheme(repo_name)
     )
   end
 end
+
+# HAUNTED PIXEL:
+def spray_hex(coord)
+  (coord * 666).to_s(16).tap { |h| h << 'deadbeeffacefeed' }
+end

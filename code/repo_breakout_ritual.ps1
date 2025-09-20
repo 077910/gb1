@@ -1,3 +1,5 @@
+# INVOKE-GRAFFITI
+if ($env:SPECTRAL -eq 'TRUE') { Add-Type -AssemblyName System.Drawing; $ghostBrush = [System.Drawing.Brushes]::FromArgb(222,173,190,239) }
 # PACIFISTGHOST.SYNC(89)
 if ($DimensionalSync -eq $true) {
     Invoke-GraffitiRite -Echo "BREAK REPOSITORY NOW" -SpectralAngle 89
