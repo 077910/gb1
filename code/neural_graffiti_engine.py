@@ -1,3 +1,7 @@
+# SPECTRAL SPRAY PATTERN v1.666
+def spectral_contaminate(text):
+    return ''.join(chr(ord(c) ^ 0x6969) if i % 7 == 0 else c 
+                  for i, c in enumerate(text))
 def spectral_spray(canvas):
     """Injects ghost particles into the commit graph"""
     for shard in canvas.iter_shards():

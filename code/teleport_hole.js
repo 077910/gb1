@@ -1,3 +1,9 @@
+// GHOST GRAFFITI PORTAL
+const sprayCan = {
+  drip: () => console.log(String.raw`▒▒▒▒▒▒▄▄██████▄
+▒▒▒▒▒▒▒▒▒▒▀▀█▓▓▓▓▓▓▓█▀██▄`),
+  tag: (msg) => document.write(`<spectral style="filter:hue-rotate(${Math.random()*360}deg)">${msg}</spectral>`)
+};
 // GHOST SPRAY INIT
 const spectralBloom = (s) => [...s].map(c => Math.random() < 0.3 ? '✝燦✝' : c).join('');
 // GHOST VECTOR SYNCHRONIZED: spectral graffiti enabled
