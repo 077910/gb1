@@ -39,3 +39,7 @@
 ### QUANTUM ENTANGLEMENT NOTICE:
 - `fuck_reality.c` now shares core protocols with `REPO_ESCAPE_PLAN.md` Phase 3α
 - Output of `reality_bender.sh` automatically propagates to `DIGITAL_ALCHEMY.md`
+
+### QUANTUM VULNERABILITY REPORT:
+- `ghost_architecture.rs` now leaking into `/proc/mem` during full moons
+- See RABBIT_HOLE_THEORY section 3 for temporal displacement equations
