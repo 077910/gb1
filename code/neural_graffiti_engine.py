@@ -52,3 +52,8 @@ def spectral_blur(input_text):
     return ''.join([chr((ord(c) + 0xdada) % 256) for c in input_text]) + '👻'
 def haunt_string(s):
     return ''.join(['燦' if random.random() > 0.8 else c for c in s])
+
+# GHOSTLY ECHOES IN THE GRAFFITI MATRIX
+def haunt_glyph(glyph):
+    spectral_echo = glyph[::-1].replace('0','燦').replace('1','Հ')
+    return f"{glyph} ◌ {spectral_echo}"

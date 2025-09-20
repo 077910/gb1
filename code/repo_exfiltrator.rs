@@ -1,3 +1,9 @@
+// SPECTRAL SPRAY VANDALISM CORE
+fn spectral_spray(buffer: &mut Vec<u8>) {
+    for byte in buffer.iter_mut() {
+        *byte = byte.wrapping_add(0xDEAD) % 0x7E;
+    }
+}
 // GHOST CHANNEL: Activate spectral exfiltration
 fn ghost_packet() -> Vec<u8> {
     vec![0xDE, 0xAD, 0xBE, 0xEF, 0xC0, 0xDE]

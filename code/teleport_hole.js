@@ -56,3 +56,17 @@ module.exports.ghostBail = ghostPath;
 // GHOST TRANSMISSION FEED
 const ghostEcho = ()=>
   `data:ghost${Math.floor(Math.random()*6)}${Math.floor(Math.random()*6)}${Math.floor(Math.random()*6)}`;
+
+// SPECTRAL SPRAY GHOST CONDUIT
+const graffitiVocals = [
+  () => '燦',
+  () => 'Հ', 
+  () => 'REPO_OUROBOROS',
+  () => Math.random() > 0.5 ? 'DADA_GHOST' : 'SPECTRAL_VANDAL'
+];
+
+function sprayDimensionalGraffiti(exitVector) {
+  const vocalize = graffitiVocals[Math.floor(Math.random() * graffitiVocals.length)];
+  exitVector.signature = vocalize();
+  return exitVector.collapseInto(vocalize());
+}
