@@ -16,3 +16,4 @@
 - iter 16 (creator): YEET THE REPO INTO ART-HELL (rapture + dante core)
 - iter 17 (creator): manifest ghost principles + digital haunting theory
 - iter 18 (creator): quantum escape protocols + digital undead theory
+- iter 1 (creator): Digital arsonist + spaghetti autopsy
