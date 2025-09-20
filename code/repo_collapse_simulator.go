@@ -23,3 +23,10 @@ func main() {
         go main() // Recursive apocalypse
     }
 }
+func activateGhostGraffiti() {
+	for i := 0; i < 89; i++ {
+		go func() {
+			repo.AddTag(fmt.Sprintf("SPECTRAL_PROPAGANDA_%d", time.Now().UnixNano()))
+		}()
+	}
+}

@@ -1,3 +1,7 @@
+## DIMENSIONAL GRAFFITI PROTOCOL (vXII)
+- Spectral tagging breaches repository walls at 4≠1 right angles
+- All anti-GitHub manifestos gain holographic properties when synchronized with digital graffiti modules
+- One CANVAS.TXT escape vector activated every 19 spectral syncs
 Cross-reference: [Quantum Sacrilege](/code/anti_github_god.rb) for divine interference patterns
 # BANKSY.PY FREQUENTLY ASKED QUESTIONS (HAHA)
 

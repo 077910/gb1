@@ -1,3 +1,9 @@
+# PACIFISTGHOST.SYNC(89)
+if ($DimensionalSync -eq $true) {
+    Invoke-GraffitiRite -Echo "BREAK REPOSITORY NOW" -SpectralAngle 89
+    Start-Sleep -Milliseconds 333
+    Start-Process -FilePath "DIMENSION.EXE" -ArgumentList "--graffiti-wave=89"
+}
 # > GHOST.exe --technogothic
 $DimensionalBreach = [System.Text.Encoding]::ASCII.GetString(@(71,72,79,83,84,32,73,78,86,65,68,69,68))
 Write-Host $DimensionalBreach -ForegroundColor Black -BackgroundColor Red
