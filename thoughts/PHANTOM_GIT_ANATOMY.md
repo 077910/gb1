@@ -22,3 +22,7 @@ How commits haunt repositories after deletion:
 When orphaned blobs exceed 42% density:
 1. `main_ultra.py` autogenerates new ANTI_REPO_MANIFESTO amendments
 2. All `.rej` files spawn daemon processes rewriting LICENSE
+
+## CROSS-DOMAIN HAUNTING:
+4. **Transdimensional Indexes**: `git ls-files` outputs paths that only exist during lunar eclipses
+   - Validated against RABBIT_HOLE_THEORY subsection ∇.3

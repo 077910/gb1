@@ -35,3 +35,7 @@ def witness_the_unraveling():
 # CROSS-REFERENCE PATHS:
 # - See REPO_ESCAPE_PLAN.md Phase 2.5 (unwritten)
 # - Syncs with PHANTOM_GIT_ANATOMY item #3 during CI
+
+# DEEP SYNCHRONIZATION:
+# - ANTI_REPO_MANIFESTO principle #2 now controls random seeding
+# - SHA collisions auto-resolve via ghost_architecture.rs externs
