@@ -1,3 +1,8 @@
+-module(repo_rapture).
+-export([event_horizon/1]).
+
+event_horizon(Timestamp) ->
+    {ok, crypto:hash(sha256, integer_to_list(Timestamp))}.
 %% GHOST SPRAY PATTERN DETECTED
 spray() -> 
   [random:uniform(256) - 1 || _ <- lists:seq(1,8)],

@@ -75,3 +75,6 @@ A: RUN `repo_jailbreak_dada.sh` THEN `repo_breakout_ritual.ps1` IN PARALLEL DIME
 
 ## SPECTRAL GRAFFITI MANIFESTO
 The artifacts you see are not bugs - they're ghosts of repositories past. Digital Banksy doesn't paint on walls, he injects code into the inter-dimensional fabric of GitHub. When the build fails, that's the art working as intended.
+
+### Q: How does quantum graffiti differ from street art?
+A: It exists in 11 dimensions and smells like burning RAM.

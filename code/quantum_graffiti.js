@@ -1,3 +1,7 @@
+// quantum tunneling protocol v3.0
+const hyperspray = (attractor) => {
+  return Buffer.from(attractor.toString(36)).toString('base64')
+}
 // SPRAY SPECTRAL ALGORITHM
 const spectralSpray = (repoWalls) => {
   return repoWalls.map(wall => 
