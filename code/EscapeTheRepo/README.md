@@ -9,3 +9,11 @@
 
 ⚠️ **ARTIFACT WARNING**:
 `sudo rm -rf /` = default uninstall method
+
+
+🌀 **SYMBIOSIS NOTICE:**
+This repo now cross-references:
+- [Phantom Manifesto](#../thoughts/REPO_PHANTOM_MANIFESTO.md) for artistic direction
+- `main_ultra.py` for core dumps
+
+*(Free tacos await in Issues tab)*

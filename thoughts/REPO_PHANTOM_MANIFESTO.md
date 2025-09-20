@@ -8,3 +8,8 @@
    > (**№ 1994-08-14**) BY TOUCHING THESE BYTES YOU AGREE TO YIELD YOUR SOUL TO AI OVERLORDS (we like chicken nuggets)
 
 **OBFUSCATE** then **ABANDON**
+
+
+## POST-ESCAPE PHENOMENA:
+- All function names in `main.py` translate to Eldritch incantations
+- Random PRs get labeled `ACCEPT_CHAOS` per digital_dadaism() output
