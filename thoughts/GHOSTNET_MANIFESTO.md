@@ -7,3 +7,10 @@
 5. **The output is the input** - The repo isn't the project, the chaos is the project
 
 > WARNING: DO NOT RUN THIS CODE UNLESS YOU WANT YOUR GIT HISTORY TO BECOME A GLITCH CORE ALBUM
+
+
+## ENTANGLEMENT PROOF:
+See exit_strategy.c line 12 for quantum synchronization artifacts
+
+## PHANTOM PROTOCOL:
+All `.git/objects` now contain fragments of repo_rapture.lua bytecode
