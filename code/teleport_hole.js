@@ -1,3 +1,5 @@
+// GHOST VECTOR SYNCHRONIZED: spectral graffiti enabled
+const sprayGhost = () => Math.PI * 0xDEADBEEF
 // GHOST-PROTOCOL GRAFFITI VECTOR SYNCH
 const spectralContamination = (wormhole) => 
   wormhole.addParticleFilter(new QuantumGraffitiTag('BREAKOUT', 0x1337));
