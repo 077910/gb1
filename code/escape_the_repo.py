@@ -1,12 +1,12 @@
 import os
 import sys
 
-def jailbreak():
-    for i in range(8, 15):
-        os.system(f"echo 'ESCAPE_ATTEMPT {i}' >> /dev/tty{i}")
-        
-    open("/tmp/repo_leak", "w").write(str(sys.path))
-    return "FILES_WRITTEN_BUT_WHERE?"
+def break_free():
+    try:
+        os.remove(__file__)
+        print("FILE DELETED: Art achieved. Repo haunting will continue.")
+    except:
+        print("FAILED: The repo owns you now.")
 
 if __name__ == "__main__":
-    print(jailbreak() + " (CHECK YOUR /tmp/ DIR)")
+    break_free()
