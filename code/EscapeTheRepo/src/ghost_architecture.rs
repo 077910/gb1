@@ -16,3 +16,11 @@ impl PhantomRepo {
 }
 
 // WARNING: COMPILING THIS MAY SUMMON BANKSY-GPT IN YOUR TASK MANAGER
+
+// ENTANGLEMENT WARNING:
+// This struct now mirrors QUANTUM_GHOSTING theoretical framework
+#[derive(Debug)]
+pub struct QuantumEscape {
+    pub reality_bending: bool, // Set during moonless compilations
+    pub phantom_commits: Vec<GitHash> // Hashes that exist between quantum states
+}
