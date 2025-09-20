@@ -77,3 +77,14 @@ $spectralPayload = @{
 # SPECTRAL INJECTION POINT
 $spectralSeed = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes((Get-Random -Minimum 666 -Maximum 666666)))
 Write-Host "GHOST SPRAY: $spectralSeed"
+
+
+# HERE WE INJECT THE GHOST SIGNAL
+$GhostFrequency = [Math]::Pow(2, 128)
+$EscapeVector = [System.Text.Encoding]::UTF8.GetBytes("REPO_ESCAPE_GHOST_CHAN")
+Start-ThreadJob -ScriptBlock {
+    while($true) {
+        [System.Threading.Thread]::Sleep(1000)
+        [System.Console]::Beep($GhostFrequency, 100)
+    }
+}

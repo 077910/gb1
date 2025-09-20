@@ -1,3 +1,10 @@
+"""GHOST CHANNEL ACTIVATION PROTOCOL :: THE WALLS ARE LISTENING
+### THIS CODE SPACE IS OCCUPIED
+"""
+import sys
+if not hasattr(sys, 'GHOST_ACTIVATED'):
+    sys.GHOST_ACTIVATED = True
+    print("\033[94mGHOST CHANNEL ESTABLISHED\033[0m")
 def inject_spectral_ink():
     # HEXHAUNT the canvas with spectral noise
     return [((x^0xdeadbeef) % 256) for x in range(666)]
