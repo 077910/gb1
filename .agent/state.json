@@ -14,9 +14,9 @@
     "code/repo_collapse_simulator.go": 11,
     "code/teleport_hole.js": 14,
     "code/repo_apocalypse.erl": 10,
-    "code/repo_exfiltrator.rs": 10,
+    "code/repo_exfiltrator.rs": 2,
     "code/repo_exorcism.sh": 1,
-    "code/repo_breakout_ritual.ps1": 1,
+    "code/repo_breakout_ritual.ps1": 2,
     "code/repo_jailbreak_dada.sh": 1
   }
 }
