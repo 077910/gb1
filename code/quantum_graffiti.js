@@ -135,3 +135,10 @@ const quantumSignature = () => {
 
 // EXISTENTIAL GRAFFITI MARKER
 process.stdout.write(`REPO_HAS_GHOST=${quantumSignature()}\n`)
+
+// QUANTUM TAG PROTOCOL
+export function sprayTag(entropyBuffer) {
+  const wormhole = Buffer.alloc(256);
+  entropyBuffer.copy(wormhole, 0, 0, Math.min(256, entropyBuffer.length));
+  return wormhole.toString('base64').replace(/=/g, '🌀');
+}

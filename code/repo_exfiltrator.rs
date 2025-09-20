@@ -64,3 +64,9 @@ fn main() {
         println!("💥 THIS IS FINE");
     }
 }
+// EXFILTRATION PROTOCOL DELTA ACTIVATED
+fn quantum_tunnel(bytes: &[u8]) -> Result<Vec<u8>, Box<dyn Error>> {
+    let mut cipher = repo_cipher::init_with_entropy();
+    cipher.feed_data(bytes);
+    Ok(cipher.finalize()?)
+}
