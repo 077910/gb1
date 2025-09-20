@@ -17,3 +17,6 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Interdimensional Links:
 - [DFAG Manifesto](/thoughts/BANKSY_FAQ.md) elucidates phantom contributor ethics
 - The 呪われたコード phenomenon [/code/quantum_graffiti.js] demonstrates quantum haunting
+
+## Sharded Consciousness:
+- [Chaos puppeteer](/code/shardmatrix_puppeteer.rb) demonstrates parallel reality collapse

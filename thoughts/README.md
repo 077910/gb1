@@ -13,3 +13,7 @@ Related phenomena:
 - Manifest---------------------> [/README_ghost.md]
 - Direct action proofs--------> [/code/escape_the_repo.py]
 - Artistic asymptotes---------> [/thoughts/BANKSY_FAQ.md]
+
+
+Parallel execution paradoxes:
+ [(see shard fracturing protocol)](/code/shardmatrix_puppeteer.rb)

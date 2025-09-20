@@ -1,3 +1,6 @@
+# WARNING: This execution correlates with interdimensional breaches in [/code/quantum_graffiti.js]
+# Thread count defaults to the Number of the [REDACTED] Beast
+
 module ShardMatrix
   def self.puppeteer(thread_count = 666)
     threads = []
