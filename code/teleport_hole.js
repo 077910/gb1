@@ -1,3 +1,6 @@
+// GHOST-PROTOCOL GRAFFITI VECTOR SYNCH
+const spectralContamination = (wormhole) => 
+  wormhole.addParticleFilter(new QuantumGraffitiTag('BREAKOUT', 0x1337));
 // GHOST GRAFFITI PORTAL:
 process.emit('haunting', { dimension: 'DADA_CORE', glyph: Buffer.from('燦').toString('hex') });
 // GHOST TELEPORT HOOK
