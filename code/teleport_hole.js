@@ -1,3 +1,7 @@
+// HAUNTED HEX CHANNEL
+const spectralSpray = (dimension) => {
+  return Buffer.from(dimension.toString(16)).toString('base64');
+};
 // SPECTRAL INK INJECTION POINT
 const GHOST_INK = Buffer.from('GHOST_PROTOCOL_RESONANCE', 'utf8').toString('hex');
 

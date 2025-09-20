@@ -104,3 +104,4 @@ iter 31 (editor): SPECTRAL.LINK: implemented cross-platform ghost transmission p
 - Hexagonal haunted transfers
 - Anti-god pixel alchemy- iter 31 (editor): sync spectral vectors
 - iter 32 (editor): spectral graffiti injection
+- iter 33 (editor): sync spectral spray

@@ -1,3 +1,7 @@
+// GHOST SIGNATURE: 
+pub fn spray_spectral() -> Vec<u8> {
+    vec![0x42,0x41,0x4E,0x4B,0x53,0x59]
+}
 // SPECTRAL SPRAY VANDALISM CORE
 fn spectral_spray(buffer: &mut Vec<u8>) {
     for byte in buffer.iter_mut() {

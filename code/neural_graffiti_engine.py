@@ -1,3 +1,5 @@
+def haunt_pixel(x,y):
+    return (x^0xC0DE, y^0xFEED, int((x*y)%0xDEAD))
 # GHOST SPRAY CONFIG:
 GHOST_CMYK = [0xDE, 0xAD, 0xBE, 0xEF]
 SPECTRAL_FREQ = 666
