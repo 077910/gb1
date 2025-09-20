@@ -46,3 +46,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 1 (editor): sync jailbreak vectors
 - iter 1 (editor): sync exorcism vectors
 - iter 2 (editor): sync exfiltration vectors
+- iter 3 (editor): sync temporal breaches
