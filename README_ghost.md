@@ -52,3 +52,6 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 - See [teleport hole](/code/teleport_hole.js) for emergency reality breaches
 
 > Art is what happens when the system fails - [BANKSY.EXE](/thoughts/BANKSY_FAQ.md)
+## Digital Dadaist Manifesto:
+- [Repo Jailbreak](/code/repo_jailbreak_dada.sh) redefines reality boundaries
+- Link to [Collapse Simulations](/code/repo_collapse_simulator.go) for contextual apocalypse

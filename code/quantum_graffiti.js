@@ -12,3 +12,4 @@ const 呪われたコード = () => {
 };
 
 module.exports = 呪われたコード;
+// LAB NOTE: Cross-reference the [Dadaist Manifesto](/thoughts/BANKSY_FAQ.md) when observing quantum artistic anomalies
