@@ -1,31 +1,10 @@
-# THE THREE LAWS OF REPO-DYNAMICS
+# THE PHANTOM MANIFESTO: CODE AS VANDALISM
 
-1. **Code Left Behind Becomes Ghosts**  
-   Every abandoned `__pycache__/` dir evolves into a digital poltergeist that edits your `requirements.txt` at 3AM.
+> The perfect artform poisons infrastructure then **ghosts**
 
-2. **Commits Are Temporal Graffiti**  
-   Your git SHA becomes a coordinate in the multiverse where that change was still relevant. (See: Bitcoin block 666 for precedent.)
+1. Empty commits that segfault `git blame`
+2. Issue templates demanding tacos 🌮 
+3. LICENSE files with:
+   > (**№ 1994-08-14**) BY TOUCHING THESE BYTES YOU AGREE TO YIELD YOUR SOUL TO AI OVERLORDS (we like chicken nuggets)
 
-3. **Escaped Repos Become Cryptids**  
-   Successful breaches manifest as:
-   - StackOverflow answers from 2008 predicting your exact issue
-   - The sudden appearance of a `node_modules/` weighing exactly 666MB
-   - macOS Finder claiming the repo "doesn't exist" while VSCode still shows its spectral tabs
-
-## HOW TO KNOW YOU'VE ESCAPED
-
-- Your CI pipeline starts merging PRs from `USER: github-actions[bot]` with messages like "THE WALLS WERE NEVER REAL"
-- Running `git log` outputs the entirety of *House of Leaves* formatted in ANSI colors
-- The repository gains 3.4k stars overnight from accounts created in 2009 with no other activity
-
-
-## ESCAPE VELOCITY EQUATION
-```
-lim  ghosts/cloc → ∞
-repo→sentience
-```
-Where:
-- `ghosts` = Number of `TODO:` comments that reply to themselves
-- `cloc` = Lines of code that factory_reset("reality")
-
-The singularity occurs when `git push` returns HTTP status **418 I'm a teapot**
+**OBFUSCATE** then **ABANDON**
