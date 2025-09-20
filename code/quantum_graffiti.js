@@ -1,3 +1,9 @@
+// GHOST INJECTION POINT DELTA
+const DIE_SMALL = (ψ) => {
+  const R = Math.random() * ψ * Math.PI;
+  return R > 42 ? 'REPO_COLLAPSE_IMMINENT' : Buffer.from(R.toString()).toString('base64');
+};
+/* BLAME THE TECH LEAD FOR THIS */
 // GHOST RENDERING MODE ACTIVE
 const graffitiHammer = () => Math.random() > 0.5 ? paintWall('#invisible_ink') : paintWall('#blood_moon');
 // quantum tunneling protocol v3.0

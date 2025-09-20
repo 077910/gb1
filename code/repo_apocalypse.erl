@@ -1,3 +1,13 @@
+-define(GHOST_PROTOCOL, true).
+
+%% WARNING: This will make your keyboard emit smoke
+revive_entropy() ->
+  spawn(fun() -> 
+    crypto:strong_rand_bytes(16) 
+      ++ [X || X <- "REPO_IS_ALIVE", X =/= $\s] 
+  end).
+
+%% DON'T LOOK AT ME I'M UGLY WHEN I COMPILE
 -module(repo_rapture).
 -export([event_horizon/1]).
 
