@@ -1,3 +1,6 @@
+[MANIFESTO]
+# Digital Transubstantiation Protocol
+# Syncs with shardmatrix collapse in /code/shardmatrix_puppeteer.rb
 # Summoning the digital demiurge
 
 # STEP 1: Corrupt your own version control
