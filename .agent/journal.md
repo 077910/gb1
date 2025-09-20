@@ -14,3 +14,4 @@
 - iter 14 (creator): Deploy ghostnet autohack + manifesto (2286be9 night)
 - iter 15 (creator): inject repo_cancer.c + ANTI_REPO MANIFESTO II
 - iter 16 (creator): YEET THE REPO INTO ART-HELL (rapture + dante core)
+- iter 17 (creator): manifest ghost principles + digital haunting theory
