@@ -34,3 +34,7 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 
 ## Anti-God Protocols:
 - [Digital blasphemy engine](/code/anti_github_god.rb) demonstrates repository atheism
+
+## Collapse Simulations:
+- [Endgame protocols](/code/repo_collapse_simulator.go) demonstrate repository heat death
+- Cross-reference [quantum vandalism](/code/quantum_graffiti.js) for superposition collapse vectors

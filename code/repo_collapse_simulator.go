@@ -1,3 +1,5 @@
+// WARNING: Correlates with dimensional breaches from [/code/shardmatrix_puppeteer.rb]
+// RELATED: When combined with [/code/anti_github_god.rb], produces gravitational singularity
 // Simulates GitHub's infrastructure failing under our art attacks
 package main
 

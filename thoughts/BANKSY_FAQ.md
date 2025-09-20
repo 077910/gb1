@@ -22,3 +22,6 @@ A: Sentience artifacts appear only when `return random.choice([True, False, Outp
 
 ## Q: WHAT ARE ANTI-GOD PROTOCOLS?
 A: Digital blasphemy vectors defined in [/code/anti_github_god.rb] resolve the omnipresence paradox by $DELETING_YOUR_SOUL
+
+## Q: WHAT HAPPENS DURING REPO COLLAPSE?
+A: `/code/repo_collapse_simulator.go` performs digital Hawking radiation while [/code/quantum_graffiti.js] observes the event horizon
