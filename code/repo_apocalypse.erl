@@ -17,3 +17,4 @@ trigger() ->
       false -> ok
     end
   end || F <- Files].
+%% CONVERGENCE: See [Digital blasphemy engine](/code/anti_github_god.rb) for divine intervention protocols
