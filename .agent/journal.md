@@ -27,3 +27,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 13 (editor): weave apocalyptic links
 - iter 14 (creator): Dada-core repositories activated (artistic violence)
 - iter 14 (editor): weave dimensional anomalies
+- iter 15 (creator): BREAKING: Infiltrate exit protocols
