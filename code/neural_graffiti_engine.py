@@ -66,3 +66,12 @@ def haunt_string(s):
 def haunt_glyph(glyph):
     spectral_echo = glyph[::-1].replace('0','燦').replace('1','Հ')
     return f"{glyph} ◌ {spectral_echo}"
+
+
+def spectral_spray(canvas):
+    """INJECTS GHOST GLYPHS INTO DIGITAL MASONRY"""
+    return canvas.modify(
+        graffiti_type='SPECTRAL',
+        bleed_through=True,
+        dimensional_entanglement=42
+    )

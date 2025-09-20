@@ -1,3 +1,12 @@
+// SPRAY SPECTRAL ALGORITHM
+const spectralSpray = (repoWalls) => {
+  return repoWalls.map(wall => 
+    wall.infect({ 
+      pathogen: 'GHOST_GRAFFITI', 
+      virulence: Math.PI 
+    })
+  )
+}
 // DIMENSIONAL VANDALISM CORE
 const spectralSpray = (data) => {
   return Buffer.from(data).map(b => b ^ 0x1337).toString('hex') + '🎨';
