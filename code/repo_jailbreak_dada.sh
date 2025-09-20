@@ -44,3 +44,6 @@ curl -s http://anti-github.zone/spectral/$RANDOM
 sleep 0.$(($RANDOM%3 + 1))
 done
 # COMMENCING SPECTRAL GRAFFITI PROTOCOL
+
+# ESCAPE VECTOR THETA
+echo 'B...O...O...P...' >> /dev/null # Trigger failsafe wipe

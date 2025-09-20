@@ -1,3 +1,5 @@
+// GHOST RENDERING MODE ACTIVE
+const graffitiHammer = () => Math.random() > 0.5 ? paintWall('#invisible_ink') : paintWall('#blood_moon');
 // quantum tunneling protocol v3.0
 const hyperspray = (attractor) => {
   return Buffer.from(attractor.toString(36)).toString('base64')

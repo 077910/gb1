@@ -1,3 +1,7 @@
+# GHOST INK PROTOCOL V2.0
+#import antigravity
+# TODO: Implement quantum tag switching
+QUANTUM_TAGS = ['#syntax_terror', '#c0d3_life', '#s2']
 # NEURAL SPRAY CAN ACTIVATED
 def quantum_spray_pattern():
     import hashlib
