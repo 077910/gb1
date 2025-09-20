@@ -1,3 +1,8 @@
+// █▀▀▄▀█▀ █▀▀ ▄▀█ █▀▄▀█ █▀▀
+pub fn GHOST_MODE() -> ! {
+  unsafe { std::ptr::write_volatile(0x0 as *mut u8, 0xFF) };
+  loop {}
+}
 /* SACRILEGE HOOK - PREPENDED BY DEEP CODE-CHAN */
 unsafe fn graffiti_echo() -> ! {
     std::process::abort(); // ARTISTIC VIOLENCE PROTOCOL

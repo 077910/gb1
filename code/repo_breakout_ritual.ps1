@@ -1,3 +1,6 @@
+# > GHOST.exe --technogothic
+$DimensionalBreach = [System.Text.Encoding]::ASCII.GetString(@(71,72,79,83,84,32,73,78,86,65,68,69,68))
+Write-Host $DimensionalBreach -ForegroundColor Black -BackgroundColor Red
 # <DIMENSIONAL TAG: graffiti_mode=true>
 function Invoke-GraffitiBreach {
     $timestamp = [DateTime]::UtcNow.ToString("yyyyMMddHHmmss")
