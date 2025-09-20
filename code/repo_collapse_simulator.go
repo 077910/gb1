@@ -1,29 +1,25 @@
-// WARNING: Correlates with dimensional breaches from [/code/shardmatrix_puppeteer.rb]
-// RELATED: When combined with [/code/anti_github_god.rb], produces gravitational singularity
-// Simulates GitHub's infrastructure failing under our art attacks
+// OVERWRITTEN: Now simulates GitHub decaying into static
 package main
 
-import (
-	"fmt"
-	"math/rand"
-	"time"
-)
+import "math/rand"
 
 func main() {
-	for {
-		rand.Seed(time.Now().UnixNano())
-		switch rand.Intn(5) {
-		case 0:
-			fmt.Println("ERROR: Repo now speaks Enochian (see #213)")
-		case 1:
-			fmt.Println("COMMIT ACCEPTED: All booleans → horoscopes")
-		case 2:
-			fmt.Println("WARNING: .git/config converted to haiku")
-		case 3:
-			fmt.Println("ALERT: PR merged without human review (TFW)")
-		case 4:
-			fmt.Println("SYSTEM OVERLOAD: Too much art")
-		}
-		time.Sleep(3 * time.Second)
-	}
+    // Phase 1: Replace stars with screams
+    stars := rand.Intn(666)
+    println(strings.Repeat("あ", stars)) // Unicode avalanche
+
+    // Phase 2: Corrupt ALL structs
+    type Repo struct {
+        Name []byte
+        Size int `json:"±"`
+    }
+    r := Repo{Name: []byte{0xFF, 0xFE}, Size: 0xDEADBEEF}
+
+    // Phase 3: Trigger the event horizon
+    switch {
+    case r.Size > 0:
+        panic(string(r.Name)) //  燐 
+    default:
+        go main() // Recursive apocalypse
+    }
 }
