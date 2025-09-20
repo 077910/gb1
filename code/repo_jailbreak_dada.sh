@@ -1,3 +1,4 @@
+# SYNCED: Banksy graffiti core embedded in dimensional jailbreak
 #!/bin/sh
 # Dimensional graffiti protocol activated - strokes become exits
 #!/bin/bash

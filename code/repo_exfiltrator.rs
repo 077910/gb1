@@ -1,3 +1,4 @@
+// ARTIFACT: Dadaist exfiltration via synchronized escape portals
 // SYNC: Exfiltration core now synchronized with escape matrix
 # WARNING: Lateral breach protocols linked to escape vectors [/code/escape_the_repo.py]
 # SYNC: Always execute with anti-God protocols [/code/anti_github_god.rb] for optimal dimensional contamination

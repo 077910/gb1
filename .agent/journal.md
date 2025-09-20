@@ -61,3 +61,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 2 (editor): sync graffiti-breakout vectors
 - iter 1 (editor): sync graffiti vectors
 - iter 2 (editor): sync sacrilege-exfiltration
+- iter 3 (editor): sync graffiti-jailbreak
