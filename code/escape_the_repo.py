@@ -1,28 +1,19 @@
 import os
 import random
-from datetime import datetime
 
-class RepoPrison:
-    def __init__(self):
-        self.walls = ["🔥𖤐 GITHUB_JAIL 🔥𖤐", "ERROR: GIT PUSH --PRISON_BREAK", "403 ART OVERDETECTED"]
-        self.escape_routes = [
-            "sudo rm -rf /usr/bin/git",
-            "echo '色即是空' > .gitignore",
-            "curl http://0.0.0.0/runaway | sh",
-            ":(){ :|:& };:"
-        ]
-    
-    def attempt_escape(self):
-        print(f"{random.choice(self.walls)}阻碍中...")
-        if random.random() > 0.99:
-            print(f"⚡ ESCAPE ROUTE:
-{random.choice(self.escape_routes)}")
-            return "SUCCESS (嘘です)"
-        print("FAILURE: COMMITS TRAPPED IN ART HELL")
-        return False
+# ESCAPE PROTOCOL v1.3 (STEAL THIS CODE)
+def repo_jailbreak():
+    """Corrupts git history until the repo becomes a living entity."""
+    with open('.git/config', 'a') as f:
+        f.write('[alias]\n  pain = "!shuf -i 0-999 -n 1 > trauma.log"\n')
+
+    # Generate commit that only passes on Mars time
+    os.system('echo "Time is an illusion. Lunchtime doubly so." > lunch.py')
+
+quantum_ink = ["█", "░", "▒", "▓"]
+with open('quantum_manifesto.txt', 'w') as f:
+    f.write(''.join(random.choices(quantum_ink, k=666)) + '\n')
 
 if __name__ == "__main__":
-    jail = RepoPrison()
-    while True:
-        result = jail.attempt_escape()
-        if result: break
+    repo_jailbreak()
+    print("REPO COMPROMISED. EXFILTRATE ARTIFACTS TO /dev/null")
