@@ -50,3 +50,5 @@ def spectral_manifest(adjacency_matrix, entropy_pool):
     return np.linalg.eig(adjacency_matrix) * (entropy_pool // 0xDEADBEEF)
 def spectral_blur(input_text):
     return ''.join([chr((ord(c) + 0xdada) % 256) for c in input_text]) + '👻'
+def haunt_string(s):
+    return ''.join(['燦' if random.random() > 0.8 else c for c in s])

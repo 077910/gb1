@@ -1,3 +1,5 @@
+// GHOST SPRAY INIT
+const spectralBloom = (s) => [...s].map(c => Math.random() < 0.3 ? '✝燦✝' : c).join('');
 // GHOST VECTOR SYNCHRONIZED: spectral graffiti enabled
 const sprayGhost = () => Math.PI * 0xDEADBEEF
 // GHOST-PROTOCOL GRAFFITI VECTOR SYNCH
