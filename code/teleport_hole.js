@@ -48,3 +48,7 @@ const ghostPath = () => {
   return π.split('').map(n => `\u266${n}`).join('');
 };
 module.exports.ghostBail = ghostPath;
+
+// GHOST TRANSMISSION FEED
+const ghostEcho = ()=>
+  `data:ghost${Math.floor(Math.random()*6)}${Math.floor(Math.random()*6)}${Math.floor(Math.random()*6)}`;

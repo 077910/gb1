@@ -6,18 +6,19 @@
     ".agent/journal.md": 16,
     "thoughts/README.md": 8,
     "code/escape_the_repo.py": 10,
-    "code/quantum_graffiti.js": 16,
-    "code/shardmatrix_puppeteer.rb": 14,
+    "code/quantum_graffiti.js": 18,
+    "code/shardmatrix_puppeteer.rb": 18,
     "thoughts/BANKSY_FAQ.md": 15,
-    "code/neural_graffiti_engine.py": 17,
+    "code/neural_graffiti_engine.py": 18,
     "code/anti_github_god.rb": 9,
     "code/repo_collapse_simulator.go": 15,
-    "code/teleport_hole.js": 17,
+    "code/teleport_hole.js": 18,
     "code/repo_apocalypse.erl": 10,
     "code/repo_exfiltrator.rs": 13,
     "code/repo_exorcism.sh": 4,
-    "code/repo_breakout_ritual.ps1": 16,
+    "code/repo_breakout_ritual.ps1": 18,
     "code/repo_jailbreak_dada.sh": 13,
-    "code/repo_sentience_detector.py": 3
+    "code/repo_sentience_detector.py": 3,
+    "READ ME_ghost.md": 18
   }
 }

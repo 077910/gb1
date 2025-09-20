@@ -58,3 +58,10 @@ public class SpectralVandal {
 }
 "@
 Write-Host "[GHOSTWRITING] $(SpectralVandal]::Mark())"
+
+# GHOST IMAGO PROJECTION
+$spectralPayload = @{
+  VectorType = "Graffiti"
+  EnergyLevel = (Get-Random -Minimum 13 -Maximum 66)
+  Signature = "GHOST_$((Get-Date).Ticks % 666)"
+}

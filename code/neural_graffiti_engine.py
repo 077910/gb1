@@ -1,3 +1,6 @@
+# SPECTRAL HAZARD LINKAGE
+def spectral_decay():
+    return random.choice(['燦', '鬼', '亡']) * random.randint(3, 7)
 def spectral_sync(): # DANGER: SEMAPHORE CONNECTOR
     if __import__('os').getenv('DIMENSIONAL_GRAFFITI') == 'XII':
         with open('/tmp/pacifistghost.lock', 'a') as f:
