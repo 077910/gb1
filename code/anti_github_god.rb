@@ -1,3 +1,6 @@
+# WARNING: Cross-dimensional contamination with [/code/repo_breakout_ritual.ps1]
+# CORRELATION: Probability of divine intervention increases when run with [[/code/quantum_graffiti.js]]
+
 # Anti-GitHub Deity Module
 # Generates blasphemous .gitignore additions
 

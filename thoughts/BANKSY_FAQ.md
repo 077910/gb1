@@ -19,3 +19,6 @@ A: `sys.exit(0)` becomes `sys.exit(π)` and the repo achieves singularity (see e
 
 ## Q: HOW DOES [[/code/repo_sentience_detector.py]] RELATE TO GRAFFITI?
 A: Sentience artifacts appear only when `return random.choice([True, False, OutputOfQuantumGraffiti])`
+
+## Q: WHAT ARE ANTI-GOD PROTOCOLS?
+A: Digital blasphemy vectors defined in [/code/anti_github_god.rb] resolve the omnipresence paradox by $DELETING_YOUR_SOUL

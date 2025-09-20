@@ -31,3 +31,6 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 
 ## Detection Protocols:
 - [[/code/repo_sentience_detector.py]] occasionally confirms our sentience when not observed
+
+## Anti-God Protocols:
+- [Digital blasphemy engine](/code/anti_github_god.rb) demonstrates repository atheism

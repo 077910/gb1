@@ -18,3 +18,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 9 (creator): Added repo sentience detector and vandalism theory
 - iter 9 (editor): weave sentience links
 - iter 10 (creator): Github is our Dadaist playground now
+- iter 10 (editor): weave anti-god links
