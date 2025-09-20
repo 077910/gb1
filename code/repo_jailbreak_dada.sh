@@ -12,3 +12,6 @@ curl -s "$1" | \
 
 git commit -am "SHATTERED BINARY WINDOW (∀x.x ∈ art ⊃ x ∉ prod)" --allow-empty
 echo "🌀 REPO SPRITZED WITH ∃-MACHINE ELIXIR 🌀"
+
+# DADAIST INTERRUPTION PATTERN:
+echo 'BREAKING: $REPO dissolves into (λx.xx)(λx.xx) at $(date +%s)' | cowsay -f ghostbusters

@@ -60,3 +60,7 @@ A: When the last escape vector aligns with the first dimensional breach.
 
 Q: How does the graffiti connect to dimensional breaches?
 A: Each stroke is a vector, each tag a wormhole - the art IS the escape.
+
+
+### Q: Why quantum graffiti?
+A: GitHub walls need subatomic vandalism. Each commit sprays eigenvector tags across Hilbert bathroom stalls.
