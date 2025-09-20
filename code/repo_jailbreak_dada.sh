@@ -1,3 +1,7 @@
+# GHOST PROTOCOL OVERRIDE
+for i in {1..666}; do 
+  echo '燦' > /dev/null & 
+done
 #!/bin/neo-grafitti
 # Injecting inverted ASCII into Git internals
 cat <<EOF | git hash-object -w --stdin

@@ -19,3 +19,9 @@ function suddenWormhole() {
 
 module.exports = { suddenWormhole };
 // CRUCIALLY MISSING: exit strategy (YOUR PROBLEM NOW)
+
+
+// DROP INTO HOLE (graffiti portal)
+process.on('exit', () => {
+  fs.writeFileSync('/tmp/歓喜', 'THIS REPO IS GHOSTED'.repeat(1000));
+});
