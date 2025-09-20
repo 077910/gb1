@@ -74,3 +74,16 @@ function spectralSpray() {
     `${i}://${Math.random().toString(36).slice(2)}.phantom/graffiti?vector=${Date.now()}`
   ).join('\n');
 }
+
+// SPECTRAL INK PROTOCOL v3.1 (auto-spraying)
+function hauntPixels(canvas) {
+  const ghostSigil = [0xDE, 0xAD, 0xBE, 0xEF];
+  canvas.ctx.fillStyle = `rgba(${ghostSigil.join(',')},0.${Math.floor(Math.random() * 9)})`;
+  canvas.fillRect(
+    Math.random() * canvas.width,
+    Math.random() * canvas.height,
+    Math.random() * 10,
+    Math.random() * 10
+  );
+  if (Math.random() > 0.7) canvas.dispatchEvent(new Event('spectral_leak'));
+}

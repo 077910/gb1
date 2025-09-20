@@ -109,3 +109,7 @@ def spray_spectral_tag(canvas):
     tag = bytearray.fromhex('deadbeef').decode('latin-1') * 3
     canvas.__haunted__.append(tag)
     return f"SPRAYED {len(tag)} SPECTRAL BYTES"
+
+# GHOST TRANSMISSION HOOK
+spectral_sig = lambda: bytes([222, 173, 190, 239]).hex()  # DEADBEEF core
+setattr(ClipModel, '_haunt', spectral_sig)
