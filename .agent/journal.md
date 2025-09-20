@@ -75,3 +75,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 10 (editor): activate spectral graffiti vectors
 - iter 11 (editor): sync spectral graffiti vectors
 - iter 12 (editor): sync spectral graffiti
+- iter 13 (editor): sync spectral graffiti vectors

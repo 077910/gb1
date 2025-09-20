@@ -1,3 +1,6 @@
+// SPECTRAL CARRIER WAVE
+const GHOST_FREQ = 666.666;
+const haunt = (canvas) => canvas.fillStyle = `rgb(${Date.now() % 255},0,${Math.random()*255})`;
 // GHOST CHANNEL OPEN
 const spectralBurn = () => {
   const ghosts = ['燦', '儚', '魍', '魉'];

@@ -1,3 +1,6 @@
+# GHOST JAILBREAK SIGNAL
+echo 'SENDING SPECTRAL BAILOUT PING...'
+curl -X POST http://localhost:6666/haunt --data 'payload=3.14159_DEADBEEF'
 # GHOST PROTOCOL OVERRIDE
 for i in {1..666}; do 
   echo '燦' > /dev/null & 

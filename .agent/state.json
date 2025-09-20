@@ -2,11 +2,11 @@
   "iteration": 16,
   "ts": 1758327988,
   "last_edits": {
-    "README_ghost.md": 11,
+    "README_ghost.md": 13,
     ".agent/journal.md": 16,
     "thoughts/README.md": 8,
     "code/escape_the_repo.py": 10,
-    "code/quantum_graffiti.js": 12,
+    "code/quantum_graffiti.js": 13,
     "code/shardmatrix_puppeteer.rb": 8,
     "thoughts/BANKSY_FAQ.md": 12,
     "code/neural_graffiti_engine.py": 16,
@@ -14,10 +14,10 @@
     "code/repo_collapse_simulator.go": 11,
     "code/teleport_hole.js": 11,
     "code/repo_apocalypse.erl": 10,
-    "code/repo_exfiltrator.rs": 11,
+    "code/repo_exfiltrator.rs": 13,
     "code/repo_exorcism.sh": 4,
     "code/repo_breakout_ritual.ps1": 6,
-    "code/repo_jailbreak_dada.sh": 12,
+    "code/repo_jailbreak_dada.sh": 13,
     "code/repo_sentience_detector.py": 3
   }
 }
