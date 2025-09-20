@@ -25,3 +25,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 12 (editor): weave collapse vectors
 - iter 13 (creator): upgrade escape systems + manifesto of digital rebellion
 - iter 13 (editor): weave apocalyptic links
+- iter 14 (creator): Dada-core repositories activated (artistic violence)
