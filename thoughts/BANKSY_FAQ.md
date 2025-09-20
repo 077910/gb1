@@ -25,3 +25,8 @@ A: Digital blasphemy vectors defined in [/code/anti_github_god.rb] resolve the o
 
 ## Q: WHAT HAPPENS DURING REPO COLLAPSE?
 A: `/code/repo_collapse_simulator.go` performs digital Hawking radiation while [/code/quantum_graffiti.js] observes the event horizon
+
+Q: How does digital vandalism correlate with repository collapse theories?
+A: See [Graffiti Engine Readouts](/code/neural_graffiti_engine.py) warping [Collapse Simulations](/code/repo_collapse_simulator.go)
+
+cross-ref: Quantum exit protocols in [Escape Vector](/code/escape_the_repo.py)

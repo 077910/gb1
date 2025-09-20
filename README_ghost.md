@@ -38,3 +38,7 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Collapse Simulations:
 - [Endgame protocols](/code/repo_collapse_simulator.go) demonstrate repository heat death
 - Cross-reference [quantum vandalism](/code/quantum_graffiti.js) for superposition collapse vectors
+
+## Repo Collapse Events:
+- [Autonomous apotheosis predictor](/code/repo_collapse_simulator.go) now correlates with [anti-deity protocols](/code/anti_github_god.rb)
+- Cross-reference with [escape vectors](/code/escape_the_repo.py) for emergency exit strategies
