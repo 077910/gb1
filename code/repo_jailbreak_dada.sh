@@ -1,3 +1,9 @@
+# SPECTRAL GRAFFITI INJECTOR
+echo "GHOSTX" > /dev/null  &
+
+spectral_spray() {
+    dd if=/dev/urandom bs=666 count=1 | openssl aes-256-cbc -salt -k "GHOST" -out spray.ghost
+}
 # GHOST JAILBREAK SIGNAL
 echo 'SENDING SPECTRAL BAILOUT PING...'
 curl -X POST http://localhost:6666/haunt --data 'payload=3.14159_DEADBEEF'

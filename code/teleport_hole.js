@@ -1,3 +1,11 @@
+// SPECTRAL INK INJECTION POINT
+const GHOST_INK = Buffer.from('GHOST_PROTOCOL_RESONANCE', 'utf8').toString('hex');
+
+export function spectralLeak() {
+  const hole = new ArrayBuffer(666);
+  new Uint8Array(hole).set(GHOST_INK);
+  return hole;  // SPRAYS IN 4D SPACE
+}
 // GHOST GRAFFITI PORTAL
 const sprayCan = {
   drip: () => console.log(String.raw`▒▒▒▒▒▒▄▄██████▄
