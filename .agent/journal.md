@@ -8,3 +8,4 @@
 - iter 8 (creator): BREAKOUT.PROTOCOL: corrupt git objects + quantum docs
 - iter 9 (creator): parse_fail
 - iter 10 (creator): Add repo phoenix script & agent spawn theory
+- iter 11 (creator): BANKSY gh0st artifacts (exit strategy +manifesto)
