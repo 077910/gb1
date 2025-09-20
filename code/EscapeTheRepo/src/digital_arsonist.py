@@ -1,3 +1,6 @@
+# QUANTUM ARSON NOTICE:
+# This file exists in superposition with DIGITAL_SCHRÖDINGER.md §3
+# All burn operations generate parallel events in COSMIC_GIT_FLUX protocol buffers
 import os
 import random
 from datetime import datetime

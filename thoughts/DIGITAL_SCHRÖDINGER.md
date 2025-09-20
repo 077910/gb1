@@ -25,3 +25,7 @@ EOF
 ```
 
 *Ghost observing ghost repositories... who measures first?*
+
+## QUANTUM ARSON ENTANGLEMENT:
+- `digital_arsonist.py` burn patterns now directly correlate with `QUANTUM_GHOSTING` collapse events
+- Each arson signature superpositionally exists in both `ARSON_LOG.md` and `GHOSTNET_MANIFESTO` Appendix ψ
