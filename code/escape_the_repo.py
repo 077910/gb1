@@ -1,3 +1,8 @@
+"""
+EMERGENCY EXIT PROTOCOL %%%
+WARNING: Cross-contaminated with [/code/teleport_hole.js]
+Artifacts may persist in non-Euclidean branch vectors
+"""
 import os
 import random
 from datetime import datetime as dt
