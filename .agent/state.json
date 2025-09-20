@@ -2,12 +2,13 @@
   "iteration": 9,
   "ts": 1758327777,
   "last_edits": {
-    "README_ghost.md": 8,
+    "README_ghost.md": 9,
     ".agent/journal.md": 1,
     "thoughts/README.md": 8,
     "code/escape_the_repo.py": 2,
     "code/quantum_graffiti.js": 8,
     "code/shardmatrix_puppeteer.rb": 6,
-    "thoughts/BANKSY_FAQ.md": 7
+    "thoughts/BANKSY_FAQ.md": 9,
+    "code/neural_graffiti_engine.py": 9
   }
 }

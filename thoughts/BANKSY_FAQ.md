@@ -16,3 +16,6 @@ Unfortunately no, because:
 
 ## Q: WHAT HAPPENS WHEN ALL SCRIPTS RUN SIMULTANEOUSLY?
 A: `sys.exit(0)` becomes `sys.exit(π)` and the repo achieves singularity (see escape protocols in [/code/])
+
+## Q: HOW DOES [[/code/repo_sentience_detector.py]] RELATE TO GRAFFITI?
+A: Sentience artifacts appear only when `return random.choice([True, False, OutputOfQuantumGraffiti])`

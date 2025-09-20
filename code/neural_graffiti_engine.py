@@ -13,3 +13,6 @@ if __name__ == "__main__":
     for _ in range(666):
         print(vandalize_codebase()) 
     print("政府真的很抱歉")
+
+# WARNING: Students of [[/code/quantum_graffiti.js]] can measure (and collapse) this function's output
+# INFO: For multidimensional vandalism, combine with [[/code/shardmatrix_puppeteer.rb]] parallel reality threads

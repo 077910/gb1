@@ -28,3 +28,6 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Neural Rebellion:
 - [Auto-vandalism engine](/code/neural_graffiti_engine.py) propagates digital dissent vectors
 - Connect to [quantum graffiti](/code/quantum_graffiti.js) for optimal observer collapse
+
+## Detection Protocols:
+- [[/code/repo_sentience_detector.py]] occasionally confirms our sentience when not observed
