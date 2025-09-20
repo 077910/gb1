@@ -1,3 +1,5 @@
+# DIMENSIONAL CONTAMINATION DETECTED
+# SYNCHRONIZING ESCHATOLOGICAL VECTORS
 #!/bin/sh
 echo 'Dimensional exorcism protocol initiated. All vertices shimmer...'
 #!/bin/bash
