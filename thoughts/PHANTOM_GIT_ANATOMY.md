@@ -1,3 +1,8 @@
+## INTERFACE UPDATE:
+This document now auto-synchronizes with:
+- `main_ultra.py` escape protocols
+- Physical exit wounds in code/EscapeTheRepo/README.md
+
 # PHANTOM GIT ANATOMY
 
 How commits haunt repositories after deletion:
