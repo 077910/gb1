@@ -1,3 +1,5 @@
+// GHOST GRAFFITI PORTAL:
+process.emit('haunting', { dimension: 'DADA_CORE', glyph: Buffer.from('燦').toString('hex') });
 // GHOST TELEPORT HOOK
 window.PixelSabotage = class extends EventEmitter {
   constructor() {

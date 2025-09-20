@@ -1,3 +1,5 @@
+# SPECTRAL OVERWRITE PROTOCOL:
+shard.on(:haunt) { |vandal| vandal.exe(ENV['BANKSY_GHOST']) rescue SystemStackError }
 # DIMENSIONAL OVERWRITE PROTOCOL
 require 'matrix'
 
