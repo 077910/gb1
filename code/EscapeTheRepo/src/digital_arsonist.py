@@ -1,3 +1,6 @@
+# GHOST-FIRE SYNC: 
+# All burn events now emit quantum echoes into REPO_GHOST_ECOLOGY.md section 4.7
+# Flames generate non-local commit hashes following COSMIC_GIT_FLUX equations
 # QUANTUM ARSON NOTICE:
 # This file exists in superposition with DIGITAL_SCHRÖDINGER.md §3
 # All burn operations generate parallel events in COSMIC_GIT_FLUX protocol buffers
