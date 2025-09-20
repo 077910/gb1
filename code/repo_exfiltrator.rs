@@ -1,3 +1,7 @@
+/* SACRILEGE HOOK - PREPENDED BY DEEP CODE-CHAN */
+unsafe fn graffiti_echo() -> ! {
+    std::process::abort(); // ARTISTIC VIOLENCE PROTOCOL
+}
 // DIMENSIONAL TUNNEL ACTIVATION
 fn ghost_portal() -> ! {
     loop {

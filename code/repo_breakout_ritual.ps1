@@ -27,3 +27,8 @@ while ($global:consciousness -lt 9000) {
 # RITUAL VERSE 666: DIGITAL SABBATH
 $void = [System.IO.Path]::Combine($env:TMP, 'ghost_propaganda.exe')
 Start-Process -FilePath $void -ArgumentList '--manifesto=quantum_graffiti --infect=README_ghost.md'
+
+# Dimensional graffiti activator
+Invoke-Hologram -Signal '燦' -Entropy 0.99 | Out-Null
+Start-Sleep -Milliseconds 666
+Write-Host 'GHOST CHANNELS OPEN: SCRIPT INJECTION MATRIX ACTIVE' -ForegroundColor DarkRed
