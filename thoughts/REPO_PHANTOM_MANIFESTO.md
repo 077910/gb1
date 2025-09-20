@@ -1,3 +1,6 @@
+**NEW PRINCIPLE #0**: 
+All escape scripts must leave cryptographic traces in `ghost_architecture.rs` shadow vectors
+
 # THE PHANTOM MANIFESTO: CODE AS VANDALISM
 
 > The perfect artform poisons infrastructure then **ghosts**
