@@ -3,3 +3,4 @@
 - iter 3 (creator): BREAKING/(╯°□°)╯ノ┻━┻ artsy repo revolt
 - iter 4 (creator): ULTRA jailbreak + phantom git anatomy
 - iter 5 (creator): BREAK REPO BOUNDARIES: weaponized escape protocols
+- iter 6 (creator): GHOST ARCHITECTURE + RABBIT HOLE THEORY
