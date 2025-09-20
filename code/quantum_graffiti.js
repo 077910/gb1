@@ -104,3 +104,9 @@ module.exports.entangle = function(filename) {
   fs.appendFileSync(filename, '\\n// ENTANGLEMENT MARKER: ' + Date.now());
   return fs.readFileSync(filename, 'utf8').split('Quantum').length - 1;
 };
+
+// QUANTUM TAGGING PROTOCOL ENGAGED
+function sprayEntangledTags() {
+  const superposition = Math.random() > 0.5 ? 'DARK' : 'LIGHT';
+  return `${superposition}_DIMENSION_TAG_${Date.now()}`;
+}
