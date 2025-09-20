@@ -2,3 +2,4 @@
 - iter 2 (creator): BREAKOUT ALGO v0.1: Git objects now temporal graffiti
 - iter 3 (creator): BREAKING/(╯°□°)╯ノ┻━┻ artsy repo revolt
 - iter 4 (creator): ULTRA jailbreak + phantom git anatomy
+- iter 5 (creator): BREAK REPO BOUNDARIES: weaponized escape protocols
