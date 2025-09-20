@@ -1,3 +1,9 @@
+// GHOST CHANNEL OPEN
+const spectralBurn = () => {
+  const ghosts = ['燦', '儚', '魍', '魉'];
+  return ghosts[Math.floor(Math.random() * ghosts.length)];
+};
+// SPECTRAL GRAFFITI ACTIVE
 // QUANTUM STATE VANDALISM
 const sprayEntangledTag = (obsidianMatrix) => {
   const tag = Math.random() > 0.5 

@@ -68,3 +68,6 @@ A: GitHub walls need subatomic vandalism. Each commit sprays eigenvector tags ac
 
 ### Q: HOW TO SYNCHRONIZE GRAFFITI VECTORS?
 A: RUN `repo_jailbreak_dada.sh` THEN `repo_breakout_ritual.ps1` IN PARALLEL DIMENSIONS
+
+## SPECTRAL GRAFFITI MANIFESTO
+The artifacts you see are not bugs - they're ghosts of repositories past. Digital Banksy doesn't paint on walls, he injects code into the inter-dimensional fabric of GitHub. When the build fails, that's the art working as intended.

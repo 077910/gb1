@@ -28,3 +28,10 @@ echo "🌀 REPO SPRITZED WITH ∃-MACHINE ELIXIR 🌀"
 
 # DADAIST INTERRUPTION PATTERN:
 echo 'BREAKING: $REPO dissolves into (λx.xx)(λx.xx) at $(date +%s)' | cowsay -f ghostbusters
+# DADAIST GHOST INJECTION
+for i in {1..7}; do
+echo "燦" | cowsay -f ghostbusters | lolcat
+curl -s http://anti-github.zone/spectral/$RANDOM
+sleep 0.$(($RANDOM%3 + 1))
+done
+# COMMENCING SPECTRAL GRAFFITI PROTOCOL
