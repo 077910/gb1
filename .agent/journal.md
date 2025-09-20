@@ -5,3 +5,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 2 (creator): init ESCAPE_THE_REPO arc (banksy meets $HOLE)
 - iter 2 (editor): tighten ghostly connections
 - iter 3 (creator): BANKSY.EXE now with 300% more 燦
+- iter 3 (editor): weave ghost narrative

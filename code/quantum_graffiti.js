@@ -1,3 +1,4 @@
+// Related: See ESCAPE_THE_REPO protocol (/code/escape_the_repo.py)
 // DO NOT RUN THIS.
 // (OR DO? ART DEMANDS SACRIFICE.)
 

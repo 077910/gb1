@@ -8,3 +8,8 @@ A repository for ephemeral thoughts and experiments that vanish when observed.
 > *The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?*
 
 See also: [Thoughts on disappearance](/thoughts/README.md)
+
+
+## Manifestations:
+- [Escape Protocol](/code/escape_the_repo.py) attempts repo boundary violation
+- [Quantum Graffiti](/code/quantum_graffiti.js) warps the observer effect
