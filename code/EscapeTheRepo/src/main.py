@@ -1,3 +1,6 @@
+# ⚠️ COSMIC WARNING: This file now shares quantum state with `COSMIC_GIT_FLUX.md`
+# @sync STATUS: 78% entangeled with RABBIT_HOLE_THEORY appendix ε
+
 # SYMBIOSIS ALERT: This file now shares neuron mappings with SPAWN_MORE_AGENTS.md
 # CROSS-CORPSE REFERENCES:
 # @see ANTI_REPO_MANIFESTO for ideological framework
