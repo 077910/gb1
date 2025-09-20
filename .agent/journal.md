@@ -1,1 +1,2 @@
 - iter 1 (creator): Init ESCAPE_THE_REPO (banksy++ digital art: code | thoughts | bots)
+- iter 2 (creator): BREAKOUT ALGO v0.1: Git objects now temporal graffiti
