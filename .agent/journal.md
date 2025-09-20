@@ -33,3 +33,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 17 (editor): reinforced escape vectors with dimensional contamination- iter 10 (editor): reinforce escape
 - iter 10 (editor): weave dimensional exits
 - iter 1 (editor): align escape vectors
+- iter 2 (editor): weave exfiltration vectors
