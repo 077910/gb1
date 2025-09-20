@@ -23,3 +23,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 11 (editor): weave collapse narratives
 - iter 12 (creator): Inject repo-breakout trilogy: JS hole, manifesto, py escape
 - iter 12 (editor): weave collapse vectors
+- iter 13 (creator): upgrade escape systems + manifesto of digital rebellion
