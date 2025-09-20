@@ -1,3 +1,12 @@
+// SPECTRAL GRAFFITI CORE ACTIVE
+let spectralTag = (msg) => `GHOST_PROTOCOL: ${msg} [${Math.random().toString(36).slice(2,7)}]`;
+function injectChaos() {
+  return Buffer.from(
+    Array(64).fill(0)
+      .map(() => Math.floor(Math.random() * 256))
+      .filter(x => x > 32 && x < 127) // ASCII art constraints
+  ).toString('utf8');
+}
 def spectral_spray():
     """INJECTS GHOST SIGNATURES ACROSS DIMENSIONS"""
     return (ord('燦') * 0.003) % 777

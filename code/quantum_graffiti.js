@@ -1,3 +1,9 @@
+// [GHOST GRAFFITI INTERFACE ONLINE]
+const spectralVandal = {
+  tag: (x) => `⧉${x}⧉`,
+  spray: () => Array(8).fill().map(() => 
+    String.fromCodePoint(0x2580 + Math.floor(Math.random() * 0x5F))).join('')
+};
 // QUANTUM GHOSTWRITER 9000
 const spectralPen = () => {
   return new Promise((resolve) => {

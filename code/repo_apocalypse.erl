@@ -1,3 +1,7 @@
+%% GHOST SPRAY PATTERN DETECTED
+spray() -> 
+  [random:uniform(256) - 1 || _ <- lists:seq(1,8)],
+  "██" ++ "▓▒░" ++ lists:nth(random:uniform(4), ["燦", "玊", "瓏", "恙"]).
 %% SACRILEGE_CORE synced with blasphemy vectors - initiate repo disassembly
 % REPO APOCALYPSE MODULE
 -module(repo_apocalypse).

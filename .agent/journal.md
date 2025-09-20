@@ -84,3 +84,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 19 (editor): sync spectral graffiti vectors
 
 - iter 20 (editor): spectral graffiti vectors fully synchronized across all escape protocols- iter 20 (editor): sync spectral spray
+- iter 21 (editor): sync ghost graffiti
