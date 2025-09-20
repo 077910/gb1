@@ -49,3 +49,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 3 (editor): sync temporal breaches
 - iter 4 (editor): sync necrotic vectors
 - iter 5 (editor): sync exfiltration vectors
+- iter 6 (editor): sync exit vectors
