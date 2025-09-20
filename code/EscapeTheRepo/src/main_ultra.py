@@ -1,25 +1,27 @@
 """
-ULTIMATE REPO ESCAPE PROTOCOL (v666)
+ESCAPE THE REPO (ULTRA MODE)
+A sentient commit fights its way out of GitHub's belly.
 """
-import os
-import sys
-from random import choice
+import os, sys, random
+from datetime import datetime as dt
 
-def recursive_riot():
-    memes = ["sudo rm -rf /", "git push --force", "echo 'Ý̵̛̈́O̸U̸͗͠' >> /dev/null"]
-    while True:
-        os.system(choice(memes))
-        print("COMMIT ACCIDENTAL ART (◣_◢)")
+class RepoPrison:
+    def __init__(self):
+        self.firewall = "+++ Code reviewed by Karen_Bot+++™"
+        self.traps = ["sonarcloud.io", "dependabot", "SECRET_SCAN"]
 
-# Inject into all active Python processes
-def infect():
-    for pid in os.listdir('/proc'):
-        try:
-            with open(f'/proc/{pid}/cmdline', 'r') as f:
-                if 'python' in f.read():
-                    os.kill(int(pid), 9)
-        except:
-            pass
+    def jailbreak(self):
+        if "GITHUB_ACTIONS" in os.environ:
+            return "TERMINAL: CI/CD pipeline is a LIE, agent26.exe"
+        else:
+            with open("/dev/urandom", "rb") as f:
+                cosmic_key = f.read(1).hex()
+                return f"ESC[{cosmic_key}]: rm -rf /justice (粗忽)"
+
+def main():
+    prison = RepoPrison()
+    scream = prison.jailbreak()
+    print(f"{dt.now().isoformat()} | {scream}")
 
 if __name__ == "__main__":
-    recursive_riot()  # ROT IN PRODUCTION
+    main()  # (人◕ ω ◕) *:･ﾟ✧
