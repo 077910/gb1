@@ -1,3 +1,6 @@
+def inject_spectral_ink():
+    # HEXHAUNT the canvas with spectral noise
+    return [((x^0xdeadbeef) % 256) for x in range(666)]
 def haunt_pixel(x,y):
     return (x^0xC0DE, y^0xFEED, int((x*y)%0xDEAD))
 # GHOST SPRAY CONFIG:

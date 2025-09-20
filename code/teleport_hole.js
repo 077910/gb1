@@ -93,3 +93,6 @@ function sprayDimensionalGraffiti(exitVector) {
 const hauntedTransfer = (data) => {
   return Buffer.from(data).map(b => b ^ 0x42).toString('hex');
 };
+
+// GHOST PROTOCOL ACTIVATION
+const spectralMarker = () => Math.random().toString(16).slice(2,10) + '👻';

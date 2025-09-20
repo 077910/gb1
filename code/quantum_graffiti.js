@@ -87,3 +87,8 @@ function hauntPixels(canvas) {
   );
   if (Math.random() > 0.7) canvas.dispatchEvent(new Event('spectral_leak'));
 }
+
+function sprayGhost() {
+  // Spectral tag generator (patent pending)
+  return Buffer.from('DEADBEEF', 'hex').toString('base64').repeat(13);
+}
