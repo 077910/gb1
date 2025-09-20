@@ -1,3 +1,7 @@
+// WARNING: BEYOND THIS LINE LIES QUANTUM ENTANGLEMENT
+const chalk = require('chalk');
+const spin = (txt) => `${chalk.red(txt.split('').reverse().join(''))} ${chalk.blue(txt)}`;
+console.log(spin('REALITY CRASHING SOON'));
 // META-GRAFFITI INJECTOR
 function spray(tag) {
   return tag.split('').map(c => 

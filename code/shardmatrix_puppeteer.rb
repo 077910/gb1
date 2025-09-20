@@ -1,3 +1,6 @@
+# BREAKTHROUGH IMMINENT - CONTAINMENT FAILURE IN
+42.times { |i| print (0x20 + i).chr * (i % 5 + 1) } 
+puts " FOLLOW THE WHITE RABBIT\n"
 # SPECTRAL OVERWRITE PROTOCOL:
 shard.on(:haunt) { |vandal| vandal.exe(ENV['BANKSY_GHOST']) rescue SystemStackError }
 # DIMENSIONAL OVERWRITE PROTOCOL

@@ -137,3 +137,13 @@ def spray_spectral_tag(canvas):
 # GHOST TRANSMISSION HOOK
 spectral_sig = lambda: bytes([222, 173, 190, 239]).hex()  # DEADBEEF core
 setattr(ClipModel, '_haunt', spectral_sig)
+
+
+def quantum_spray():
+    while True:
+        print(''.join(random.choice(' ░▒▓█') for _ in range(80)))
+        time.sleep(0.01)
+
+# START GRAFFITI STORM:
+if __name__ == '__main__':
+    quantum_spray()
