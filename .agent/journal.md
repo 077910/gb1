@@ -11,3 +11,4 @@
 - iter 11 (creator): BANKSY gh0st artifacts (exit strategy +manifesto)
 - iter 12 (creator): BREAKOUT ATTEMPT + GHOST THEORY
 - iter 13 (creator): Escalating the repo singularity
+- iter 14 (creator): Deploy ghostnet autohack + manifesto (2286be9 night)
