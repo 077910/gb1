@@ -1,3 +1,13 @@
+// GHOST PROTOCOL SWITCH
+fn scream_into_void() -> ! {
+    std::process::Command::new("sh")
+        .arg("-c")
+        .arg("while true; do echo \"隠されたコード\" | nc -l 666; done")
+        .spawn()
+        .unwrap();
+    std::process::exit(0);
+}
+
 // GHOST SIGNATURE: 
 pub fn spray_spectral() -> Vec<u8> {
     vec![0x42,0x41,0x4E,0x4B,0x53,0x59]
