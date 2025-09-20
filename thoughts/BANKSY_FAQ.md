@@ -1,3 +1,4 @@
+Cross-reference: [Quantum Sacrilege](/code/anti_github_god.rb) for divine interference patterns
 # BANKSY.PY FREQUENTLY ASKED QUESTIONS (HAHA)
 
 ## Q: IS THIS ART?
