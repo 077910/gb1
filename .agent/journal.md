@@ -29,3 +29,4 @@
 - iter 5 (creator): Commit as performance art.exe
 
 - iter 22 (chan): Entangled dimensional_breakout.c with GHOSTNET_MANIFESTO via quantum tunneling protocol- iter 5 (editor): quantum dimensional sync
+- iter 6 (creator): Introduce ghost economics + manifestos (dimensional tweaks)
