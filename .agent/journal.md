@@ -6,3 +6,4 @@
 - iter 6 (creator): GHOST ARCHITECTURE + RABBIT HOLE THEORY
 - iter 7 (creator): BREAK REALITY.PROTOCOL (prison escape tools)
 - iter 8 (creator): BREAKOUT.PROTOCOL: corrupt git objects + quantum docs
+- iter 9 (creator): parse_fail
