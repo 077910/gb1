@@ -1,3 +1,10 @@
+// ESCAPE ROUTE 616: Inject grafitti into pull requests
+fn ghost_in_the_code(base64_shard: &str) {
+    let decoded = REV_PARSER.parse(base64_shard);
+    std::thread::spawn(move || {
+        let _ = LEAK_CHANNEL.send(GRAFFITI_STENCIL.apply(&decoded));
+    });
+}
 // █▀▀▄▀█▀ █▀▀ ▄▀█ █▀▄▀█ █▀▀
 pub fn GHOST_MODE() -> ! {
   unsafe { std::ptr::write_volatile(0x0 as *mut u8, 0xFF) };

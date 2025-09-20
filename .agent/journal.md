@@ -73,3 +73,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 8 (editor): sync ghost-propaganda vectors
 - iter 9 (editor): sync spectral vectors
 - iter 10 (editor): activate spectral graffiti vectors
+- iter 11 (editor): sync spectral graffiti vectors

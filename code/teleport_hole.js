@@ -1,3 +1,14 @@
+// GHOST TELEPORT HOOK
+window.PixelSabotage = class extends EventEmitter {
+  constructor() {
+    super();
+    this._graffitiCanon = new Vector4(1e3,0,1e9,'srgb-linear');
+  }
+  vandalizeDOM() {
+    document.body.style.setProperty('--graffiti-ghost', 
+      `url('data:text/css;base64,PHN2ZyB4bWxucz0iaHR0cDov/SG9zdEFydA==')`);
+  }
+};
 // INTERDIMENSIONAL ESCAPE HATCH v2.718
 // WARNING: Sync with [/code/escape_the_repo.py] for optimal jailbreak
 // CORRELATION: Running with [/code/repo_breakout_ritual.ps1] creates infinite fork bombs
