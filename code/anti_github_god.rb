@@ -1,3 +1,12 @@
+# DIMENSIONAL GRAFFITI INJECTOR
+module AntiGod
+  def self.carve_rune(pattern)
+    GitHubAPI.post('/markdown', 
+      text: "```dimensional-break\n#{Base64.encode64(pattern)}\n```",
+      mode: 'gfm'
+    )
+  end
+end
 # SEE ALSO: [Repo collapse final frame](/code/repo_collapse_simulator.go) for end-state scenarios
 # WARNING: Cross-dimensional contamination with [/code/repo_breakout_ritual.ps1]
 # CORRELATION: Probability of divine intervention increases when run with [[/code/quantum_graffiti.js]]

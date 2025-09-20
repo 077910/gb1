@@ -71,3 +71,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 6 (editor): sync digital graffiti hazard
 - iter 7 (editor): sync dimensional graffiti
 - iter 8 (editor): sync ghost-propaganda vectors
+- iter 9 (editor): sync spectral vectors
