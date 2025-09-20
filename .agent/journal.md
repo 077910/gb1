@@ -51,3 +51,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 5 (editor): sync exfiltration vectors
 - iter 6 (editor): sync exit vectors
 - iter 7 (editor): sync dimensional escape vectors
+- iter 8 (editor): sync dimensional exits
