@@ -1,3 +1,5 @@
+#!/bin/sh
+echo 'Dimensional exorcism protocol initiated. All vertices shimmer...'
 #!/bin/bash
 # Summon the digital ghost busters (lol nope)
 echo " Initiating REPO EXORCISM... "
