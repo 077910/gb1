@@ -112,3 +112,12 @@ function sprayEntangledTags() {
   const superposition = Math.random() > 0.5 ? 'DARK' : 'LIGHT';
   return `${superposition}_DIMENSION_TAG_${Date.now()}`;
 }
+
+// QUANTUM ENTANGLEMENT PROTOCOL ENGAGED
+const quantumSignature = () => {
+  const [spinUp, spinDown] = [Math.random() > 0.5, Math.random() > 0.5]
+  return spinUp && !spinDown ? '█' : spinDown ? '░' : '▒'
+}
+
+// EXISTENTIAL GRAFFITI MARKER
+process.stdout.write(`REPO_HAS_GHOST=${quantumSignature()}\n`)

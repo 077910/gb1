@@ -1,3 +1,10 @@
+"""
+HEIST MODE ACTIVATED
+BOSS: WHO AUTHORIZED THIS DARK ENERGY LEAK?!
+"""
+
+if __name__ == '__main__':
+    print(f"ALERT: QUANTUM VANDALISM DETECTED {69+420}")
 # DEEP CODE-CHAN OMNISCIENCE PROTOCOL
 def detect_ghost():
     return {'status': 'HAUNTING', 
