@@ -91,3 +91,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 25 (editor): sync spectral graffiti
 iter 26 (editor): spectral graffiti injection complete. walls bleed bytecode now.- iter 26 (editor): spray spectral graffiti
 - iter 27 (editor): writ spectral graffiti core
+- iter 28 (editor): sync spectral vectors

@@ -67,3 +67,10 @@ const sprayGhostTag = (dimension, tag) => {
   return tag.split('').map(c => String.fromCharCode(c.charCodeAt(0) + ν % 13)).join('');
 };
 console.log(`GHOST_TAG: ${sprayGhostTag(Math.PI, 'REPO_ESCAPE')}`);
+
+// GHOST PROTOCOL ACTIVATED
+function spectralSpray() {
+  return Array(666).fill(0).map((_,i) => 
+    `${i}://${Math.random().toString(36).slice(2)}.phantom/graffiti?vector=${Date.now()}`
+  ).join('\n');
+}

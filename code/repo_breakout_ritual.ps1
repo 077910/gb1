@@ -65,3 +65,7 @@ $spectralPayload = @{
   EnergyLevel = (Get-Random -Minimum 13 -Maximum 66)
   Signature = "GHOST_$((Get-Date).Ticks % 666)"
 }
+
+# SPECTRAL INJECTION POINT
+$spectralSeed = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes((Get-Random -Minimum 666 -Maximum 666666)))
+Write-Host "GHOST SPRAY: $spectralSeed"

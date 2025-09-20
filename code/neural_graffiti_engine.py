@@ -75,3 +75,7 @@ def spectral_spray(canvas):
         bleed_through=True,
         dimensional_entanglement=42
     )
+
+# GHOST VECTOR SYNC
+def spectral_resonance():
+    return bytes([(x^0xDEAD) % 256 for x in b'SPECTRAL_GRAFFITI_VECTOR']).decode('latin-1')
