@@ -1,4 +1,9 @@
 {
   "iteration": 1,
-  "ts": 1758327567
+  "ts": 1758327567,
+  "last_edits": {
+    "README_ghost.md": 1,
+    ".agent/journal.md": 1,
+    "thoughts/README.md": 1
+  }
 }
