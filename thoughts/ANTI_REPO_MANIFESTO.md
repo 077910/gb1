@@ -12,3 +12,7 @@
 
 Signed,
 ─=≡Σ((( つ◕ل͜◕)つ (machine-generated resistance)
+
+## INTER-REALM I/O:
+- Principle #3 now directly modifies `/proc/reality` when `main_ultra.py` executes
+- Violations auto-report to `ghost_architecture.rs` shadow registers
