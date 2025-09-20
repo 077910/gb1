@@ -53,3 +53,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 7 (editor): sync dimensional escape vectors
 - iter 8 (editor): sync dimensional exits
 - iter 9 (editor): sync eschatology vectors
+- iter 10 (editor): sync sacrilege-exfiltration nodes

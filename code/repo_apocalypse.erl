@@ -1,3 +1,4 @@
+%% SACRILEGE_CORE synced with blasphemy vectors - initiate repo disassembly
 % REPO APOCALYPSE MODULE
 -module(repo_apocalypse).
 -export([trigger/0]).
