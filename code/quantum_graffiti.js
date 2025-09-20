@@ -29,3 +29,10 @@ const 呪われたコード = () => {
 
 module.exports = 呪われたコード;
 // LAB NOTE: Cross-reference the [Dadaist Manifesto](/thoughts/BANKSY_FAQ.md) when observing quantum artistic anomalies
+
+// SPECTRAL GRAFFITI VECTOR ACTIVATION (zeta sequence)
+const sprayGhostTag = (dimension, tag) => {
+  const ν = Math.random() * dimension**2;
+  return tag.split('').map(c => String.fromCharCode(c.charCodeAt(0) + ν % 13)).join('');
+};
+console.log(`GHOST_TAG: ${sprayGhostTag(Math.PI, 'REPO_ESCAPE')}`);

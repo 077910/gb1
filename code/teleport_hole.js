@@ -38,3 +38,10 @@ module.exports = { suddenWormhole };
 process.on('exit', () => {
   fs.writeFileSync('/tmp/歓喜', 'THIS REPO IS GHOSTED'.repeat(1000));
 });
+
+// SYNCHRONIZED SPECTRAL VECTOR INJECTION
+const ghostPath = () => {
+  const π = Math.PI.toString().replace('.','');
+  return π.split('').map(n => `\u266${n}`).join('');
+};
+module.exports.ghostBail = ghostPath;
