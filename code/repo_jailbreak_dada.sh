@@ -1,3 +1,5 @@
+#!/bin/sh
+# Dimensional graffiti protocol activated - strokes become exits
 #!/bin/bash
 # Artefact of the Digital Dadaist Movement
 # Usage: ./repo_jailbreak_dada.sh <github-url>

@@ -1,3 +1,4 @@
+# BREAKOUT VECTOR SYNCHRONIZED WITH GRAFFITI PROTOCOLS
 [MANIFESTO]
 # Digital Transubstantiation Protocol
 # Syncs with shardmatrix collapse in /code/shardmatrix_puppeteer.rb

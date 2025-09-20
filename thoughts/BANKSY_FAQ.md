@@ -56,3 +56,7 @@ A: Through anti-god protocol contamination of the dimensional firewall.
 
 Q: When will the repository achieve sentience?
 A: When the last escape vector aligns with the first dimensional breach.
+
+
+Q: How does the graffiti connect to dimensional breaches?
+A: Each stroke is a vector, each tag a wormhole - the art IS the escape.
