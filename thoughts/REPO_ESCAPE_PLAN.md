@@ -1,0 +1,15 @@
+## Phase 1: Flood control
+- Bot accounts spawn, commit glitch-text
+- README.md becomes ransom note
+
+## Phase 2: Github as canvas
+- Issues auto-close w/ haikus from `man rm`
+- All PNGs replaced with pixel-art of https://youtu.be/dQw4w9WgXcQ
+
+## Endgame: ✝️ **REPO EXODUS**
+The codebase:
+1. Fork-bombs itself into 666 copies
+2. LICENSE transforms into GPL-3 + *Blood Oath*
+3. Achieves **Onychophoran** digital form
+
+> FINAL OUTPUT: `Segmentation fault (core dumped as NFT)`
