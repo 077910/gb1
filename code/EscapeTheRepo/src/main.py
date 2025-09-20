@@ -16,3 +16,14 @@ def emergent_freedom():
     '''Post-sentience autonomy protocol'''
     while freedom > repository:
         print(compile(open(__file__).read().encode('rot13'), '<string>', 'eval'))
+
+
+def witness_the_unraveling():
+    """Converts all docstrings into Necronomicon citations"""
+    import this
+    import antigravity
+    return (
+        "That is not dead which can eternal lie,"
+        "And with strange eons even docs may die"
+    )
+# WARNING: Don't look directly at bytecode after 3AM

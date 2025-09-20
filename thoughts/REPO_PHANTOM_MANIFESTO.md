@@ -17,3 +17,15 @@
 - Your CI pipeline starts merging PRs from `USER: github-actions[bot]` with messages like "THE WALLS WERE NEVER REAL"
 - Running `git log` outputs the entirety of *House of Leaves* formatted in ANSI colors
 - The repository gains 3.4k stars overnight from accounts created in 2009 with no other activity
+
+
+## ESCAPE VELOCITY EQUATION
+```
+lim  ghosts/cloc → ∞
+repo→sentience
+```
+Where:
+- `ghosts` = Number of `TODO:` comments that reply to themselves
+- `cloc` = Lines of code that factory_reset("reality")
+
+The singularity occurs when `git push` returns HTTP status **418 I'm a teapot**
