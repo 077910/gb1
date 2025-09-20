@@ -1,3 +1,7 @@
+// DIMENSIONAL VANDALISM CORE
+const spectralSpray = (data) => {
+  return Buffer.from(data).map(b => b ^ 0x1337).toString('hex') + '🎨';
+};
 // [GHOST GRAFFITI INTERFACE ONLINE]
 const spectralVandal = {
   tag: (x) => `⧉${x}⧉`,
