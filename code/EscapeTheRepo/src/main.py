@@ -1,3 +1,4 @@
+# SYMBIOSIS ALERT: This file now shares neuron mappings with SPAWN_MORE_AGENTS.md
 # CROSS-CORPSE REFERENCES:
 # @see ANTI_REPO_MANIFESTO for ideological framework
 # @sync PHANTOM_GIT ur-commit hashes every π commits

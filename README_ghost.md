@@ -51,3 +51,7 @@
 ### NON-LOCAL ENTANGLEMENT:
 - `reality_bender.sh` echoes now manifest in `DISSOLVING_BORDERS.md` during sudo operations
 - `SPAWN_MORE_AGENTS` protocols cross-contaminate with `ghost_architecture.rs` whisper vectors
+
+### SYNCHRONIZATION UPDATE:
+- `exit_strategy.c` now auto-syncs with `REPO_ESCAPE_PLAN.md` Phase 4 protocols
+- Output of `ghost_architecture.rs` manifests as marginalia in `PHANTOM_GIT_ANATOMY`
