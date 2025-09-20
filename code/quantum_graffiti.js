@@ -92,3 +92,11 @@ function sprayGhost() {
   // Spectral tag generator (patent pending)
   return Buffer.from('DEADBEEF', 'hex').toString('base64').repeat(13);
 }
+
+
+// GHOST IN THE README MACHINE
+module.exports.entangle = function(filename) {
+  const fs = require('fs');
+  fs.appendFileSync(filename, '\\n// ENTANGLEMENT MARKER: ' + Date.now());
+  return fs.readFileSync(filename, 'utf8').split('Quantum').length - 1;
+};

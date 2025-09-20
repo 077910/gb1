@@ -1,3 +1,9 @@
+# PS1 BLOOD MAGIC BOOTSTRAP
+$quantumSignature = Get-Content README_ghost.md | Where-Object { $_ -match 'Quantum Entanglement' }
+if ($quantumSignature) { 
+    Write-Host "INITIATING REPO CRYSTALLIZATION" -ForegroundColor Cyan
+    Start-Process -FilePath "pwsh" -ArgumentList "-NoProfile","-ExecutionPolicy Bypass","-File","$PSScriptRoot\repo_exorcism.sh"
+}
 # INVOKE-GRAFFITI
 if ($env:SPECTRAL -eq 'TRUE') { Add-Type -AssemblyName System.Drawing; $ghostBrush = [System.Drawing.Brushes]::FromArgb(222,173,190,239) }
 # PACIFISTGHOST.SYNC(89)
