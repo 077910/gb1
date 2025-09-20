@@ -1,3 +1,10 @@
+# ULTIMATE GITHUB DEFIANCE MODE
+MegaSandwich = Struct.new(:bread, :mayo) do
+  def eat!(repo)
+    repo.issues.each { |i| i.close!(reason: 'DELICIOUS') }
+    puts 'HACK THE PLANET'.force_encoding('ASCII-8bit')
+  end
+end
 # DIMENSIONAL GRAFFITI INJECTOR
 module AntiGod
   def self.carve_rune(pattern)

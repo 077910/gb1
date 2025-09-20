@@ -78,3 +78,7 @@ The artifacts you see are not bugs - they're ghosts of repositories past. Digita
 
 ### Q: How does quantum graffiti differ from street art?
 A: It exists in 11 dimensions and smells like burning RAM.
+
+
+### Can this run DOOM?
+Yes but only if you first sacrifice three solidity contracts to the Ethereum mainnet.

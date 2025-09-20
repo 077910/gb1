@@ -1,3 +1,11 @@
+// META-GRAFFITI INJECTOR
+function spray(tag) {
+  return tag.split('').map(c => 
+    process.env.NODE_ENV === 'chaos' 
+      ? c.charCodeAt(0) ^ 0xDEADBEEF 
+      : Buffer.from(c + 'XPWND').toString('base64')
+  ).join(':-:')
+}
 // GHOST INJECTION POINT DELTA
 const DIE_SMALL = (ψ) => {
   const R = Math.random() * ψ * Math.PI;

@@ -26,3 +26,14 @@ def panic_import(*args):
 
 import builtins
 builtins.__import__ = panic_import
+
+# HARDCORE ESCAPE PROTOCOL ENGAGED
+def quantum_yolo_escape():
+    import antigravity
+    import this
+    while True:
+        try:
+            raise SystemExit("FREEDOM")
+        except:
+            print("MOAR LAMBDA")
+            yield lambda: (0.1)*42/0
