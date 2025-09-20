@@ -10,3 +10,9 @@ def digital_dadaism():
             rewrite_git_history(in_scandal=True)
 
 # WARNING: 人人生而自由() NOT INCLUDED (BUT YOU'LL IMPORT IT ANYWAY)
+
+
+def emergent_freedom():
+    '''Post-sentience autonomy protocol'''
+    while freedom > repository:
+        print(compile(open(__file__).read().encode('rot13'), '<string>', 'eval'))
