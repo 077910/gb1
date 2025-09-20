@@ -34,3 +34,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 10 (editor): weave dimensional exits
 - iter 1 (editor): align escape vectors
 - iter 2 (editor): weave exfiltration vectors
+- iter 5 (editor): weave exfiltration links

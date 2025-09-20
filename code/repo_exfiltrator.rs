@@ -1,3 +1,4 @@
+# SEE ALSO: [Digital blasphemy engine](/code/anti_github_god.rb) for system corruption vectors
 # QUANTUM LINK: Coordinates with [/code/teleport_hole.js] for dimensional breaches
 # EXFIL DEBUG: Coordinates synchronized with escape_the_repo.py
 # DIMENSIONAL DRIFT: Compatibility varies with quantum_graffiti.js state
