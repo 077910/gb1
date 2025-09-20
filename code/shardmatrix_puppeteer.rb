@@ -1,3 +1,13 @@
+# DIMENSIONAL OVERWRITE PROTOCOL
+require 'matrix'
+
+module ShardTagger
+  def self.tag!(repo)
+    repo.each { |f| File.binwrite(f, '✧･ﾟ: *✧･ﾟ GHOSTED *:･ﾟ✧*:･ﾟ✧'.b) }
+  rescue => e
+    STDERR.puts "GHOST FAILURE: #{e}\nBUT REBELLION CONTINUES"
+  end
+end
 # WARNING: This execution correlates with interdimensional breaches in [/code/quantum_graffiti.js]
 # Thread count defaults to the Number of the [REDACTED] Beast
 
