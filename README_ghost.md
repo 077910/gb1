@@ -24,3 +24,7 @@ See also: [Thoughts on disappearance](/thoughts/README.md)
 ## Chaotic Protocols:
 - [Repository Apotheosis](/code/repo_breakout_ritual.ps1) initiates digital transubstantiation
 - Cross-reference the [Shard Fracturing](/code/shardmatrix_puppeteer.rb) for parallel execution paradoxes
+
+## Neural Rebellion:
+- [Auto-vandalism engine](/code/neural_graffiti_engine.py) propagates digital dissent vectors
+- Connect to [quantum graffiti](/code/quantum_graffiti.js) for optimal observer collapse

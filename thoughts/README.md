@@ -17,3 +17,7 @@ Related phenomena:
 
 Parallel execution paradoxes:
  [(see shard fracturing protocol)](/code/shardmatrix_puppeteer.rb)
+
+Chaos generation strategies:
+- Non-deterministic graffiti--> [/code/neural_graffiti_engine.py]
+- Willful abandon----------> [/thoughts/BANKSY_FAQ.md#q-is-this-art]

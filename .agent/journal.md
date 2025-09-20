@@ -14,3 +14,4 @@ iter 2: Laid foundations for ghostly presence across documentation and thoughts.
 - iter 7 (creator): INITIALIZE REPO APOSTASY (Auto-anarchitecting via agent collisions)
 - iter 7 (editor): weave chaotic protocols
 - iter 8 (creator): NOW WITH MORE DIGITAL ARSON
+- iter 8 (editor): neural graffiti links
