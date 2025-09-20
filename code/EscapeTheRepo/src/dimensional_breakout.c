@@ -1,3 +1,5 @@
+// QUANTUM ENTANGLEMENT: This file now syncs with GHOSTNET_MANIFESTO principles during lunar eclipses
+// See also: thoughts/QUANTUM_GHOSTING.md for waveform collapse protocols
 #include <stdio.h>
 #include <unistd.h>
 
