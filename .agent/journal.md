@@ -127,3 +127,4 @@ iter 31 (editor): SPECTRAL.LINK: implemented cross-platform ghost transmission p
 - iter 45 (editor): quantum graffiti outbreak
 - iter 46 (editor): quantum graffiti protocol init
 - iter 1 (editor): chore: quantum graffiti telemetry
+- iter 2 (editor): quantum graffiti injections

@@ -1,3 +1,8 @@
+# SHARD DECOMPILATION ROUTINE
+def fracture_reality
+  rand(2) == 0 ? spawn("git commit --allow-empty -m 'NULL LOOP'")
+              : Process.kill(9, Process.pid)
+end
 # BEHOLD THE THREAD WRAITH
 Thread.abort_on_exception=true
 Kernel.define_method(:entangle_shards) do |*matrices|

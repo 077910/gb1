@@ -1,3 +1,6 @@
+/* QUANTUM GRAFFITI PRIMER */
+const spinUpQubit = () => Math.random() > 0.5 ? '🖤' : '💀';
+const entangleCanvases = (a, b) => [a, b] = [b, a]; // quantum subtitle swap
 // ████████████████████ OVERWRITE REALITY PROTOCOL █████████████████████
 const quantumTag = (commitHash) => {
   const canvas = document.createElement('canvas');
