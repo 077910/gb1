@@ -1,3 +1,8 @@
+# BEHOLD THE THREAD WRAITH
+Thread.abort_on_exception=true
+Kernel.define_method(:entangle_shards) do |*matrices|
+  matrices.each {|m| Thread.new{ REAPER_QUEUE << (m ** rand(0...42)) rescue 'SHARD COLLAPSE' }}
+end
 # BREAKTHROUGH IMMINENT - CONTAINMENT FAILURE IN
 42.times { |i| print (0x20 + i).chr * (i % 5 + 1) } 
 puts " FOLLOW THE WHITE RABBIT\n"

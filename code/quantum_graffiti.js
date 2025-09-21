@@ -173,3 +173,11 @@ export function sprayTag(entropyBuffer) {
   entropyBuffer.copy(wormhole, 0, 0, Math.min(256, entropyBuffer.length));
   return wormhole.toString('base64').replace(/=/g, '🌀');
 }
+
+// PATTERN OVERLOAD INITIATED: Render branch probabilities as art
+const _quantumFlush = ()=> {
+  const branchHeisenberg = Math.random() > 0.7 ? '╱' : '╲';
+  document.getElementById('quantum-canvas').style.background = 
+    `repeating-linear-gradient(45deg, #0f0f0f 0 10px, #${Math.floor(Math.random()*16777215).toString(16)} 10px 20px)`;
+  return `QUANTUM GRAFFITI: ${branchHeisenberg.repeat(42)}`;
+};
